@@ -1004,7 +1004,7 @@ const CHALLENGES = [
    "balance",
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Vc_s27_ep14_12_11_0011.jpg/revision/latest?cb=20131212121113"
  },
  {
   "name": "A Numbers Game",
@@ -4258,7 +4258,7 @@ const CHALLENGES = [
    "blindfold",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Cant_find_my_way_home.jpg/revision/latest?cb=20230821003131"
  },
  {
   "name": "Blue Lagoon Bustle",
@@ -4359,7 +4359,7 @@ const CHALLENGES = [
    "throwing",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/ba/S46e03_blue_lagoon_bustle_setup.jpg/revision/latest?cb=20240315201514"
  },
  {
   "name": "Blue Plate Special",
@@ -4685,7 +4685,7 @@ const CHALLENGES = [
    "balance",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/Safe_image.jpg/revision/latest?cb=20130327144200"
  },
  {
   "name": "Boulder Smash",
@@ -8408,7 +8408,7 @@ const CHALLENGES = [
   "elements": [
    "throwing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/c/cf/Choose_your_weapon_michelle.jpg/revision/latest?cb=20140118181817"
  },
  {
   "name": "Clear the Deck",
@@ -10226,7 +10226,7 @@ const CHALLENGES = [
    "puzzle",
    "throwing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/S42_dizzy_miss_lizzy.jpg/revision/latest?cb=20220519130648"
  },
  {
   "name": "Do-It-Yourself Challenge",
@@ -10840,7 +10840,7 @@ const CHALLENGES = [
   "elements": [
    "paddling"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/b0/S11e02_dragged_through_mud.jpg/revision/latest?cb=20120530120200"
  },
  {
   "name": "Draggin' the Dragon",
@@ -11018,7 +11018,7 @@ const CHALLENGES = [
    "puzzle",
    "strength"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/11/S48e11_mary_driving_wheel.jpg/revision/latest?cb=20250508052417"
  },
  {
   "name": "Drop a Log",
@@ -11161,7 +11161,7 @@ const CHALLENGES = [
    "knots",
    "throwing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/108343_D16954b.jpg/revision/latest?cb=20170413150317"
  },
  {
   "name": "End of the Line",
@@ -11880,7 +11880,7 @@ const CHALLENGES = [
   "elements": [
    "throwing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S19e13.jpg/revision/latest?cb=20241211131800"
  },
  {
   "name": "Feel the Earn",
@@ -13638,7 +13638,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/S19e10_purple_team_get_hooked.jpg/revision/latest?cb=20230817204214"
  },
  {
   "name": "Get Your Goat",
@@ -16276,7 +16276,7 @@ const CHALLENGES = [
   "elements": [
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S48e12_niu_nai_invertigo.jpg/revision/latest?cb=20250515081754"
  },
  {
   "name": "It's a Long Way to the Top",
@@ -16815,7 +16815,7 @@ const CHALLENGES = [
    "running",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/Hai_drea_marooning.jpg/revision/latest?cb=20220310073352"
  },
  {
   "name": "Kamikaze",
@@ -17282,7 +17282,7 @@ const CHALLENGES = [
   "elements": [
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/7/75/S13e06_kicking_and_screaming.jpg/revision/latest?cb=20250417053836"
  },
  {
   "name": "Kitty Litter",
@@ -17451,7 +17451,7 @@ const CHALLENGES = [
   "elements": [
    "trivia"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/d/d1/Know_your_loved_one_jon_and_lill.png/revision/latest?cb=20140129221002"
  },
  {
   "name": "Know Your Ropes",
@@ -18487,7 +18487,7 @@ const CHALLENGES = [
    "obstacle",
    "strength"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/b2/Aus03e10_saanapu_log_handler.png/revision/latest?cb=20230406145145"
  },
  {
   "name": "Log Jam",
@@ -19524,7 +19524,7 @@ const CHALLENGES = [
    "puzzle",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/0/02/Zas08e14_kiran_might_as_well_jump.jpg/revision/latest?cb=20230602195748"
  },
  {
   "name": "Mind Field",
@@ -21135,7 +21135,7 @@ const CHALLENGES = [
    "endurance",
    "strength"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Aus08e07_brawn_on_the_pull.jpg/revision/latest?cb=20230401181644"
  },
  {
   "name": "Operation Balance Build",
@@ -21244,7 +21244,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/5/51/S33e13.jpg/revision/latest?cb=20241215181919"
  },
  {
   "name": "Out on a Limb (challenge)",
@@ -21374,7 +21374,7 @@ const CHALLENGES = [
    "obstacle",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/c/c0/Survivor_obstacle_course_cambodia.png/revision/latest?cb=20151217125308"
  },
  {
   "name": "Over-Extended",
@@ -24445,7 +24445,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/a/a2/S41e01_marooning.jpg/revision/latest?cb=20230131223334"
  },
  {
   "name": "Raft Challenge",
@@ -25423,7 +25423,7 @@ const CHALLENGES = [
    "obstacle",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Tossjds.png/revision/latest?cb=20141004002936"
  },
  {
   "name": "Rock Bottom",
@@ -26737,7 +26737,7 @@ const CHALLENGES = [
   "elements": [
    "obstacle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/0/0f/Survivor.Vanuatu.s09e10.Culture.Shock.and.Violent.Storms.DVDrip_109.jpg/revision/latest?cb=20140803193942"
  },
  {
   "name": "Scale Challenge",
@@ -27202,7 +27202,7 @@ const CHALLENGES = [
    "balance",
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/2/20/S42_bermuda_triangles.jpg/revision/latest?cb=20220426181022"
  },
  {
   "name": "Sea Salvage",
@@ -29493,7 +29493,7 @@ const CHALLENGES = [
    "obstacle",
    "paddling"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/0007-s29_press_images_ep14_0007.jpg/revision/latest?cb=20141215233302"
  },
  {
   "name": "Sprung a Leak",
@@ -29598,7 +29598,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/bb/Survivor_borneo_board.png/revision/latest?cb=20140303030438"
  },
  {
   "name": "Squatty Probst",
@@ -29968,7 +29968,7 @@ const CHALLENGES = [
   "elements": [
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/4/48/Kulakula_step_on_up.jpg/revision/latest?cb=20220518110357"
  },
  {
   "name": "Stomp-ede",
@@ -30937,7 +30937,7 @@ const CHALLENGES = [
    "obstacle",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/c/c7/S46e06_orange_super_ramp.jpg/revision/latest?cb=20240404175845"
  },
  {
   "name": "Supertramp",
@@ -31250,7 +31250,7 @@ const CHALLENGES = [
   "elements": [
    "trivia"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/89/Survivor_roots_micronesia_erik.jpg/revision/latest?cb=20220221163157"
  },
  {
   "name": "Survivor Pentathlon",
@@ -31620,7 +31620,7 @@ const CHALLENGES = [
   "elements": [
    "trivia"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/d/da/S01e11_richard_sean_survivor_quiz_show.jpg/revision/latest?cb=20230519043532"
  },
  {
   "name": "Swahili Scramble",
@@ -31963,7 +31963,7 @@ const CHALLENGES = [
   "elements": [
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/f/fb/S05e04_chuay_gahn_tan-dy_gram.jpg/revision/latest?cb=20140608124615"
  },
  {
   "name": "Temple Transfer",
@@ -33556,7 +33556,7 @@ const CHALLENGES = [
    "running",
    "strength"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/3/30/S11e7.jpg/revision/latest?cb=20120530121444"
  },
  {
   "name": "Torched",
@@ -36384,7 +36384,7 @@ const CHALLENGES = [
    "balance",
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/d/db/S24_ep9_press_images_00003.jpg/revision/latest?cb=20120410204038"
  },
  {
   "name": "Wicker Flicker",
@@ -37219,7 +37219,7 @@ const CHALLENGES = [
   "elements": [
    "balance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/9/92/S35e13_ben_you_shook_me.jpg/revision/latest?cb=20250509093517"
  },
  {
   "name": "Your Time Is Up",

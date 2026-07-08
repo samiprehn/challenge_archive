@@ -13,7 +13,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from scrape import strip_markup, element_tags, extract_section
+from scrape import strip_markup, element_tags, extract_section, norm_file
 
 API = "https://thechallenge.fandom.com/api.php"
 WIKI = "https://thechallenge.fandom.com/wiki/"
@@ -165,7 +165,7 @@ def episode_stills():
 
 def resolve_images(filenames):
     urls = {}
-    names = sorted({"File:" + f for f in filenames if f})
+    names = sorted({"File:" + norm_file(f) for f in filenames if f})
     for i in range(0, len(names), 50):
         data = api_get({"action": "query", "prop": "imageinfo", "iiprop": "url",
                         "titles": "|".join(names[i:i + 50])})
@@ -325,7 +325,7 @@ def main():
     urls = resolve_images([c["image"] for c in challenges])
     withimg = 0
     for c in challenges:
-        c["image"] = urls.get(c["image"], "")
+        c["image"] = urls.get(norm_file(c["image"]), "")
         withimg += bool(c["image"])
     print(f"{withimg}/{len(challenges)} entries with an image")
     print(f"{len(challenges)} The Challenge entries, "

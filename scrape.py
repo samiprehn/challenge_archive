@@ -251,9 +251,15 @@ def parse_airings(table_text, unknown_types):
     return airings
 
 
+def norm_file(f):
+    """MediaWiki title normalization: underscores to spaces, first letter uppercase."""
+    f = f.replace("_", " ").strip()
+    return f[:1].upper() + f[1:]
+
+
 def resolve_images(filenames):
     urls = {}
-    names = ["File:" + f for f in filenames]
+    names = ["File:" + norm_file(f) for f in filenames if f]
     for i in range(0, len(names), 50):
         data = api_get({
             "action": "query", "prop": "imageinfo", "iiprop": "url",
@@ -300,7 +306,7 @@ def main():
 
     urls = resolve_images(image_files)
     for c in challenges:
-        c["image"] = urls.get(c.pop("imageFile"), "")
+        c["image"] = urls.get(norm_file(c.pop("imageFile")), "")
 
     with open(OUT, "w") as f:
         f.write("const CHALLENGES = ")
