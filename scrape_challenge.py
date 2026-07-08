@@ -126,6 +126,57 @@ def get_wikitext(page):
     return data["parse"]["wikitext"]
 
 
+# seasons whose episodes have their own wiki pages (with stills)
+EPISODE_CATS = {
+    121: "Category:The Challenge: USA 1 Episodes",
+    122: "Category:The Challenge: USA 2 Episodes",
+    131: "Category:The Challenge: Australia Episodes",
+    133: "Category:The Challenge: UK Episodes",
+}
+
+
+def infobox_image(text):
+    m = re.search(r"\|\s*image\d?\s*=\s*([^|}\n]+)", text or "")
+    return m.group(1).strip() if m else ""
+
+
+def episode_stills():
+    """(season_idx, episode) -> image file, from episode page infoboxes."""
+    stills = {}
+    for idx, cat in EPISODE_CATS.items():
+        members = api_get({"action": "query", "list": "categorymembers",
+                           "cmtitle": cat, "cmnamespace": "0", "cmlimit": "500"})
+        titles = [m["title"] for m in members["query"]["categorymembers"]]
+        for i in range(0, len(titles), 50):
+            data = api_get({"action": "query", "prop": "revisions", "rvprop": "content",
+                            "rvslots": "main", "titles": "|".join(titles[i:i + 50])})
+            for page in data["query"]["pages"]:
+                revs = page.get("revisions")
+                if not revs:
+                    continue
+                text = revs[0]["slots"]["main"]["content"]
+                ep = re.search(r"\|\s*episode\s*=\s*(\d+)", text)
+                img = infobox_image(text)
+                if ep and img:
+                    stills[(idx, int(ep.group(1)))] = img
+            time.sleep(0.2)
+    return stills
+
+
+def resolve_images(filenames):
+    urls = {}
+    names = sorted({"File:" + f for f in filenames if f})
+    for i in range(0, len(names), 50):
+        data = api_get({"action": "query", "prop": "imageinfo", "iiprop": "url",
+                        "titles": "|".join(names[i:i + 50])})
+        for page in data["query"]["pages"]:
+            info = page.get("imageinfo")
+            if info:
+                urls[page["title"].replace("File:", "", 1)] = info[0]["url"]
+        time.sleep(0.2)
+    return urls
+
+
 def strip_cell_attrs(cell):
     return re.sub(r'^\s*(?:(?:rowspan|colspan|style|class|bgcolor|align|nowrap|width)\s*'
                   r'(?:=\s*(?:"[^"]*"|[^|\s]+))?\s*\|?\s*)+', "", cell)
@@ -232,11 +283,13 @@ def main():
             "show": "tc", "rulesPairs": False, "elements": [], "airings": [], "url": "",
         })
 
+    season_art = {}
     for idx in sorted(SEASONS):
         text = get_wikitext(SEASONS[idx])
         if text is None:
             print(f"  !! missing page: {SEASONS[idx]}")
             continue
+        season_art[idx] = infobox_image(text)
         dailies = parse_dailies(text, idx)
         print(f"  {short_label(idx)}: {len(dailies)} dailies")
         for d in dailies:
@@ -259,6 +312,22 @@ def main():
     challenges = list(entries.values())
     for c in challenges:
         c["elements"] = element_tags(c["description"])
+
+    # images: episode still of earliest airing if one exists, else that season's key art
+    stills = episode_stills()
+    print(f"{len(stills)} episode stills")
+    for c in challenges:
+        for a in sorted(c["airings"], key=lambda a: a["season"]):
+            f = stills.get((a["season"], a["episode"])) or season_art.get(a["season"])
+            if f:
+                c["image"] = f
+                break
+    urls = resolve_images([c["image"] for c in challenges])
+    withimg = 0
+    for c in challenges:
+        c["image"] = urls.get(c["image"], "")
+        withimg += bool(c["image"])
+    print(f"{withimg}/{len(challenges)} entries with an image")
     print(f"{len(challenges)} The Challenge entries, "
           f"{sum(len(c['airings']) for c in challenges)} airings")
 
