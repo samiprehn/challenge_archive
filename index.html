@@ -231,10 +231,10 @@ footer a:hover { text-decoration: underline; }
   </div>
   <input type="search" id="search" placeholder="Search challenges…">
   <select id="sort">
+    <option value="airings">Sort: most airings</option>
     <option value="name">Sort: A–Z</option>
     <option value="debut">Sort: debut season</option>
     <option value="latest">Sort: latest season</option>
-    <option value="airings">Sort: most airings</option>
   </select>
   <div class="count" id="count"></div>
   <div class="chips elements" id="elementChips"></div>
@@ -310,7 +310,7 @@ function tagsOf(c, airings) {
   return { formats, kinds };
 }
 
-const state = { show: "all", countries: new Set(), format: "all", kinds: new Set(), elements: new Set(), q: "", sort: "name" };
+const state = { show: "all", countries: new Set(), format: "all", kinds: new Set(), elements: new Set(), q: "", sort: "airings" };
 const $ = s => document.querySelector(s);
 const modal = $("#modal");
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
