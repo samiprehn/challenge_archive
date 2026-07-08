@@ -251,6 +251,16 @@ def parse_airings(table_text, unknown_types):
     return airings
 
 
+def clean_description(desc):
+    """Drop the word 'recurring'; drop the whole thing if it says nothing else."""
+    d = desc.strip()
+    if re.fullmatch(r"an? recurring (\"?survivor\"? )?challenge\.?", d, re.I):
+        return ""
+    d = re.sub(r"\b([Aa])n? recurring\s+(?=[aeiouAEIOU])",
+               lambda m: "an " if m.group(1) == "a" else "An ", d)
+    return re.sub(r"\b[Rr]ecurring\s+", "", d)
+
+
 def norm_file(f):
     """MediaWiki title normalization: underscores to spaces, first letter uppercase."""
     f = f.replace("_", " ").strip()
@@ -295,7 +305,7 @@ def main():
             image_files.append(image)
         challenges.append({
             "name": title,
-            "description": strip_markup(info.get("description", "")),
+            "description": clean_description(strip_markup(info.get("description", ""))),
             "rules": rules,
             "imageFile": image,
             "airings": airings,

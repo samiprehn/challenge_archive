@@ -13,7 +13,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from scrape import strip_markup, element_tags, extract_section, norm_file
+from scrape import strip_markup, element_tags, extract_section, norm_file, clean_description
 
 API = "https://thechallenge.fandom.com/api.php"
 WIKI = "https://thechallenge.fandom.com/wiki/"
@@ -263,7 +263,7 @@ def parse_eliminations():
         m = re.match(r"\*\s*'''(.+?)'''\s*:?\s*(.*)", line)
         if m and season_idx:
             name = strip_markup(m.group(1)).strip().rstrip(":")
-            desc = strip_markup(m.group(2))
+            desc = clean_description(strip_markup(m.group(2)))
             if not name or len(name) > 60:
                 continue
             fmt = "Pairs" if re.search(

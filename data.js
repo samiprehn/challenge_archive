@@ -1,7 +1,7 @@
 const CHALLENGES = [
  {
   "name": "5x5",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "The castaways will run out to a ladder to untie a series of bags. Inside each bag is a set of sandbags that they then will aim and throw at a series of five holes. The first castaway to get sandbags in each of their holes wins.",
   "airings": [
    {
@@ -42,7 +42,7 @@ const CHALLENGES = [
  },
  {
   "name": "A Bit Dinghy",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "One at a time, members of each tribe must swim out to a ramp, where any two members must individually dive to release two buoy puzzle pieces. Once they have their puzzle pieces, they must pull a pontoon to a platform, where they must use the two pieces they collected, and another two pieces on the platform, to build a buoy pyramid puzzle. The first tribe to solve their puzzle wins.",
   "airings": [
    {
@@ -81,7 +81,7 @@ const CHALLENGES = [
  },
  {
   "name": "A Bit Tipsy",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "The castaways must hold on to a rope attached to an unbalanced table to keep the table level. They must stack a wooden block on the table and hold on to the rope to keep the block upright. They must then retrieve one of nine wooden blocks from three stations while keeping all the blocks on the table upright. Once the block is retrieved, the castaway would have to stack the block on the table and retrieve the other blocks. Should any of the blocks fall, the castaway would have to return to the table and re-stack the blocks (or have to completely restart as done in season 32) before retrieving any more blocks. In Kaôh Rōng, season 34, season 40, season 42, , and the castaways had to stack the blocks on top of one another to spell out the word \"IMMUNITY\". This version was also used in season 38 and season 41, with the only difference being having to stand and balance their blocks on a rocking walkway and spelling out \"Final 3\". This concept was modified for tribal used in season 35 and season 36. Tribe members would stand on balance beams in a semi-circle around the platform in the middle, and each would hold on to a rope that connected to the platform. One by one, the castaways would place one of eight blocks on the platform and stack them to spell out \"Immunity\" in Heroes vs. Healers vs. Hustlers and \"Reward\" in Ghost Island. In season 37, the challenge was modified to include a water element. There was also a puzzle that had to be solved while five members of each tribe negotiated the tilt-table. In Blood vs. Water and San Juan del Sur, the first castaway to have all their blocks standing for a three count would win the challenge. Beginning with Kaôh Rōng, the rule was changed so that the first to stack all their blocks and return to their starting position would be the winner. In season 49, the castaways had to stack the blocks on a platform that would rotate as they moved back and forth.",
   "airings": [
    {
@@ -612,7 +612,7 @@ const CHALLENGES = [
  },
  {
   "name": "A Crate Idea",
-  "description": "A recurring physical and mental challenge",
+  "description": "A physical and mental challenge",
   "rules": "Two castaways from each tribe race out to a giant tribe-colored crate. Once they reach the crate, they must roll it back to their tribe's mat. Upon reaching the tribe mat, the next pair run out to get the next crate. Once all 6 crates have been collected, the contestants would stack the crates, solving a puzzle on the side of the crates (spelling out a key word or phrase). Once all the crates have been stacked correctly, the castaways would climb up the crates to a platform. The first tribe to get all tribe members on the platform wins.",
   "airings": [
    {
@@ -830,7 +830,7 @@ const CHALLENGES = [
  },
  {
   "name": "A Leg Up",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways must balance a ceramic vase on the end of a balance beam with one leg. When they can no longer take the pain or lose their balance, their vase will drop and shatter, eliminating them from the challenge. The last person with an intact vase would win. In season 45, a variant was introduced where the castaways balanced a ball instead of a vase on a circular platform.",
   "airings": [
    {
@@ -1008,7 +1008,7 @@ const CHALLENGES = [
  },
  {
   "name": "A Numbers Game",
-  "description": "A recurring agility challenge",
+  "description": "An agility challenge",
   "rules": "Castaways must race across a balance beam while untying four bags of numbered tiles. When they have all their bags, they must arrange the numbers in lines from 1 to 100. The first person to finish wins. In season 37, the challenge was modified for use as a tribal challenge to use a large table with heavy tiles. The tribes had to sort the numbers, 1 to 25, into their respective columns.",
   "airings": [
    {
@@ -1074,7 +1074,7 @@ const CHALLENGES = [
  },
  {
   "name": "Air Raid",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "One at a time, members of each tribe must race up a tower and through a series of obstacles. Once they have made it to the top of the tower, they will each take turns launching sandbags with a giant slingshot, attempting to hit targets out in a field. After a target is hit, tribes are required to switch out members, with each member being required to hit at least one target. The first tribe to hit all targets would win. In season 36, a water-based variation of the course appeared, requiring teams to race on a floating platform to shore in order to hit targets.",
   "airings": [
    {
@@ -1153,7 +1153,7 @@ const CHALLENGES = [
  },
  {
   "name": "Angry Chair",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "One person from each tribe or team will race through a series of obstacles to a chair. The rest of the tribe or team will then lift the chair, allowing that person to retrieve 10 numbered bags. Once they have collected the 10 bags, the next person will go, retrieving the next 10 bags, and so on. Once all 30 bags have been collected, the tribe or team must use the 30 letter tiles to solve a word puzzle. The first tribe or team to complete this wins.",
   "airings": [
    {
@@ -1197,7 +1197,7 @@ const CHALLENGES = [
  },
  {
   "name": "Arch Madness",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "Castaways will complete a series of tasks before using puzzle pieces with letters on them to make an arch. The first to correctly spell the word on both sides of the arch wins.",
   "airings": [
    {
@@ -1268,7 +1268,7 @@ const CHALLENGES = [
  },
  {
   "name": "Around the Bend",
-  "description": "A recurring agility challenge",
+  "description": "An agility challenge",
   "rules": "The castaways will be attached to a rope that is tangled around several fences and poles that they must jump over and climb through in order to untangle it and make their way to the finish. In season 11, season 18, and season 25, the challenge is divided into stages, with a given number of castaways entering the final round, a three-level obstacle course. In season 38 and season 40, this challenge is used as the first part of Don't Call It a Comeback and culminates in a table maze portion similar to Paddle Out.",
   "airings": [
    {
@@ -1792,7 +1792,7 @@ const CHALLENGES = [
  },
  {
   "name": "Austin's Elemental Obstacle Course",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "Castaways must race through a series of obstacles based on the four elements while tethered together to complete a final objective. The first tribe or team to complete that objective wins.",
   "airings": [
    {
@@ -1854,7 +1854,7 @@ const CHALLENGES = [
  },
  {
   "name": "Baba Buoys",
-  "description": "A recurring water and accuracy challenge",
+  "description": "A water and accuracy challenge",
   "rules": "Starting from a platform in the ocean, one member of each tribe will swim to a buoy marker, dive down and untie knots, releasing more buoys. Tribe members would then corral the buoys to shore and place them on a rack before shooting the buoys into a basket. The first tribe (or tribes) to shoot ten buoys into the basket wins.",
   "airings": [
    {
@@ -1894,7 +1894,7 @@ const CHALLENGES = [
  },
  {
   "name": "Back in Slack",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Tribes must make their way across an obstacle course, either on land or in the water. Once they have reached the other end of the course, one member must attempt to land a series of items on a target. The first tribe to land the specified number of items on their target wins.",
   "airings": [
    {
@@ -1985,7 +1985,7 @@ const CHALLENGES = [
  },
  {
   "name": "Bags Challenge",
-  "description": "A recurring strength and balance challenge",
+  "description": "A strength and balance challenge",
   "rules": "Contestants must complete an obstacle course with a loaded bag (from 3 to 5 kilos for the women and 6 to 10 kilos for the men). The contestant who comes last in each round must handicap one or more contestants of their choice by giving all of their bags to the same person, or dividing them among several recipients. This proceeds until only three or four contestants are left in the race. The contestant who comes out on top in the final round wins the race. Since , the contestant eliminated during a round is obliged to give his entire load to the a single adventurer and is no longer allowed to divide his bags as he wishes. In and , contestants must first collect coconuts and place them in the opponent's net to handicap him for the second part. Then they have to complete an obstacle course with the coconut-laden nets.",
   "airings": [
    {
@@ -2241,7 +2241,7 @@ const CHALLENGES = [
  },
  {
   "name": "Balance on Water",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "The challenge consists of balancing on different beams. At each stage, the last person to arrive is eliminated from the event until there are two left. The last two compete in the final by repeating the course from the beginning. The first to finish wins the event.",
   "airings": [
    {
@@ -2487,7 +2487,7 @@ const CHALLENGES = [
  },
  {
   "name": "Balancing Point",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "With one hand, castaways would balance a sword on a shield. With their other hand, they would stack unevenly sided coins on the handle of the sword. If at any point a contestant's stack of coins falls, they would be eliminated from the challenge. The last contestant remaining would win.",
   "airings": [
    {
@@ -2527,7 +2527,7 @@ const CHALLENGES = [
  },
  {
   "name": "Ballin' A Jack",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Each castaway must stand on a small block with only enough space for one foot while stabilizing a ball against an overhanging piece of wood. If at any point they lose their concentration or their balance, the ball will drop and they are out of the challenge. The last person left standing wins.",
   "airings": [
    {
@@ -2595,7 +2595,7 @@ const CHALLENGES = [
  },
  {
   "name": "Bamboo Challenge",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Candidates must hold a piece of bamboo vertically on their head.",
   "airings": [
    {
@@ -2763,7 +2763,7 @@ const CHALLENGES = [
  },
  {
   "name": "Barrel Bridge",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Using four barrels, two wooden planks, and 10 feet (3.0 m) of rope, teams would attempt to make their way from a starting line (at one end of the beach) to the finish line (at the other end of the beach) without touching the ground. If any team member steps onto the ground, the entire team would have to restart the challenge from the starting line. The first team to have all its members cross the finish line would win.",
   "airings": [
    {
@@ -2893,7 +2893,7 @@ const CHALLENGES = [
  },
  {
   "name": "Barrel Hold",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Each tribe member will hold onto a rope that is connected to a heavy barrel. If at any point a contestant can no longer hold on, they may pass their rope to a tribemate, but cannot rejoin once out. The tribe that goes longer without dropping any of their barrels wins.",
   "airings": [
    {
@@ -2957,7 +2957,7 @@ const CHALLENGES = [
  },
  {
   "name": "Barrel of Monkeys",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "One or two castaways are placed inside a barrel and are pushed throughout a course by their tribe mates, collecting items along the way. The first tribe to finish the course wins.",
   "airings": [
    {
@@ -3010,7 +3010,7 @@ const CHALLENGES = [
  },
  {
   "name": "Barreling Along",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "",
   "airings": [
    {
@@ -3225,7 +3225,7 @@ const CHALLENGES = [
  },
  {
   "name": "Batman Wall",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each player will climb a wall using a rope to collect bags of puzzle pieces. Once a player collects all five bags, they must solve a matching puzzle to find three numbers for a lockbox combination. The first player to solve their lockbox combination at the top of the wall and raise their flag wins.",
   "airings": [
    {
@@ -3256,7 +3256,7 @@ const CHALLENGES = [
  },
  {
   "name": "Beam Me Up",
-  "description": "A recurring team balance challenge",
+  "description": "A team balance challenge",
   "rules": "Members of each tribe must balance on a seesaw to retrieve items suspended in the air. They will then use these items to solve a puzzle. The first tribe to finish wins.",
   "airings": [
    {
@@ -3306,7 +3306,7 @@ const CHALLENGES = [
  },
  {
   "name": "Better Homes and Island Living",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Prior to the challenge, each tribe receives a box containing supplies from Home Depot. Using the supplies provided, each tribe has 24 hours to build a home or a bathroom at their camp. Once the 24 hours are up, a judge will come to each camp and rate the homes or bathrooms on size, strength, and creativity. The tribe with the highest score from the judge would win.",
   "airings": [
    {
@@ -3347,7 +3347,7 @@ const CHALLENGES = [
  },
  {
   "name": "Beyond the Wheel",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Three tribe members sit in a boat, which four other members are tethered to. The swimmers must get the boat to a tower, where the three passengers will collect three sets of keys. The swimmers must then get the boat to a platform, where they must use the keys to release puzzle pieces, which they must then use to solve a puzzle. The first tribe to solve their puzzle wins. In season 42, the challenge was modified to be played by three tribes, with two tribe members acting as passengers and two acting as swimmers. The first two tribes to finish would win.",
   "airings": [
    {
@@ -3421,7 +3421,7 @@ const CHALLENGES = [
  },
  {
   "name": "Blade Runner",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "One at a time, players on a tribe will take a sword and chop through wood to release a bundle of puzzle pieces. They must then chop the rope holding up the bundle before running back to the start. Once all four bundles have been collected, the last two players of each tribe must take the bundles to a puzzle station to solve a rotating coin puzzle. The first tribe to finish their puzzle wins.",
   "airings": [
    {
@@ -3466,7 +3466,7 @@ const CHALLENGES = [
  },
  {
   "name": "Blind Leading the Blind",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "One castaway from each tribe would work as a caller, directing their blindfolded tribemates in collecting items spread out in a field and returning them to their tribe's designated area. Once all of the items have been gathered, a second portion of the challenge (typically a puzzle) would occur. The first tribe to complete this portion of the challenge would win.",
   "airings": [
    {
@@ -4262,7 +4262,7 @@ const CHALLENGES = [
  },
  {
   "name": "Blue Lagoon Bustle",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Tribes must race out into the water and swim through a series of obstacles (a net crawl, a barrel roll, and crate staircase) to retrieve an item, then paddle back to shore. A select number of players from each tribe must then finish a final task on shore. The first tribe to complete the final task wins. In season 34 and season 40, the order of tasks in the water was reversed, instead having to first paddle out to retrieve the item, and go through the obstacles to get back to shore. In season 46, the paddling component was removed entirely. In season 27 and Game Changers, the final task was for three selected tribe members to complete a puzzle in the form of a captain's wheel. In Winners at War, the final task was for two tribe members to throw rings at a series of targets. In Survivor 46, the tribes had to land one sandbag on each of five ascending targets.",
   "airings": [
    {
@@ -4363,7 +4363,7 @@ const CHALLENGES = [
  },
  {
   "name": "Blue Plate Special",
-  "description": "A recurring skill and accuracy challenge",
+  "description": "A skill and accuracy challenge",
   "rules": "Each person has three plates with his/her name on them hanging from a tree. Using a slingshot, each castaway must try to break everyone's plates before his or hers are entirely broken. The last person with a plate still hanging at the end wins. In season 9, the challenge was modified for tribal use. Taking turns, each tribe member will take a shot at a ceramic tile grid. On the ground lies twenty wooden squares on a 4-by-5 gameboard, each of which will be turned over when its corresponding ceramic tile is broken. Once all four squares in a column are turned over, the tribe member assigned that column will move to a finish mat and exit the challenge. The first tribe to break all twenty tiles wins.",
   "airings": [
    {
@@ -4480,7 +4480,7 @@ const CHALLENGES = [
  },
  {
   "name": "Boats, Brains & Brawn",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Tribes would paddle a boat out into the water and around a flag before collecting a series of items, either crates or oars, in a zigzag path going back to shore. Once all the items are collected, they would be used to solve a puzzle. The first tribe to finish the puzzle wins.",
   "airings": [
    {
@@ -4628,7 +4628,7 @@ const CHALLENGES = [
  },
  {
   "name": "Bob-Bob Buoy",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways must each grab onto a navigational buoy and hang on while the buoy sways from side to side. The last player left hanging on would win. In Australian Survivor, the castaways must keep both feet on their pedestal and both hands on an idol at all times, failing which they will be eliminated from the challenge.",
   "airings": [
    {
@@ -4658,7 +4658,7 @@ const CHALLENGES = [
  },
  {
   "name": "Bone to Pick",
-  "description": "A recurring balancing and dexterity challenge",
+  "description": "A balancing and dexterity challenge",
   "rules": "The castaways must have one hand tied behind their back, and have to start off by making a hook with 3 pieces in order to hook a bag of puzzle pieces. They will then take the pieces and begin working on the lower portion of a fish skeleton. They must repeat this process for the middle and upper portions. The first castaway to finish their fish skeleton puzzle wins.",
   "airings": [
    {
@@ -4809,7 +4809,7 @@ const CHALLENGES = [
  },
  {
   "name": "Bow Diddley",
-  "description": "A recurring endurance challenge.",
+  "description": "An endurance challenge.",
   "rules": "Castaways must stand on an angled balance beam while balancing a ball. At predetermined intervals, they would move further down to a narrower part of the beam, making it harder to keep steady. If they drop their ball or fall off their beam, they would be out of the challenge. The last person standing wins. In season 33 only, castaways had to move one foot down to the next, narrower section of the beam while their other foot stayed on the previous section. Every other time this challenge was used, castaways had to move both feet down to the next section. The Bow Diddley version of this challenge has castaways balancing their ball on a rounded bow. The Hard to Handle variation instead has castaways balancing their ball on a stick with one hand, with the handle divided into three sections that they would have to move down to at each level of the challenge.",
   "airings": [
    {
@@ -4957,7 +4957,7 @@ const CHALLENGES = [
  },
  {
   "name": "Box Your Mind",
-  "description": "A recurring memory challenge",
+  "description": "A memory challenge",
   "rules": "The castaways are given a series of symbols or items that they must memorize and then replicate at their station. The first person or team to correctly reproduce all their symbols wins (or scores a point for their tribe in season 24 and in season 30).",
   "airings": [
    {
@@ -5193,7 +5193,7 @@ const CHALLENGES = [
  },
  {
   "name": "Braille Maze",
-  "description": "A recurring maze challenge",
+  "description": "A maze challenge",
   "rules": "Each contestant is blindfolded, and must make their way through a maze whilst accomplishing given tasks (typically collecting medallions). Throughout the maze, raised signposts with Braille insignias help to point the castaways in the direction of items or the end of the maze. The first contestant to accomplish all the required tasks and reach the end of the maze wins the challenge.",
   "airings": [
    {
@@ -5252,7 +5252,7 @@ const CHALLENGES = [
  },
  {
   "name": "Broken China",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "Castaways would hold a handle connected to a base and would stack dishes on one end of the beam. If any dishes would fall off that person would be eliminated. The last castaway left standing would win immunity.",
   "airings": [
    {
@@ -5309,7 +5309,7 @@ const CHALLENGES = [
  },
  {
   "name": "Buggin' Out",
-  "description": "A recurring food-eating challenge",
+  "description": "A food-eating challenge",
   "rules": "In this challenge, castaways must eat a variety of native, usually gross foods. This challenge has appeared multiple times throughout the Survivor series. In season 7 and season 19, instead of native delicacies, various ingredients were blended to create smoothies to be consumed. As a tribal challenge, whoever finishes the dish first wins a point for their respective tribe. When this challenge is used as an individual challenge, the last person to finish each dish is out, while the last player remaining wins.",
   "airings": [
    {
@@ -5858,7 +5858,7 @@ const CHALLENGES = [
  },
  {
   "name": "Build It Up, Break It Down",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "In season 10, the tribes had to tie up a footlocker and place it in a structure that they would then build a barricade around using sticks. After 20 minutes, the tribes would switch and attempt to break into the footlocker containing their flag. The first tribe to raise their flag wins. In season 16, the tribes would race out into the ocean to collect the sticks and place them in a tunnel which the opposing tribe would then have to navigate through to get to the end. The first tribe to get all their members through to the other side of the tunnel wins.",
   "airings": [
    {
@@ -5916,7 +5916,7 @@ const CHALLENGES = [
  },
  {
   "name": "Buoy Oh Buoy",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Each tribe will divide up into three pairs. One pair at a time will go out into the water, dive down and untie knots from a floating gate. Inside each gate is a fish trap with puzzle pieces. Once the tribe gathers their fish trap, they must take the puzzle pieces inside and use them to solve a vertical puzzle. The first tribe to solve their puzzle will win immunity.",
   "airings": [
    {
@@ -5959,7 +5959,7 @@ const CHALLENGES = [
  },
  {
   "name": "Buried Alive",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Tribe members will be locked in cages. The rest of the tribe will need to maneuver the cages through an obstacle course. Once the caged members are across the course and freed, the tribe will complete a task to finish the challenge.",
   "airings": [
    {
@@ -6004,7 +6004,7 @@ const CHALLENGES = [
  },
  {
   "name": "Butch Cassidy",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "Each tribe starts on a raised platform. One by one each tribe member must jump off the platform and re-assemble at a certain point. Once all the tribe members have reached the meeting point they must race to a final point. The first tribe to reach the final point wins.",
   "airings": [
    {
@@ -6080,7 +6080,7 @@ const CHALLENGES = [
  },
  {
   "name": "By Any Means Necessary",
-  "description": "A recurring physical challenge.",
+  "description": "A physical challenge.",
   "rules": "In season 10, season 26, season 33, season 36, and season 40, members of each tribe would race out in the water to retrieve a ring. The tribe members would then battle against each other to gain possession of the ring and bring it to their tribe's finishing station. The first tribe to score a given number of points wins. In season 12 and season 20, members for each tribe will race out to a marked location and dig up a bag. The castaways then compete to return the bag to their tribe's mat. The first person to touch the tribe mat, with a hand on the bag, scores a point for their team. The first tribe to win a given number of rounds wins the challenge. In season 16, the tribes start at opposite ends of the playing field with three canvas bags. The tribes have to battle their way to their end zone. The tribe that has their three bags and two of the other tribe's bags in their end zone at the same time wins. Castaways are allowed to use any means to attempt to stop the opposing tribe from scoring a point other than punching, choking, or otherwise intentionally physically hurting each other. From the challenge's debut until Caramoan, men and women were allowed to compete against each other. Beginning with Millennials vs. Gen X, rounds are now restricted to all-male or all-female matchups.",
   "airings": [
    {
@@ -6469,7 +6469,7 @@ const CHALLENGES = [
  },
  {
   "name": "By the Numbers",
-  "description": "A recurring team balance challenge",
+  "description": "A team balance challenge",
   "rules": "The members of each tribe line up on a very narrow balance beam. One tribe member at a time, they must move across the beam and around the other tribe members. The person crossing can only touch one member at a time. If two people touch at once or a member falls into the water, they must start all over. Once a member reaches the platform, the next person may proceed. The tribe who gets all their members across first wins.",
   "airings": [
    {
@@ -6670,7 +6670,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cage Against the Machine",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Each tribe will be trapped within a cage, which they will have to physically carry to a series of stations, where they will collect a number of items. Once the tribe has collected all their items, they will complete a final task.",
   "airings": [
    {
@@ -6776,7 +6776,7 @@ const CHALLENGES = [
  },
  {
   "name": "Can't Buoy Me Love",
-  "description": "A recurring balance and dexterity challenge",
+  "description": "A balance and dexterity challenge",
   "rules": "The castaways must balance on a small perch while holding a buoy with two handles. If they step off of their perch or drop their buoy, they are eliminated from the challenge. The last castaway holding their buoy while still on the perch wins.",
   "airings": [
    {
@@ -6815,7 +6815,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cannon Carry",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Each tribe will transport a makeshift cannon across a series of obstacles in the jungle. The first tribe to carry their cannon across the finish line wins.",
   "airings": [
    {
@@ -6860,7 +6860,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cannon Ski-Ball",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "Standing at the top of each tower, two members of each tribe will roll cannonballs down a long steep chute. Meanwhile, four other members will use ropes to move and aim the chute such that the cannonball will break a tile. The first tribe to break five tiles wins.",
   "airings": [
    {
@@ -6903,7 +6903,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cannonball Run",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "Castaways must race to obtain pieces of a puzzle that they must use to build a table maze, by either crossing a balance beam or traversing a rope bridge. They must then maneuver a ball through the maze, avoiding trap holes along the way. The first person to solve their puzzle and maneuver their ball through to the finish wins.",
   "airings": [
    {
@@ -6945,7 +6945,7 @@ const CHALLENGES = [
  },
  {
   "name": "Carry On",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each tribe will have one member attached to a heavy bag of coconuts. The rest of their tribe will help their tethered tribemate navigate through a series of obstacles by carrying their bag of coconuts. On the way to the finish, that tribemate must retrieve a set of rings on a balance beam. Once all four rings are collected, one other castaway will throw the rings and land them on a post.",
   "airings": [
    {
@@ -7131,7 +7131,7 @@ const CHALLENGES = [
  },
  {
   "name": "Caught in the Web",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "On a web of rope hang a number of bags or baskets. One at a time, the castaways must race up their team's ramp, climb the net to retrieve one bag or basket, and then race back to the finish line. The first tribe to retrieve all their bags or baskets and cross the finish line wins.",
   "airings": [
    {
@@ -7221,7 +7221,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cell Block Sea",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Castaways must race out into the water and swim over to their respective tribe's bamboo cage. Once the entire tribe has arrived, each person must climb up and over the cage wall and jump into the water. They must then retrieve a large item and bring it back to shore, where they will complete a final task. The first tribe(s) to finish this final task would win.",
   "airings": [
    {
@@ -7546,7 +7546,7 @@ const CHALLENGES = [
  },
  {
   "name": "Challenge Pitch",
-  "description": "A recurring accuracy and puzzle challenge",
+  "description": "An accuracy and puzzle challenge",
   "rules": "The castaways would use sand bags to knock down a wall. Once the wall has been decimated, each tribe must rebuild their wall. The first team to finish rebuilding wins.",
   "airings": [
    {
@@ -7740,7 +7740,7 @@ const CHALLENGES = [
  },
  {
   "name": "Chariots of Mire",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Six members of each tribe will be strapped to a chariot and will have to carry three other tribe members through a series of obstacles to retrieve a hanging bag of puzzle pieces. After getting through the obstacles, the three members on the chariot must solve a puzzle, which will help them solve a turnstile puzzle to find a knife. The first tribe to cut a rope to release a flag with their knife will win immunity.",
   "airings": [
    {
@@ -7838,7 +7838,7 @@ const CHALLENGES = [
  },
  {
   "name": "Chief's Choice",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "This challenge is used in conjunction with the Tribe Leader twist. The Tribe Leaders must pick members of their tribe whom they feel best match given descriptions for different legs of the challenge. The first tribe to solve their puzzle wins. In season 36, an additional twist gave the Tribe Leaders a limited time to decide whether to forfeit the challenge during the puzzle-solving portion. If so, they would get to keep their fishing kit, but the opposing tribe would then get 20 eggs and flint in addition to the reward.",
   "airings": [
    {
@@ -7887,7 +7887,7 @@ const CHALLENGES = [
  },
  {
   "name": "Chimney Sweep",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways would brace themselves with their arms between two walls while standing barefoot on two foot pegs. Every 15 minutes, the castaways would move down to smaller foot pegs. When the castaways reached the third set of foot pegs, they would try to remain on them as long as they could. The last castaway to remain on their pegs would win.",
   "airings": [
    {
@@ -8186,7 +8186,7 @@ const CHALLENGES = [
  },
  {
   "name": "Chinese Zodiac Symbols",
-  "description": "A recurring memory challenge",
+  "description": "A memory challenge",
   "rules": "Played in a series of rounds, the host will show the castaways a list of symbols or colors. When the host has finished, the castaways must show the same symbols/colors that were presented to them in the order that was previously shown. Showing the wrong symbol would result in the castaway being eliminated from the challenge. The last contestant remaining would win.",
   "airings": [
    {
@@ -8326,7 +8326,7 @@ const CHALLENGES = [
  },
  {
   "name": "Choose Your Weapon",
-  "description": "A recurring skill/accuracy challenge.",
+  "description": "A skill/accuracy challenge.",
   "rules": "The challenge is played in rounds, with the winners of each round moving on to the next. Each round, every contestant will attempt to hit a target using some form of local tribal weapon. The closest contestants to the target advance to the next stage of the challenge, where the process is repeated until one contestant is left standing. In the tribal variation of the challenge, the scoring mechanism is modified. In season 1, the tribe to win 2 out of 3 rounds won the challenge. In season 8, the first two rounds were used to give an advantage in the final rounds, with the tribe closest to the center winning two arrows to be used in the last round, and the losing tribe receiving one. The closest to the target in the final round won the challenge. In season 14, each round would give away a different number of points. The first round would give one point, the second would give two, while the final would give three. The tribe would the most number of points at the end of the challenge wins.",
   "airings": [
    {
@@ -8412,7 +8412,7 @@ const CHALLENGES = [
  },
  {
   "name": "Clear the Deck",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Three players at a time (all of the same sex) start on opposite ends of a pontoon and will attempt to force all participating members of the other tribe into the water to score a point. The first tribe to score three points wins.",
   "airings": [
    {
@@ -8456,7 +8456,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cling Ons",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways must keep upright on a vertical board while balancing on pegs. Periodically, they must find a numbered peg to remove from the board, making it harder to keep their balance. The last person or team still on the board wins.",
   "airings": [
    {
@@ -8567,7 +8567,7 @@ const CHALLENGES = [
  },
  {
   "name": "Club Challenge",
-  "description": "A recurring precision challenge",
+  "description": "A precision challenge",
   "rules": "Contestants must break clay targets from a distance using clubs.",
   "airings": [
    {
@@ -8714,7 +8714,7 @@ const CHALLENGES = [
  },
  {
   "name": "Coco Connection",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Members of each tribe will take turns firing coconuts from a slingshot to break a wooden board on a much larger 5x5 grid. The first tribe to break a line of boards so that an entire row, column, or diagonal has been broken will win reward.",
   "airings": [
    {
@@ -8790,7 +8790,7 @@ const CHALLENGES = [
  },
  {
   "name": "Coconut Juice",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Survivors must race to crack open coconuts and obtain the juice inside of them. Once they have some juice, they must maneuver through a series of obstacles and place the remaining juice into a tube. The first person/tribe to fill up their tube wins.",
   "airings": [
    {
@@ -8892,7 +8892,7 @@ const CHALLENGES = [
  },
  {
   "name": "Coconut Throwing Challenge",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "Contestants have to put coconuts in their nets. The first three coconuts are on the beam, then contestants have to look for the coconuts one by one in a reserve behind the pontoon. The first person to land a set number of coconuts (usually three or five) wins.",
   "airings": [
    {
@@ -8951,7 +8951,7 @@ const CHALLENGES = [
  },
  {
   "name": "Crate Escape",
-  "description": "A recurring physical and mental challenge",
+  "description": "A physical and mental challenge",
   "rules": "Tribes must race through a series of obstacles before solving a puzzle. The first tribe to solve their puzzle and get their large crate on their finish platform wins. In season 44, the puzzle was changed to a simple slide puzzle of the Survivor 44 logo.",
   "airings": [
    {
@@ -9047,7 +9047,7 @@ const CHALLENGES = [
  },
  {
   "name": "Crate Wide Open",
-  "description": "A recurring race challenge",
+  "description": "A race challenge",
   "rules": "Contestants must retrieve heavy crates by either completing an obstacle course or paddling out to retrieve them from out at sea. After collecting all their crates, the tribe will arrange them to form an elevated platform, which one tribe member will climb to complete a final task. The first tribe to finish the task wins.",
   "airings": [
    {
@@ -9146,7 +9146,7 @@ const CHALLENGES = [
  },
  {
   "name": "Crocodile Rock",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways must push upwards on a bar, with which they must try to keep a ball wedged between a set of jaws. If they release the bar, the lower jaw will fall, causing their ball to fall out. Once their ball falls, they are out. The last person remaining wins. In Australian Survivor and Koh-Lanta, a variation of the challenge was used such that the castaways will hold onto a handle with a single hand. Additionally, the castaways may compete in the water instead of on land as in the original American version of the challenge.",
   "airings": [
    {
@@ -9292,7 +9292,7 @@ const CHALLENGES = [
  },
  {
   "name": "Crosswalk",
-  "description": "A recurring teamwork challenge.",
+  "description": "A teamwork challenge.",
   "rules": "Players are harnessed into a six-point sliding hub and must maneuver themselves along a marked course to the finish line. In season 16, tribes would also have to collect puzzle pieces to decode a phrase to complete the challenge. The first tribe to finish (either reaching the finish line or solving the puzzle) wins.",
   "airings": [
    {
@@ -9359,7 +9359,7 @@ const CHALLENGES = [
  },
  {
   "name": "Cube Crisis",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "The castaways would race to retrieve puzzle pieces and then assemble them into a cube. The first castaway to assemble the cube would win. In season 36, the challenge was modified to be a tribal challenge. The tribes had to complete an obstacle course before retrieving massive puzzle pieces, which would be lugged with a sled to the puzzle station before the cube could be assembled.",
   "airings": [
    {
@@ -9443,7 +9443,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dear Liza",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Each tribe will race to fill a large bucket with several holes on the side with water. They will then transport the bucket through a series of obstacles and dispose of the water into a large troth. The first tribe(s) to fill their troth and raise their tribe flag win the challenge. In season 37 and season 40, a large saucer was used instead of a bucket with holes. After filling a well, puzzle pieces would drop, which tribes must use to solve a puzzle on their saucer.",
   "airings": [
    {
@@ -9590,7 +9590,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dive Masters",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Each tribe must retrieve items attached to an underwater rope, with each progressive item being deeper than the one before it. The first tribe to retrieve all their items and finish a final task wins the challenge.",
   "airings": [
    {
@@ -10032,7 +10032,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dizziness as Usual",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Each tribe will have one member sitting on a spinning platform. Another member will run out to the platform, grab a rope, and pull the rope back to the start, which will cause the platform to spin. Once the puller has made it back to the start, the castaway on the platform will then run through a series of obstacles to try and get back to the beginning. The first castaway to make it back to the beginning of the course will score a point for their tribe. The first tribe to three points will win reward.",
   "airings": [
    {
@@ -10101,7 +10101,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dizzy Gillespie",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Castaways must unscrew a rod in order to release objects (ladder golf rungs in season 26 and puzzle pieces in later seasons) which they will use for a final task. After collecting the items, the dizzy castaways will cross a balance obstacle on their way to the final station. The first person or individual to complete the final task wins.",
   "airings": [
    {
@@ -10170,7 +10170,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dizzy Miss Lizzy",
-  "description": "A recurring balance and puzzle challenge",
+  "description": "A balance and puzzle challenge",
   "rules": "Castaways must spin to unravel a coil of rope, then make their way across a series of obstacles to collect one puzzle piece. They must then use the puzzle piece to solve a word puzzle. The first person to solve their puzzle wins. In season 42, the word puzzle was changed to the block puzzle previously seen in Vertigo. Castaways retrieved a key from the balance beam instead of a puzzle piece. In season 43, the puzzle element was replaced with an accuracy element where castaways would have to throw and land a sandbag onto a circular platform that is located on top of a wood stud. In season 44, rather than unraveling a coil of rope, the castaways spun on a board to reel in a buoy. Also, the final task of the challenge was changed to the ball toss from Matt Finish.",
   "airings": [
    {
@@ -10371,7 +10371,7 @@ const CHALLENGES = [
  },
  {
   "name": "Domino Effect",
-  "description": "A recurring challenge involving dominoes",
+  "description": "A challenge involving dominoes",
   "rules": "Castaways must stack all of their blocks like a line of domino tiles on an angular beam while avoiding tripwires that would topple the blocks that were already stacked. Once all of the blocks have been properly stacked in such a way that they were evenly spaced to topple like dominoes that would reach the end of the beam, the castaway would start a chain reaction which would trigger a mechanism that will release a ball rolling to a bowl, releasing a flag/breaking a tile. The first castaway to raise their flag/break their tile would win. In season 32, season 34, and season 40, the challenge was slightly modified so that the beam was now straight, and with the obstacle below the beam being a wooden frame that, when shaken, would cause the blocks to fall. Contestants were only allowed to carry one block at a time, unlike in previous iterations where they could carry as many as desired. The first castaway to topple their blocks like dominoes to the end and ring a gong would win.",
   "airings": [
    {
@@ -10596,7 +10596,7 @@ const CHALLENGES = [
  },
  {
   "name": "Don't Let Your Balls Drop",
-  "description": "A recurring speed and puzzle challenge",
+  "description": "A speed and puzzle challenge",
   "rules": "The original version featured the castaways competing in tribes, sending up four members at a time. Two members would be responsible for rolling the ball up a ramp, while the other two members would be responsible for trying to catch it as it comes down the plinko board. If they fail to catch the ball, the other tribe scores a point. The first tribe to reach three points wins. In the later version, castaways will have to roll a ball up a ramp and into a plinko board. While the ball is rolling down the plinko board, they must solve a puzzle, while keeping an eye on the ball. When the ball is close to the end of the plinko board, the castaways must grab the ball and roll it back up to the top. If a castaway misses catching the ball, they must wait for the ball to roll down to the end of a chute before they can roll the ball back up the ramp and return to solving their puzzle. The first castaway to complete the puzzle wins.",
   "airings": [
    {
@@ -10678,7 +10678,7 @@ const CHALLENGES = [
  },
  {
   "name": "Down the Line",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each tribe must work together to unbraid ropes connected to boxes to release a key. They must then unlock one of the boxes and use it to run through a course. At the end of the course, they must release bags of balls connected to rings from a tall pole and bring them under a net, through a mud pit, and to a final station. There, one tribe member must roll the balls down a beam to land them in a receptacle. The first tribe to finish wins.",
   "airings": [
    {
@@ -10733,7 +10733,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dragged Through Mud",
-  "description": "A recurring strength challenge",
+  "description": "A strength challenge",
   "rules": "Each tribe will send up a team of tribe members who will pull on a rope, while the person at each end of the rope attempts to grab a tribe flag. The first team to snag their flag scores a point for their tribe. In season 11, the challenge was played in mud, and opposing tribe members were allowed to make physical contact with their rivals to impede their progress. In , the challenge was modified for use as a water challenge, with the opposing teams sitting in boats tethered to each other as they attempt to out-paddle their opponents to grab a tribe flag.",
   "airings": [
    {
@@ -10844,7 +10844,7 @@ const CHALLENGES = [
  },
  {
   "name": "Draggin' the Dragon",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Tribes must push a cart through an obstacle course. Throughout the course, there are three towers from which tribes must retrieve a key to unlock a chest. Once they have collected all three chests, they must then take the cart apart, slide it through a barricade, put it back together, and make their way to the end. Two tribe members would then use the pieces inside the chest to assemble a giant dragon puzzle. The first tribe to solve their puzzle wins. In season 31 only, the puzzle solvers were allowed to switch out with other members of their tribe. In season 42, the challenge was modified as a water challenge. Each tribe had to row a boat to three stations, collecting a heavy crate containing puzzle pieces at each one before rowing to shore. Then, they would have to transport the boat and crates over a track and under a net. Then, one person had to dig up a bag of coconuts containing one key attached to a buoy before unlocking the crates and starting on their puzzle.",
   "airings": [
    {
@@ -10951,7 +10951,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dragging the River",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "The tribes would race across a series of obstacles on both land and sea while transporting an item before getting to a slingshot at the end of the course. Using the slingshot and the provided ammunition, the tribes would attempt to knock down two targets. The first tribe to knock down both of their targets wins.",
   "airings": [
    {
@@ -10990,7 +10990,7 @@ const CHALLENGES = [
  },
  {
   "name": "Driving Wheel",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "Castaways will drive a one-wheeled barrow carrying an urn through a series of obstacles. At the end of the obstacle course, they will use a key attached to the urn to unlock a set of word blocks, which they will use to solve a word puzzle. The first person to solve their puzzle wins.",
   "airings": [
    {
@@ -11022,7 +11022,7 @@ const CHALLENGES = [
  },
  {
   "name": "Drop a Log",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "With one hand, the castaways would hang on to a rope with several knots tied into it. The rope would be tied to one end of a heavy log. The other end of the log would be connected to a pivot point on a platform that the castaways would stand on. The castaways would start at the knot closest to the end of the log. After a set amount of time, they would change hands and move one knot further down the rope. This would increase the angle of the log at the pivot point and increase the weight that the castaways would have to hold. The castaway who held on to the rope the longest would win. In season 45, it was clarified that the castaways were forbidden from bending their arm during the challenge and wrapping the rope around their hands for leverage.",
   "airings": [
    {
@@ -11086,7 +11086,7 @@ const CHALLENGES = [
  },
  {
   "name": "Drum Roll",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "While holding an object (such as a shield or drum), team members will bounce a ball back and forth between their teammates as they make their way from a start line to a receptacle at the finish line. The first team to get all their balls into the receptacle wins.",
   "airings": [
    {
@@ -11125,7 +11125,7 @@ const CHALLENGES = [
  },
  {
   "name": "Dulcimer Stomp",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The teams would begin by unspooling ribbons from a pole to release a key. Once they have the key, they would build a ladder. One person would climb to the top of the ladder and use that key to release a bag of balls. They would then make their way through a net sling to the finish, where they would attempt to land those balls in a series of targets by stomping to release them. The first team to get one ball in each of the five targets wins.",
   "airings": [
    {
@@ -11195,7 +11195,7 @@ const CHALLENGES = [
  },
  {
   "name": "Escape the Cage",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Two opposing tribe members will start the challenge in a rope cage. While fending off their opponents, each player will attempt to climb up the rope ladder to the top of the cage. The first person to climb to do so wins that round for their tribe. The first tribe to win four rounds wins.",
   "airings": [
    {
@@ -11386,7 +11386,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fallen Comrades",
-  "description": "A recurring memory challenge",
+  "description": "A memory challenge",
   "rules": "The remaining contestants answers questions about the eliminated contestants. The castaway to score the most questions correctly or the one who correctly answers ten questions first wins.",
   "airings": [
    {
@@ -11481,7 +11481,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fast Fire",
-  "description": "A recurring survival skill challenge",
+  "description": "A survival skill challenge",
   "rules": "Given an ample amount of fire-making essentials, contestants are to make a flame high enough to burn through a rope, raising a flag (in some cases, light a torch). First player to do so wins the challenge.",
   "airings": [
    {
@@ -11788,7 +11788,7 @@ const CHALLENGES = [
  },
  {
   "name": "Faulty Towers",
-  "description": "A recurring physical and mental challenge",
+  "description": "A physical and mental challenge",
   "rules": "Each team must toss coconuts into a basket to weigh it down until it causes a tower of 20 large puzzle pieces to collapse. They must then use the heavy pieces to solve a puzzle depicting the season's logo.",
   "airings": [
    {
@@ -11850,7 +11850,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fauxconut Bowling",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "The castaways would compete in a bowling tournament. Each castaway would be randomly matched against another castaway and given two rolls. The castaway who knocks down the most pins moves on to the next round. The remaining castaways would compete in another round and so forth until a winner is determined.",
   "airings": [
    {
@@ -11884,7 +11884,7 @@ const CHALLENGES = [
  },
  {
   "name": "Feel the Earn",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "The remaining castaways would divide into two teams of six. On go, two castaways at a time must make their way through a mud crawl, then one member at a time must make their way up and over beams while moving through wood shavings. Once all six team members make it through both obstacles, two team members must use poles to clear debris covering a bag, that two members on a platform have to pick up with a grappling hook. When a team gets their bag, all team members must go up and down the platform before making their way up a ramp before completing one final task. The first team that finishes their task wins and moves onto an individual challenge.",
   "airings": [
    {
@@ -12106,7 +12106,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fire Fighter",
-  "description": "A recurring accuracy and teamwork challenge",
+  "description": "An accuracy and teamwork challenge",
   "rules": "Castaway must retrieve sea water with a bucket and throw to a tribemate. The final tribe member must catch the water itself in another bucket, and use it to fill a jar. The tribes must repeat this until they have enough weight in their jar to lower it to the ground, sending a lit flame up to a fire tower, or allowing them to move on to the next section of the challenge. When used as a Loved Ones Challenge, the castaways may or may not be blindfolded. They must retrieve sea water in a bucket, and then toss it into their loved one's bucket, who will then pour it into a bucket attached to a flag. Once that bucket becomes heavy enough, it will raise the flag, winning the pair reward.",
   "airings": [
    {
@@ -12244,7 +12244,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fire Starter",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Working as a tribe, castaways must make their way through an obstacle course. At the finish line, members of the tribe will race to build a fire; the first tribe to do so wins the challenge. The Australian Survivor version of this challenge sees the competing tribes move a heavy cart to several stations, at each point collecting firewood and kindling to build a fire. At the end of the course, the tribes will race to build a bonfire tall enough to burn through a rope.",
   "airings": [
    {
@@ -12365,7 +12365,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fire and Water",
-  "description": "A recurring survival challenge",
+  "description": "A survival challenge",
   "rules": "All castaways are stationed at a fire scale. Each structure is a seesaw with two buckets. One end has a bucket for building a fire, while the other has a bucket filled with water but with a hole at its base. The castaways first start a fire in the fire bucket. Then, once the flame is sustainable, the castaways fill the water bucket with water from a nearby river or ocean. When there is enough water, the weight of it lifts the fire bucket up to reach a fuse. The first castaway to light their fuse, igniting a fire at the top of the scale, wins the challenge. In season 8, an additional stipulation was added that running out of matches eliminated a contestant from the challenge.",
   "airings": [
    {
@@ -12453,7 +12453,7 @@ const CHALLENGES = [
  },
  {
   "name": "Flips, Flops, & Flags",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "The contestants must roll a large wooden cube to a series of posts. At each post, they will grab either a bag of puzzle pieces or a key which will be used in a final task.",
   "airings": [
    {
@@ -12591,7 +12591,7 @@ const CHALLENGES = [
  },
  {
   "name": "Float Your Boat",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Survivors must race to remove rocks that are piled up inside the tribes boat sunken at the bottom of the ocean. Once enough rocks are removed, the tribes would race to bail out the water and paddle to shore. First tribe to reach the finish would win.",
   "airings": [
    {
@@ -12662,7 +12662,7 @@ const CHALLENGES = [
  },
  {
   "name": "Floating Puzzle",
-  "description": "A recurring challenge from Survivor",
+  "description": "A challenge from Survivor",
   "rules": "Survivors must race to obtain puzzle pieces out in the water. They would swim down and unhook the piece, then bring it back to the tribe. Once all the pieces are back, they would solve the puzzle. The first tribe to finish the puzzle wins.",
   "airings": [
    {
@@ -12856,7 +12856,7 @@ const CHALLENGES = [
  },
  {
   "name": "For Cod's Sake (challenge)",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "One player runs to a boat, grabs a bag of rice, then comes back, throwing the bag to the second person, who throws it to the third, who throws it to the fourth, who throws it to the final player, who dumps it in the marked bin. Then, the same thing happens with a bag of beans, and again with six large fish. Before each fish is placed in their bin, the final player must chop off the heads and tails with a cleaver. The first tribe to get everything in the right bins wins. In , two tribe members first paddled out to retrieve fish, which they would pass to their tribe members to throw into a scale. The first tribe to get 25&nbsp;kg of fish in the scale wins.",
   "airings": [
    {
@@ -12901,7 +12901,7 @@ const CHALLENGES = [
  },
  {
   "name": "Fugitive Challenge",
-  "description": "A recurring agility, speed and strength challenge",
+  "description": "An agility, speed and strength challenge",
   "rules": "In each team, a fugitive is designated. The fugitive has to reach the end of an obstacle course without being caught by the contestants of the opposing team, who are linked together.",
   "airings": [
    {
@@ -12976,7 +12976,7 @@ const CHALLENGES = [
  },
  {
   "name": "Full Tilt Boogey",
-  "description": "A recurring team race challenge",
+  "description": "A team race challenge",
   "rules": "Competing in teams, castaways will be tethered to each other as they negotiate an obstacle course. At the end of the course, they will attempt to land sandbags on a target, or use sandbags to knock over a series of targets. The first team to complete their task wins.",
   "airings": [
    {
@@ -13010,7 +13010,7 @@ const CHALLENGES = [
  },
  {
   "name": "Game of Bridge",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways must race to remove planks from a crate and use them as part of a bridge. Each plank is individual and will only fit in one spot. Once the bridge is complete, the castaways would tag out and remove the planks from the bridge, saving the ones with part of a puzzle on them. They would then collect the puzzle planks and solve a puzzle. The first person to finish wins. In season 36, the challenge was combined with the climbing elements from Great Escape Run, and the bridge pieces are no longer recycled for the puzzle.",
   "airings": [
    {
@@ -13078,7 +13078,7 @@ const CHALLENGES = [
  },
  {
   "name": "Game of Throw-Ins",
-  "description": "A recurring physical and skill challenge",
+  "description": "A physical and skill challenge",
   "rules": "Each tribe will divide into pairs and be tethered together. One pair from each tribe will maneuver through the obstacles inside the game field to retrieve their tribe-colored ball. They will then attempt to shoot it into a basket. If they miss, the ball will bounce away from the shooters, forcing them to chase after the ball. The first tribe to score a set number of points wins.",
   "airings": [
    {
@@ -13140,7 +13140,7 @@ const CHALLENGES = [
  },
  {
   "name": "Gatecrasher",
-  "description": "A recurring physical/mental challenge",
+  "description": "A physical/mental challenge",
   "rules": "Each tribe uses a puzzle log to break through two sets of gates; then, they must turn, pull and push the puzzle log to navigate a maze that is worked into the surface of the log. Once the log is cleared from the maze station, the first tribe to hit a gong at the end of the course wins immunity.",
   "airings": [
    {
@@ -13316,7 +13316,7 @@ const CHALLENGES = [
  },
  {
   "name": "Get Barreled",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "Each tribe must race to retrieve ten barrels from a field and roll them back to a designated platform where the barrels must be placed upright. Once all the barrels are in place, one person at a time will attempt to land sandbags onto the top of the barrels. The first tribe to land a sandbag on each barrel would win the challenge. The individual variant excludes the barrel retrieval, with the first person to land a sandbag on each of the designated set of barrels winning the challenge. Since season 36, contestants had to complete an obstacle course before reaching the final portion of the challenge, which involves landing a single sandbag on a narrow target. In season 40, contestants had to land two sandbags on the narrow disc instead.",
   "airings": [
    {
@@ -13542,7 +13542,7 @@ const CHALLENGES = [
  },
  {
   "name": "Get Hooked",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "One player lies on a 'cradle' supported by bungee ropes. The other three members of their team use ropes to pull them around a boxlike structure to grab 15 numbered flags, one at a time, and place them into the corresponding holders.",
   "airings": [
    {
@@ -13642,7 +13642,7 @@ const CHALLENGES = [
  },
  {
   "name": "Get Your Goat",
-  "description": "A recurring physical tribal challenge",
+  "description": "A physical tribal challenge",
   "rules": "Working as a tribe, the castaways will attempt to transport animals into an enclosure. The first tribe to get all their animals into the enclosure wins.",
   "airings": [
    {
@@ -13693,7 +13693,7 @@ const CHALLENGES = [
  },
  {
   "name": "Get a Grip",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways must hang onto a pole for as long as they can. They may not hold on to the top of the pole to support themselves, but must instead rely on footholds. The last person left holding on without touching the ground wins.",
   "airings": [
    {
@@ -14054,7 +14054,7 @@ const CHALLENGES = [
  },
  {
   "name": "Getting Tanked",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Each tribe will arrange a series of gutters to allow water to flow from the top of a tower into a barrel on the ground. In season 21, the tribe members will hold up the gutters, and the barrel will release a net of puzzle pieces once it is full; the tribe will then solve the puzzle. Meanwhile, in , the tribes will place gutters on fixed stands, and once the barrel is full, a ball will tip and fall into a wok; the challenge ends once one tribe's ball has landed in their wok.",
   "airings": [
    {
@@ -14145,7 +14145,7 @@ const CHALLENGES = [
  },
  {
   "name": "Gimme Three Steps",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The castaways must race through a course to a giant tower. They will then have to release two sets of stairs or ladder rungs to reach the top of the tower. At the top, the first castaway to finish the final task wins.",
   "airings": [
    {
@@ -14245,7 +14245,7 @@ const CHALLENGES = [
  },
  {
   "name": "Got to Choose",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "The castaways must race through obstacles to reach a puzzle table. However, along the way the tribes are given the choice to take shortcuts to get to the finish faster. The more shortcuts a tribe takes, the more puzzle pieces that they will have to negotiate for their final puzzle. The first tribe to get through their obstacles and solve the puzzle wins.",
   "airings": [
    {
@@ -14292,7 +14292,7 @@ const CHALLENGES = [
  },
  {
   "name": "Grapple Challenge",
-  "description": "A recurring speed and precision challenge",
+  "description": "A speed and precision challenge",
   "rules": "Contestants have to bring back with a grappling hook objects (shells, three wooden pieces...) which are 7 meters away for the men and 6 meters for the women. In and , the challenge takes place at sea and contestants have to bring back three buoys (at a distance of 4 to 8 meters) while keeping their balance on a floating platform.",
   "airings": [
    {
@@ -14501,7 +14501,7 @@ const CHALLENGES = [
  },
  {
   "name": "Great Escape Run",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways must race to obtain ladder rungs either buried in sand or stored in a chest. When they have their rungs, they will build a ladder and climb up to the top. The first person to finish wins.",
   "airings": [
    {
@@ -14671,7 +14671,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hands on a Hard Idol",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Keeping one hand on the Tribal Immunity Idol at all times, contestants would have to keep their balance while standing on a small log. If at any point a contestant takes their hand off the Idol, falls off the log, or raises their foot, they would be eliminated from the challenge. The final player left holding onto the Idol would win.",
   "airings": [
    {
@@ -14803,7 +14803,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hanging by a Thread",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Lying on an inclined platform, castaways will hold on to a bar for as long as they can endure. The last person left holding on wins. In Fiji, the inclined platform was set to become steeper every 5 minutes. Additionally, castaways had to endure an additional challenge in the form of water trickling onto them from a barrel overhead.",
   "airings": [
    {
@@ -14870,7 +14870,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hear About It Ladder",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Castaways must swim out to a giant ladder jutting out over the water, climb it, leap into the water, and dive down to retrieve buoys. They must then use the buoys to score in several baskets. The first team to score in all their baskets wins. In season 35 and season 39, the baskets were laid out in the water for the castaways to shoot into, while in season 37 a ramp was provided for the castaways to run up from and attempt to shoot their buoys into the baskets.",
   "airings": [
    {
@@ -14953,7 +14953,7 @@ const CHALLENGES = [
  },
  {
   "name": "High and Mighty",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "Tribes must race over a series of wall and an a-frame. They will then push a deck on a track, and flip it up in order to get on top of a tower. Once over the tower, tribes will then need to pull a frame containing several tiles, locking it in place. Using throwing clubs, they must break their tiles. The first tribe to smash all five tiles wins.",
   "airings": [
    {
@@ -15054,7 +15054,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hipsters",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "Competing head-to-head, one member of each tribe will begin the challenge tethered to an idol sitting on a pedestal. The objective is to get the opponent's idol knocked off their pedestal. The first person to do so scores a point for their tribe; the first tribe to reach a set number of points wins. In Titans v Rebels, each player was tethered to two idols instead of one.",
   "airings": [
    {
@@ -15099,7 +15099,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hold Your Own",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "While standing or kneeling on a suspended platform, the contestants will hold on to (a percentage of) their body weight, as borne by ropes or a ring. When they can no longer hold on, the platform will give way, and they will plunge into a pool beneath them. The last person left holding on wins.",
   "airings": [
    {
@@ -15152,7 +15152,7 @@ const CHALLENGES = [
  },
  {
   "name": "Holy Hell",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways must stand on narrow pegs while holding a percentage of their body weight. If at any point the sandbags containing the weight fall into the water, or they fall off the pegs, they are eliminated. The last person standing with the weights in their hands wins.",
   "airings": [
    {
@@ -15246,7 +15246,7 @@ const CHALLENGES = [
  },
  {
   "name": "Hot Pursuit",
-  "description": "A recurring physical endurance challenge",
+  "description": "A physical endurance challenge",
   "rules": "While harnessed together, the two competing tribes will circle around an oval course (either in shallow water or on land) while carrying a twenty-pound backpack each (or similar heavy load). Players can drop out of the challenge at will, but they must give their weight to a tribemate before unclipping themselves from the rope. The first tribe to catch the opponent and touch one of their members wins.",
   "airings": [
    {
@@ -15710,7 +15710,7 @@ const CHALLENGES = [
  },
  {
   "name": "House of Cards",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Each castaway begins the challenge with 150 to 200 wooden tiles. Using the tiles, they must build a house of cards up to a certain height. The first person to reach this target height would win. However, if there is a specified time limit, the person with the tallest house of cards when time expires would win. The Teeter Tower variant complicates the challenge by requiring castaways to build the house of cards with one hand, while using the other hand to control a handle that steadied a balancing board on which the tower is built.",
   "airings": [
    {
@@ -15897,7 +15897,7 @@ const CHALLENGES = [
  },
  {
   "name": "House of the Holey",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "The tribes must race through an obstacle course while retrieving bags with balls. At the finish, one person for each tribe must balance on a beam while attempting to maneuver a ball through a maze of holes to the top. The first tribe to get all three balls to the top wins. Since season 37, the wall of holes has been replaced with a curved, vertical snake maze. Instead of landing three balls, each tribe or contestant need only land one ball to win the challenge.",
   "airings": [
    {
@@ -16118,7 +16118,7 @@ const CHALLENGES = [
  },
  {
   "name": "Idol Hands",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "Facing off one against one in a fenced off circle, a castaway from each tribe would hold a wooden idol on top of a platform that they would hold in one hand. They would use the other free hand to attempt to knock their opponent's idol off the platform. The castaway whose idol hit the ground last would score one point for their tribe.",
   "airings": [
    {
@@ -16250,7 +16250,7 @@ const CHALLENGES = [
  },
  {
   "name": "Invertigo",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways will lie on a wooden plank at an incline, supporting themselves by hand-grips attached to the planks. At regular intervals, they will slide down the plank; at the lowest point, they must keep their legs outstretched for the remainder of the challenge. If one uses their heels to guide them up, then they are disqualified. The last person holding on wins.",
   "airings": [
    {
@@ -16280,7 +16280,7 @@ const CHALLENGES = [
  },
  {
   "name": "It's a Long Way to the Top",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Pairs of tribe members will make their way up a four-story tower. On each of the floors, the pairs will throw crates down the tower, breaking them to release sandbags or coconuts, which will be collected as ammunition. Once all four sets of crates have been thrown down, one pair will collect the ammunition and the tribe will throw them at targets. The first tribe to hit all their targets wins.",
   "airings": [
    {
@@ -16329,7 +16329,7 @@ const CHALLENGES = [
  },
  {
   "name": "Jail Break",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "When used as a tribal challenge, players are locked in a makeshift jail cell and shackled. To escape, players must use the resources provided to create a long pole to retrieve three keys. These keys are to be used to unlock their shackles and they must then dig out of the cell. The first tribe to get all of their members out of the cell would win. In the individual twist version of the challenge, players are no longer shackled. Because of this, the keys are now used to unlock the cell door. In season 38 and season 40, the castaways first had to climb a net and retrieve bags of sticks before working on the cell door portion of the challenge. After getting through the cell door, they then had to navigate a ball to the top of a vertical snake maze.",
   "airings": [
    {
@@ -16627,7 +16627,7 @@ const CHALLENGES = [
  },
  {
   "name": "Jump Shot",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Each tribe selects a goal-keeper, who stands on a platform above water and in front of a net. One at a time, Members of the opposite tribe will run up, jump out over the water and throw the ball at the net, while the goalkeeper tries to deflect the shot. First tribe to score a given number of goals wins the challenge.",
   "airings": [
    {
@@ -16667,7 +16667,7 @@ const CHALLENGES = [
  },
  {
   "name": "Jungle Relay",
-  "description": "A recurring race challenge",
+  "description": "A race challenge",
   "rules": "Contestants must run out into the jungle and complete a series of tasks with a partner or alone. Then, one final task awaits either the entire tribe or another pair. The first tribe to finish their tasks would win. season 45 introduced a variation of the challenge that took place entirely in the ocean rather than on land.",
   "airings": [
    {
@@ -16819,7 +16819,7 @@ const CHALLENGES = [
  },
  {
   "name": "Kamikaze",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "Castaways must race to smash a series of tiles by throwing a metal ball or coconuts. The first person or team to finish wins.",
   "airings": [
    {
@@ -16904,7 +16904,7 @@ const CHALLENGES = [
  },
  {
   "name": "Keel Hauling",
-  "description": "A recurring water challenge.",
+  "description": "A water challenge.",
   "rules": "In season 7, the castaways are divided into heats. In the first round, contestants race across a pontoon and dive into the water. Using a rope suspended beneath the platform, they pull themselves, underwater, to the other end. Upon climbing back onto the platform they must jump back in the water and do it again. The first two contestants to complete two laps move on to the final heat. In the final heat, the castaway had to do five laps and upon surfacing, they must transfer a medallion from one side of the platform to another, one key at a time. The first person to transfer all their five keys to the other side of the platform wins immunity. In season 26, they do the same thing but move a ring from one end of the pontoon to the other. The first two contestants from each heat to move two rings move onto the final round, where five laps are undertaken. The first castaway to move all five rings wins the challenge.",
   "airings": [
    {
@@ -16954,7 +16954,7 @@ const CHALLENGES = [
  },
  {
   "name": "Keep It Up",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "The castaways must balance two poles using the tops of their hands against an overhead board. If a castaway drops either of the poles at any point, they are out of the challenge. The last person standing will win.",
   "airings": [
    {
@@ -17018,7 +17018,7 @@ const CHALLENGES = [
  },
  {
   "name": "Keep on Your Toes",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways would each stand on a small wooden perch in a rectangular frame, adjusted to their height. Standing on their toes, they would brace a wooden block on their head and keep it in place using the wooden board above them. If they fall off the frame, drop their block, or touch either the structure or their block, they would be out of the challenge. The last person left standing wins.",
   "airings": [
    {
@@ -17116,7 +17116,7 @@ const CHALLENGES = [
  },
  {
   "name": "Kenny Log-Ins",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Tribes must collect three bags of logs from platforms in the middle of the ocean, then bring them back to shore. Once back on shore, they must use the logs to push out wooden pieces from a small chute, then accomplish a final task. The first tribe to finish that final task wins.",
   "airings": [
    {
@@ -17181,7 +17181,7 @@ const CHALLENGES = [
  },
  {
   "name": "Kicking and Screaming",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Three castaways per tribe would sit and hold onto a pole for as long as they can. Two members from the same gender would pull a member from the rival tribe and same gender off the pole to a mat. Once they get the person to touch the mat in any way possible then the next two castaways go. The first tribe to get all the castaways to touch the mat wins the challenge.",
   "airings": [
    {
@@ -17286,7 +17286,7 @@ const CHALLENGES = [
  },
  {
   "name": "Kitty Litter",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The contestants must collect three rings and, once they have collected them, must throw them onto a target where they will be hooked.",
   "airings": [
    {
@@ -17344,7 +17344,7 @@ const CHALLENGES = [
  },
  {
   "name": "Knot Your Fault",
-  "description": "A recurring rope challenge",
+  "description": "A rope challenge",
   "rules": "The members of each team will be attached to a braided rope, which they must work together to unravel. Once the rope is completely unraveled, they must complete a final task.",
   "airings": [
    {
@@ -17425,7 +17425,7 @@ const CHALLENGES = [
  },
  {
   "name": "Know Your Loved One",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Survivors and their loved ones would answer a series of the same questions. The goal was to get matching answers for each question. The person who ends up getting the most amount of questions right, or the last person with a loved one in the game, will win.",
   "airings": [
    {
@@ -17455,7 +17455,7 @@ const CHALLENGES = [
  },
  {
   "name": "Know Your Ropes",
-  "description": "A recurring strength challenge",
+  "description": "A strength challenge",
   "rules": "One member of each tribe will face off against an opponent in a game of tug of war. The person that pulls their opponent into the water first scores a point for their tribe.",
   "airings": [
    {
@@ -17628,7 +17628,7 @@ const CHALLENGES = [
  },
  {
   "name": "Ladder Tree Golf",
-  "description": "A recurring skill and accuracy challenge",
+  "description": "A skill and accuracy challenge",
   "rules": "Castaways must toss bolas and land them onto a pole target, similar to a game of . The first tribe to get the required number of bolas onto the pole wins. In its debut season, season 24, the challenge instead required each castaway to toss one bola and attempt to land it on one of the rungs of the pole, numbered 1 to 5. The team with the highest total score wins.",
   "airings": [
    {
@@ -17749,7 +17749,7 @@ const CHALLENGES = [
  },
  {
   "name": "Last Gasp",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The players must swim under a steel grate and stay above the water. As the tide rises, the players will run out of breathing room. If the fear of drowning becomes too much, that person can bail out. The last person remaining under the grate wins the challenge.",
   "airings": [
    {
@@ -17991,7 +17991,7 @@ const CHALLENGES = [
  },
  {
   "name": "Legs Eleven",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Pairs of contestants will lift their legs, holding up an object between their feet. Once the object drops, that pair is eliminated from the challenge. The last pair left in the challenge wins for their tribe.",
   "airings": [
    {
@@ -18098,7 +18098,7 @@ const CHALLENGES = [
  },
  {
   "name": "Letter Hunt",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "The castaways would race into a field to collect three bags containing letter tiles. Each time they untie a bag, they must bring it back to their station. Once they have collected all three bags they would untie them and start spelling a short phrase. The first person to spell the phrase correctly wins immunity.",
   "airings": [
    {
@@ -18156,7 +18156,7 @@ const CHALLENGES = [
  },
  {
   "name": "Lock Step",
-  "description": "A recurring team race challenge",
+  "description": "A team race challenge",
   "rules": "The tribes race against each other through a series of obstacles, while attached together by a rope. The first tribe to successfully complete the course with all of its members across the finish line wins. In season 6, in each section of the obstacle course, the tribes must gather a series of keys to unlock sections of the chain. First tribe to unlock their chain and cross the finish line wins. In season 17, only six members of each tribes will compete in the obstacle course, while the remaining three will solve a puzzle at the end.",
   "airings": [
    {
@@ -18381,7 +18381,7 @@ const CHALLENGES = [
  },
  {
   "name": "Lock, Load and Light",
-  "description": "A recurring Reward/Immunity Challenge",
+  "description": "A Reward/Immunity Challenge",
   "rules": "The tribes must run up and over two sand mounds, assemble a puzzle boat, using unique braces to hold it together, row out to a cauldron, light a torch, row back, remove the braces, and take them to the starting line. Two players will use 16 puzzle pieces to assemble blocks representing compass directions, then the tribe fits the blocks and braces into a climbing wall and climbs up to light a fire bale. The first tribe to do so would win.",
   "airings": [
    {
@@ -18428,7 +18428,7 @@ const CHALLENGES = [
  },
  {
   "name": "Log Handler",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "The tribes will carry logs through an obstacle course. These logs will be used to form a set of monkey bars, which the tribe will cross before continuing with a final task. In , the tribes carried a ladder instead of logs.",
   "airings": [
    {
@@ -18491,7 +18491,7 @@ const CHALLENGES = [
  },
  {
   "name": "Log Jam",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "There is a revolving log over a pit of mud or water. All castaways will compete against each other in one-on-one matches. Whoever outlasts their opponents wins. In team and tribal based challenges, the winner earns a point for their team or tribe. The tribe who reaches a certain amount of points win.",
   "airings": [
    {
@@ -18619,7 +18619,7 @@ const CHALLENGES = [
  },
  {
   "name": "Long Road to Ruins",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Teams will begin by transporting heavy puzzle pieces to a platform to build a temple. Once building the temple, teams will have to push the platform to the end of a rail, where one team member will climb the temple to unlock a statue. The team must then pull on a rope to hoist the statue to the top of a post that they must hook on there. The first team to hook their statue wins.",
   "airings": [
    {
@@ -18664,7 +18664,7 @@ const CHALLENGES = [
  },
  {
   "name": "Losing Face",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "The castaways must race across a series of obstacles before getting to a slingshot at the end of the course. Using the slingshot and the provided ammunition, the castaways would attempt to knock down a number of targets. The first tribe to knock down all their targets wins.",
   "airings": [
    {
@@ -19111,7 +19111,7 @@ const CHALLENGES = [
  },
  {
   "name": "Magic Boot",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Tribe members will attempt to score a penalty goal against goalkeepers from the opposing tribe.",
   "airings": [
    {
@@ -19160,7 +19160,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mask Match",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The contestants would be blindfolded during the challenge and must duplicate a mask with some pieces removed exactly like the mask at the starting point. The pieces are in three bags, which must be carried by the course, one at a time.",
   "airings": [
    {
@@ -19215,7 +19215,7 @@ const CHALLENGES = [
  },
  {
   "name": "Matchmaker",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "Everyone is given a box with a certain number of items. One at a time, each castaway will ask someone on either tribe for a certain item. If the person asked has the item, they score a point for their tribe. The tribe with most matches win. In season 8, once someone's box is empty, that person is out of the game.",
   "airings": [
    {
@@ -19312,7 +19312,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mayan Pizza",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "The tribes will race to unscrew a disk from a stand. While dizzy, they will race to solve a multi-stage puzzle. The first person to complete their puzzle wins. In season 22, the challenge was used as the first stage of a two-part challenge, where the first six people to finish their puzzle moved on to the final round. In season 24, the challenge involved removing three disks to form a decoder wheel that the player will then use to find a three-number combination to win the challenge.",
   "airings": [
    {
@@ -19342,7 +19342,7 @@ const CHALLENGES = [
  },
  {
   "name": "Memory",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "Scattered in a challenge arena are numerous pairs of matching objects or symbols hidden under covers. One at a time, contestants will enter the field and uncover two items. If they match, they (or their tribe) score a point. If the items do not match, they are re-covered and the next contestant takes their turn. The first tribe/contestant to score a designated number of points, or the tribe/contestant with the most points when all covers have been unveiled wins the challenge. Additional rules have appeared season to season, such as the inclusion of items that do not have a matching pair. In season 19, tribes could choose to forfeit a point in exchange for adding the uncovered item into a reward pool for the winning tribe.",
   "airings": [
    {
@@ -19495,7 +19495,7 @@ const CHALLENGES = [
  },
  {
   "name": "Might as Well Jump",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "The castaways must swim out to a platform with crates that they have to jump off to retrieve a set of keys. After that, the castaways must cross a balance beam to retrieve a second set of keys. Using the sets of keys, the castaways must unlock a turnstile puzzle; where they must roll colored balls into corresponding colored spots. The first castaway to solve the puzzle will win immunity.",
   "airings": [
    {
@@ -19528,7 +19528,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mind Field",
-  "description": "A recurring speed challenge",
+  "description": "A speed challenge",
   "rules": "In a Survivor version of musical chairs, the castaways will race to retrieve an item. However, each round, there will be one fewer item than castaways competing, so the person without an item will be eliminated. The last person left standing wins.",
   "airings": [
    {
@@ -19599,7 +19599,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mud Bungee",
-  "description": "A recurring speed challenge",
+  "description": "A speed challenge",
   "rules": "Attached to a bungee cord, the contestants will race out to place or collect items. The first person to collect all their items wins.",
   "airings": [
    {
@@ -19872,7 +19872,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mud Pack",
-  "description": "A recurring Reward Challenge",
+  "description": "A Reward Challenge",
   "rules": "Under a time limit, tribe members dive into a mud pit and cover their body with as much mud as they can. They then race back and scrape it off into a bucket. They may only transport mud on their torso, and are not allowed to carry it with their arms or hands. The buckets are then weighed, and the castaway with the heaviest bucket wins.",
   "airings": [
    {
@@ -20233,7 +20233,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mud Slide",
-  "description": "A recurring agility challenge",
+  "description": "An agility challenge",
   "rules": "The castaways would be divided into two groups. Each pair will be attached by rope and race through a series of obstacles and through a deep mud pit to get an object with which they will make their way back with to empty into their finish pot, or their basket. The first team to fill their pot/score a certain number of points would win.",
   "airings": [
    {
@@ -20284,7 +20284,7 @@ const CHALLENGES = [
  },
  {
   "name": "Mud Slinging",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "The contestants will compete alongside their loved ones for this challenge. The contestant will throw a mud-covered ball to their loved one, who must attempt to knock over five bamboo targets from a pedestal. The first person to knock over all their targets wins. In Survivor South Africa, the roles were reversed, with the loved ones starting the challenge by opening a box to retrieve a crate of sandbags, which the castaways would then use to knock over the targets.",
   "airings": [
    {
@@ -20341,7 +20341,7 @@ const CHALLENGES = [
  },
  {
   "name": "Muddy Waters",
-  "description": "A recurring race challenge",
+  "description": "A race challenge",
   "rules": "The contestants are divided into equal teams. One at a time, they race through an obstacle course. They crawl under a low cage (or walk across a series of balance beams), clamber up a steep slope and slide down into a mud pit. They then search for a bag of balls buried in a designated mud pit. Upon retrieving the bag of balls, the contestant crawls under a wooden bar by digging through a pit of rice. Upon reaching the mat, the next teammate may begin the course. Once all teammates have reached the end, the balls must be thrown into a narrow tube about as high as a basketball hoop. The first team to sink all their balls into the tube wins the challenge. In season 29 each tribe had to race to dig up a bag buried in the sand, which contained two keys. They had then to crawl through the mud and use one of the keys to open a gate. The next step was to shake a basket to release sandbags. Once a tribe had collected all their sandbags, two tribe members had to attempt to toss those sandbags onto wobbly targets.",
   "airings": [
    {
@@ -20424,7 +20424,7 @@ const CHALLENGES = [
  },
  {
   "name": "New School",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Tribes must send a number of members to swim out and untie a net with 14 fish puzzle pieces. After taking the net back to the shore, they must untie the puzzle pieces from the net and hang them onto hooks, then carry the log with the hooks to a puzzle station, where the last two tribe members would use the puzzle pieces to complete a puzzle. The first tribe to complete their puzzle wins. In season 32, the swimmers started on the beach and the puzzle was divided into two layers, one stacked on top of the other. In season 34 and season 40, the swimmers started on a pontoon in the ocean and the puzzle was divided into two parts, separated into different trays.",
   "airings": [
    {
@@ -20480,7 +20480,7 @@ const CHALLENGES = [
  },
  {
   "name": "New Tribe Member",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "The tribes would have to untie a giant dummy (acting as their \"new tribe member\"). The tribes must then carry the dummy through an obstacle course. The first tribe to cross the finish line with their dummy wins.",
   "airings": [
    {
@@ -20535,7 +20535,7 @@ const CHALLENGES = [
  },
  {
   "name": "Nut Bucket",
-  "description": "A recurring strength/accuracy challenge",
+  "description": "A strength/accuracy challenge",
   "rules": "A given number of contestants hold onto a rope connected to a large net. The remaining castaways attempt to shoot coconuts into the opposing tribe's nets, increasing the weight load. When all members of one tribe have dropped their net, the challenge ends, with the opposing tribe winning.",
   "airings": [
    {
@@ -20959,7 +20959,7 @@ const CHALLENGES = [
  },
  {
   "name": "Odd Shaped Bottoms",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "Castaways must race across a ladder while maneuvering a bag of blocks along with them. When they reach the end, they would use the blocks inside to solve a puzzle, so the top of the puzzle is completely flat and level.",
   "airings": [
    {
@@ -20999,7 +20999,7 @@ const CHALLENGES = [
  },
  {
   "name": "On the Pull",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways would hold on to a rope with connected to a barrel holding a percentage of their body weight. The person who holds on to their barrel the longest wins.",
   "airings": [
    {
@@ -21139,7 +21139,7 @@ const CHALLENGES = [
  },
  {
   "name": "Operation Balance Build",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "The castaways have to attach a small wooden bowl to a prong at the end of a long pole to maneuver it through a metal structure that sits on a spring. Once they have the piece through the structure, they have to sit it at the top of their stack. The first castaway to stack all their bowls on top each other, or have the most bowls stacked by the end of a specified time limit wins.",
   "airings": [
    {
@@ -21248,7 +21248,7 @@ const CHALLENGES = [
  },
  {
   "name": "Out on a Limb (challenge)",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "Castaways must race through a giant course, which branches out into several limbs, to collect items. They must then bring these items back to a central island. Beginning with season 13, castaways would have to collect bags of puzzle pieces, then use the puzzle pieces to solve a puzzle. The first to solve their puzzle wins.",
   "airings": [
    {
@@ -21378,7 +21378,7 @@ const CHALLENGES = [
  },
  {
   "name": "Over-Extended",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Castaways must place either a wooden statue or a ball on top of a pole. At regular intervals, they will add another section of pole, making it harder to balance. If the object falls off, that person is eliminated. The last person with their statue or ball on top of the pole wins. The 10 Foot Pole variant of the challenge first seen in season 33 involved the castaways propping up their statue while holding their pole horizontally. As the challenge progresses, the castaways will move further away from their statue, making the challenge harder. The Audio Slave variant of the challenge introduced in season 36 involved balancing the statue with a pole horizontally on a perch while balancing on a balance beam. At regular intervals, castaways would slide their hands further back on the pole and step forward to a narrower portion of the balance beam instead of adding another section.",
   "airings": [
    {
@@ -21656,7 +21656,7 @@ const CHALLENGES = [
  },
  {
   "name": "Paddle Battle",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The tribes must race in boats to the shore, then push and pull their boats up the hill until a finish line and complete a final task.",
   "airings": [
    {
@@ -21699,7 +21699,7 @@ const CHALLENGES = [
  },
  {
   "name": "Paddle Out",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Castaways must roll a series of balls down a lane on a wooden board to the end where there are several slots for the balls to land in. The first person or tribe to land all their balls in slots at the same time wins. In the tribal version of this challenge, each tribe must first make their way through a course before reaching the final table maze. Two members then maneuver the balls down the board and land them in all the slots.",
   "airings": [
    {
@@ -21930,7 +21930,7 @@ const CHALLENGES = [
  },
  {
   "name": "Perch",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Each tribe member will stand on top of a wooden pillar in the water. At random points, Jeff will tempt the Survivors to jump down by bribing food items. The last person left standing wins immunity.",
   "airings": [
    {
@@ -22341,7 +22341,7 @@ const CHALLENGES = [
  },
  {
   "name": "Pilfering Pirates",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "A narrow series of bamboo walkways connect four boats, two for each tribe. The tribes race to steal items from the opposing tribe's boats, with the first tribe to steal a given number of items winning the challenge. In a specified \"attack zone\" in the center of the course, contestants are permitted to physically engage their opponents and push them off the course.",
   "airings": [
    {
@@ -22394,7 +22394,7 @@ const CHALLENGES = [
  },
  {
   "name": "Piranha Feast",
-  "description": "A recurring challenge.",
+  "description": "",
   "rules": "Using only their mouths, the castaways must rip pieces of meat off a large roast animal and place them into a basket. The tribe (or, in Fiji, individuals) with the most meat (by weight) in the basket after a given amount of time wins.",
   "airings": [
    {
@@ -22446,7 +22446,7 @@ const CHALLENGES = [
  },
  {
   "name": "Planks a Lot",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The contestants must balance between two rails in a plank position. The last person to drop wins.",
   "airings": [
    {
@@ -22510,7 +22510,7 @@ const CHALLENGES = [
  },
  {
   "name": "Pole Dancing",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Castaways must race to untangle a series of ropes while attached to the rope at the waist. When they feel that their rope has enough slack, they will race to the finish line to complete one final task. The first person to finish wins.",
   "airings": [
    {
@@ -22602,7 +22602,7 @@ const CHALLENGES = [
  },
  {
   "name": "Pot Head",
-  "description": "A recurring endurance challenge.",
+  "description": "An endurance challenge.",
   "rules": "In season 11, the castaways would balance a Mayan pot on their head for an hour while standing on a perch. After the 60 minutes had elapsed, the remaining contestants would race up the steps of a temple. The first person to reach the top without dropping their pot wins. In season 23, the castaways must place a pot on their head and balance it. They would have to race over a series of balance beams to deposit rice in a bowl at the end. The first person to completely fill their bowl with rice wins.",
   "airings": [
    {
@@ -22686,7 +22686,7 @@ const CHALLENGES = [
  },
  {
   "name": "Pull Your Weight",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "One or two castaways will be suspended above the water, while their tribemates will hold a rope to keep them above the water. At certain points, one castaway from each tribe will let go of their rope, making it harder to keep up the suspended castaway. The tribe that is able to keep their suspended castaway up the longest wins.",
   "airings": [
    {
@@ -22906,7 +22906,7 @@ const CHALLENGES = [
  },
  {
   "name": "Push Comes to Shove",
-  "description": "A recurring strength challenge",
+  "description": "A strength challenge",
   "rules": "Competing in matchups, members of opposing tribes will attempt to push a turnstile against one another to cross a finish line and score a point. In the challenge's original appearance in , the challenge was used as a single-round match-up, with every member of the tribe competing at the same time.",
   "airings": [
    {
@@ -23031,7 +23031,7 @@ const CHALLENGES = [
  },
  {
   "name": "Push Me, Pull You",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways must pull on two metal bars for as long as they can to apply tension in order to keep a heavy metal bar from slipping and breaking their tile. The last person standing with a bar in their hands wins.",
   "airings": [
    {
@@ -23137,7 +23137,7 @@ const CHALLENGES = [
  },
  {
   "name": "Puzzle Dig",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Survivors must race out into the sand and use ropes to find the intersection where a bag of puzzle pieces are buried. When they dig up the bag, they would head back to their station and solve the puzzle, revealing the next coordinates. The first person to solve all of their puzzles would win.",
   "airings": [
    {
@@ -23202,7 +23202,7 @@ const CHALLENGES = [
  },
  {
   "name": "Pyramid Scheme",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "Castaways start the challenge in the water before retrieving puzzle pieces. The first person to correctly build their four-piece pyramid puzzle wins.",
   "airings": [
    {
@@ -23236,7 +23236,7 @@ const CHALLENGES = [
  },
  {
   "name": "Q and A (challenge)",
-  "description": "A recurring quiz challenge",
+  "description": "A quiz challenge",
   "rules": "The challenge starts with each of the castaways filling out a questionnaire about the tribe in private, then the results would be tallied and the challenge would begin. The questions would be posed to the group and the castaways would guess whose name was written most often. Starting in season 8, whoever got the question right could strike against another castaway. This is denoted by chopping a rope attached to a battering ram, which would hit the castaway's representative effigy. After 3 strikes, the significant idol/mask/ceramic statue/voodoo doll would be destroyed, eliminating that player from the challenge. There have been modifications to this challenge over seasons: In season 6, the first castaway to answer 5 questions correctly wins. In season 8, each castaway who answers a question correctly would be allowed to cut a section of rope connected to the swinging log of the castaway they wanted eliminated. Three cuts of the rope would send the logs smashing into the mask. In season 12, after three chops, the rope will release a torch that will in turn send their voodoo dolls up in flames. In season 14, towers were smashed. When all three towers are gone, that person is out of the game. In season 16, after three chops of the rope, the statuette would be smashed and that castaway would be eliminated from the challenge. In season 18, after three cut ropes, an idol would be smashed, and that castaway was removed from the challenge. In season 24, three cuts of the rope would send the doll into a fire where it would burn, thus eliminating that player from the challenge. The last castaway standing wins the challenge.",
   "airings": [
    {
@@ -24449,7 +24449,7 @@ const CHALLENGES = [
  },
  {
   "name": "Raft Challenge",
-  "description": "A recurring strength and speed challenge",
+  "description": "A strength and speed challenge",
   "rules": "Each team must make a sturdy raft out of bamboo and rope at their camp. Then, use it for the event and carry out the proposed mission (chase, recover bags at sea, recover beacons...).",
   "airings": [
    {
@@ -24867,7 +24867,7 @@ const CHALLENGES = [
  },
  {
   "name": "Ram-Ball On",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "Castaways must race to balance a ball on the top of a pole while maneuvering through a series of obstacles. Along the way, they would add another section of the pole, making it harder to balance the ball as they make their way through the course. After they got past the balance beam, they would have to untie knots to get to a table, where they would place the ball on it to retrieve a key, then using the key to unlock a chest of sandbags and shoot the sandbags at a series of bamboo targets. The first castaway to finish wins.",
   "airings": [
    {
@@ -25028,7 +25028,7 @@ const CHALLENGES = [
  },
  {
   "name": "Reinventing the Wheel",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Both teams will race to assemble four puzzle wheels and attach them to a cart, in which two of their tribemates will ride. Pushing the cart through a series of obstacles to a finish platform, the tribes will then disassemble the puzzle wheels and use them to complete a turnstile. Finally, they will wind the turnstile to raise a fire wok, igniting their tribal cauldron. The first tribe to finish wins the challenge.",
   "airings": [
    {
@@ -25075,7 +25075,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rescue Mission",
-  "description": "A recurring survival-themed challenge",
+  "description": "A survival-themed challenge",
   "rules": "Tree Mail will indicate that each tribe is to construct a stretcher (or similar piece of equipment) using designated supplies. At the challenge, a given number of tribe members will be taken out into the wilderness. The remaining competitors race to find their tribe mate(s) and carry them back to the mat on the stretcher. The first tribe to \"rescue\" all of their tribe mates wins the challenge.",
   "airings": [
    {
@@ -25133,7 +25133,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rice Race",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways would will swim out to a boat, where they would retrieve three bags of rice. They would then have to get through an obstacle course to get the bags to shore, where they would open them to retrieve three balls. Each tribe would have to maneuver their three balls across a holey wall or a table maze into three slots. The first tribe to fill all three slots wins.",
   "airings": [
    {
@@ -25227,7 +25227,7 @@ const CHALLENGES = [
  },
  {
   "name": "Ring Leader",
-  "description": "A recurring concentration challenge",
+  "description": "A concentration challenge",
   "rules": "The castaways must swing a long pendulum through a frame around a bottle. If at any point they lose momentum or their pendulum touches their frame, their bottle will tip over, eliminating them from the challenge. The last person with their bottle still standing wins.",
   "airings": [
    {
@@ -25255,7 +25255,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rise and Shrine",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Castaways must race through a series of obstacles before climbing up a large set of walls to the top of a tower, where they must complete a puzzle. The first tribe to finish their puzzle wins.",
   "airings": [
    {
@@ -25427,7 +25427,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rock Bottom",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Rock Bottom is a Survivor version of the game \"Bring Me\", where for the first three rounds, contestants would dive under water to find a shell and bring it back. The last contestant to do so would be eliminated. For the fourth and final round, the four remaining contestants would dive into the water, grab a rock and swim back to shore with it. The first contestant with the rock wins.",
   "airings": [
    {
@@ -25476,7 +25476,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rock n' Roll",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Tribes must work to navigate a large boulder through a series of checkpoints, whilst accomplishing small tasks along the way (such climbing the boulder to collect keys). The first tribe to get their boulder onto their designated pedestal wins the challenge. In season 3 and season 17, the challenge made use of the vast, undulating terrain in the African plains to create a long course. In season 41, , , and , the challenge was played in a small field, with several man-made obstacles, a large tower, and a puzzle component instead adding to the difficulty.",
   "airings": [
    {
@@ -25674,7 +25674,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rock the Boat",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Two opponents will stand on a wobbly beam and attempt to shake the other person off the beam. In season 29, contact was allowed. The person that stays on the beam longer advances to the next round (in season 2) or scores a point for their team (in San Juan del Sur).",
   "airings": [
    {
@@ -25708,7 +25708,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rocks Under Water",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Tribe members will take turns carrying underwater stones to the starting pontoon.",
   "airings": [
    {
@@ -25969,7 +25969,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rod Screw-It",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each tribe must hop over a series of tables, then pull a lever release sixty sandbags, which tribes will need to collect. Using the small sandbags, they will need to hit spinning targets to raise flags. The first tribe to raise all of their flags wins.",
   "airings": [
    {
@@ -26023,7 +26023,7 @@ const CHALLENGES = [
  },
  {
   "name": "Roll with It",
-  "description": "A recurring navigation/puzzle challenge",
+  "description": "A navigation/puzzle challenge",
   "rules": "One castaway from each tribe would be strapped into a wooden spherical cage and would guide two of their blindfolded tribemates in rolling the cage through a course. At the end of the course would be a labyrinth-like table maze. The castaway inside the cage would then have to guide two or four blindfolded tribe members in solving the table maze. The first tribe to finish the table maze would win. In season 37, the guides rode on a driving wheel instead of being strapped in a spherical cage.",
   "airings": [
    {
@@ -26141,7 +26141,7 @@ const CHALLENGES = [
  },
  {
   "name": "Roller Ball",
-  "description": "A recurring balance and endurance challenge",
+  "description": "A balance and endurance challenge",
   "rules": "The castaways must stand on a small log while balancing a ball on a wooden disc. At regular intervals, more balls will be added onto the plate until there are three balls, which will increase difficulty. If at any time a ball falls off the disc or a castaway loses their footing on the log, they will be eliminated. The last castaway standing wins. The Take the Reins variation of the challenge instead has castaways balance a ball on a disc, and balance the disc on two ropes. At regular intervals, they must their hands farther back on the rope, making it more difficult to balance the disc. A third variation, Pegs Over Easy, requires castaways to balance balls on an inclined table. Lowering the table would trigger a device which locks the table into a new position, making it more difficult to balance the balls. Unlike the other two variations, castaways may drop balls, so long as they still have at least one remaining on their table.",
   "airings": [
    {
@@ -26298,7 +26298,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rung O Star",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Starting on a platform in the ocean, the castaways must swim out and retrieve a ladder from the seabed. While their teammates prop up the ladder, one castaway will climb the ladder to retrieve bags from an elevated pole. The team will then race back to shore to complete a final task.",
   "airings": [
    {
@@ -26340,7 +26340,7 @@ const CHALLENGES = [
  },
  {
   "name": "Running Down a Dream",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways must toss two balls into an overhead track and navigate through tripwires to catch the ball before it hits the ground. Once both balls have been caught, they must dig their way under a log with their two balls before accomplishing a final task.",
   "airings": [
    {
@@ -26456,7 +26456,7 @@ const CHALLENGES = [
  },
  {
   "name": "Rusty Gates",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "The castaways will start behind a gate, where they will maneuver a handle through a maze on the front of the gate. Once their handle is free, they unlock the door and race to complete a slide puzzle. The first person to finish wins.",
   "airings": [
    {
@@ -26581,7 +26581,7 @@ const CHALLENGES = [
  },
  {
   "name": "SOS Signal",
-  "description": "A recurring survival challenge.",
+  "description": "A survival challenge.",
   "rules": "Tribes must make a distress signal using any materials from the campsite. An airplane pilot will judge the signals. The tribe the pilot deemed with the most noticeable signal wins.",
   "airings": [
    {
@@ -26662,7 +26662,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sacrificial Lamb",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Castaways (one or two) are connected to a rope wound through a series of obstacles. The \"sacrifices\" would move throughout the course with the aid of their teammates. The first group to finish the course wins.",
   "airings": [
    {
@@ -26741,7 +26741,7 @@ const CHALLENGES = [
  },
  {
   "name": "Scale Challenge",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "In and , contestants have to stay on a rocking board as long as possible, the last one to stay on the board wins the event. In , , and , contestants must stack five wooden pieces on a rocking board and two receptacles.",
   "airings": [
    {
@@ -26877,7 +26877,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sea Crates",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "Castaways must retrieve four large crates (when used as a team challenge) or small blocks (when used as an individual challenge), each bearing one of four colors on each side. Once all four crates are retrieved, the crates must be stacked so that one color does not show more than once on each column. The first team or individual to complete the puzzle wins. The method of retrieving the crates/blocks has varied between each appearance of the challenge.",
   "airings": [
    {
@@ -26966,7 +26966,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sea Legs",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "Each castaway must balance on a floating platform at sea for as long as possible. Additional rule stipulations may require the contestants to remain in a specific position (such as a crouch, as in season 7) or may increase the difficulty in increments (from season 12 onwards). Since season 26, the floating platform has standardized to a pyramid with narrow footholds on either side of the structure. In this variant known as Bermuda Triangles, the castaways will move upwards at regular intervals, increasing the difficulty. The last person left standing wins. An additional stipulation in Cambodia mandated that any castaway who made it to the third and final stage must balance with only one foot, similar to an unofficial rule made by Andrea Boehlke and Brenda Lowe to help decide who between them would win the challenge in Caramoan.",
   "airings": [
    {
@@ -27206,7 +27206,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sea Salvage",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "A certain number of tribe members will race out to a floating platform. Then they will dive into a cage to pull out bamboo poles in order to release the item needed to complete the final objective. After gathering all of the needed items, they will race back to shore. The first tribe to complete the final objective wins.",
   "airings": [
    {
@@ -27298,7 +27298,7 @@ const CHALLENGES = [
  },
  {
   "name": "Shipwrecked",
-  "description": "A recurring physical water challenge",
+  "description": "A physical water challenge",
   "rules": "Rowers from each tribe would have to paddle out and pick up crates or their tribemates. The first tribe to finish wins. In season 36, the teams were required to solve a puzzle after picking up their members. In season 4 and season 8, the tribes are delivered sets of bamboo either via Tree Mail, or personally delivered by host Jeff Probst. The tribes would have to design their own raft for them to paddle at the challenge.",
   "airings": [
    {
@@ -27367,7 +27367,7 @@ const CHALLENGES = [
  },
  {
   "name": "Shoot 'n' Shuffle",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "The castaways would play a version of shuffleboard, either aiming to land their pucks closest to a designated target or knocking their opponent's pucks off the gameboard.",
   "airings": [
    {
@@ -27466,7 +27466,7 @@ const CHALLENGES = [
  },
  {
   "name": "Shooting Gallery",
-  "description": "A recurring challenge.",
+  "description": "",
   "rules": "Survivors must use a firearm or crossbow to shoot and destroy a series of targets scattered out in the arena. The first tribe or individual to eliminate all of their targets wins.",
   "airings": [
    {
@@ -27517,7 +27517,7 @@ const CHALLENGES = [
  },
  {
   "name": "Simmotion",
-  "description": "A recurring dexterity/ endurance challenge",
+  "description": "A dexterity/ endurance challenge",
   "rules": "Each castaway, usually with one hand tied behind their back, must drop a ball into a metal chute. The ball will travel down a spiraling metal track and exit out of one of two points (a turnstile gate in the middle of the track causes the balls to come out at alternate exits). The castaway must catch the ball and drop it back into the chute at the top. At designated intervals, an additional ball is added to the track until the maximum amount of balls are simultaneously in play. If a ball exits the track and is not caught at any time, the castaway is eliminated from the challenge. The last person standing wins. In season 36, the challenge was modified to be used as a team challenge. The metal track was replaced with large wooden cascading beams, and the balls were replaced with large spools which would roll down the track. One member would mount the spool on one end, while the other member catches. The members of the pair will alternate tasks. This version of the challenge is significantly more physically demanding as the challenge setup is significantly larger than the original, requiring players to run from one end to the other.",
   "airings": [
    {
@@ -27694,7 +27694,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sliders",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Contestants will slide down into the ocean before retrieving a series of rings. They will then attempt to land the rings at a ring toss station. The first contestant or team to land all their rings wins.",
   "airings": [
    {
@@ -27976,7 +27976,7 @@ const CHALLENGES = [
  },
  {
   "name": "Slither Me Timbers",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "The castaways' feet are tied together and their arms are bound to their sides. One at a time they must slither through the sand through a series of obstacles before completing a final objective. In season 33 and season 39, the team had to complete a puzzle at the end of the course; this was also the format used in season 44, where the challenge was played individually. In season 35 the unbound tribe member had to shoot five balls into a receptacle.",
   "airings": [
    {
@@ -28084,7 +28084,7 @@ const CHALLENGES = [
  },
  {
   "name": "Smash and Grab",
-  "description": "A recurring water-based challenge",
+  "description": "A water-based challenge",
   "rules": "A given number of tribe-members must swim out to a platform and climb up to a high platform. They take a club and jump out over the water, attempting to smash a tile which holds a key. Upon retrieving the key, they return to shore and the next contestant begins the circuit. Once all keys have been retrieved, the remaining tribemates use the keys to unlock a box and complete the final phase of the challenge: either a puzzle or a carnival throwing-game. In season 29, season 33, and season 44, instead of using a club to smash a tile that held a key, castaways must grab the keys with their bare hands.",
   "airings": [
    {
@@ -28515,7 +28515,7 @@ const CHALLENGES = [
  },
  {
   "name": "Snag, Drag and Bag",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Castaways would race to collect bags of balls with a grappling hook. Once the bags are retrieved, they would use one ball and place it in a table maze. The first person to solve the maze would win. The challenge was modified for team use as a water challenge in season 32, with each team member using their weight to tilt the table maze.",
   "airings": [
    {
@@ -28723,7 +28723,7 @@ const CHALLENGES = [
  },
  {
   "name": "Snake Island Relay",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The challenge requires castaways to hold their breath underwater for as long as they can. The contestants are eliminated once they come up for air. Once enough contestants are eliminated, the final few compete in a swimming contest. The first person to complete the underwater obstacle course wins.",
   "airings": [
    {
@@ -28803,7 +28803,7 @@ const CHALLENGES = [
  },
  {
   "name": "Snake in the Grass",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways must go over and under a series of hurdles to retrieve bags of puzzle pieces. The first three to finish will move on to the final round, where they have to use the puzzle pieces to solve a puzzle in the shape of a snake. The first contestant to finish their snake puzzle wins. In the team version of this challenge, a number combination lock was added to the course prior to the snake puzzle.",
   "airings": [
    {
@@ -28873,7 +28873,7 @@ const CHALLENGES = [
  },
  {
   "name": "Snare the Drum",
-  "description": "A recurring speed challenge",
+  "description": "A speed challenge",
   "rules": "Facing off one against one, castaways must race to flip over a drum revealing a symbol. The opponent will be doing the same, while also trying to flip their opponent's drum back over. The first castaway to get all three of their drums to display the symbol at the same time scores a point for their team. The first team to score three points will win reward.",
   "airings": [
    {
@@ -28905,7 +28905,7 @@ const CHALLENGES = [
  },
  {
   "name": "Spear-it Hunt",
-  "description": "A recurring skill and accuracy challenge",
+  "description": "A skill and accuracy challenge",
   "rules": "Castaways must use weapons to set a series of targets on fire. The first person or tribe to light all of their targets wins.",
   "airings": [
    {
@@ -28963,7 +28963,7 @@ const CHALLENGES = [
  },
  {
   "name": "Spiral Architect",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Each tribe must swim out to retrieve a ladder, which they will use to get one member high enough to grab a key. Once a tribe grabs their key, they must use the key to unlock sandbags, which one tribe member must throw to land on five elevated targets. The first tribe to land a sandbag on every target wins.",
   "airings": [
    {
@@ -29003,7 +29003,7 @@ const CHALLENGES = [
  },
  {
   "name": "Spit It Out",
-  "description": "A recurring water-based challenge.",
+  "description": "A water-based challenge.",
   "rules": "Three members of each tribe will be strapped to a large wheel. Three other members will spin the wheel. As the wheel turns, the strapped tribemates will be submerged in a tub full of water, where they must grab a mouthful of water then spit it onto a tube. Once the tube was filled, a ball would be released. The ball would be used by two other tribe members to break five tiles. The first tribe to break all five tiles would win. In the season 22 version of the challenge, instead of breaking tiles, a tribe member will solve a slide puzzle following the ball's release. When finished, the puzzle will turn into a table maze, where the puzzle maker must lead the ball into a pocket. First puzzle maker to finish this feat would win immunity for their tribe.",
   "airings": [
    {
@@ -29047,7 +29047,7 @@ const CHALLENGES = [
  },
  {
   "name": "Splash Back",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Each contestant holds onto a rope whilst leaning out over a pool of water and balancing on a small platform. At designated intervals, the contestants will be lowered, increasing the angle at which they hang over the water (either by moving their hands down the rope, or by a crank automatically lowering them). The last person holding on wins the challenge. In the I Hold On variant of the challenge introduced in season 24, the contestants stand facing the water.",
   "airings": [
    {
@@ -29401,7 +29401,7 @@ const CHALLENGES = [
  },
  {
   "name": "Spoon Man",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "Each person will use a series of very small paddles to maneuver a ball through a series of obstacles. If at any point the ball drops, they will have to go back to the start. The first person to transfer three balls wins.",
   "airings": [
    {
@@ -29497,7 +29497,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sprung a Leak",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "One tribe or team must sink the other's boats. The first tribe or team to do so wins.",
   "airings": [
    {
@@ -29537,7 +29537,7 @@ const CHALLENGES = [
  },
  {
   "name": "Squared Off",
-  "description": "A recurring strategy challenge",
+  "description": "A strategy challenge",
   "rules": "Each contestant starts the challenge at the edge of a gameboard comprised of several six-sided tiles (or in its debut season, a grid of square tiles). One at a time, contestants will take one step onto a new tile (turning it over to show a designated color). Contestants are not allowed to step onto a space that has already been used. When a castaway has no more legal moves, they are eliminated from the challenge. Last person standing wins. Often, additional rules are included, such as certain tiles giving contestants advantages or penalties.",
   "airings": [
    {
@@ -29602,7 +29602,7 @@ const CHALLENGES = [
  },
  {
   "name": "Squatty Probst",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways must stand in a squatting position, releasing the safety from their apparatus holding up an urn of water above a fire. Should they stand too high, their urn will spill, extinguishing their fire. If they go too low, a flag will release, eliminating them from the challenge. The last castaway standing wins.",
   "airings": [
    {
@@ -29668,7 +29668,7 @@ const CHALLENGES = [
  },
  {
   "name": "Stairway to Heaven",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The tribes must place twelve poles of varying lengths into their holders to form a staircase, and then run up it. One at a time, three ride a zipline to a pontoon, grab a bag of puzzle pieces, and swim back, then all three climb a ladder back to the platform, where the final three solve the puzzle.",
   "airings": [
    {
@@ -29790,7 +29790,7 @@ const CHALLENGES = [
  },
  {
   "name": "Stairway to the Stars",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each tribe has five logs. The goal is to transport the five logs from the start position through a series of obstacles to a tower, where they must build a staircase. The first tribe to successfully build the staircase and have one member race to the top of the tower wins.",
   "airings": [
    {
@@ -29831,7 +29831,7 @@ const CHALLENGES = [
  },
  {
   "name": "Station by Station",
-  "description": "A recurring counting/ memory challenge",
+  "description": "A counting/ memory challenge",
   "rules": "Castaways must race out to a series of stations, with a certain number of objects at each station. When they count the objects, they would return to their station and use the numbers to open a series of combination locks. The first person to finish would win.",
   "airings": [
    {
@@ -29888,7 +29888,7 @@ const CHALLENGES = [
  },
  {
   "name": "Step on Up",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Castaways must race to obtain puzzle steps and assemble their staircase one step at a time. The first person to reach the top wins the challenge. Since season 31, there has been a final task for the castaways to complete at the top of the staircase before they can win.",
   "airings": [
    {
@@ -29972,7 +29972,7 @@ const CHALLENGES = [
  },
  {
   "name": "Stomp-ede",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Each castaway or tribe is given several items and instructed to stomp on a plank of wood, catapulting one item at a time into a basket atop a tower. The first person/tribe to land all items in the basket would be the winner.",
   "airings": [
    {
@@ -30123,7 +30123,7 @@ const CHALLENGES = [
  },
  {
   "name": "Strung Out",
-  "description": "A recurring water and rope challenge",
+  "description": "A water and rope challenge",
   "rules": "Throughout the numerous variations of this challenge, the primary goal involves moving an object (a tiki segment in Vanuatu, puzzle pieces in Heroes vs. Villains, or buoys) through a rope and across a series of obstacles to a finish. At the end, each team or each individual castaway may have to perform a secondary task (e.g. a puzzle or landing buoys in a hoop) to complete the challenge.",
   "airings": [
    {
@@ -30345,7 +30345,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sumo at Sea (challenge)",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "One member from each tribe faces off on a platform surrounded by either water (season 10, season 27, and season 29) or mud (season 14 and season 20). Using their padded bags, or any other body part other than their hands, they must try to knock each other off the platform. Doing so would score their tribe a point. The first tribe to reach a certain number of points would win.",
   "airings": [
    {
@@ -30615,7 +30615,7 @@ const CHALLENGES = [
  },
  {
   "name": "Sunset Grill",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "While standing on a wobbly balance beam, castaways must attempt to stack six sets of balls between sets of stands using a fork. The first person to finish their stack and return to their table without the stack falling over wins. In the original format in season 29, the castaways had to stack plates atop each other. In season 36 and season 47, the castaways had to completely start over if their stack fell.",
   "airings": [
    {
@@ -30861,7 +30861,7 @@ const CHALLENGES = [
  },
  {
   "name": "Super Golf",
-  "description": "A recurring accuracy challenge",
+  "description": "An accuracy challenge",
   "rules": "The tribes will use a three-man slingshot to shoot an oversized golf ball into a golf hole. The tribe that puts their ball in the hole using fewer shots wins one point. The first tribe to score two points wins.",
   "airings": [
    {
@@ -30900,7 +30900,7 @@ const CHALLENGES = [
  },
  {
   "name": "Super Ramp",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "Competing in teams of six, team members will crawl under a muddy net, one at a time, to a cart. Once all six members have reached the cart, they will push the cart along the field, collecting sandbags along the way. They will then continue pushing the cart to a tower, stacking more sandbags to help the team get onto the tower. The team will then collect a key and slide down the tower before racing to a giant boulder, which they must scale to reach a final platform. There, two members will use the key to unlock jigsaw pieces, which they will use to solve a puzzle. In season 46, the entire tribe had to complete the puzzle, one pair at a time.",
   "airings": [
    {
@@ -31220,7 +31220,7 @@ const CHALLENGES = [
  },
  {
   "name": "Survivor History (challenge)",
-  "description": "A recurring trivia challenge",
+  "description": "A trivia challenge",
   "rules": "Held in a series of rounds, contestants or tribes would answer a set of questions related to previous seasons of Survivor. Answering the question correctly would score one point. The first contestant or tribe to reach a certain number of points would win.",
   "airings": [
    {
@@ -31254,7 +31254,7 @@ const CHALLENGES = [
  },
  {
   "name": "Survivor Pentathlon",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The castaways get a second chance to revisit some of the challenges from earlier in the season. In early seasons, the challenge was simply one general obstacle course. However, since season 8, the challenge was generally held in separate rounds. Whoever finishes the final task first wins the challenge.",
   "airings": [
    {
@@ -31447,7 +31447,7 @@ const CHALLENGES = [
  },
  {
   "name": "Survivor Quiz Show",
-  "description": "A recurring general knowledge challenge",
+  "description": "A general knowledge challenge",
   "rules": "Castaways must answer a series of questions about the local culture. The person or tribe who answers the most questions correctly wins. From season 4 to season 11, the castaways had objects such as masks or pots, usually held up by ropes, which represent their \"lives\" in the challenge. Each correct answer gives the castaway the right to break one of their opponents' items or cut their rope. The last contestant left with their object intact wins. In season 15 and season 23, the quiz was held in a sudden-death format; any castaway who answered a question incorrectly was automatically taken out of contention.",
   "airings": [
    {
@@ -31624,7 +31624,7 @@ const CHALLENGES = [
  },
  {
   "name": "Swahili Scramble",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "The castaways had a word scramble with a certain number of words, all with a theme. After they solved the puzzle, the must used the intersecting letters to solve a word. First person to unscramble the word wins.",
   "airings": [
    {
@@ -31698,7 +31698,7 @@ const CHALLENGES = [
  },
  {
   "name": "Swing Break",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Survivors will race to transport a series of heavy pots filled with corn or rice through a series of obstacles using baskets or a sled. Once through the obstacles, the castaways place the pots in a series of stands. Once all the stands are filled, one person will use a wrecking ball to smash the pots. The first tribe(s) to knock out all their pots wins the challenge.",
   "airings": [
    {
@@ -31853,7 +31853,7 @@ const CHALLENGES = [
  },
  {
   "name": "TLP O-Course",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Castaways must race through a series of obstacles, including hay stacks, brick walls, net crawls, etc. Along the way are several checkpoints where keys or balls would need to be collected. The first tribe/team to finish the course wins.",
   "airings": [
    {
@@ -31931,7 +31931,7 @@ const CHALLENGES = [
  },
  {
   "name": "Tan-dy Gram",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "The castaways will race to solve tangram puzzles.",
   "airings": [
    {
@@ -31967,7 +31967,7 @@ const CHALLENGES = [
  },
  {
   "name": "Temple Transfer",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "Each tribe must race to transfer levels of a temple from one of three stations to another. They must move the levels one at a time, with the added stipulation that larger levels cannot be placed on top of smaller levels. The first tribe to completely move the structure over to the final station in the correct order would win the challenge. The challenge was modified for re-use in season 23 as a tribal challenge in a similar vein to Hero Duels, including a brief obstacle course section before the puzzle, and the puzzle itself being downsized to fit on tables.",
   "airings": [
    {
@@ -32042,7 +32042,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Ball Drop",
-  "description": "A recurring balance challenge",
+  "description": "A balance challenge",
   "rules": "Each castaway must balance a small metal ball on a wooden cylinder, while holding the center cylinder in place with two wooden handles. The cylinder itself is divided into nine sections, with the single, center cylinder making up the first stage. At predetermined intervals, new pieces of the wooden rod will be added on either end, making it harder to balance the ball on the center cylinder, until all nine sections have been added, making a total of five stages. The castaway who balances their ball the longest wins.",
   "airings": [
    {
@@ -32126,7 +32126,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Cruel Sea",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "One person from each tribe will swim out, then race up a platform, dive into the water, retrieve a ring, and bring it back. The next person from the tribe will then do the same. Once a tribe has collected all their rings, two tribe members will attempt to land those rings on posts. The first tribe to finish wins.",
   "airings": [
    {
@@ -32194,7 +32194,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Game is Afoot",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "Using only their feet, castaways must unwind a rope to release blocks of different sizes that they will use to assemble a three-tiered tower, although they may use their hands to pick up any fallen pieces to return them to the basket. Once the tower is assembled, they must place a flag in the middle of the tower. The first castaway to do so wins. In season 29 and season 35, each tier consisted of seven blocks. In season 31 and season 41, there were eight blocks per tier.",
   "airings": [
    {
@@ -32253,7 +32253,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Gauntlet",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "One at a time, contestants traverse an obstacle course (containing obstacles such as wobbly or floating bridges, rolling barrels, stepping-stones, balance-beams and rope-lines). As they do so, members of the opposite tribe attempt to knock the contestants off the course by swinging large canvas bags at them. If a contestant falls off the course, they must return to the beginning. At the end of the course, the castaway collects a pennant, which they then return to their tribe mat by way of the obstacle course. The first tribe to collect a given number of pennants wins the challenge.",
   "airings": [
    {
@@ -32326,7 +32326,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Home Stretch",
-  "description": "A recurring obstacle course challenge",
+  "description": "An obstacle course challenge",
   "rules": "The castaways must each race under a net crawl and make their way to a table where they must slide tiles into a target. Once all the tiles are through, they must use a machete to transport those tiles over a teeter-totter and balance beam to the finish table. They must then sort the tiles into pairs. Three of the tiles will not match up. Those three hold the code to a combination that will unlock their box. The first person to unlock their box and raise their flag wins. In season 38, it was more similar to its original season 30 counterpart (sans the net crawl), though the letter tiles were now transported with two handles, and the challenge instead ended with a word puzzle in which the tiles must be used to spell out a phrase.",
   "airings": [
    {
@@ -32378,7 +32378,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Maze",
-  "description": "A recurring physical and mental challenge",
+  "description": "A physical and mental challenge",
   "rules": "The contestants (sometimes in tribes, but usually individually) head into a labyrinth of passages, corridors, and turns. They have to reach a certain number of checkpoints either in order or any order they wish, collecting an item at each one. After they collect all their items, contestants must find their way out of the maze. Mazes have also been done where the castaways are blindfolded, called Braille Maze.",
   "airings": [
    {
@@ -32518,7 +32518,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Obstacle Course",
-  "description": "A recurring physical and mental challenge",
+  "description": "A physical and mental challenge",
   "rules": "Castaways must race through a series of physical and mental obstacles. The first tribe, team, or individual to complete the course wins.",
   "airings": [
    {
@@ -33103,7 +33103,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Octopus Puzzle",
-  "description": "A recurring water and puzzle challenge",
+  "description": "A water and puzzle challenge",
   "rules": "Teams must reconstruct a figure representing an octopus using 11 ropes of different sizes by following the imprint made on a table. To do this, they must retrieve their table from the sea at a depth of 2.4m, collect the bags with the pieces of rope and bring them back to the beach. The first team to complete the puzzle wins.",
   "airings": [
    {
@@ -33146,7 +33146,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Stick",
-  "description": "A recurring challenge testing the contestants' reflexes",
+  "description": "A challenge testing the contestants' reflexes",
   "rules": "Two opponents will compete head-to-head in a test of reflexes. They will stand facing a table which contains a mechanism that will release a stick. The host will then activate the mechanism, causing the stick to project upwards through a hole. The first person to grab that stick cleanly scores a point. If the stick falls to the ground, the round is voided. The first tribe or individual to score three points wins.",
   "airings": [
    {
@@ -33177,7 +33177,7 @@ const CHALLENGES = [
  },
  {
   "name": "The Traps",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Contestants in each team must retrieve 8 buoys attached to ropes tied in the water. Once all the buoys have been retrieved, teams have to pull the heavy net, weighing between 80 and 150&nbsp;kg, from the bottom of the water.",
   "airings": [
    {
@@ -33246,7 +33246,7 @@ const CHALLENGES = [
  },
  {
   "name": "This Much",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "With their arms outstretched, the castaways must support two discs against two posts with only their fingertips. If they drop their discs, they are out of the challenge. The last person left standing wins immunity. In season 32, the discs were weighted down by ceramic pots, while in season 35, the discs were weighted by brass wind chimes. The discs were also noticeably larger in comparison to their Kaôh Rōng counterparts.",
   "airings": [
    {
@@ -33449,7 +33449,7 @@ const CHALLENGES = [
  },
  {
   "name": "Thrash, Splash & Bash",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Teams would race through a series of obstacles until they reached a drawbridge. Upon untying the drawbridge, a contestant would then chop through a piece of rope, releasing a series of lettered blocks. A select number of tribe members would then arrange these blocks to form a phrase. The first tribe to decipher the correct phrase from the letters would win.",
   "airings": [
    {
@@ -33560,7 +33560,7 @@ const CHALLENGES = [
  },
  {
   "name": "Torched",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each player will select three places on a coordinated board to hide their ship, with each ship being placed in a row. Players will then take turns selecting coordinates on the board to try and knock out their opponents. When a player has all three spots for their ship knocked out, they will be eliminated from the challenge. The last player left standing wins.",
   "airings": [
    {
@@ -33594,7 +33594,7 @@ const CHALLENGES = [
  },
  {
   "name": "Total Recall",
-  "description": "A recurring memory challenge",
+  "description": "A memory challenge",
   "rules": "The castaways will be challenged to observe an event or location. Afterwards, the host will ask a series of questions testing their recall of what they have observed.",
   "airings": [
    {
@@ -33659,7 +33659,7 @@ const CHALLENGES = [
  },
  {
   "name": "Tracks of My Tears",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "The castaways must race up to a tower, where they have to pull a cart to the top of the tower. They will then careen down in the cart to the bottom of the tower. After, they must solve a puzzle. The first tribe to solve the puzzle will win.",
   "airings": [
    {
@@ -33705,7 +33705,7 @@ const CHALLENGES = [
  },
  {
   "name": "Tribal Tiles",
-  "description": "A recurring puzzle challenge",
+  "description": "A puzzle challenge",
   "rules": "Each tribe will assign one member to be a caller. The caller will guide the rest of the tribe to solve a 4-by-4 puzzle so that there are no repeating symbols or colors in any row or column. The first tribe to solve the puzzle will win.",
   "airings": [
    {
@@ -33752,7 +33752,7 @@ const CHALLENGES = [
  },
  {
   "name": "Tricky Transfer",
-  "description": "A recurring team dexterity challenge",
+  "description": "A team dexterity challenge",
   "rules": "Holding on to ropes connected to a disc-shaped platform, teams of contestants will attempt to balance a ball on the disc as they move to an end post. In , the first team to place their ball on the final post wins the challenge. In , the teams had to get a total of four balls to the end, which they will then use to shoot hoops.",
   "airings": [
    {
@@ -33808,7 +33808,7 @@ const CHALLENGES = [
  },
  {
   "name": "Troubled Water",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Castaways must race across a series of obstacles situated in the water. If they fall off an obstacle, they have to restart the obstacle from the beginning. When they reach the end of the course, they will obtain an item, then head back across the course to shore. The first person to finish the course (and in some cases, solve a puzzle with the obtained item) wins the challenge.",
   "airings": [
    {
@@ -33850,7 +33850,7 @@ const CHALLENGES = [
  },
  {
   "name": "Trunk Challenge",
-  "description": "A recurring skill challenge",
+  "description": "A skill challenge",
   "rules": "Each tribe will tie up a trunk using a rope with the objective of tying the most difficult knots to open. The opposing tribe will then carry the trunk along an obstacle course and attempt to open it. The first tribe to open their trunk wins.",
   "airings": [
    {
@@ -33929,7 +33929,7 @@ const CHALLENGES = [
  },
  {
   "name": "Unchained Medley",
-  "description": "A recurring dexterity and balance challenge",
+  "description": "A dexterity and balance challenge",
   "rules": "Castaways will hold a ball on a disc by the handle and balance it as they make their way across a series of obstacles. After bringing all their balls to the finish, the castaways may proceed to a final task. The first individual or team to complete that task wins.",
   "airings": [
    {
@@ -33965,7 +33965,7 @@ const CHALLENGES = [
  },
  {
   "name": "Uncomfortably Numb",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Each person will balance their feet on a very narrow perch adjusted for their height while holding a handle above their head. If at any point, they let go of the handle or a foot comes off the perch, they are out of the challenge. The last person left standing wins. In season 41, in order to increase the difficulty of the challenge, there was an additional rule that the person's back must maintain contact with the stand.",
   "airings": [
    {
@@ -34092,7 +34092,7 @@ const CHALLENGES = [
  },
  {
   "name": "United We Stand",
-  "description": "A recurring teamwork challenge",
+  "description": "A teamwork challenge",
   "rules": "Played in shallow water, each tribe uses a platform attached to a long pole (sometimes assembled in-challenge as a puzzle component) to transfer members of their tribe from one high platform to another. Once these teammates have reached the final platform, all members of the tribe must climb up to a smaller platform and fit onto the tower with their feet above the highest deck to win the challenge.",
   "airings": [
    {
@@ -34318,7 +34318,7 @@ const CHALLENGES = [
  },
  {
   "name": "Vampire Bats",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "The castaways have to hang on a bar for as long as they can without falling. Last person left hanging wins. In Redemption Island, the castaways are suspended over a pool of water and, after the 20-minute mark, must use only their legs for support.",
   "airings": [
    {
@@ -34642,7 +34642,7 @@ const CHALLENGES = [
  },
  {
   "name": "Vertically Challenged",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Castaways must race up a series of steps to the top of a tower and retrieve a bag of puzzle pieces/a key. Once retrieved, they would race down a large slide to the bottom of the tower and place their bag/key at their puzzle station, and head back for the next one. Once all the bags/keys were collected, they would use them to build a vertical puzzle. The first person to finish the puzzle wins.",
   "airings": [
    {
@@ -34704,7 +34704,7 @@ const CHALLENGES = [
  },
  {
   "name": "Vertigo",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "In season 12, contestants would stand on the top of a perch over the water. Upon starting the challenge, they would toss a bucket into the ocean and collect water which would then be poured into a bamboo chute, causing a flag to rise. The first person to grab their flag would win. In season 16, the initial format remains similar but the flag is now replaced with a key. After retrieving the key, contestants would then jump off their perch and swim to shore where they would use the key to unlock a box of ladder rungs. The rest of the challenge then played out using the rules of Great Escape Run. The first person to raise their flag would win. In season 28, season 34, and season 37, after retrieving the key, contestants would then jump off their perch and swim to shore where they would use the key to unlock a series of puzzle pieces. The first person to solve their puzzle would win.",
   "airings": [
    {
@@ -34801,7 +34801,7 @@ const CHALLENGES = [
  },
  {
   "name": "Walk the Plank",
-  "description": "A recurring balance and endurance challenge",
+  "description": "A balance and endurance challenge",
   "rules": "The contestants will stand on a bundle of planks; at regular intervals, one plank will be removed until the contestants are balancing on only one plank. The last person left standing wins.",
   "airings": [
    {
@@ -35384,7 +35384,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wall to Wall",
-  "description": "A recurring Survivor challenge",
+  "description": "",
   "rules": "In the challenge, the castaways must use a wooden peg to navigate a maze table. The first person to finish the maze and complete the final objective wins the challenge.",
   "airings": [
    {
@@ -35425,7 +35425,7 @@ const CHALLENGES = [
  },
  {
   "name": "Water Torture",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "In season 1, one man from each tribe would hold weight on poles until they could no longer do so. Due to the challenge going unaired, it currently unknown if the polebearers had to simply hold a set weight for as long as they could or if their was a method for increasing the weight of the poles similar to later seasons. When used in season 2, one man from each tribe was chosen to be the designated water bearer who would hold weight in water from the other tribe until the weight became too much to bear. Starting in season 7 and since, three members from each tribe will have a pole across their shoulders. Each round, weight (20&nbsp;lbs.) will be added to that pole. The decision about which tribe member gets the weight will be made by the other tribe. When the weight becomes too much to bear, the tribe member will drop the pole and be out of the challenge. Last person left standing wins reward or immunity for their tribe. Starting in season 18, a requirement was added that two men and one woman must compete in this challenge. This requirement was kept for season 23.",
   "airings": [
    {
@@ -35620,7 +35620,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wear My Ring",
-  "description": "A recurring team challenge",
+  "description": "A team challenge",
   "rules": "Each tribe will paddle to shore on a boat while retrieving a key along the way. On shore, one member of each tribe must unlock a set of rings that every tribe member must fling off a tall pole. Once all the rings are off, the tribes must dig under a log to reach the finish line. Here, one tribe member will throw the rings, attempting to land them on the pole.",
   "airings": [
    {
@@ -35660,7 +35660,7 @@ const CHALLENGES = [
  },
  {
   "name": "Well Stacked",
-  "description": "A recurring balancing challenge",
+  "description": "A balancing challenge",
   "rules": "The castaways have to cross an obstacle course, gather wooden blocks, and stack them into a tower. The first tribe to finish stacking their tower wins.",
   "airings": [
    {
@@ -35844,7 +35844,7 @@ const CHALLENGES = [
  },
  {
   "name": "What-er Drag",
-  "description": "A recurring water challenge",
+  "description": "A water challenge",
   "rules": "Castaways must race across a floating bridge to the end of the course while pulling a rope being woven out by a wench. When they reach the end of the course, they would grab either a bag of puzzle strips or clip themselves onto a puzzle piece. The tribe will then pull that person back by cranking the winch (in season 25 the castaways did not use either a floating bridge or a winch). Once all the puzzle pieces are back, tribe members will solve the puzzle.",
   "airings": [
    {
@@ -36107,7 +36107,7 @@ const CHALLENGES = [
  },
  {
   "name": "When It Rains, It Pours",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways will have one arm above their head with their wrist tethered to a bucket of water on top of a platform. The castaway who could stand there the longest without tipping the bucket would win. At random points during the challenge, the host may tempt the contestants with food items. They would get the food item only if they step down. Starting from season 20, players would have to balance on a narrow perch while trying to maintain their balance at the same time. In season 40, castaways were not allowed to support their tethered arm with their free hand. In season 37, the challenge was reformatted to be a team challenge. The six members in each team must hold up eight sandbags, each weighing 10 pounds. Every 15 minutes, one member must drop out and their sandbag must be carried by another member. The first person to drop a sandbag loses for their team.",
   "airings": [
    {
@@ -36388,7 +36388,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wicker Flicker",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Each tribe selects a given number of people to shoot balls from a slingshot into an open field. The remaining contestants spread out to designated locations and compete to catch the balls with either wicker baskets, a handheld net, or their bare hands. Every time a ball is caught (including balls fired by the opposing tribe) that tribe scores a point, and the first tribe to reach a given score wins the challenge.",
   "airings": [
    {
@@ -36567,7 +36567,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wild Water Wheel",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Tribes nominate one member to try to outlast the other with their arms and legs crossed holding onto a large spinning wheel. As the contestants hold on, the wheel will accelerate slightly with each revolution. The first tribe member to be thrown off the wheel loses the challenge. This challenge is susceptible to ending in a tie, especially when contestants suffer injuries. However, since the show covered the bare wood with foam in 2021 this has been less likely to happen.",
   "airings": [
    {
@@ -36626,7 +36626,7 @@ const CHALLENGES = [
  },
  {
   "name": "Will It Go Round",
-  "description": "A recurring concentration challenge",
+  "description": "A concentration challenge",
   "rules": "While standing on a balance beam, castaways must keep a ball spinning within a wheel using centrifugal force. At regular intervals, the castaways will be made to step forward onto narrower parts of their beam. If at any point the ball drops or they fall off their beam, the castaway loses the challenge. The last castaway standing wins.",
   "airings": [
    {
@@ -36706,7 +36706,7 @@ const CHALLENGES = [
  },
  {
   "name": "Will Power",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "While holding an object above their heads, each tribe member will stand on top of a wooden perch. The last person left standing without dropping their object or losing their balance wins.",
   "airings": [
    {
@@ -36752,7 +36752,7 @@ const CHALLENGES = [
  },
  {
   "name": "Witch Hunt",
-  "description": "A recurring memory challenge",
+  "description": "A memory challenge",
   "rules": "The host begins the challenge by telling the castaways a story about local folklore. When the story is ended, the castaways run to stations where they will be asked a question about the story they just heard. Answering the question correctly would allow the contestant to collect an item, while giving an incorrect answer would force the castaway to complete a task (typically discarding a pointless item) before they are able to return to the station and answer the question correctly. The first person to get back to the starting point with all their items would win.",
   "airings": [
    {
@@ -36888,7 +36888,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wizard's Staff",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "The castaways will begin by transporting an object upon a pole across a balance beam. They will then pick up a long pole, which they will maneuver across a wiry maze. Once they are done with the maze, they will proceed to a final task. In the challenge's debut in season 33, the contestants had to transport ten discs over a balance beam and then through a wire maze. After they had all ten discs at the finishing podium, they had to roll the ten discs through a slot. The first person to land all ten discs in their compartment wins. In season 47, the contestants used the pole to push two skulls across a table, after which they would move on to complete the table maze from Paddle Out.",
   "airings": [
    {
@@ -36920,7 +36920,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wobbly Boots",
-  "description": "A recurring challenge",
+  "description": "",
   "rules": "Each player stands on a platform mounted on a loose ball joint while holding two ropes for balance. At set intervals, players must release their grip on the ropes, making it more difficult to stay upright. The last player remaining on the platform wins.",
   "airings": [
    {
@@ -36955,7 +36955,7 @@ const CHALLENGES = [
  },
  {
   "name": "Wrist Assured",
-  "description": "A recurring endurance challenge",
+  "description": "An endurance challenge",
   "rules": "Castaways hold on to a handle with a rope wrapped around it. At the end of the rope is a bucket that contains a percentage of the contestant's body weight before the game began. The last castaway remaining in the challenge wins.",
   "airings": [
    {
@@ -37076,7 +37076,7 @@ const CHALLENGES = [
  },
  {
   "name": "Yank Your Hank",
-  "description": "A recurring physical challenge",
+  "description": "A physical challenge",
   "rules": "Members from each tribe would race across a series of wooden A-frames carrying three coils of rope. At the end of the course, a few members would use the rope to pull a heavy wooden crate across a ramp and up to the finish platform. The remaining tribe members would then disassemble the crate and use the puzzle pieces to solve a puzzle. The first tribe to solve their puzzle would win. Beginning in season 31, only two tribe members may work on the puzzle at a time, but they may switch out at any point with any member of the tribe.",
   "airings": [
    {
@@ -37175,7 +37175,7 @@ const CHALLENGES = [
  },
  {
   "name": "You Shook Me",
-  "description": "A recurring dexterity challenge",
+  "description": "A dexterity challenge",
   "rules": "Castaways must stack letter blocks on a wobbly platform to spell out designated words. When returning to their station to collect more blocks, they must first lock in their mechanism. If any blocks fall, they must lock in their mechanism before picking up the fallen blocks, return them to their station, and start over. The first castaway to correctly spell the designated words without any upside-down letters and lock in their mechanism wins.",
   "airings": [
    {
@@ -37223,7 +37223,7 @@ const CHALLENGES = [
  },
  {
   "name": "Your Time Is Up",
-  "description": "A recurring mental challenge",
+  "description": "A mental challenge",
   "rules": "The contestants are challenged to estimate a set duration. The person that makes the most accurate estimate wins.",
   "airings": [
    {
