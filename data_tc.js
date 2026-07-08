@@ -3353,7 +3353,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 3,
@@ -4522,7 +4522,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 8,
@@ -4530,7 +4530,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 10,
@@ -4538,7 +4538,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 9,
@@ -4546,7 +4546,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 11,
@@ -4554,7 +4554,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 12,
@@ -4562,7 +4562,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 14,
@@ -4570,7 +4570,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 10,
@@ -4578,7 +4578,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 13,
@@ -4586,7 +4586,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": 5,
@@ -4594,7 +4594,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 12,
@@ -6097,7 +6097,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": 1,
@@ -6955,7 +6955,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -8471,7 +8471,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 3,
@@ -8499,7 +8499,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 4,
@@ -8667,7 +8667,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 9,
@@ -8755,7 +8755,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 7,
@@ -8783,7 +8783,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 8,
@@ -8791,7 +8791,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": 4,
@@ -9821,7 +9821,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 1,
@@ -9841,7 +9841,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 2,
@@ -9861,7 +9861,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 3,
@@ -9881,7 +9881,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 4,
@@ -9901,7 +9901,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 5,
@@ -9921,7 +9921,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 6,
@@ -9941,7 +9941,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 101,
     "label": "All Stars 1",
     "episode": 7,
@@ -9961,7 +9961,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 1,
@@ -9981,7 +9981,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 4,
@@ -10001,7 +10001,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 5,
@@ -10021,7 +10021,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 6,
@@ -10041,7 +10041,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 7,
@@ -10061,7 +10061,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 8,
@@ -10081,7 +10081,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": 9,
@@ -10101,7 +10101,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 1,
@@ -10137,7 +10137,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 2,
@@ -10157,7 +10157,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 3,
@@ -10177,7 +10177,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 5,
@@ -10197,7 +10197,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 6,
@@ -10217,7 +10217,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 7,
@@ -10237,7 +10237,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 8,
@@ -10257,7 +10257,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": 9,
@@ -10277,7 +10277,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 1,
@@ -10297,7 +10297,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 2,
@@ -10317,7 +10317,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 3,
@@ -10337,7 +10337,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 4,
@@ -10357,7 +10357,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 5,
@@ -10377,7 +10377,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 6,
@@ -10397,7 +10397,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 7,
@@ -10417,7 +10417,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 8,
@@ -10437,7 +10437,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 9,
@@ -10457,7 +10457,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": 10,
@@ -10477,7 +10477,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 1,
@@ -10497,7 +10497,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 2,
@@ -10517,7 +10517,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 3,
@@ -10537,7 +10537,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 4,
@@ -10557,7 +10557,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 5,
@@ -10577,7 +10577,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 6,
@@ -10597,7 +10597,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 7,
@@ -10617,7 +10617,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 8,
@@ -10637,7 +10637,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 9,
@@ -10645,7 +10645,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 1,
@@ -10665,7 +10665,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 10,
@@ -10685,7 +10685,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 121,
     "label": "USA 1",
     "episode": 11,
@@ -10705,7 +10705,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 1,
@@ -10725,7 +10725,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 2,
@@ -10745,7 +10745,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 3,
@@ -10765,7 +10765,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 4,
@@ -10785,7 +10785,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 5,
@@ -10805,7 +10805,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 6,
@@ -10825,7 +10825,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 7,
@@ -10845,7 +10845,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 8,
@@ -10865,7 +10865,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 9,
@@ -10885,7 +10885,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 10,
@@ -10905,7 +10905,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 11,
@@ -10925,7 +10925,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 12,
@@ -10945,7 +10945,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": 13,
@@ -10965,7 +10965,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 2,
@@ -10985,7 +10985,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 5,
@@ -11005,7 +11005,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": 6,
@@ -11013,7 +11013,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": 3,
@@ -11033,7 +11033,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 1,
@@ -11053,7 +11053,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 3,
@@ -11073,7 +11073,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 5,
@@ -11093,7 +11093,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 7,
@@ -11113,7 +11113,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 9,
@@ -11133,7 +11133,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": 11,
@@ -11153,7 +11153,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": 2,
@@ -11173,7 +11173,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 1,
@@ -11193,7 +11193,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 2,
@@ -11213,7 +11213,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 4,
@@ -11233,7 +11233,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 5,
@@ -11253,7 +11253,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 6,
@@ -11273,7 +11273,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 7,
@@ -11293,7 +11293,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 8,
@@ -11313,7 +11313,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 9,
@@ -11333,7 +11333,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 10,
@@ -11353,7 +11353,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": 11,
@@ -11761,7 +11761,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -11769,7 +11769,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -11777,7 +11777,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": null,
@@ -11973,7 +11973,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -12163,7 +12163,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -12171,7 +12171,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -12179,7 +12179,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -12315,7 +12315,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -13523,7 +13523,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -13721,7 +13721,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -13729,7 +13729,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -13737,7 +13737,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -14233,7 +14233,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -14241,7 +14241,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -14249,7 +14249,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": null,
@@ -14341,7 +14341,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -14900,7 +14900,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -16041,7 +16041,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -16155,7 +16155,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -16227,7 +16227,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -16235,7 +16235,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": null,
@@ -17713,7 +17713,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -17735,7 +17735,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -17757,7 +17757,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -17779,7 +17779,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 102,
     "label": "All Stars 2",
     "episode": null,
@@ -17801,7 +17801,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17824,7 +17824,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17844,7 +17844,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17866,7 +17866,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17888,7 +17888,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17908,7 +17908,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17928,7 +17928,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 103,
     "label": "All Stars 3",
     "episode": null,
@@ -17948,7 +17948,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -17968,7 +17968,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -17988,7 +17988,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18010,7 +18010,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18032,7 +18032,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18054,7 +18054,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18076,7 +18076,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18098,7 +18098,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 104,
     "label": "All Stars 4",
     "episode": null,
@@ -18121,7 +18121,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18141,7 +18141,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18163,7 +18163,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18185,7 +18185,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18207,7 +18207,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18229,7 +18229,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18249,7 +18249,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18271,7 +18271,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18293,7 +18293,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18313,7 +18313,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18335,7 +18335,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18357,7 +18357,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18365,7 +18365,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -18387,7 +18387,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18395,7 +18395,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -18417,7 +18417,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18425,7 +18425,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -18433,7 +18433,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "UK",
     "season": 133,
     "label": "UK",
     "episode": null,
@@ -18453,7 +18453,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCAS",
     "season": 105,
     "label": "All Stars 5",
     "episode": null,
@@ -18461,7 +18461,7 @@ const TC_CHALLENGES = [
     "winners": []
    },
    {
-    "country": "TC",
+    "country": "AU",
     "season": 131,
     "label": "Australia",
     "episode": null,
@@ -18483,7 +18483,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18503,7 +18503,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18525,7 +18525,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18547,7 +18547,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18569,7 +18569,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18589,7 +18589,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "AR",
     "season": 132,
     "label": "Argentina",
     "episode": null,
@@ -18611,7 +18611,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18633,7 +18633,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18655,7 +18655,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18675,7 +18675,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18695,7 +18695,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18719,7 +18719,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18741,7 +18741,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "WC",
     "season": 134,
     "label": "World Championship",
     "episode": null,
@@ -18761,7 +18761,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18781,7 +18781,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18803,7 +18803,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18823,7 +18823,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18843,7 +18843,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18867,7 +18867,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18890,7 +18890,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18910,7 +18910,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18932,7 +18932,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18952,7 +18952,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18972,7 +18972,7 @@ const TC_CHALLENGES = [
   "elements": [],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,
@@ -18994,7 +18994,7 @@ const TC_CHALLENGES = [
   ],
   "airings": [
    {
-    "country": "TC",
+    "country": "TCUSA",
     "season": 122,
     "label": "USA 2",
     "episode": null,

@@ -91,6 +91,17 @@ TAB_SEASONS = dict(
 )
 
 
+def edition(idx):
+    """Filter code for a season: MTV flagship/Champs, All Stars, USA, or country."""
+    if idx in (131, 132, 133, 134):
+        return {131: "AU", 132: "AR", 133: "UK", 134: "WC"}[idx]
+    if 101 <= idx <= 105:
+        return "TCAS"
+    if 121 <= idx <= 122:
+        return "TCUSA"
+    return "TC"
+
+
 def short_label(idx):
     title = SEASONS[idx]
     for pre in ("Real World/Road Rules Challenge: ", "Real World/Road Rules ",
@@ -177,7 +188,7 @@ def parse_dailies(text, season_idx):
                         fmt = "Team"
         if name and 1 < len(name) < 60 and not re.search(r"[{}=]|wikitable", name):
             dailies.append({
-                "country": "TC", "season": season_idx, "label": short_label(season_idx),
+                "country": edition(season_idx), "season": season_idx, "label": short_label(season_idx),
                 "episode": g["episode"],
                 "type": f"Daily Challenge ({fmt})" if fmt else "Daily Challenge",
                 "winners": [],
@@ -205,7 +216,7 @@ def parse_eliminations():
                 desc, re.I) else "1v1"
             games.append({
                 "name": name, "description": desc,
-                "airing": {"country": "TC", "season": season_idx,
+                "airing": {"country": edition(season_idx), "season": season_idx,
                            "label": short_label(season_idx), "episode": None,
                            "type": f"Elimination ({fmt})", "winners": []},
             })

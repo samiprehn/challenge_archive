@@ -77,7 +77,6 @@ h1 .lit {
 }
 .seg { display: flex; border: 1px solid var(--card-edge); border-radius: 999px; overflow: hidden; }
 .seg.shows { border-color: var(--ember-deep); }
-.toolbar.tc-only .countries { display: none; }
 .chip[hidden] { display: none; }
 .seg button {
   font: 600 14px var(--sans); letter-spacing: .06em; text-transform: uppercase;
@@ -273,10 +272,12 @@ const COUNTRY_NAMES = {
   QC: "Quebec", NZ: "New Zealand", SE: "Sweden", UK: "United Kingdom",
   DK: "Denmark", NO: "Norway", MX: "Mexico", NL: "Netherlands", ES: "Spain",
   FI: "Finland", PH: "Philippines", DE: "Germany", RU: "Russia",
+  TC: "MTV Challenge", TCAS: "Challenge All Stars", TCUSA: "Challenge USA",
+  AR: "Argentina", WC: "World Championship",
 };
 const DATA = CHALLENGES.map(c => ({ show: "survivor", ...c })).concat(TC_CHALLENGES);
 DATA.forEach((c, i) => c._i = i);
-const seasonName = (a) => a.country === "TC"
+const seasonName = (a) => a.label
   ? `The Challenge: ${a.label}`
   : a.country === "US"
   ? (SEASONS[a.season] ? `Survivor: ${SEASONS[a.season]}` : `Survivor ${a.season}`)
@@ -320,18 +321,22 @@ const countryCounts = {};
 for (const c of DATA) for (const a of c.airings)
   countryCounts[a.country] = (countryCounts[a.country] || 0) + 1;
 const COUNTRY_ORDER = Object.keys(countryCounts).sort((x, y) => countryCounts[y] - countryCounts[x]);
-const CHIP_COUNTRIES = COUNTRY_ORDER.filter(cc => cc !== "TC");
+const CHIP_COUNTRIES = COUNTRY_ORDER;
+// which shows each code appears in, so chips can hide when the other show is selected
+const codeShows = {};
+for (const c of DATA) for (const a of c.airings)
+  (codeShows[a.country] = codeShows[a.country] || new Set()).add(c.show);
+const realCountries = COUNTRY_ORDER.filter(cc => !["TC", "TCAS", "TCUSA", "WC"].includes(cc));
 $("#stats").innerHTML = `
   <div class="stat"><b>${DATA.length}</b><span>challenges</span></div>
   <div class="stat"><b>${totalAirings.toLocaleString()}</b><span>times run</span></div>
-  <div class="stat"><b>${CHIP_COUNTRIES.length}</b><span>countries</span></div>`;
+  <div class="stat"><b>${realCountries.length}</b><span>countries</span></div>`;
 
 /* controls */
 $("#showSeg").addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return;
   document.querySelectorAll("#showSeg button").forEach(x => x.classList.toggle("on", x === b));
   state.show = b.dataset.s;
-  document.querySelector(".toolbar").classList.toggle("tc-only", state.show === "tc");
   // hide kind chips that don't apply to the selected show, and drop their selections
   document.querySelectorAll("#kindChips .chip").forEach(ch => {
     const applies = state.show === "all" || ch.dataset.show === state.show;
@@ -341,10 +346,15 @@ $("#showSeg").addEventListener("click", e => {
       ch.classList.remove("on");
     }
   });
-  if (state.show === "tc") {
-    state.countries.clear();
-    document.querySelectorAll("#countryChips .chip.on").forEach(ch => ch.classList.remove("on"));
-  }
+  // same for country/edition chips
+  document.querySelectorAll("#countryChips .chip").forEach(ch => {
+    const applies = state.show === "all" || codeShows[ch.dataset.c]?.has(state.show);
+    ch.hidden = !applies;
+    if (!applies && state.countries.has(ch.dataset.c)) {
+      state.countries.delete(ch.dataset.c);
+      ch.classList.remove("on");
+    }
+  });
   render();
 });
 $("#countryChips").innerHTML = CHIP_COUNTRIES.map(cc =>
@@ -463,7 +473,7 @@ function openModal(i) {
     COUNTRY_ORDER.indexOf(x.country) - COUNTRY_ORDER.indexOf(y.country) ||
     x.season - y.season || (x.episode || 0) - (y.episode || 0));
   const rows = sorted.map(a => `<tr>
-      <td class="season">${seasonName(a)}<small>${a.country === "TC" ? "" : `Season ${a.season}`}${a.episode ? `${a.country === "TC" ? "" : " · "}Episode ${a.episode}` : ""}</small></td>
+      <td class="season">${seasonName(a)}<small>${a.label ? "" : `Season ${a.season}`}${a.episode ? `${a.label ? "" : " · "}Episode ${a.episode}` : ""}</small></td>
       <td class="ctype">${esc(a.type)}</td>
       <td>${a.winners.length ? esc(a.winners.join(", ")) : "—"}</td>
     </tr>`).join("");
