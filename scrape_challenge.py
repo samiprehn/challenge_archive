@@ -137,7 +137,11 @@ EPISODE_CATS = {
 
 def infobox_image(text):
     m = re.search(r"\|\s*image\d?\s*=\s*([^|}\n]+)", text or "")
-    return m.group(1).strip() if m else ""
+    if not m:
+        return ""
+    raw = m.group(1).strip()
+    f = re.search(r"(?:File|Image):\s*([^|\]]+)", raw)
+    return f.group(1).strip() if f else raw
 
 
 def episode_stills():

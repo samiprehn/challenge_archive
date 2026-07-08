@@ -3006,7 +3006,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/4/43/In_the_barrel_Blood_vs._Water.jpg/revision/latest?cb=20131128030552"
  },
  {
   "name": "Barreling Along",
@@ -3343,7 +3343,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/Sabogashelter.jpg/revision/latest?cb=20070115035733"
  },
  {
   "name": "Beyond the Wheel",
@@ -5248,7 +5248,7 @@ const CHALLENGES = [
    "blindfold",
    "maze"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/9/9d/Amazonfinale.jpg/revision/latest?cb=20120410021645"
  },
  {
   "name": "Broken China",
@@ -5854,7 +5854,7 @@ const CHALLENGES = [
   "elements": [
    "eating"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/a/a6/S1e02_buggin_out.jpg/revision/latest?cb=20231014015011"
  },
  {
   "name": "Build It Up, Break It Down",
@@ -7217,7 +7217,7 @@ const CHALLENGES = [
    "climbing",
    "throwing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/2/22/Caught_in_the_web_danni.png/revision/latest?cb=20131215204906"
  },
  {
   "name": "Cell Block Sea",
@@ -8322,7 +8322,7 @@ const CHALLENGES = [
   "elements": [
    "memory"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/0031-s29_press_images_ep8_0031.jpg/revision/latest?cb=20141106233418"
  },
  {
   "name": "Choose Your Weapon",
@@ -10947,7 +10947,7 @@ const CHALLENGES = [
    "puzzle",
    "strength"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/S40E02_IC.jpg/revision/latest?cb=20200215182900"
  },
  {
   "name": "Dragging the River",
@@ -11191,7 +11191,7 @@ const CHALLENGES = [
   "elements": [
    "running"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/e/e8/End_line_australia.jpg/revision/latest?cb=20140104142313"
  },
  {
   "name": "Escape the Cage",
@@ -11477,7 +11477,7 @@ const CHALLENGES = [
    "memory",
    "trivia"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/f/f6/S1final4immunity.jpg/revision/latest?cb=20220412004846"
  },
  {
   "name": "Fast Fire",
@@ -12449,7 +12449,7 @@ const CHALLENGES = [
    "strength",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/S2FireandWater.jpg/revision/latest?cb=20130531011800"
  },
  {
   "name": "Flips, Flops, & Flags",
@@ -12771,7 +12771,7 @@ const CHALLENGES = [
    "puzzle",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/9/93/Jed_water.jpg/revision/latest?cb=20120416211530"
  },
  {
   "name": "Footbrawl",
@@ -13312,7 +13312,7 @@ const CHALLENGES = [
    "maze",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/Aparri_GC.png/revision/latest?cb=20140322155243"
  },
  {
   "name": "Get Barreled",
@@ -14667,7 +14667,7 @@ const CHALLENGES = [
   "elements": [
    "climbing"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Caramoan_fun_climb_erik.jpg/revision/latest?cb=20131116154054"
  },
  {
   "name": "Hands on a Hard Idol",
@@ -16246,7 +16246,7 @@ const CHALLENGES = [
   "elements": [
    "balance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/88/Idol_hands_tasha.jpg/revision/latest?cb=20140328000018"
  },
  {
   "name": "Invertigo",
@@ -17014,7 +17014,7 @@ const CHALLENGES = [
   "elements": [
    "balance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/Keep_It_Up_Gabon.png/revision/latest?cb=20130426002359"
  },
  {
   "name": "Keep on Your Toes",
@@ -20995,7 +20995,7 @@ const CHALLENGES = [
   "elements": [
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/89/S27_press_images_ep4_0021.jpg/revision/latest?cb=20131005033456"
  },
  {
   "name": "On the Pull",
@@ -22682,7 +22682,7 @@ const CHALLENGES = [
    "balance",
    "endurance"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/84/Pot_head_danni.png/revision/latest?cb=20140427002127"
  },
  {
   "name": "Pull Your Weight",
@@ -25965,7 +25965,7 @@ const CHALLENGES = [
    "strength",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/e/e0/KLS27_Ep4_Immunity_Challenge.jpg/revision/latest?cb=20230513123016"
  },
  {
   "name": "Rod Screw-It",
@@ -26577,7 +26577,7 @@ const CHALLENGES = [
    "maze",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/12/Vinaka_rusty_gates.png/revision/latest?cb=20220515095038"
  },
  {
   "name": "SOS Signal",
@@ -28799,7 +28799,7 @@ const CHALLENGES = [
    "obstacle",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/WTEB.jpg/revision/latest?cb=20130619182010"
  },
  {
   "name": "Snake in the Grass",
@@ -29043,7 +29043,7 @@ const CHALLENGES = [
    "maze",
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/d/de/Spin_cycle_eve.jpg/revision/latest?cb=20131125234807"
  },
  {
   "name": "Splash Back",
@@ -29533,7 +29533,7 @@ const CHALLENGES = [
   "elements": [
    "paddling"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/8/87/Amanda_james_jean-robert_sink_courtney.jpg/revision/latest?cb=20140909185759"
  },
  {
   "name": "Squared Off",
@@ -29786,7 +29786,7 @@ const CHALLENGES = [
    "running",
    "water"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/16/S28_press_images_ep5_0005.jpg/revision/latest?cb=20140324183256"
  },
  {
   "name": "Stairway to the Stars",
@@ -29827,7 +29827,7 @@ const CHALLENGES = [
   "elements": [
    "obstacle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/1/18/Stairway_to_the_stars_africa_samburu_wins.jpg/revision/latest?cb=20140716121319"
  },
  {
   "name": "Station by Station",
@@ -30611,7 +30611,7 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/4/4a/Survivorsumojaclynkelley.jpg/revision/latest?cb=20141005223330"
  },
  {
   "name": "Sunset Grill",
@@ -31443,7 +31443,7 @@ const CHALLENGES = [
   "elements": [
    "obstacle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/0/05/Cindy_car.jpg/revision/latest?cb=20120517210648"
  },
  {
   "name": "Survivor Quiz Show",
@@ -31694,7 +31694,7 @@ const CHALLENGES = [
   "elements": [
    "puzzle"
   ],
-  "image": ""
+  "image": "https://static.wikia.nocookie.net/survivor/images/d/dc/PIchallenge.png/revision/latest?cb=20150610114313"
  },
  {
   "name": "Swing Break",

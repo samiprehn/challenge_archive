@@ -287,7 +287,10 @@ def main():
         if not airings:
             continue
         rules = strip_markup(extract_section(text, "Rules"))
-        image = (info.get("image") or "").split("|")[0].strip()
+        # bare filename, or wrapped like [[File:name.jpg|250px]]
+        raw = info.get("image") or ""
+        m = re.search(r"(?:File|Image):\s*([^|\]]+)", raw)
+        image = (m.group(1) if m else raw.split("|")[0]).strip()
         if image:
             image_files.append(image)
         challenges.append({
