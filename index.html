@@ -316,6 +316,18 @@ const $ = s => document.querySelector(s);
 const modal = $("#modal");
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
+/* fandom CDN thumbnail; full image kept as a retry fallback (CDN throttles bursts) */
+const thumb = (u, w) => u.replace("/revision/latest?", `/revision/latest/scale-to-width-down/${w}?`);
+document.addEventListener("error", e => {
+  const img = e.target;
+  if (!(img instanceof HTMLImageElement) || !img.dataset.full) return;
+  if (img.src !== img.dataset.full) {
+    setTimeout(() => { img.src = img.dataset.full; }, 800 + Math.random() * 1500);
+  } else if (img.dataset.letter) {
+    img.outerHTML = `<div class="noimg">${esc(img.dataset.letter)}</div>`;
+  }
+}, true);
+
 /* stats */
 const countryCounts = {};
 for (const c of DATA) for (const a of c.airings)
@@ -417,7 +429,7 @@ const sorters = {
 
 function cardHTML({ c, va, formats, kinds, debut, latest }, i) {
   const img = c.image
-    ? `<img loading="lazy" src="${esc(c.image)}" alt="" onerror="this.outerHTML='<div class=noimg>${esc(displayName(c.name)[0])}</div>'">`
+    ? `<img loading="lazy" src="${esc(thumb(c.image, 480))}" data-full="${esc(c.image)}" data-letter="${esc(displayName(c.name)[0])}" alt="">`
     : `<div class="noimg">${esc(displayName(c.name)[0])}</div>`;
   const badges = [...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("") +
     [...kinds].sort().map(k => `<span class="badge kind">${k}</span>`).join("") +
@@ -472,7 +484,7 @@ function openModal(i) {
       <td>${a.winners.length ? esc(a.winners.join(", ")) : "—"}</td>
     </tr>`).join("");
   const { formats } = tagsOf(c, c.airings);
-  const hero = c.image ? `<div class="modal-hero"><img src="${esc(c.image)}" alt="${esc(displayName(c.name))}"><div class="shade"></div></div>` : "";
+  const hero = c.image ? `<div class="modal-hero"><img src="${esc(thumb(c.image, 960))}" data-full="${esc(c.image)}" alt="${esc(displayName(c.name))}"><div class="shade"></div></div>` : "";
   $("#modalContent").innerHTML = `${hero}
     <div class="modal-body">
       <div class="badges">${[...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("")}${c.elements.map(e => `<span class="badge elem">${e}</span>`).join("")}</div>
