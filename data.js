@@ -302,7 +302,12 @@ const CHALLENGES = [
     "episode": 6,
     "type": "Team Reward/Immunity (Earn the Merge)",
     "winners": [
-     "60px|link=Dwight Moore60px|link=Mike Gabler60px|link=Jeanine Zheng 60px|link=Jesse Lopez60px|link=Karla Cruz Godoy60px|link=Ryan Medrano Dwight, Gabler, Jeanine, Jesse, Karla, Ryan"
+     "Dwight Moore",
+     "Mike Gabler",
+     "Jeanine Zheng",
+     "Jesse Lopez",
+     "Karla Cruz Godoy",
+     "Ryan Medrano"
     ]
    }
   ],
@@ -706,14 +711,14 @@ const CHALLENGES = [
     "episode": 3,
     "type": "Tribal Reward/Immunity",
     "winners": [
-     "60px|link=Bi Nguyen",
-     "60px|link=Carl Boudreaux",
-     "60px|link=Christian Hubicki",
-     "60px|link=Davie Rickenbacker",
-     "60px|link=Elizabeth Olson",
-     "60px|link=Gabby Pascuzzi",
-     "60px|link=Lyrsa Torres",
-     "60px|link=Nick Wilson"
+     "Bi Nguyen",
+     "Carl Boudreaux",
+     "Christian Hubicki",
+     "Davie Rickenbacker",
+     "Elizabeth Olson",
+     "Gabby Pascuzzi",
+     "Lyrsa Torres",
+     "Nick Wilson"
     ]
    },
    {
@@ -832,8 +837,7 @@ const CHALLENGES = [
      "Julia Sokolowski",
      "Peter Baggenstos",
      "Scot Pollard",
-     "Tai Trang",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Tai Trang"
     ]
    }
   ],
@@ -1850,8 +1854,7 @@ const CHALLENGES = [
     "episode": 12,
     "type": "Individual Reward",
     "winners": [
-     "Terry Deitz",
-     "}|-|Australia="
+     "Terry Deitz"
     ]
    }
   ],
@@ -2998,8 +3001,7 @@ const CHALLENGES = [
      "Rupert Boneham",
      "Sandra Diaz-Twine",
      "Shawn Cohen",
-     "Trish Dunn",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Trish Dunn"
     ]
    }
   ],
@@ -4092,8 +4094,7 @@ const CHALLENGES = [
      "Kellyn Bechtold",
      "Morgan Ricke",
      "Sebastian Noel",
-     "Wendell Holland",
-     "}|-|Australia="
+     "Wendell Holland"
     ]
    }
   ],
@@ -4346,8 +4347,7 @@ const CHALLENGES = [
      "Sage Ahrens-Nichols",
      "Sophi Balerdi",
      "Sophie Segreti",
-     "Steven Ramm",
-     "}|-|Australia={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Steven Ramm"
     ]
    }
   ],
@@ -4417,8 +4417,7 @@ const CHALLENGES = [
     "episode": 10,
     "type": "Individual Immunity",
     "winners": [
-     "Davie Rickenbacker",
-     "}|-|Australia="
+     "Davie Rickenbacker"
     ]
    }
   ],
@@ -5310,8 +5309,7 @@ const CHALLENGES = [
      "Elizabeth Beisel",
      "Lauren Beck",
      "Missy Byrd",
-     "Tommy Sheehan",
-     "}|-|Australia="
+     "Tommy Sheehan"
     ]
    }
   ],
@@ -5420,8 +5418,7 @@ const CHALLENGES = [
      "Bret LaBelle",
      "Hannah Shapiro",
      "Sunday Burquest",
-     "Zeke Smith",
-     "} |-|France="
+     "Zeke Smith"
     ]
    }
   ],
@@ -5808,8 +5805,7 @@ const CHALLENGES = [
      "Cirie Fields",
      "Courtney Marit",
      "Danielle DiLorenzo",
-     "Shane Powers",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Shane Powers"
     ]
    }
   ],
@@ -6140,8 +6136,7 @@ const CHALLENGES = [
      "John Kenney",
      "Julie Berry",
      "Lea Masters",
-     "Twila Tanner",
-     "}|-|Australia={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Twila Tanner"
     ]
    }
   ],
@@ -6390,8 +6385,7 @@ const CHALLENGES = [
      "Dave Johnson",
      "Matthew von Ertfelda",
      "Rob Cesternino",
-     "Roger Sexton",
-     "}|-|Russia (Unofficial)={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Roger Sexton"
     ]
    }
   ],
@@ -6650,8 +6644,7 @@ const CHALLENGES = [
     "episode": 8,
     "type": "Individual Immunity",
     "winners": [
-     "Joe Anglim",
-     "}|-|South Africa="
+     "Joe Anglim"
     ]
    }
   ],
@@ -6675,8 +6668,7 @@ const CHALLENGES = [
     "episode": 12,
     "type": "Individual Immunity",
     "winners": [
-     "Terry Deitz",
-     "}|-|Australia="
+     "Terry Deitz"
     ]
    }
   ],
@@ -7013,8 +7005,7 @@ const CHALLENGES = [
      "Michael Snow",
      "Reynold Toepfer",
      "Shamar Thomas",
-     "Sherri Biethman",
-     "}|-|South Africa="
+     "Sherri Biethman"
     ]
    }
   ],
@@ -7634,13 +7625,13 @@ const CHALLENGES = [
     "type": "Team Reward",
     "winners": [
      "Cydney Gillon",
-     "Michele Fitzgerald",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Michele Fitzgerald"
     ]
    }
   ],
   "formats": [
    "individual",
+   "pairs",
    "teams"
   ],
   "kinds": [
@@ -7684,14 +7675,14 @@ const CHALLENGES = [
     "episode": 3,
     "type": "Tribal Reward/Immunity",
     "winners": [
-     "60px|link=Bi Nguyen",
-     "60px|link=Carl Boudreaux",
-     "60px|link=Christian Hubicki",
-     "60px|link=Davie Rickenbacker",
-     "60px|link=Elizabeth Olson",
-     "60px|link=Gabby Pascuzzi",
-     "60px|link=Lyrsa Torres",
-     "60px|link=Nick Wilson"
+     "Bi Nguyen",
+     "Carl Boudreaux",
+     "Christian Hubicki",
+     "Davie Rickenbacker",
+     "Elizabeth Olson",
+     "Gabby Pascuzzi",
+     "Lyrsa Torres",
+     "Nick Wilson"
     ]
    },
    {
@@ -7702,8 +7693,7 @@ const CHALLENGES = [
      "Jonathan Young",
      "Lindsay Dolashewich",
      "Maryanne Oketch",
-     "Omar Zaheer",
-     "}|-|Australia="
+     "Omar Zaheer"
     ]
    }
   ],
@@ -7760,8 +7750,7 @@ const CHALLENGES = [
     "episode": 10,
     "type": "Individual Immunity",
     "winners": [
-     "Nick Brown",
-     "}|-|Australia="
+     "Nick Brown"
     ]
    }
   ],
@@ -8052,8 +8041,7 @@ const CHALLENGES = [
      "Kelly Czarnecki",
      "Marcus Lehman",
      "Paloma Soto-Castillo",
-     "Sugar Kiper",
-     "}|-|Australia="
+     "Sugar Kiper"
     ]
    }
   ],
@@ -8383,8 +8371,7 @@ const CHALLENGES = [
      "Julie McGee",
      "Natalie Anderson",
      "Reed Kelly",
-     "Wes Nale",
-     "}|-|South Africa="
+     "Wes Nale"
     ]
    }
   ],
@@ -8570,8 +8557,7 @@ const CHALLENGES = [
     "episode": 7,
     "type": "Duel",
     "winners": [
-     "Matt Elrod",
-     "}|-|Australia="
+     "Matt Elrod"
     ]
    }
   ],
@@ -8623,8 +8609,7 @@ const CHALLENGES = [
     "episode": 8,
     "type": "Individual Reward",
     "winners": [
-     "Dave Johnson",
-     "} |-|France="
+     "Dave Johnson"
     ]
    }
   ],
@@ -8986,8 +8971,7 @@ const CHALLENGES = [
     "type": "Individual Immunity",
     "winners": [
      "John Fincher",
-     "Laura Morett",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Laura Morett"
     ]
    }
   ],
@@ -9804,8 +9788,7 @@ const CHALLENGES = [
     "episode": 11,
     "type": "Individual Reward/Immunity",
     "winners": [
-     "Drew Basile",
-     "}|-|Australia="
+     "Drew Basile"
     ]
    }
   ],
@@ -9971,8 +9954,7 @@ const CHALLENGES = [
     "episode": 13,
     "type": "Individual Immunity",
     "winners": [
-     "Wendell Holland",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Wendell Holland"
     ]
    }
   ],
@@ -10251,16 +10233,16 @@ const CHALLENGES = [
     "episode": 1,
     "type": "Tribal Reward",
     "winners": [
-     "60px|link=Abi-Maria Gomes",
-     "60px|link=Jeff Varner",
-     "60px|link=Kelley Wentworth",
-     "60px|link=Kelly Wiglesworth",
-     "60px|link=Peih-Gee Law",
-     "60px|link=Shirin Oskooi",
-     "60px|link=Spencer Bledsoe",
-     "60px|link=Terry Deitz",
-     "60px|link=Vytas Baskauskas",
-     "60px|link=Woo Hwang"
+     "Abi-Maria Gomes",
+     "Jeff Varner",
+     "Kelley Wentworth",
+     "Kelly Wiglesworth",
+     "Peih-Gee Law",
+     "Shirin Oskooi",
+     "Spencer Bledsoe",
+     "Terry Deitz",
+     "Vytas Baskauskas",
+     "Woo Hwang"
     ]
    },
    {
@@ -10747,8 +10729,7 @@ const CHALLENGES = [
     "episode": 11,
     "type": "Individual Reward",
     "winners": [
-     "Rupert Boneham",
-     "}|-|Australia="
+     "Rupert Boneham"
     ]
    }
   ],
@@ -11373,8 +11354,7 @@ const CHALLENGES = [
      "Jonathan Penner",
      "Ozzy Lusth",
      "Sundra Oakley",
-     "Yul Kwon",
-     "}|-|Australia="
+     "Yul Kwon"
     ]
    }
   ],
@@ -11698,8 +11678,7 @@ const CHALLENGES = [
      "Hali Ford",
      "Michaela Bradshaw",
      "Sierra Dawn Thomas",
-     "Troyzan Robertson",
-     "}|-|South Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Troyzan Robertson"
     ]
    }
   ],
@@ -11882,8 +11861,7 @@ const CHALLENGES = [
     "episode": 12,
     "type": "Individual Immunity",
     "winners": [
-     "Erik Reichenbach",
-     "}|-|Australia="
+     "Erik Reichenbach"
     ]
    }
   ],
@@ -13023,8 +13001,7 @@ const CHALLENGES = [
     "episode": 11,
     "type": "Individual Immunity",
     "winners": [
-     "Spencer Bledsoe",
-     "}|-|Quebec={|class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Spencer Bledsoe"
     ]
    }
   ],
@@ -13451,8 +13428,7 @@ const CHALLENGES = [
      "Corinne Kaplan",
      "Matty Whitmore",
      "Randy Bailey",
-     "Sugar Kiper",
-     "}|-|South Africa="
+     "Sugar Kiper"
     ]
    }
   ],
@@ -13522,8 +13498,7 @@ const CHALLENGES = [
     "winners": [
      "Jeremiah Wood",
      "Spencer Bledsoe",
-     "Tony Vlachos",
-     "}|-|South Africa="
+     "Tony Vlachos"
     ]
    }
   ],
@@ -13737,8 +13712,7 @@ const CHALLENGES = [
     "episode": 10,
     "type": "Individual Immunity",
     "winners": [
-     "Troyzan Robertson",
-     "}|-|Australia="
+     "Troyzan Robertson"
     ]
    }
   ],
@@ -13919,8 +13893,7 @@ const CHALLENGES = [
      "Janu Tornell",
      "Jenn Lyon",
      "Katie Gallagher",
-     "Tom Westman",
-     "}|-|Quebec={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Tom Westman"
     ]
    }
   ],
@@ -14599,8 +14572,7 @@ const CHALLENGES = [
     "episode": 13,
     "type": "Individual Immunity",
     "winners": [
-     "Jonathan Young",
-     "}|-|Australia="
+     "Jonathan Young"
     ]
    }
   ],
@@ -14643,8 +14615,7 @@ const CHALLENGES = [
     "episode": 9,
     "type": "Individual Immunity",
     "winners": [
-     "Bruce Perreault",
-     "}|-|Australia="
+     "Bruce Perreault"
     ]
    }
   ],
@@ -14825,8 +14796,7 @@ const CHALLENGES = [
     "episode": 7,
     "type": "Individual Immunity",
     "winners": [
-     "Frosti Zernow",
-     "}|-|Australia="
+     "Frosti Zernow"
     ]
    }
   ],
@@ -15036,8 +15006,7 @@ const CHALLENGES = [
     "episode": 9,
     "type": "Individual Immunity",
     "winners": [
-     "Charlie Davis",
-     "}|-|Australia="
+     "Charlie Davis"
     ]
    }
   ],
@@ -15265,8 +15234,7 @@ const CHALLENGES = [
     "episode": 11,
     "type": "Individual Immunity",
     "winners": [
-     "Kelly Wiglesworth",
-     "}|-|Africa={| class=\"wikitable\" style=\"margin:auto; text-align:center; font-size: 8pt; line-height:18px;\""
+     "Kelly Wiglesworth"
     ]
    }
   ],
@@ -15395,8 +15363,7 @@ const CHALLENGES = [
      "Jim Rice",
      "Keith Tollefson",
      "Ozzy Lusth",
-     "Whitney Duncan",
-     "}|-|Australia="
+     "Whitney Duncan"
     ]
    }
   ],
@@ -15564,8 +15531,7 @@ const CHALLENGES = [
      "James Lim",
      "Laurel Johnson",
      "Libby Vincek",
-     "Wendell Holland",
-     "}|-|Australia="
+     "Wendell Holland"
     ]
    }
   ],
@@ -15861,8 +15827,7 @@ const CHALLENGES = [
     "episode": 14,
     "type": "Individual Immunity (Final Immunity)",
     "winners": [
-     "Jenna Morasca",
-     "}|-|South Africa="
+     "Jenna Morasca"
     ]
    }
   ],

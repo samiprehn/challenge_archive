@@ -111,12 +111,6 @@ select {
 
 /* ---------- grid ---------- */
 main { padding: 30px clamp(16px, 4vw, 40px) 60px; max-width: 1500px; margin: 0 auto; }
-.section-head {
-  font-family: var(--serif); font-weight: 400; font-size: 26px;
-  margin: 34px 4px 16px; display: flex; align-items: center; gap: 14px;
-}
-.section-head::after { content: ""; flex: 1; height: 1px; background: var(--card-edge); }
-.section-head small { font: 500 14px var(--sans); color: var(--bone-dim); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(235px, 1fr)); gap: 16px; }
 .card {
   background: var(--card); border: 1px solid var(--card-edge); border-radius: 10px;
@@ -232,7 +226,6 @@ footer a:hover { text-decoration: underline; }
     <option value="debut">Sort: debut season</option>
     <option value="latest">Sort: latest season</option>
     <option value="airings">Sort: most airings</option>
-    <option value="format">Sort: by format</option>
   </select>
   <div class="count" id="count"></div>
 </div>
@@ -264,7 +257,6 @@ const SEASONS = {
   39:"Island of the Idols",40:"Winners at War"
 };
 const seasonName = n => SEASONS[n] ? `Survivor: ${SEASONS[n]}` : `Survivor ${n}`;
-const FORMAT_ORDER = ["individual", "pairs", "teams"];
 const FORMAT_LABEL = { individual: "Individual", pairs: "Pairs", teams: "Teams" };
 
 const state = { format: "all", kinds: new Set(), q: "", sort: "name" };
@@ -339,16 +331,7 @@ function render() {
     main.innerHTML = `<div class="empty">The tribe has spoken — nothing matches those filters.</div>`;
     return;
   }
-  if (state.sort === "format") {
-    main.innerHTML = FORMAT_ORDER.map(f => {
-      const group = list.filter(c => c.formats.includes(f)).sort(sorters.name);
-      if (!group.length) return "";
-      return `<div class="section-head">${FORMAT_LABEL[f]} <small>${group.length}</small></div>
-        <div class="grid">${group.map(cardHTML).join("")}</div>`;
-    }).join("");
-  } else {
-    main.innerHTML = `<div class="grid">${list.sort(sorters[state.sort]).map(cardHTML).join("")}</div>`;
-  }
+  main.innerHTML = `<div class="grid">${list.sort(sorters[state.sort]).map(cardHTML).join("")}</div>`;
 }
 
 /* modal */

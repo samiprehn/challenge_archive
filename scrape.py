@@ -127,23 +127,27 @@ def us_winners_wikitext(text):
         return ""
     if "<tabber>" not in section:
         return section
-    tab = re.search(r"United States\s*=(.*?)(\n\|-\|\n|</tabber>)", section, re.S)
+    tab = re.search(r"United States\s*=(.*?)(?=\|-\||</tabber>|\Z)", section, re.S)
     return tab.group(1) if tab else ""
 
 
 def parse_winner_names(cell):
-    names = []
+    # names carried in image links: [[File:...|60px|link=Name]]
+    names = re.findall(r"\[\[(?:File|Image):[^\]]*\|link=([^\]|]+)\]\]", cell)
     for tmpl in re.finditer(r"\{\{tribebox[^{}]*\}\}", cell):
         params = split_template_params(tmpl.group(0)[2:-2])[1:]  # drop template name
-        params = [strip_markup(p) for p in params]
+        params = [strip_markup(p) for p in params if "[[" not in p]  # links handled above
         params = [p for p in params
                   if p and not re.search(r"\.(png|jpe?g|gif|webp)$", p, re.I)
                   and not re.fullmatch(r"\d+(px)?", p)]
         if params:
             names += params[1:]  # first remaining param is the tribe slug
     if not names:
-        for link in re.finditer(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", cell):
-            names.append(link.group(1))
+        for link in re.finditer(r"\[\[([^\]]+)\]\]", cell):
+            target = link.group(1)
+            if re.match(r"(File|Image):", target, re.I):
+                continue
+            names.append(target.split("|")[-1].strip())
     if not names:
         plain = strip_markup(cell)
         if plain and not plain.lower().startswith(("none", "n/a")):
