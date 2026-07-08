@@ -121,6 +121,32 @@ def extract_section(text, header):
     return rest[:nxt.start()] if nxt else rest
 
 
+ELEMENTS = {
+    "running": r"\b(run|runs|running|sprint\w*|relay|foot race)\b",
+    "strength": r"\b(carr(y|ies|ying)|lift\w*|heavy|weights?|drag\w*|haul\w*)\b",
+    "puzzle": r"\bpuzzles?\b",
+    "balance": r"\b(balanc\w+|beam|wobbl\w+|teeter\w*)\b",
+    "memory": r"\b(memor\w+|remember)\b",
+    "eating": r"\b(eat|eats|eating|chew\w*|swallow\w*|drink\w*)\b",
+    "endurance": r"\b(endurance|outlast\w*|hold(ing)? on|hang(ing)? (on|onto|from)|as long as)\b",
+    "water": r"\b(swim\w*|underwater|dive|dives|diving|ocean|lagoon)\b",
+    "paddling": r"\b(paddl\w+|rafts?|canoe\w*|boats?|outrigger)\b",
+    "throwing": r"\b(throw\w*|toss\w*|slingshot\w*|arrows?|catapult\w*|cannon\w*|shoot\w*|targets?|hoops?|baskets?|bowling)\b",
+    "obstacle": r"\bobstacle",
+    "maze": r"\bmazes?\b",
+    "blindfold": r"\bblindfold\w*",
+    "climbing": r"\bclimb\w*\b",
+    "digging": r"\b(dig|digs|digging)\b",
+    "knots": r"\b(knots?|untie\w*|untying|unspool\w*|unwind\w*)\b",
+    "fire": r"\b(fire.?making|mak(e|ing) (a )?fire|flint|light(ing)? (a )?fire|start(ing)? (a )?fire|build(ing)? (a )?fire)\b",
+    "trivia": r"\b(trivia|questions?|quiz\w*)\b",
+}
+
+
+def element_tags(text):
+    return sorted(tag for tag, pat in ELEMENTS.items() if re.search(pat, text, re.I))
+
+
 COUNTRIES = {
     "": "US", "au": "AU", "fr": "FR", "nz": "NZ", "ph": "PH", "qc": "QC",
     "za": "ZA", "uk": "UK", "se": "SE", "dk": "DK", "no": "NO", "mx": "MX",
@@ -265,6 +291,7 @@ def main():
             "imageFile": image,
             "airings": airings,
             "rulesPairs": bool(re.search(r"\bpairs?\b", rules, re.I)),
+            "elements": element_tags(rules + " " + strip_markup(info.get("description", ""))),
         })
 
     print(f"{len(challenges)} challenges with parseable airings")

@@ -89,6 +89,9 @@ h1 .lit {
 .seg button.on { background: var(--ember-deep); color: #fff; }
 .chips { display: flex; gap: 8px; }
 .chips.countries { width: 100%; justify-content: center; flex-wrap: wrap; padding-bottom: 2px; border-bottom: 1px dashed var(--card-edge); }
+.chips.elements { width: 100%; justify-content: center; flex-wrap: wrap; padding-top: 2px; border-top: 1px dashed var(--card-edge); }
+.chips.elements .chip { font-size: 12px; padding: 5px 11px; }
+.badge.elem { background: none; border: 1px solid color-mix(in srgb, var(--pairs) 45%, transparent); color: var(--pairs); }
 .chip {
   font: 600 13px var(--sans); letter-spacing: .05em; text-transform: uppercase;
   background: none; border: 1px dashed var(--card-edge); border-radius: 999px;
@@ -230,6 +233,7 @@ footer a:hover { text-decoration: underline; }
     <option value="airings">Sort: most airings</option>
   </select>
   <div class="count" id="count"></div>
+  <div class="chips elements" id="elementChips"></div>
 </div>
 
 <main id="main"></main>
@@ -292,7 +296,7 @@ function tagsOf(c, airings) {
   return { formats, kinds };
 }
 
-const state = { countries: new Set(), format: "all", kinds: new Set(), q: "", sort: "name" };
+const state = { countries: new Set(), format: "all", kinds: new Set(), elements: new Set(), q: "", sort: "name" };
 const $ = s => document.querySelector(s);
 const modal = $("#modal");
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
@@ -331,6 +335,18 @@ $("#kindChips").addEventListener("click", e => {
   b.classList.toggle("on");
   render();
 });
+const elementCounts = {};
+for (const c of CHALLENGES) for (const e of c.elements)
+  elementCounts[e] = (elementCounts[e] || 0) + 1;
+$("#elementChips").innerHTML = Object.keys(elementCounts).sort().map(e =>
+  `<button class="chip" data-e="${e}" title="${elementCounts[e]} challenges">${e}</button>`).join("");
+$("#elementChips").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  const el = b.dataset.e;
+  state.elements.has(el) ? state.elements.delete(el) : state.elements.add(el);
+  b.classList.toggle("on");
+  render();
+});
 $("#search").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
 $("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
@@ -345,6 +361,7 @@ function filtered() {
     const { formats, kinds } = tagsOf(c, va);
     if (state.format !== "all" && !formats.has(state.format)) continue;
     if (state.kinds.size && ![...kinds].some(k => state.kinds.has(k))) continue;
+    if (state.elements.size && ![...state.elements].every(e => c.elements.includes(e))) continue;
     out.push({ c, va, formats, kinds,
       debut: Math.min(...va.map(a => a.season)),
       latest: Math.max(...va.map(a => a.season)) });
@@ -364,7 +381,8 @@ function cardHTML({ c, va, formats, kinds, debut, latest }, i) {
     ? `<img loading="lazy" src="${esc(c.image)}" alt="" onerror="this.outerHTML='<div class=noimg>${esc(displayName(c.name)[0])}</div>'">`
     : `<div class="noimg">${esc(displayName(c.name)[0])}</div>`;
   const badges = [...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("") +
-    [...kinds].sort().map(k => `<span class="badge kind">${k}</span>`).join("");
+    [...kinds].sort().map(k => `<span class="badge kind">${k}</span>`).join("") +
+    c.elements.map(e => `<span class="badge elem">${e}</span>`).join("");
   const ccs = COUNTRY_ORDER.filter(cc => va.some(a => a.country === cc));
   const where = ccs.length === 1
     ? `${ccs[0]} ${debut === latest ? `S${debut}` : `S${debut}–S${latest}`}`
@@ -412,7 +430,7 @@ function openModal(name) {
   const hero = c.image ? `<div class="modal-hero"><img src="${esc(c.image)}" alt="${esc(displayName(c.name))}"><div class="shade"></div></div>` : "";
   $("#modalContent").innerHTML = `${hero}
     <div class="modal-body">
-      <div class="badges">${[...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("")}</div>
+      <div class="badges">${[...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("")}${c.elements.map(e => `<span class="badge elem">${e}</span>`).join("")}</div>
       <h2>${esc(displayName(c.name))}</h2>
       <div class="desc">${esc(c.description || "")}</div>
       ${c.rules ? `<h4>How it works</h4><div class="rules">${esc(c.rules)}</div>` : ""}
