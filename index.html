@@ -316,7 +316,6 @@ const modal = $("#modal");
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
 /* stats */
-const totalAirings = DATA.reduce((n, c) => n + c.airings.length, 0);
 const countryCounts = {};
 for (const c of DATA) for (const a of c.airings)
   countryCounts[a.country] = (countryCounts[a.country] || 0) + 1;
@@ -329,7 +328,6 @@ for (const c of DATA) for (const a of c.airings)
 const realCountries = COUNTRY_ORDER.filter(cc => !["TC", "TCAS", "TCUSA", "WC"].includes(cc));
 $("#stats").innerHTML = `
   <div class="stat"><b>${DATA.length}</b><span>challenges</span></div>
-  <div class="stat"><b>${totalAirings.toLocaleString()}</b><span>times run</span></div>
   <div class="stat"><b>${realCountries.length}</b><span>countries</span></div>`;
 
 /* controls */
