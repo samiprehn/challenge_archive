@@ -1,6 +1,6 @@
 # Survivor Challenge Archive
 
-Browse every US Survivor challenge — grouped by individual, pairs, or team format — with every airing, type, and winner.
+Browse every Survivor challenge worldwide — filter by country and by individual, pairs, or team format — with every airing, type, and winner.
 
 - `index.html` — the whole app (vanilla HTML/CSS/JS), works as a plain local file
 - `data.js` — generated challenge data

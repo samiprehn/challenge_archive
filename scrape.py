@@ -121,14 +121,11 @@ def extract_section(text, header):
     return rest[:nxt.start()] if nxt else rest
 
 
-def us_winners_wikitext(text):
-    section = extract_section(text, "Winners")
-    if not section:
-        return ""
-    if "<tabber>" not in section:
-        return section
-    tab = re.search(r"United States\s*=(.*?)(?=\|-\||</tabber>|\Z)", section, re.S)
-    return tab.group(1) if tab else ""
+COUNTRIES = {
+    "": "US", "au": "AU", "fr": "FR", "nz": "NZ", "ph": "PH", "qc": "QC",
+    "za": "ZA", "uk": "UK", "se": "SE", "dk": "DK", "no": "NO", "mx": "MX",
+    "nl": "NL", "es": "ES", "fi": "FI", "de": "DE", "ru": "RU",
+}
 
 
 def parse_winner_names(cell):
@@ -136,7 +133,8 @@ def parse_winner_names(cell):
     names = re.findall(r"\[\[(?:File|Image):[^\]]*\|link=([^\]|]+)\]\]", cell)
     for tmpl in re.finditer(r"\{\{tribebox[^{}]*\}\}", cell):
         params = split_template_params(tmpl.group(0)[2:-2])[1:]  # drop template name
-        params = [strip_markup(p) for p in params if "[[" not in p]  # links handled above
+        params = [strip_markup(p) for p in params
+                  if "[[" not in p and not re.match(r"\s*\w+\s*=", p)]  # skip links (handled above) and key=value params
         params = [p for p in params
                   if p and not re.search(r"\.(png|jpe?g|gif|webp)$", p, re.I)
                   and not re.fullmatch(r"\d+(px)?", p)]
@@ -161,11 +159,11 @@ def parse_winner_names(cell):
 
 
 def parse_airings(table_text, unknown_types):
-    """One airing per table row: {season, episode, type, winners}."""
+    """One airing per table row: {country, season, episode, type, winners}."""
     airings = []
-    carry_season = carry_episode = None
+    carry_season = carry_episode = carry_country = None
     carry_rows = 0
-    for raw_row in re.split(r"\n\|-", table_text):
+    for raw_row in re.split(r"\n\|-|\|-\|", table_text):
         cells = []
         for line in raw_row.split("\n"):
             line = line.strip()
@@ -178,25 +176,26 @@ def parse_airings(table_text, unknown_types):
         # drop style-only cells like 'colspan="2" {{tribebox...' -> keep content after last attr
         cleaned = []
         for c in cells:
-            c = re.sub(r'^\s*(?:(?:rowspan|colspan|style|class)="[^"]*"\s*\|?\s*)+', "", c)
+            c = re.sub(r'^\s*(?:(?:rowspan|colspan|style|class)\s*=\s*(?:"[^"]*"|[^|\s]+)\s*\|?\s*)+', "", c)
             cleaned.append(c.strip())
         cells = [c for c in cleaned if c]
         if not cells:
             continue
-        season = episode = None
-        m = re.search(r"\{\{S2?\|(\d+)\}\}", cells[0])
-        if m:
+        season = episode = country = None
+        m = re.search(r"\{\{S2?\|(\d+)([a-z]*)\}\}", cells[0])
+        if m and m.group(2) in COUNTRIES:
             season = int(m.group(1))
+            country = COUNTRIES[m.group(2)]
             ep = re.search(r"\{\{Ep\|(\d{3,4})[^}]*\}\}", cells[0])
             if ep:
                 code = ep.group(1).zfill(4)
                 episode = int(code[2:])
             rs = re.search(r'rowspan="(\d+)"', raw_row)
-            carry_season, carry_episode = season, episode
+            carry_season, carry_episode, carry_country = season, episode, country
             carry_rows = int(rs.group(1)) - 1 if rs else 0
             type_idx = 1
         elif carry_rows > 0:
-            season, episode = carry_season, carry_episode
+            season, episode, country = carry_season, carry_episode, carry_country
             carry_rows -= 1
             type_idx = 0
         else:
@@ -204,8 +203,16 @@ def parse_airings(table_text, unknown_types):
         if season is None or len(cells) <= type_idx:
             continue
         ctype = strip_markup(cells[type_idx])
+        # some tables put the episode in its own column before the type
+        m = re.match(r"Episode (\d+)$", ctype)
+        if m and len(cells) > type_idx + 1:
+            episode = int(m.group(1))
+            type_idx += 1
+            ctype = strip_markup(cells[type_idx])
         if not ctype or "{{" in cells[type_idx][:2]:
             continue
+        if "=" in ctype or "wikitable" in ctype or ctype.lower() in ("n/a", "none"):
+            continue  # tab-header or empty-row junk
         winners = []
         for c in cells[type_idx + 1:]:
             winners += parse_winner_names(c)
@@ -213,40 +220,9 @@ def parse_airings(table_text, unknown_types):
         if not any(w in low for w in ("immunity", "reward", "duel", "combined",
                                       "tribal", "individual", "team", "pair", "advantage")):
             unknown_types.add(ctype)
-        airings.append({"season": season, "episode": episode,
+        airings.append({"country": country, "season": season, "episode": episode,
                         "type": ctype, "winners": winners})
     return airings
-
-
-def format_tags(airings, rules):
-    tags = set()
-    if re.search(r"\bpairs?\b", rules, re.I):
-        tags.add("pairs")
-    for a in airings:
-        low = a["type"].lower()
-        if "pair" in low:
-            tags.add("pairs")
-        elif "tribal" in low or "team" in low or "tribe" in low:
-            # a "team" of exactly two is a pairs run
-            tags.add("pairs" if len(a["winners"]) == 2 else "teams")
-        elif "individual" in low or "duel" in low:
-            tags.add("individual")
-        else:
-            tags.add("teams" if len(a["winners"]) > 3 else "individual")
-    return sorted(tags)
-
-
-def kind_tags(airings):
-    tags = set()
-    for a in airings:
-        low = a["type"].lower()
-        if "reward" in low:
-            tags.add("reward")
-        if "immunity" in low:
-            tags.add("immunity")
-        if "duel" in low:
-            tags.add("duel")
-    return sorted(tags)
 
 
 def resolve_images(filenames):
@@ -275,7 +251,7 @@ def main():
     challenges, image_files = [], []
     for title, text in sorted(texts.items()):
         info = extract_infobox(text)
-        airings = parse_airings(us_winners_wikitext(text), unknown_types)
+        airings = parse_airings(extract_section(text, "Winners"), unknown_types)
         if not airings:
             continue
         rules = strip_markup(extract_section(text, "Rules"))
@@ -288,13 +264,10 @@ def main():
             "rules": rules,
             "imageFile": image,
             "airings": airings,
-            "formats": format_tags(airings, rules),
-            "kinds": kind_tags(airings),
-            "debut": min(a["season"] for a in airings),
-            "latest": max(a["season"] for a in airings),
+            "rulesPairs": bool(re.search(r"\bpairs?\b", rules, re.I)),
         })
 
-    print(f"{len(challenges)} challenges with US airings")
+    print(f"{len(challenges)} challenges with parseable airings")
     if unknown_types:
         print("Unrecognized challenge types:", sorted(unknown_types))
 

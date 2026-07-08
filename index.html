@@ -88,6 +88,7 @@ h1 .lit {
 .seg button:hover { color: var(--bone); }
 .seg button.on { background: var(--ember-deep); color: #fff; }
 .chips { display: flex; gap: 8px; }
+.chips.countries { width: 100%; justify-content: center; flex-wrap: wrap; padding-bottom: 2px; border-bottom: 1px dashed var(--card-edge); }
 .chip {
   font: 600 13px var(--sans); letter-spacing: .05em; text-transform: uppercase;
   background: none; border: 1px dashed var(--card-edge); border-radius: 999px;
@@ -204,11 +205,12 @@ footer a:hover { text-decoration: underline; }
   <div class="torch"></div>
   <div class="kicker">Outwit &middot; Outplay &middot; Outlast</div>
   <h1>Survivor <span class="lit">Challenge</span> Archive</h1>
-  <p class="sub">Every challenge from the US show — browse by individual, pairs, or team format, and see every time each one was run.</p>
+  <p class="sub">Every challenge from Survivor around the world — browse by individual, pairs, or team format, and see every time each one was run.</p>
   <div class="stats" id="stats"></div>
 </header>
 
 <div class="toolbar">
+  <div class="chips countries" id="countryChips"></div>
   <div class="seg" id="formatSeg">
     <button data-f="all" class="on">All</button>
     <button data-f="individual">Individual</button>
@@ -256,23 +258,66 @@ const SEASONS = {
   36:"Ghost Island",37:"David vs. Goliath",38:"Edge of Extinction",
   39:"Island of the Idols",40:"Winners at War"
 };
-const seasonName = n => SEASONS[n] ? `Survivor: ${SEASONS[n]}` : `Survivor ${n}`;
+const COUNTRY_NAMES = {
+  US: "United States", AU: "Australia", FR: "France", ZA: "South Africa",
+  QC: "Quebec", NZ: "New Zealand", SE: "Sweden", UK: "United Kingdom",
+  DK: "Denmark", NO: "Norway", MX: "Mexico", NL: "Netherlands", ES: "Spain",
+  FI: "Finland", PH: "Philippines", DE: "Germany", RU: "Russia",
+};
+const seasonName = (a) => a.country === "US"
+  ? (SEASONS[a.season] ? `Survivor: ${SEASONS[a.season]}` : `Survivor ${a.season}`)
+  : `${COUNTRY_NAMES[a.country] || a.country} · Season ${a.season}`;
 const FORMAT_LABEL = { individual: "Individual", pairs: "Pairs", teams: "Teams" };
+const displayName = n => n.replace(/ \(challenge\)$/i, "");
 
-const state = { format: "all", kinds: new Set(), q: "", sort: "name" };
+/* per-airing format/kind derivation */
+function formatOf(a) {
+  const t = a.type.toLowerCase();
+  if (t.includes("pair")) return "pairs";
+  if (t.includes("tribal") || t.includes("team") || t.includes("tribe"))
+    return a.winners.length === 2 ? "pairs" : "teams";
+  if (t.includes("individual") || t.includes("duel")) return "individual";
+  return a.winners.length > 3 ? "teams" : "individual";
+}
+function tagsOf(c, airings) {
+  const formats = new Set(airings.map(formatOf));
+  if (c.rulesPairs) formats.add("pairs");
+  const kinds = new Set();
+  for (const a of airings) {
+    const t = a.type.toLowerCase();
+    if (t.includes("immunity")) kinds.add("immunity");
+    if (t.includes("reward")) kinds.add("reward");
+    if (t.includes("duel")) kinds.add("duel");
+  }
+  return { formats, kinds };
+}
+
+const state = { countries: new Set(), format: "all", kinds: new Set(), q: "", sort: "name" };
 const $ = s => document.querySelector(s);
 const modal = $("#modal");
 const esc = s => s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
 /* stats */
 const totalAirings = CHALLENGES.reduce((n, c) => n + c.airings.length, 0);
-const seasonCount = new Set(CHALLENGES.flatMap(c => c.airings.map(a => a.season))).size;
+const countryCounts = {};
+for (const c of CHALLENGES) for (const a of c.airings)
+  countryCounts[a.country] = (countryCounts[a.country] || 0) + 1;
+const COUNTRY_ORDER = Object.keys(countryCounts).sort((x, y) => countryCounts[y] - countryCounts[x]);
 $("#stats").innerHTML = `
   <div class="stat"><b>${CHALLENGES.length}</b><span>challenges</span></div>
   <div class="stat"><b>${totalAirings.toLocaleString()}</b><span>times run</span></div>
-  <div class="stat"><b>${seasonCount}</b><span>seasons</span></div>`;
+  <div class="stat"><b>${COUNTRY_ORDER.length}</b><span>countries</span></div>`;
 
 /* controls */
+$("#countryChips").innerHTML = COUNTRY_ORDER.map(cc =>
+  `<button class="chip" data-c="${cc}" title="${countryCounts[cc]} airings">${COUNTRY_NAMES[cc] || cc}</button>`).join("");
+$("#countryChips").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  const cc = b.dataset.c;
+  state.countries.has(cc) ? state.countries.delete(cc) : state.countries.add(cc);
+  b.classList.toggle("on");
+  render();
+});
 $("#formatSeg").addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return;
   document.querySelectorAll("#formatSeg button").forEach(x => x.classList.toggle("on", x === b));
@@ -290,35 +335,47 @@ $("#search").addEventListener("input", e => { state.q = e.target.value.trim().to
 $("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
 function filtered() {
-  return CHALLENGES.filter(c => {
-    if (state.format !== "all" && !c.formats.includes(state.format)) return false;
-    if (state.kinds.size && !c.kinds.some(k => state.kinds.has(k))) return false;
-    if (state.q && !c.name.toLowerCase().includes(state.q)) return false;
-    return true;
-  });
+  const out = [];
+  for (const c of CHALLENGES) {
+    if (state.q && !displayName(c.name).toLowerCase().includes(state.q)) continue;
+    const va = state.countries.size
+      ? c.airings.filter(a => state.countries.has(a.country))
+      : c.airings;
+    if (!va.length) continue;
+    const { formats, kinds } = tagsOf(c, va);
+    if (state.format !== "all" && !formats.has(state.format)) continue;
+    if (state.kinds.size && ![...kinds].some(k => state.kinds.has(k))) continue;
+    out.push({ c, va, formats, kinds,
+      debut: Math.min(...va.map(a => a.season)),
+      latest: Math.max(...va.map(a => a.season)) });
+  }
+  return out;
 }
 
 const sorters = {
-  name: (a, b) => a.name.localeCompare(b.name),
-  debut: (a, b) => a.debut - b.debut || a.name.localeCompare(b.name),
-  latest: (a, b) => b.latest - a.latest || a.name.localeCompare(b.name),
-  airings: (a, b) => b.airings.length - a.airings.length || a.name.localeCompare(b.name),
+  name: (a, b) => a.c.name.localeCompare(b.c.name),
+  debut: (a, b) => a.debut - b.debut || a.c.name.localeCompare(b.c.name),
+  latest: (a, b) => b.latest - a.latest || a.c.name.localeCompare(b.c.name),
+  airings: (a, b) => b.va.length - a.va.length || a.c.name.localeCompare(b.c.name),
 };
 
-function cardHTML(c, i) {
+function cardHTML({ c, va, formats, kinds, debut, latest }, i) {
   const img = c.image
-    ? `<img loading="lazy" src="${esc(c.image)}" alt="" onerror="this.outerHTML='<div class=noimg>${esc(c.name[0])}</div>'">`
-    : `<div class="noimg">${esc(c.name[0])}</div>`;
-  const badges = c.formats.map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("") +
-    c.kinds.map(k => `<span class="badge kind">${k}</span>`).join("");
-  const seasons = c.debut === c.latest ? `S${c.debut}` : `S${c.debut}–S${c.latest}`;
+    ? `<img loading="lazy" src="${esc(c.image)}" alt="" onerror="this.outerHTML='<div class=noimg>${esc(displayName(c.name)[0])}</div>'">`
+    : `<div class="noimg">${esc(displayName(c.name)[0])}</div>`;
+  const badges = [...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("") +
+    [...kinds].sort().map(k => `<span class="badge kind">${k}</span>`).join("");
+  const ccs = COUNTRY_ORDER.filter(cc => va.some(a => a.country === cc));
+  const where = ccs.length === 1
+    ? `${ccs[0]} ${debut === latest ? `S${debut}` : `S${debut}–S${latest}`}`
+    : ccs.slice(0, 4).join(" · ") + (ccs.length > 4 ? ` +${ccs.length - 4}` : "");
   return `<button class="card" data-name="${esc(c.name)}" style="animation-delay:${Math.min(i * 18, 400)}ms">
     <div class="thumb">${img}</div>
     <div class="card-body">
-      <h3>${esc(c.name)}</h3>
+      <h3>${esc(displayName(c.name))}</h3>
       <div class="badges">${badges}</div>
       <div class="desc">${esc(c.description || "")}</div>
-      <div class="meta"><span>${seasons}</span><span>run <b>${c.airings.length}×</b></span></div>
+      <div class="meta"><span>${where}</span><span>run <b>${va.length}×</b></span></div>
     </div>
   </button>`;
 }
@@ -343,16 +400,20 @@ document.addEventListener("click", e => {
 function openModal(name) {
   const c = CHALLENGES.find(x => x.name === name);
   if (!c) return;
-  const rows = c.airings.map(a => `<tr>
-      <td class="season">${seasonName(a.season)}<small>Season ${a.season}${a.episode ? ` · Episode ${a.episode}` : ""}</small></td>
+  const sorted = [...c.airings].sort((x, y) =>
+    COUNTRY_ORDER.indexOf(x.country) - COUNTRY_ORDER.indexOf(y.country) ||
+    x.season - y.season || (x.episode || 0) - (y.episode || 0));
+  const rows = sorted.map(a => `<tr>
+      <td class="season">${seasonName(a)}<small>Season ${a.season}${a.episode ? ` · Episode ${a.episode}` : ""}</small></td>
       <td class="ctype">${esc(a.type)}</td>
       <td>${a.winners.length ? esc(a.winners.join(", ")) : "—"}</td>
     </tr>`).join("");
-  const hero = c.image ? `<div class="modal-hero"><img src="${esc(c.image)}" alt="${esc(c.name)}"><div class="shade"></div></div>` : "";
+  const { formats } = tagsOf(c, c.airings);
+  const hero = c.image ? `<div class="modal-hero"><img src="${esc(c.image)}" alt="${esc(displayName(c.name))}"><div class="shade"></div></div>` : "";
   $("#modalContent").innerHTML = `${hero}
     <div class="modal-body">
-      <div class="badges">${c.formats.map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("")}</div>
-      <h2>${esc(c.name)}</h2>
+      <div class="badges">${[...formats].sort().map(f => `<span class="badge ${f}">${FORMAT_LABEL[f]}</span>`).join("")}</div>
+      <h2>${esc(displayName(c.name))}</h2>
       <div class="desc">${esc(c.description || "")}</div>
       ${c.rules ? `<h4>How it works</h4><div class="rules">${esc(c.rules)}</div>` : ""}
       <h4>Every time it ran (${c.airings.length})</h4>
