@@ -328,10 +328,8 @@ const CHIP_COUNTRIES = COUNTRY_ORDER;
 const codeShows = {};
 for (const c of DATA) for (const a of c.airings)
   (codeShows[a.country] = codeShows[a.country] || new Set()).add(c.show);
-const realCountries = COUNTRY_ORDER.filter(cc => !["TC", "TCAS", "TCUSA", "WC"].includes(cc));
 $("#stats").innerHTML = `
-  <div class="stat"><b>${DATA.length}</b><span>challenges</span></div>
-  <div class="stat"><b>${realCountries.length}</b><span>countries</span></div>`;
+  <div class="stat"><b>${DATA.length}</b><span>challenges</span></div>`;
 
 /* controls */
 $("#showSeg").addEventListener("click", e => {
