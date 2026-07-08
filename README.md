@@ -1,4 +1,4 @@
-# Survivor Challenge Archive
+# Challenge Archive
 
 Browse every Survivor challenge worldwide plus MTV's The Challenge (dailies + eliminations) — filter by show, country, format (individual/pairs/teams), type, and elements like puzzle or endurance.
 
