@@ -40,7 +40,9 @@ body {
 }
 
 /* ---------- header ---------- */
-header { text-align: center; padding: 56px 20px 28px; position: relative; overflow: hidden; }
+header { text-align: center; padding: 22px 20px 10px; position: relative; overflow: hidden; }
+#filters { display: contents; }
+.filters-toggle { display: none; }
 .torch {
   position: absolute; left: 50%; top: -80px; transform: translateX(-50%);
   width: 500px; height: 220px; pointer-events: none;
@@ -62,7 +64,6 @@ h1 .lit {
   background: linear-gradient(180deg, #ffd390, var(--ember) 55%, var(--ember-deep));
   -webkit-background-clip: text; background-clip: text; color: transparent;
 }
-.sub { color: var(--bone-dim); font-size: 18px; max-width: 560px; margin: 0 auto; }
 
 /* ---------- toolbar ---------- */
 .toolbar {
@@ -112,7 +113,13 @@ select {
 
 /* phones: chip rows become one-line horizontal scrollers */
 @media (max-width: 640px) {
+  header { padding: 12px 12px 6px; }
+  h1 { margin: 4px 0 8px; }
   .toolbar { padding: 8px 10px; gap: 6px 8px; }
+  .filters-toggle { display: block; }
+  .filters-toggle.on { border-style: solid; border-color: var(--ember); color: var(--ember); }
+  #filters { display: none; }
+  #filters.open { display: flex; flex-wrap: wrap; gap: 6px 8px; justify-content: center; width: 100%; }
   .chips.countries, .chips.elements {
     flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
@@ -223,7 +230,6 @@ footer a:hover { text-decoration: underline; }
 <header>
   <div class="torch"></div>
   <h1><span class="lit">Challenge</span> Archive</h1>
-  <p class="sub">Every challenge from Survivor around the world and MTV's The Challenge — browse by individual, pairs, or team format, and filter by type.</p>
 </header>
 
 <div class="toolbar">
@@ -232,20 +238,7 @@ footer a:hover { text-decoration: underline; }
     <button data-s="survivor">Survivor</button>
     <button data-s="tc">The Challenge</button>
   </div>
-  <div class="chips countries" id="countryChips"></div>
-  <div class="seg" id="formatSeg">
-    <button data-f="all" class="on">All</button>
-    <button data-f="individual">Individual</button>
-    <button data-f="pairs">Pairs</button>
-    <button data-f="teams">Teams</button>
-  </div>
-  <div class="chips" id="kindChips">
-    <button class="chip" data-k="immunity" data-show="survivor">Immunity</button>
-    <button class="chip" data-k="reward" data-show="survivor">Reward</button>
-    <button class="chip" data-k="duel" data-show="survivor">Duel</button>
-    <button class="chip" data-k="daily" data-show="tc">Daily</button>
-    <button class="chip" data-k="elimination" data-show="tc">Elimination</button>
-  </div>
+  <button class="chip filters-toggle" id="filtersBtn">Filters ▾</button>
   <input type="search" id="search" placeholder="Search challenges…">
   <select id="sort">
     <option value="airings">Sort: most airings</option>
@@ -254,7 +247,23 @@ footer a:hover { text-decoration: underline; }
     <option value="latest">Sort: latest season</option>
   </select>
   <div class="count" id="count"></div>
-  <div class="chips elements" id="elementChips"></div>
+  <div id="filters">
+    <div class="chips countries" id="countryChips"></div>
+    <div class="seg" id="formatSeg">
+      <button data-f="all" class="on">All</button>
+      <button data-f="individual">Individual</button>
+      <button data-f="pairs">Pairs</button>
+      <button data-f="teams">Teams</button>
+    </div>
+    <div class="chips" id="kindChips">
+      <button class="chip" data-k="immunity" data-show="survivor">Immunity</button>
+      <button class="chip" data-k="reward" data-show="survivor">Reward</button>
+      <button class="chip" data-k="duel" data-show="survivor">Duel</button>
+      <button class="chip" data-k="daily" data-show="tc">Daily</button>
+      <button class="chip" data-k="elimination" data-show="tc">Elimination</button>
+    </div>
+    <div class="chips elements" id="elementChips"></div>
+  </div>
 </div>
 
 <main id="main"></main>
@@ -355,6 +364,12 @@ const codeShows = {};
 for (const c of DATA) for (const a of c.airings)
   (codeShows[a.country] = codeShows[a.country] || new Set()).add(c.show);
 /* controls */
+$("#filtersBtn").addEventListener("click", () => {
+  const open = $("#filters").classList.toggle("open");
+  const b = $("#filtersBtn");
+  b.classList.toggle("on", open);
+  b.textContent = open ? "Filters ▴" : "Filters ▾";
+});
 $("#showSeg").addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return;
   document.querySelectorAll("#showSeg button").forEach(x => x.classList.toggle("on", x === b));
