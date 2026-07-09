@@ -110,6 +110,22 @@ select {
 .count { font-size: 14px; color: var(--bone-dim); min-width: 90px; text-align: center; }
 .count b { color: var(--ember); font-weight: 700; }
 
+/* phones: chip rows become one-line horizontal scrollers */
+@media (max-width: 640px) {
+  .toolbar { padding: 8px 10px; gap: 6px 8px; }
+  .chips.countries, .chips.elements {
+    flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start;
+    -webkit-overflow-scrolling: touch; scrollbar-width: none;
+    max-width: 100%; padding: 2px 0;
+  }
+  .chips.countries::-webkit-scrollbar, .chips.elements::-webkit-scrollbar { display: none; }
+  .chip { white-space: nowrap; flex: 0 0 auto; font-size: 12px; padding: 6px 10px; }
+  .seg button { padding: 7px 10px; font-size: 12px; }
+  input[type=search] { width: 130px; font-size: 14px; }
+  select { font-size: 12px; padding: 7px 10px; }
+  .count { min-width: auto; }
+}
+
 /* ---------- grid ---------- */
 main { padding: 30px clamp(16px, 4vw, 40px) 60px; max-width: 1500px; margin: 0 auto; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(235px, 1fr)); gap: 16px; }
