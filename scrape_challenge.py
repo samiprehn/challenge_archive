@@ -315,7 +315,7 @@ def main():
 
     challenges = list(entries.values())
     for c in challenges:
-        c["elements"] = element_tags(c["description"])
+        c["elements"] = element_tags(c["description"], stageable_check=True)
 
     # images: episode still of earliest airing if one exists, else that season's key art
     stills = episode_stills()

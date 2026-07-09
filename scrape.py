@@ -143,8 +143,19 @@ ELEMENTS = {
 }
 
 
-def element_tags(text):
-    return sorted(tag for tag, pat in ELEMENTS.items() if re.search(pat, text, re.I))
+# big-production rigs you can't stage at a park or beach (water itself is fine)
+UNSTAGEABLE = (r"\b(helicopter\w*|cranes?|barges?|scaffold\w*|catwalk\w*"
+               r"|([2-9]\d|\d{3})[- ]?(foot|feet|ft)\b|stories tall|story tower"
+               r"|high above|suspended (above|over|from|in)|zip.?lines?|trapeze|high.?wire"
+               r"|(climb|scale)\w* [^.]{0,30}tower|towers? (above|over)|dropped? (from|off)"
+               r"|giant (wheel|ball|slide)|water slide|dumped into|plunge\w*|freefall)")
+
+
+def element_tags(text, stageable_check=False):
+    tags = sorted(tag for tag, pat in ELEMENTS.items() if re.search(pat, text, re.I))
+    if stageable_check and text.strip() and not re.search(UNSTAGEABLE, text, re.I):
+        tags.append("local")
+    return tags
 
 
 COUNTRIES = {
@@ -310,7 +321,8 @@ def main():
             "imageFile": image,
             "airings": airings,
             "rulesPairs": bool(re.search(r"\bpairs?\b", rules, re.I)),
-            "elements": element_tags(rules + " " + strip_markup(info.get("description", ""))),
+            "elements": element_tags(rules + " " + strip_markup(info.get("description", "")),
+                                     stageable_check=True),
         })
 
     print(f"{len(challenges)} challenges with parseable airings")

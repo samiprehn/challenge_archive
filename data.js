@@ -36,7 +36,8 @@ const CHALLENGES = [
   "elements": [
    "knots",
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/65/S32_press_images_ep13_0014.jpg/revision/latest?cb=20160512130139"
  },
@@ -75,7 +76,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6c/S38E05_Kama_IC.jpg/revision/latest?cb=20190315203434"
  },
@@ -606,7 +608,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "endurance",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/S32_press_images_ep12_0010.jpg/revision/latest?cb=20160505122120"
  },
@@ -824,7 +827,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c1/Sierra-at-challenge-resized.jpg/revision/latest?cb=20130326231221"
  },
@@ -1002,7 +1006,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Vc_s27_ep14_12_11_0011.jpg/revision/latest?cb=20131212121113"
  },
@@ -1068,7 +1073,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "knots",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9c/Natalie_a_numbers_game.jpg/revision/latest?cb=20131017011848"
  },
@@ -1147,7 +1153,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/S31_press_images_ep5_0007.jpg/revision/latest?cb=20151016122737"
  },
@@ -1191,7 +1198,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/S33_press_photos_ep4_0048.jpg/revision/latest?cb=20161014135502"
  },
@@ -1262,7 +1270,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/35/S46e02_siga_arch_madness.jpg/revision/latest?cb=20240308172551"
  },
@@ -1786,7 +1795,8 @@ const CHALLENGES = [
    "climbing",
    "maze",
    "obstacle",
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/David_tangled_up_in_blue.jpg/revision/latest?cb=20181018061306"
  },
@@ -1848,7 +1858,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d2/108343_D03065b.jpg/revision/latest?cb=20170317162729"
  },
@@ -1888,7 +1899,8 @@ const CHALLENGES = [
   "elements": [
    "knots",
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/S32_press_images_ep6_106308_D17483b.jpg/revision/latest?cb=20160324124825"
  },
@@ -1979,7 +1991,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1c/Back_in_slack_dvg.jpg/revision/latest?cb=20181129143509"
  },
@@ -2235,7 +2248,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d2/Kls26.ep11.jpg/revision/latest?cb=20210522123300"
  },
@@ -2481,7 +2495,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/KLS29_Ep11.jpg/revision/latest?cb=20230503161101"
  },
@@ -2521,7 +2536,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bb/Katie_balancing.jpg/revision/latest?cb=20131116010625"
  },
@@ -2589,7 +2605,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c7/S39E11_IC.jpg/revision/latest?cb=20191203234423"
  },
@@ -2757,7 +2774,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f7/KLS25_Ep4_Reward_Challenge.jpg/revision/latest?cb=20230513150657"
  },
@@ -2888,7 +2906,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/09/Barrel_bridge_nicaragua.jpg/revision/latest?cb=20150428120918"
  },
  {
@@ -2951,7 +2971,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/27/AuAsEp4.jpg/revision/latest?cb=20210818014837"
  },
@@ -3005,7 +3026,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/43/In_the_barrel_Blood_vs._Water.jpg/revision/latest?cb=20131128030552"
  },
  {
@@ -3052,7 +3075,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/S45e12_dee_julie_barreling_along.jpg/revision/latest?cb=20250511132928"
  },
  {
@@ -3219,7 +3244,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/Survivor_sierra_candace_sydney_02.jpg/revision/latest?cb=20111227005735"
  },
@@ -3250,7 +3276,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bd/Te_Tuna_Batman_Wall.jpg/revision/latest?cb=20220422155912"
  },
@@ -3342,7 +3369,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/Sabogashelter.jpg/revision/latest?cb=20070115035733"
  },
  {
@@ -3415,7 +3444,8 @@ const CHALLENGES = [
   "elements": [
    "paddling",
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a9/S38E03_IC.jpg/revision/latest?cb=20190301191215"
  },
@@ -3460,7 +3490,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d3/Courtney_3rd_imm.jpg/revision/latest?cb=20120720030311"
  },
@@ -4256,7 +4287,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Cant_find_my_way_home.jpg/revision/latest?cb=20230821003131"
  },
@@ -4357,7 +4389,8 @@ const CHALLENGES = [
    "paddling",
    "puzzle",
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/ba/S46e03_blue_lagoon_bustle_setup.jpg/revision/latest?cb=20240315201514"
  },
@@ -4474,7 +4507,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/S4e12.jpg/revision/latest?cb=20120530213857"
  },
@@ -4622,7 +4656,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "paddling",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/A_crate_idea_galang.jpg/revision/latest?cb=20131214165648"
  },
@@ -4652,7 +4687,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/91/PalauFinalImmunity.jpg/revision/latest?cb=20220605175941"
  },
@@ -4683,7 +4719,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/Safe_image.jpg/revision/latest?cb=20130327144200"
  },
@@ -4951,7 +4988,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b6/Maryanne_romeo_lindsay_bow_diddley.jpg/revision/latest?cb=20220506112502"
  },
@@ -5187,7 +5225,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/56/S32_press_images_ep11_0010.jpg/revision/latest?cb=20160428133055"
  },
@@ -5246,7 +5285,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "maze"
+   "maze",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9d/Amazonfinale.jpg/revision/latest?cb=20120410021645"
  },
@@ -5303,7 +5343,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6a/Offer_it_up_duel.jpg/revision/latest?cb=20131222174458"
  },
@@ -5852,7 +5893,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a6/S1e02_buggin_out.jpg/revision/latest?cb=20231014015011"
  },
@@ -5910,7 +5952,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/Survivor_16_biubid.jpg/revision/latest?cb=20230908015833"
  },
@@ -5953,7 +5996,8 @@ const CHALLENGES = [
   "elements": [
    "knots",
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/47/Survivor.S27E06.HDTV.x264-LMAO_318.jpg/revision/latest?cb=20131024151418"
  },
@@ -5998,7 +6042,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/67/Australian-Survivor-S3-Episode-6---Buried-Alive-Immunity-Challenge9.jpg/revision/latest?cb=20180813020154"
  },
@@ -6075,7 +6120,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/Free_fallin_jonas.jpg/revision/latest?cb=20131229021812"
  },
  {
@@ -6463,7 +6510,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "digging"
+   "digging",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/S33_press_photos_ep4_0024.jpg/revision/latest?cb=20161013165944"
  },
@@ -6664,7 +6712,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6c/Survivor-fiji43.jpg/revision/latest?cb=20130203051018"
  },
@@ -6770,7 +6819,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6b/S39E06_IC_Lairo.jpg/revision/latest?cb=20191026091814"
  },
@@ -6809,7 +6859,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f6/S34_Ep12_SG_004.jpg/revision/latest?cb=20171016192214"
  },
@@ -6854,7 +6905,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b4/S7e01_cannon_carry.jpg/revision/latest?cb=20230329224221"
  },
@@ -6897,7 +6949,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/2Survivor-2107.jpg/revision/latest?cb=20120114104017"
  },
@@ -6939,7 +6992,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "maze",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ed/Cannonball_run_cook_islands.jpg/revision/latest?cb=20140118180748"
  },
@@ -7084,7 +7138,8 @@ const CHALLENGES = [
    "balance",
    "obstacle",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d7/Jabeni_carry_on_2.jpg/revision/latest?cb=20181105040124"
  },
@@ -7125,7 +7180,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": true,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/Survivor.s16e05.pdtv.xvid-gnarly_186.jpg/revision/latest?cb=20140930131134"
  },
@@ -7215,7 +7271,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/22/Caught_in_the_web_danni.png/revision/latest?cb=20131215204906"
  },
@@ -7540,7 +7597,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/Cell_block_sea_bikal.jpg/revision/latest?cb=20140226213705"
  },
@@ -7734,7 +7792,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2f/S28_press_images_ep11_0012.JPG/revision/latest?cb=20140503000021"
  },
@@ -7832,7 +7891,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/10399290_13426034927_6738_n.jpg/revision/latest?cb=20220912161432"
  },
@@ -7881,7 +7941,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "fire",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cf/Images_%28JR3%29.jpg/revision/latest?cb=20130224174912"
  },
@@ -8180,7 +8241,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/S20ChimneySweep.png/revision/latest?cb=20130120003404"
  },
@@ -8320,7 +8382,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/0031-s29_press_images_ep8_0031.jpg/revision/latest?cb=20141106233418"
  },
@@ -8406,7 +8469,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cf/Choose_your_weapon_michelle.jpg/revision/latest?cb=20140118181817"
  },
@@ -8451,7 +8515,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e4/Clear_the_Deck_China.jpg/revision/latest?cb=20170205152205"
  },
  {
@@ -8561,7 +8627,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c5/AU4EP18.jpg/revision/latest?cb=20210818140049"
  },
@@ -8708,7 +8775,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d7/KLS29_Ep2_Reward_Challenge.jpg/revision/latest?cb=20230517185718"
  },
@@ -8784,7 +8852,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9a/Salani_Coco_Connection.jpg/revision/latest?cb=20220410183805"
  },
@@ -8886,7 +8955,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3a/Whitney_get_crackin.jpg/revision/latest?cb=20131126211423"
  },
@@ -8945,7 +9015,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/KLS27_Ep2_Immunity_Challenge_Men%27s_Tribe.jpg/revision/latest?cb=20230515163347"
  },
@@ -9041,7 +9112,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S38E01_Immunity_Course.jpeg/revision/latest?cb=20190214225451"
  },
@@ -9140,7 +9212,8 @@ const CHALLENGES = [
    "climbing",
    "obstacle",
    "paddling",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a6/S44e01_crate_wide_open.jpg/revision/latest?cb=20230304103938"
  },
@@ -9286,7 +9359,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/5b/S48e09_niu_nai_crocodile_rock.jpg/revision/latest?cb=20250420190333"
  },
@@ -9353,7 +9427,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/Crosswalk_fiji.png/revision/latest?cb=20151221222255"
  },
@@ -9437,7 +9512,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/29/220502.jpg/revision/latest?cb=20130621124020"
  },
@@ -9584,7 +9660,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/36/S30_press_images_ep3_0065.jpg/revision/latest?cb=20150305222754"
  },
@@ -10026,7 +10103,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/S25_E3_PI.jpg/revision/latest?cb=20120928203032"
  },
@@ -10095,7 +10173,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "obstacle",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/62/Sierras_face.png/revision/latest?cb=20140807031855"
  },
@@ -10164,7 +10243,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/S31ep12RewardChallenge.jpg/revision/latest?cb=20151204010540"
  },
@@ -10224,7 +10304,8 @@ const CHALLENGES = [
    "balance",
    "obstacle",
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/S42_dizzy_miss_lizzy.jpg/revision/latest?cb=20220519130648"
  },
@@ -10590,7 +10671,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "obstacle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a9/Domino_effect_truel.jpg/revision/latest?cb=20140118175137"
  },
@@ -10672,7 +10754,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/17/Vinaka_pinball_wizard.jpg/revision/latest?cb=20220515095218"
  },
@@ -10727,7 +10810,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/Aus08e11_hayley_baden_chelsea_immunity_challenge.jpg/revision/latest?cb=20230407053320"
  },
@@ -10838,7 +10922,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b0/S11e02_dragged_through_mud.jpg/revision/latest?cb=20120530120200"
  },
@@ -10945,7 +11030,8 @@ const CHALLENGES = [
    "obstacle",
    "paddling",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/S40E02_IC.jpg/revision/latest?cb=20200215182900"
  },
@@ -10984,7 +11070,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f3/110130_19105b.jpg/revision/latest?cb=20171102091339"
  },
@@ -11016,7 +11103,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/11/S48e11_mary_driving_wheel.jpg/revision/latest?cb=20250508052417"
  },
@@ -11080,7 +11168,8 @@ const CHALLENGES = [
   "elements": [
    "endurance",
    "knots",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2d/Drop_a_Log.jpg/revision/latest?cb=20130421185454"
  },
@@ -11120,7 +11209,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/14/99280_D08339.display.jpg/revision/latest?cb=20110427193222"
  },
  {
@@ -11159,7 +11250,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "knots",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/108343_D16954b.jpg/revision/latest?cb=20170413150317"
  },
@@ -11189,7 +11281,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e8/End_line_australia.jpg/revision/latest?cb=20140104142313"
  },
@@ -11238,7 +11331,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/02/Aus11e03_sarah_viola_reward_challenge.jpg/revision/latest?cb=20240206160229"
  },
@@ -11475,7 +11569,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "memory",
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f6/S1final4immunity.jpg/revision/latest?cb=20220412004846"
  },
@@ -11782,7 +11877,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "fire"
+   "fire",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/53/Fast_fire_sugar.jpg/revision/latest?cb=20131207221947"
  },
@@ -11844,7 +11940,8 @@ const CHALLENGES = [
   "elements": [
    "puzzle",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4f/S39E07_IC.jpg/revision/latest?cb=20191101223554"
  },
@@ -11878,7 +11975,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S19e13.jpg/revision/latest?cb=20241211131800"
  },
@@ -11918,7 +12016,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/S47e06_blue_team_feel_the_earn.jpg/revision/latest?cb=20241026173055"
  },
@@ -11999,7 +12098,8 @@ const CHALLENGES = [
    "climbing",
    "paddling",
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/S33_Ep10_SG_101.jpg/revision/latest?cb=20161203165545"
  },
@@ -12101,7 +12201,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e6/Australian-Survivor-Episode-26-Hand-On-An-Idol-Immunity-Challenge---Lee-and-Kristie.jpg/revision/latest?cb=20170511085516"
  },
  {
@@ -12238,7 +12340,8 @@ const CHALLENGES = [
   "elements": [
    "blindfold",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/S28_press_images_ep2_0019.jpg/revision/latest?cb=20140303154634"
  },
@@ -12359,7 +12462,8 @@ const CHALLENGES = [
   "elements": [
    "fire",
    "obstacle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/Survivor.Vanuatu.s09e01.They.Came.at.Us.With.Spears.DVDrip_381.jpg/revision/latest?cb=20140809005840"
  },
@@ -12447,7 +12551,8 @@ const CHALLENGES = [
    "fire",
    "running",
    "strength",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/S2FireandWater.jpg/revision/latest?cb=20130531011800"
  },
@@ -12585,7 +12690,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a0/0007-s29_press_images_ep6_0007.jpg/revision/latest?cb=20141023182903"
  },
@@ -12656,7 +12762,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "paddling",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ad/Float_your_boat.jpg/revision/latest?cb=20130620214850"
  },
@@ -12769,7 +12876,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/93/Jed_water.jpg/revision/latest?cb=20120416211530"
  },
@@ -12851,7 +12959,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c4/Aus10e04_flick_footbrawl.jpg/revision/latest?cb=20230326121724"
  },
  {
@@ -12895,7 +13005,8 @@ const CHALLENGES = [
   "elements": [
    "paddling",
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a2/S12ep5RewardChallenge.jpg/revision/latest?cb=20140512234739"
  },
@@ -12970,7 +13081,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0e/KLS26_Ep3_Reward_Challenge.png/revision/latest?cb=20230515184016"
  },
@@ -13004,7 +13116,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d9/S34_Ep12_SG_054.jpg/revision/latest?cb=20171016193958"
  },
@@ -13072,7 +13185,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/33/Playing_bridge.jpg/revision/latest?cb=20131012155714"
  },
@@ -13134,7 +13248,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/13/S29_press_images_ep3_0012.jpg/revision/latest?cb=20141002205702"
  },
@@ -13310,7 +13425,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "maze",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/Aparri_GC.png/revision/latest?cb=20140322155243"
  },
@@ -13536,7 +13652,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/Chrsyigs4.png/revision/latest?cb=20131215040735"
  },
@@ -13637,7 +13754,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/S19e10_purple_team_get_hooked.jpg/revision/latest?cb=20230817204214"
  },
  {
@@ -13688,7 +13807,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/44/Rory_Catch.jpg/revision/latest?cb=20120507013101"
  },
  {
@@ -14048,7 +14169,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fb/Immunitychallengecookis.jpg/revision/latest?cb=20220204205722"
  },
@@ -14139,7 +14261,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9e/99280_D04472bEW.jpg/revision/latest?cb=20120113175221"
  },
@@ -14204,7 +14327,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d0/S32_press_images_ep14_0005.jpg/revision/latest?cb=20160519174011"
  },
  {
@@ -14239,7 +14364,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/Tambaqui_Gone_Fishin.png/revision/latest?cb=20230413145141"
  },
@@ -14286,7 +14412,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/75/108089_D07590b.jpg/revision/latest?cb=20160925045228"
  },
@@ -14495,7 +14622,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ac/KLS29_Ep9_.jpg/revision/latest?cb=20230419161524"
  },
@@ -14665,7 +14793,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Caramoan_fun_climb_erik.jpg/revision/latest?cb=20131116154054"
  },
@@ -14797,7 +14926,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1e/1_hoah_final_immunity.jpg/revision/latest?cb=20220209022151"
  },
@@ -14864,7 +14994,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/15/AU4EP19.jpg/revision/latest?cb=20210818140305"
  },
@@ -14947,7 +15078,8 @@ const CHALLENGES = [
    "climbing",
    "running",
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/S35_Ep9_SG_072b.jpg/revision/latest?cb=20171127044006"
  },
@@ -15013,7 +15145,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/04/UK3EP05Immunity4.jpg/revision/latest?cb=20240127231341"
  },
@@ -15048,7 +15181,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": ""
  },
@@ -15093,7 +15227,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/AU4EP9.jpg/revision/latest?cb=20210818133659"
  },
@@ -15240,7 +15375,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d3/AU4EP24.jpg/revision/latest?cb=20220915203848"
  },
@@ -15704,7 +15840,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/S10e3.jpg/revision/latest?cb=20230519182950"
  },
@@ -15891,7 +16028,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7e/4606011580_84109c063f.jpg/revision/latest?cb=20130219082418"
  },
@@ -16112,7 +16250,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "maze",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/S30_press_images_ep4_0072.jpg/revision/latest?cb=20150314140926"
  },
@@ -16244,7 +16383,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/88/Idol_hands_tasha.jpg/revision/latest?cb=20140328000018"
  },
@@ -16274,7 +16414,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S48e12_niu_nai_invertigo.jpg/revision/latest?cb=20250515081754"
  },
@@ -16621,7 +16762,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "digging",
-   "maze"
+   "maze",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/43/Jail_break_bvw.jpg/revision/latest?cb=20131210183439"
  },
@@ -16661,7 +16803,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/42/S26_E9_PI.jpg/revision/latest?cb=20130404192008"
  },
@@ -16813,7 +16956,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "running",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/Hai_drea_marooning.jpg/revision/latest?cb=20220310073352"
  },
@@ -16898,7 +17042,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6a/S10e11_kamikaze.jpg/revision/latest?cb=20230803233850"
  },
@@ -16948,7 +17093,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/26_caramoan_andrea_keelhauling.jpg/revision/latest?cb=20130424135130"
  },
@@ -17012,7 +17158,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/Keep_It_Up_Gabon.png/revision/latest?cb=20130426002359"
  },
@@ -17110,7 +17257,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Jeremiahwootrish.jpg/revision/latest?cb=20140408161000"
  },
@@ -17175,7 +17323,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Xander_pushing_kenny_log-ins.jpg/revision/latest?cb=20220426150259"
  },
@@ -17280,7 +17429,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/75/S13e06_kicking_and_screaming.jpg/revision/latest?cb=20250417053836"
  },
@@ -17338,7 +17488,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e8/Survivor-nic-e6recap.jpg/revision/latest?cb=20120114104017"
  },
@@ -17420,7 +17571,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/110130_10614b.jpg/revision/latest?cb=20171019102912"
  },
  {
@@ -17449,7 +17602,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d1/Know_your_loved_one_jon_and_lill.png/revision/latest?cb=20140129221002"
  },
@@ -17559,7 +17713,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ec/AuAsEp11.jpg/revision/latest?cb=20210818023226"
  },
  {
@@ -17622,7 +17778,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "knots",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": ""
  },
@@ -17743,7 +17900,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/247522_10151429535255922_972486048_n.jpg/revision/latest?cb=20130509133540"
  },
@@ -17985,7 +18143,8 @@ const CHALLENGES = [
   "elements": [
    "endurance",
    "running",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f7/S10e10_last_gasp.jpg/revision/latest?cb=20230803004713"
  },
@@ -18092,7 +18251,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Aus10e08_liz_shonee_legs_eleven.jpg/revision/latest?cb=20230305165016"
  },
@@ -18150,7 +18310,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "knots"
+   "knots",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/23/Survivor.S11E06.Big.Ball.Big.Mouth.Big.Trouble.DVBS.XviD.CZ-LBD_045.jpg/revision/latest?cb=20140708180535"
  },
@@ -18375,7 +18536,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/20/Lock_step_fang.jpg/revision/latest?cb=20140426214242"
  },
@@ -18422,7 +18584,8 @@ const CHALLENGES = [
    "fire",
    "paddling",
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/85/S13e1.jpg/revision/latest?cb=20120530220651"
  },
@@ -18485,7 +18648,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b2/Aus03e10_saanapu_log_handler.png/revision/latest?cb=20230406145145"
  },
@@ -18613,7 +18777,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8c/Log_jam_andrea_ashley.jpg/revision/latest?cb=20140726211838"
  },
@@ -18658,7 +18823,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ec/0018-s29_press_images_ep8_0018.jpg/revision/latest?cb=20141106232437"
  },
@@ -19105,7 +19271,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/108343_D09803b.jpg/revision/latest?cb=20170330164730"
  },
@@ -19155,7 +19322,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2d/Ep3RewardHeathBrian900x506.jpg/revision/latest?cb=20180903125837"
  },
  {
@@ -19209,7 +19378,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "blindfold"
+   "blindfold",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/0006-s29_press_images_ep6_0006.jpg/revision/latest?cb=20141023182849"
  },
@@ -19249,7 +19419,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/S8MatchMaker1.jpg/revision/latest?cb=20130729022852"
  },
  {
@@ -19306,7 +19478,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/108089_D40623b.jpg/revision/latest?cb=20161202230223"
  },
@@ -19336,7 +19509,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/221007.jpg/revision/latest?cb=20130629141556"
  },
@@ -19490,7 +19664,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": true,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ae/Concentration_setup.png/revision/latest?cb=20130510094003"
  },
  {
@@ -19522,7 +19698,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/02/Zas08e14_kiran_might_as_well_jump.jpg/revision/latest?cb=20230602195748"
  },
@@ -19594,7 +19771,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/18/Australian-Survivor-S3-Episode-16---Flags-Reward-Challenge5-900x506.jpg/revision/latest?cb=20180912165553"
  },
  {
@@ -19867,7 +20046,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/59/Mud_Bungee.jpg/revision/latest?cb=20211122234335"
  },
  {
@@ -20227,7 +20408,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "strength",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4c/Surv07.jpg/revision/latest?cb=20130625160049"
  },
@@ -20278,7 +20460,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/Guatemala_mud_slide.jpg/revision/latest?cb=20130608125759"
  },
@@ -20335,7 +20518,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/44/S25e12_lisa_justice_mud_slinging.png/revision/latest?cb=20230518162027"
  },
@@ -20418,7 +20602,8 @@ const CHALLENGES = [
    "balance",
    "digging",
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/26_caramoan_malcolmmuddywater.jpg/revision/latest?cb=20130424133819"
  },
@@ -20474,7 +20659,8 @@ const CHALLENGES = [
    "knots",
    "puzzle",
    "strength",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Tai_and_andrea_new_school.png/revision/latest?cb=20170422143316"
  },
@@ -20529,7 +20715,8 @@ const CHALLENGES = [
   "elements": [
    "knots",
    "obstacle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/aa/S5E04_New_Tribe_Member.jpg/revision/latest?cb=20230519185506"
  },
@@ -20799,7 +20986,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/26_caramoan_nutbucket.jpg/revision/latest?cb=20130428064822"
  },
@@ -20830,7 +21018,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c8/Eriklastchallenge.jpg/revision/latest?cb=20220528011808"
  },
  {
@@ -20953,7 +21143,8 @@ const CHALLENGES = [
    "balance",
    "obstacle",
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "image": ""
  },
@@ -20993,7 +21184,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/89/S27_press_images_ep4_0021.jpg/revision/latest?cb=20131005033456"
  },
@@ -21133,7 +21325,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Aus08e07_brawn_on_the_pull.jpg/revision/latest?cb=20230401181644"
  },
@@ -21243,7 +21436,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/S33e13.jpg/revision/latest?cb=20241215181919"
  },
  {
@@ -21372,7 +21567,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c0/Survivor_obstacle_course_cambodia.png/revision/latest?cb=20151217125308"
  },
@@ -21650,7 +21846,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/S19final.jpg/revision/latest?cb=20130216022444"
  },
@@ -21693,7 +21890,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/Chan_loh_kaoh_rong_wooden_ships.jpg/revision/latest?cb=20160213132951"
  },
@@ -21924,7 +22122,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "maze"
+   "maze",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/12/Paddle_out_skupin.png/revision/latest?cb=20140430215441"
  },
@@ -22335,7 +22534,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/S6Perch.jpg/revision/latest?cb=20130128210158"
  },
@@ -22388,7 +22588,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/Pilfering_Pirates-0.png/revision/latest?cb=20200809132924"
  },
@@ -22440,7 +22641,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/37/Pig_out_savaii.jpg/revision/latest?cb=20131227015938"
  },
@@ -22504,7 +22706,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c5/Aus06e17_solibula_planks_a_lot.jpg/revision/latest?cb=20230612032556"
  },
@@ -22597,7 +22800,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/S31_press_images_ep13_0011.jpg/revision/latest?cb=20151210123429"
  },
  {
@@ -22680,7 +22885,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/84/Pot_head_danni.png/revision/latest?cb=20140427002127"
  },
@@ -23026,7 +23232,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7d/Aus10e02_liz_shonee_push_comes_to_shove.jpg/revision/latest?cb=20230305163708"
  },
  {
@@ -23131,7 +23339,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/76/Jane1stImmunityChallenge.jpg/revision/latest?cb=20131127211509"
  },
@@ -23196,7 +23405,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "digging",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/05/Puzzle_dig_micronesia.jpg/revision/latest?cb=20220221160700"
  },
@@ -23230,7 +23440,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/50/Domenick_wendell_pyramid_scheme.png/revision/latest?cb=20180527153122"
  },
@@ -23376,7 +23587,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a5/All_Stars_Q_and_A.jpg/revision/latest?cb=20220407154122"
  },
@@ -24038,7 +24250,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/QuestForFireCambodia.jpg/revision/latest?cb=20170426062527"
  },
  {
@@ -24444,7 +24658,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a2/S41e01_marooning.jpg/revision/latest?cb=20230131223334"
  },
  {
@@ -24799,7 +25015,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "paddling",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/KLS26_Ep2_Reward_Challenge2.png/revision/latest?cb=20230514130439"
  },
@@ -24861,7 +25078,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "paddling",
-   "water"
+   "water",
+   "local"
   ],
   "image": ""
  },
@@ -25022,7 +25240,8 @@ const CHALLENGES = [
    "balance",
    "knots",
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c2/108343_D04730b.jpg/revision/latest?cb=20170323010154"
  },
@@ -25069,7 +25288,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/SurvivorMicronesia-Episode1-6.jpg/revision/latest?cb=20130728142559"
  },
@@ -25127,7 +25347,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4e/Survivor_Triage.jpg/revision/latest?cb=20230519220522"
  },
@@ -25221,7 +25442,8 @@ const CHALLENGES = [
    "maze",
    "obstacle",
    "paddling",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6b/110130_17320b.jpg/revision/latest?cb=20171026030353"
  },
@@ -25250,7 +25472,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e5/Ring_leader_dvg.jpg/revision/latest?cb=20181112065933"
  },
  {
@@ -25421,7 +25645,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Tossjds.png/revision/latest?cb=20141004002936"
  },
@@ -25470,7 +25695,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Marquesas_Rock_Bottom_challenge.jpg/revision/latest?cb=20190610003734"
  },
@@ -25668,7 +25894,8 @@ const CHALLENGES = [
   "elements": [
    "climbing",
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/Boran_Rock_n%27_Roll.jpg/revision/latest?cb=20220407153509"
  },
@@ -25702,7 +25929,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c3/0003-s29_press_images_ep9_0003.jpg/revision/latest?cb=20141114212326"
  },
@@ -25963,7 +26191,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "strength",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e0/KLS27_Ep4_Immunity_Challenge.jpg/revision/latest?cb=20230513123016"
  },
@@ -26017,7 +26246,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/97/110483_19398b.jpg/revision/latest?cb=20180315190224"
  },
@@ -26135,7 +26365,8 @@ const CHALLENGES = [
   "elements": [
    "blindfold",
    "maze",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b0/Cassidy_roll_with_it.jpg/revision/latest?cb=20221208174001"
  },
@@ -26292,7 +26523,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0f/Davie_rollerball_dvg.jpg/revision/latest?cb=20181213232947"
  },
@@ -26334,7 +26566,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b6/Jonathan_ladder_spiral_architect.jpg/revision/latest?cb=20220423153729"
  },
@@ -26450,7 +26683,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "digging",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/16/4013_IC2.png/revision/latest?cb=20200508222642"
  },
@@ -26575,7 +26809,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "maze",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/12/Vinaka_rusty_gates.png/revision/latest?cb=20220515095038"
  },
@@ -26657,7 +26892,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Palau_sos.jpg/revision/latest?cb=20130520080733"
  },
  {
@@ -26735,7 +26972,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0f/Survivor.Vanuatu.s09e10.Culture.Shock.and.Violent.Storms.DVDrip_109.jpg/revision/latest?cb=20140803193942"
  },
@@ -26809,7 +27047,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/49/KLS23_Ep4_Reward_Challenge.jpg/revision/latest?cb=20230521161535"
  },
@@ -26871,7 +27110,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/ba/Schmergen_Brawl.jpg/revision/latest?cb=20211124180852"
  },
@@ -26960,7 +27200,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Survivor.s27e11.hdtv.x264-2hd_032.jpg/revision/latest?cb=20131202121949"
  },
@@ -27200,7 +27441,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/20/S42_bermuda_triangles.jpg/revision/latest?cb=20220426181022"
  },
@@ -27292,7 +27534,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/Plunge_pull_pop_caramoan_2.png/revision/latest?cb=20140101201712"
  },
@@ -27361,7 +27604,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "paddling",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/72/Sabogalastchallenge.jpg/revision/latest?cb=20110502051207"
  },
@@ -27460,7 +27704,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/221102.jpg/revision/latest?cb=20130630124824"
  },
@@ -27511,7 +27756,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0a/Shooting_gallery_tom.jpg/revision/latest?cb=20131205233747"
  },
@@ -27688,7 +27934,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "endurance",
-   "running"
+   "running",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7b/JT_Simmotion.jpg/revision/latest?cb=20230115232707"
  },
@@ -27737,7 +27984,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/5f/Australian-Survivor-S3-Episode-5---Sliders10.jpg/revision/latest?cb=20180813020152"
  },
@@ -27970,7 +28218,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/95/Episode-4-reward-4-480x347.jpg/revision/latest?cb=20130326230259"
  },
@@ -28078,7 +28327,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/09/110130_15299b.jpg/revision/latest?cb=20171026024804"
  },
@@ -28509,7 +28759,8 @@ const CHALLENGES = [
    "climbing",
    "puzzle",
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/Andrea_smash_and_grab_caramoan.jpg/revision/latest?cb=20131126000757"
  },
@@ -28717,7 +28968,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "maze",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/220603.jpg/revision/latest?cb=20130622163410"
  },
@@ -28797,7 +29049,8 @@ const CHALLENGES = [
   "elements": [
    "endurance",
    "obstacle",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/WTEB.jpg/revision/latest?cb=20130619182010"
  },
@@ -28867,7 +29120,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ed/250811.jpg/revision/latest?cb=20130721132646"
  },
@@ -28900,7 +29154,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/28/251008.jpg/revision/latest?cb=20130719170129"
  },
  {
@@ -28957,7 +29213,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9a/Christa_at_an_Individual_Immunity_Challenge.jpg/revision/latest?cb=20131208193645"
  },
@@ -28997,7 +29254,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Vati_ika_spiral_architect.jpg/revision/latest?cb=20220528170459"
  },
@@ -29041,7 +29299,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "maze",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/Spin_cycle_eve.jpg/revision/latest?cb=20131125234807"
  },
@@ -29395,7 +29654,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/Survivor.s27e10.hdtv.x264-2hd_333.jpg/revision/latest?cb=20131125115234"
  },
@@ -29491,7 +29751,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/0007-s29_press_images_ep14_0007.jpg/revision/latest?cb=20141215233302"
  },
@@ -29531,7 +29792,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/Amanda_james_jean-robert_sink_courtney.jpg/revision/latest?cb=20140909185759"
  },
@@ -29597,7 +29859,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bb/Survivor_borneo_board.png/revision/latest?cb=20140303030438"
  },
  {
@@ -29662,7 +29926,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S35_Ep9_SG_009b.jpg/revision/latest?cb=20171127043159"
  },
@@ -29825,7 +30090,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/18/Stairway_to_the_stars_africa_samburu_wins.jpg/revision/latest?cb=20140716121319"
  },
@@ -29882,7 +30148,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/Station_to_station_samoa.jpg/revision/latest?cb=20131214163327"
  },
@@ -29966,7 +30233,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/48/Kulakula_step_on_up.jpg/revision/latest?cb=20220518110357"
  },
@@ -30117,7 +30385,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/Frank_stomp-ed_africa.jpg/revision/latest?cb=20140719015930"
  },
@@ -30339,7 +30608,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b8/SOHVV.jpg/revision/latest?cb=20130625131519"
  },
@@ -30610,7 +30880,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4a/Survivorsumojaclynkelley.jpg/revision/latest?cb=20141005223330"
  },
  {
@@ -30855,7 +31127,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/S32_press_images_ep14_0041.jpg/revision/latest?cb=20160519180924"
  },
@@ -30894,7 +31167,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/98/Super_Golf.jpg/revision/latest?cb=20211124174714"
  },
@@ -30935,7 +31209,8 @@ const CHALLENGES = [
   "rulesPairs": true,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c7/S46e06_orange_super_ramp.jpg/revision/latest?cb=20240404175845"
  },
@@ -30969,7 +31244,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": ""
  },
@@ -31214,7 +31490,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Greg_reward.jpg/revision/latest?cb=20140531062010"
  },
@@ -31248,7 +31525,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/89/Survivor_roots_micronesia_erik.jpg/revision/latest?cb=20220221163157"
  },
@@ -31441,7 +31719,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/05/Cindy_car.jpg/revision/latest?cb=20120517210648"
  },
@@ -31618,7 +31897,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/da/S01e11_richard_sean_survivor_quiz_show.jpg/revision/latest?cb=20230519043532"
  },
@@ -31692,7 +31972,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/dc/PIchallenge.png/revision/latest?cb=20150610114313"
  },
@@ -31847,7 +32128,8 @@ const CHALLENGES = [
   "elements": [
    "obstacle",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/10/Swing_break_artis.png/revision/latest?cb=20150319022416"
  },
@@ -31925,7 +32207,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d8/CRASH-RI.jpg/revision/latest?cb=20140119030158"
  },
@@ -31961,7 +32244,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fb/S05e04_chuay_gahn_tan-dy_gram.jpg/revision/latest?cb=20140608124615"
  },
@@ -32036,7 +32320,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Temple_transfer_thailand.jpg/revision/latest?cb=20130910011625"
  },
@@ -32120,7 +32405,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/88/Erika-theballdrop.jpg/revision/latest?cb=20211218135201"
  },
@@ -32188,7 +32474,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/95/0019-s29_press_images_ep4_0019.jpg/revision/latest?cb=20141009150314"
  },
@@ -32247,7 +32534,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "knots",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/0017-s29_press_images_ep9_0017.jpg/revision/latest?cb=20141114212755"
  },
@@ -32320,7 +32608,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/26/S16e8.jpg/revision/latest?cb=20121218183113"
  },
@@ -32372,7 +32661,8 @@ const CHALLENGES = [
    "balance",
    "obstacle",
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S32_press_images_ep14_0037.jpg/revision/latest?cb=20160519180744"
  },
@@ -32512,7 +32802,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "maze"
+   "maze",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/ff/S34_Ep14_012.jpg/revision/latest?cb=20171016182927"
  },
@@ -33097,7 +33388,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d5/Obstacle_course_all-stars.jpg/revision/latest?cb=20140108160836"
  },
@@ -33140,7 +33432,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1a/KLS29_Ep3_Immunity_Challenge.png/revision/latest?cb=20230515185733"
  },
@@ -33172,7 +33465,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": ""
  },
  {
@@ -33240,7 +33535,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/65/KLS26_Ep6_Reward_Challenge2.png/revision/latest?cb=20230610162955"
  },
@@ -33443,7 +33739,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/S32_press_images_ep10_0014.jpg/revision/latest?cb=20160421125040"
  },
@@ -33482,7 +33779,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "knots",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/250519.jpg/revision/latest?cb=20130724154805"
  },
@@ -33554,7 +33852,8 @@ const CHALLENGES = [
    "knots",
    "puzzle",
    "running",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/S11e7.jpg/revision/latest?cb=20120530121444"
  },
@@ -33589,7 +33888,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7c/Zas04e05_battleships.png/revision/latest?cb=20230424153245"
  },
  {
@@ -33653,7 +33954,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "memory",
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Survivor.Vanuatu.s09e11.Surprise.and.Surprise.Again.DVDrip_156.jpg/revision/latest?cb=20140806154508"
  },
@@ -33699,7 +34001,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/110128_06147bb.jpg/revision/latest?cb=20170929133514"
  },
@@ -33746,7 +34049,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9e/Survivor.Vanuatu.s09e04.Now.That%27s.a.Reward%21.DVDrip_387.jpg/revision/latest?cb=20140811204258"
  },
@@ -33802,7 +34106,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "endurance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/AU2017-Ep8-RewardChallenge.jpg/revision/latest?cb=20171002144707"
  },
@@ -33844,7 +34149,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/70/Troubled_water_vanuatu.jpg/revision/latest?cb=20131207183824"
  },
@@ -33923,7 +34229,8 @@ const CHALLENGES = [
   "elements": [
    "knots",
    "obstacle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/50/KLS29_Ep6_Reward_Challenge.jpg/revision/latest?cb=20230516191338"
  },
@@ -33959,7 +34266,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/108343_D08847b.jpg/revision/latest?cb=20170330163052"
  },
@@ -34086,7 +34394,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/03/0007-s29_press_images_ep10_0007.JPG/revision/latest?cb=20141121212604"
  },
@@ -34312,7 +34621,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/6b.jpg/revision/latest?cb=20130515161604"
  },
@@ -34698,7 +35008,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/20.jpg/revision/latest?cb=20130513155324"
  },
@@ -34795,7 +35106,8 @@ const CHALLENGES = [
    "puzzle",
    "running",
    "throwing",
-   "water"
+   "water",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/Survivor-cagayan-spencer-immunity-challenge-455x270.jpg/revision/latest?cb=20140522151112"
  },
@@ -35378,7 +35690,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/Colleen_last.png/revision/latest?cb=20120318043000"
  },
@@ -35419,7 +35732,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "maze"
+   "maze",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/Pegatory_Knockout_Panama.png/revision/latest?cb=20130425225631"
  },
@@ -35614,7 +35928,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/38/Savaii_shoulder_the_load.jpg/revision/latest?cb=20211123190231"
  },
@@ -35654,7 +35969,8 @@ const CHALLENGES = [
   "elements": [
    "digging",
    "paddling",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/S46e04_yanu_wear_my_ring.jpg/revision/latest?cb=20240321150107"
  },
@@ -35838,7 +36154,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/36/Well_stacked_samoa.jpg/revision/latest?cb=20160324012729"
  },
@@ -36101,7 +36418,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/110483_20221b.jpg/revision/latest?cb=20180315191519"
  },
@@ -36382,7 +36700,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/db/S24_ep9_press_images_00003.jpg/revision/latest?cb=20120410204038"
  },
@@ -36561,7 +36880,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/17/Sierra_catch.JPG/revision/latest?cb=20121010002002"
  },
@@ -36620,7 +36940,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/56/ESS17_noria_infernal.png/revision/latest?cb=20240428011017"
  },
@@ -36700,7 +37021,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/Ie_32152.jpeg/revision/latest?cb=20191120171305"
  },
@@ -36746,7 +37068,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/61/AmazonFinalImmunity.jpg/revision/latest?cb=20151222154539"
  },
@@ -36882,7 +37205,8 @@ const CHALLENGES = [
   "elements": [
    "memory",
    "running",
-   "trivia"
+   "trivia",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/WHSB.jpg/revision/latest?cb=20130807125413"
  },
@@ -36914,7 +37238,8 @@ const CHALLENGES = [
   "elements": [
    "balance",
    "maze",
-   "paddling"
+   "paddling",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/S33_Ep13_SG_037.jpg/revision/latest?cb=20171016214011"
  },
@@ -36949,7 +37274,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/da/Survivor.s11e14.pdtv.xvid-xor_561.jpg/revision/latest?cb=20140718191816"
  },
@@ -37070,7 +37396,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6d/250719.jpg/revision/latest?cb=20130722160845"
  },
@@ -37169,7 +37496,8 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0a/S31_press_images_ep2_0018.jpg/revision/latest?cb=20150925135507"
  },
@@ -37217,7 +37545,8 @@ const CHALLENGES = [
   ],
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/92/S35e13_ben_you_shook_me.jpg/revision/latest?cb=20250509093517"
  },
@@ -37247,7 +37576,9 @@ const CHALLENGES = [
    }
   ],
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/Aurora_Final_Immunity_Challenge.jpg/revision/latest?cb=20230416014658"
  }
 ];

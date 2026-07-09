@@ -811,7 +811,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -881,7 +882,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -1853,7 +1855,8 @@ const TC_CHALLENGES = [
   "elements": [
    "running",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -3174,7 +3177,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3470,7 +3475,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3839,7 +3846,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -3890,7 +3898,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "water"
+   "water",
+   "local"
   ],
   "airings": [
    {
@@ -3919,7 +3928,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f7/Challenge16Logo.jpg/revision/latest?cb=20190810123742",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3947,7 +3958,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f7/Challenge16Logo.jpg/revision/latest?cb=20190810123742",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3975,7 +3988,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f7/Challenge16Logo.jpg/revision/latest?cb=20190810123742",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4012,7 +4027,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "knots"
+   "knots",
+   "local"
   ],
   "airings": [
    {
@@ -4062,7 +4078,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -5448,7 +5465,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -5617,7 +5635,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6014,7 +6034,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -6085,7 +6106,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "maze",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -6943,7 +6965,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -9409,7 +9432,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -10098,7 +10122,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -11371,7 +11397,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -11393,7 +11420,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -11415,7 +11443,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -11436,7 +11465,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f7/Challenge07Logo.jpg/revision/latest?cb=20150704231245",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11465,7 +11496,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -11486,7 +11518,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d7/Challenge08Logo.jpg/revision/latest?cb=20150629160424",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11507,7 +11541,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "airings": [
    {
@@ -11528,7 +11563,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d7/Challenge08Logo.jpg/revision/latest?cb=20150629160424",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11548,7 +11585,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d7/Challenge08Logo.jpg/revision/latest?cb=20150629160424",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11569,7 +11608,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "airings": [
    {
@@ -11591,7 +11631,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -11612,7 +11653,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d7/Challenge08Logo.jpg/revision/latest?cb=20150629160424",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11632,7 +11675,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d7/Challenge08Logo.jpg/revision/latest?cb=20150629160424",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11653,7 +11698,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -11675,7 +11721,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -11697,7 +11744,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -11718,7 +11766,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/ea/Challenge10Logo.jpg/revision/latest?cb=20150523180609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11795,7 +11845,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -11817,7 +11868,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -11859,7 +11911,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "airings": [
    {
@@ -11880,7 +11933,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11922,7 +11977,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11942,7 +11999,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -11990,7 +12049,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12010,7 +12071,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12030,7 +12093,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12051,7 +12116,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12075,7 +12141,8 @@ const TC_CHALLENGES = [
   "elements": [
    "climbing",
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -12096,7 +12163,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12196,7 +12265,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12217,7 +12288,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -12239,7 +12311,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -12260,7 +12333,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12303,7 +12378,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12334,7 +12410,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12355,7 +12432,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12375,7 +12454,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12395,7 +12476,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12415,7 +12498,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12436,7 +12521,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -12457,7 +12543,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12478,7 +12566,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -12499,7 +12588,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f7/Challenge16Logo.jpg/revision/latest?cb=20190810123742",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12520,7 +12611,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12541,7 +12633,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12562,7 +12656,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -12584,7 +12679,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -12605,7 +12701,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/48/Challenge18Logo.jpg/revision/latest?cb=20190810123456",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12625,7 +12723,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/48/Challenge18Logo.jpg/revision/latest?cb=20190810123456",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12645,7 +12745,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/48/Challenge18Logo.jpg/revision/latest?cb=20190810123456",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12686,7 +12788,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "airings": [
    {
@@ -12728,7 +12831,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12749,7 +12853,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/48/Challenge18Logo.jpg/revision/latest?cb=20190810123456",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12770,7 +12876,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "airings": [
    {
@@ -12794,7 +12901,8 @@ const TC_CHALLENGES = [
   "elements": [
    "puzzle",
    "running",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12817,7 +12925,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "memory",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -12847,7 +12956,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12868,7 +12978,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12889,7 +13001,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -12910,7 +13023,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12930,7 +13045,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12950,7 +13067,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -12971,7 +13090,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "airings": [
    {
@@ -12992,7 +13112,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13012,7 +13134,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13034,7 +13158,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13057,7 +13182,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "digging",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -13102,7 +13228,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13123,7 +13250,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13143,7 +13272,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13163,7 +13294,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13191,7 +13324,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13212,7 +13347,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13233,7 +13369,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13254,7 +13392,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "knots"
+   "knots",
+   "local"
   ],
   "airings": [
    {
@@ -13278,7 +13417,8 @@ const TC_CHALLENGES = [
   "elements": [
    "endurance",
    "memory",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -13300,7 +13440,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13321,7 +13462,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13342,7 +13485,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "blindfold"
+   "blindfold",
+   "local"
   ],
   "airings": [
    {
@@ -13363,7 +13507,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13405,7 +13551,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -13447,7 +13594,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13469,7 +13617,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13491,7 +13640,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -13512,7 +13662,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13541,7 +13693,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "airings": [
    {
@@ -13562,7 +13715,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13583,7 +13738,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13627,7 +13783,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -13649,7 +13806,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "airings": [
    {
@@ -13670,7 +13828,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13754,7 +13914,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13774,7 +13936,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13794,7 +13958,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13814,7 +13980,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13834,7 +14002,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13855,7 +14025,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -13876,7 +14047,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13897,7 +14070,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "airings": [
    {
@@ -13934,7 +14108,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13955,7 +14131,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -13976,7 +14153,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -13996,7 +14175,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14017,7 +14198,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "blindfold"
+   "blindfold",
+   "local"
   ],
   "airings": [
    {
@@ -14038,7 +14220,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14059,7 +14243,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -14080,7 +14265,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e3/Challenge29Logo.png/revision/latest?cb=20190810121646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14101,7 +14288,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -14122,7 +14310,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e3/Challenge29Logo.png/revision/latest?cb=20190810121646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14143,7 +14333,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14164,7 +14355,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e3/Challenge29Logo.png/revision/latest?cb=20190810121646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14184,7 +14377,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e3/Challenge29Logo.png/revision/latest?cb=20190810121646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14266,7 +14461,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14287,7 +14484,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -14309,7 +14507,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "blindfold"
+   "blindfold",
+   "local"
   ],
   "airings": [
    {
@@ -14330,7 +14529,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14379,7 +14580,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14423,7 +14625,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14445,7 +14649,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "memory",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -14475,7 +14680,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -14496,7 +14702,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14516,7 +14724,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14538,7 +14748,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -14562,7 +14773,8 @@ const TC_CHALLENGES = [
   "elements": [
    "memory",
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14584,7 +14796,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14605,7 +14818,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14625,7 +14840,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14647,7 +14864,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14668,7 +14886,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14688,7 +14908,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14711,7 +14933,8 @@ const TC_CHALLENGES = [
   "elements": [
    "climbing",
    "memory",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -14734,7 +14957,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14755,7 +14979,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14777,7 +15003,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "knots",
-   "water"
+   "water",
+   "local"
   ],
   "airings": [
    {
@@ -14800,7 +15027,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "eating",
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -14823,7 +15051,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -14845,7 +15074,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -14866,7 +15096,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14888,7 +15120,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -14918,7 +15151,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -14940,7 +15174,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -14961,7 +15196,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -14983,7 +15220,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15005,7 +15243,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "airings": [
    {
@@ -15026,7 +15265,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15046,7 +15287,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15088,7 +15331,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15109,7 +15354,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -15131,7 +15377,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -15152,7 +15399,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15174,7 +15423,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "memory",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15196,7 +15446,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -15218,7 +15469,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -15240,7 +15492,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15261,7 +15514,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15281,7 +15536,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15301,7 +15558,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15324,7 +15583,8 @@ const TC_CHALLENGES = [
   "elements": [
    "puzzle",
    "running",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -15367,7 +15627,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15387,7 +15649,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15415,7 +15679,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15436,7 +15702,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -15457,7 +15724,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15478,7 +15747,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -15499,7 +15769,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15519,7 +15791,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15540,7 +15814,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "knots"
+   "knots",
+   "local"
   ],
   "airings": [
    {
@@ -15561,7 +15836,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -15606,7 +15883,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -15628,7 +15906,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -15652,7 +15931,8 @@ const TC_CHALLENGES = [
   "elements": [
    "puzzle",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -15674,7 +15954,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15696,7 +15977,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -15718,7 +16000,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15740,7 +16023,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -15762,7 +16046,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "obstacle"
+   "obstacle",
+   "local"
   ],
   "airings": [
    {
@@ -15808,7 +16093,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -15853,7 +16139,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -15876,7 +16163,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "digging",
-   "memory"
+   "memory",
+   "local"
   ],
   "airings": [
    {
@@ -15920,7 +16208,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -15943,7 +16232,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "airings": [
    {
@@ -15965,7 +16255,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -15986,7 +16277,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16007,7 +16300,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16029,7 +16323,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "maze"
+   "maze",
+   "local"
   ],
   "airings": [
    {
@@ -16058,7 +16353,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16078,7 +16375,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16099,7 +16398,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16121,7 +16421,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -16143,7 +16444,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16194,7 +16496,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16215,7 +16519,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "endurance"
+   "endurance",
+   "local"
   ],
   "airings": [
    {
@@ -16252,7 +16557,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16272,7 +16579,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16292,7 +16601,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16332,7 +16643,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16353,7 +16666,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16375,7 +16689,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16396,7 +16711,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16417,7 +16734,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16438,7 +16756,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16458,7 +16778,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16480,7 +16802,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "water"
+   "water",
+   "local"
   ],
   "airings": [
    {
@@ -16502,7 +16825,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -16543,7 +16867,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16565,7 +16891,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16587,7 +16914,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "airings": [
    {
@@ -16609,7 +16937,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16630,7 +16959,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16651,7 +16982,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16673,7 +17005,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -16695,7 +17028,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16717,7 +17051,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "airings": [
    {
@@ -16740,7 +17075,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16761,7 +17097,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16781,7 +17119,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16801,7 +17141,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16823,7 +17165,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -16846,7 +17189,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16869,7 +17213,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "obstacle",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16891,7 +17236,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -16913,7 +17259,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -16936,7 +17283,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "endurance",
-   "water"
+   "water",
+   "local"
   ],
   "airings": [
    {
@@ -16977,7 +17325,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -16997,7 +17347,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17019,7 +17371,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "running",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -17042,7 +17395,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -17064,7 +17418,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17087,7 +17442,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "blindfold",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17110,7 +17466,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "climbing",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17134,7 +17491,8 @@ const TC_CHALLENGES = [
   "elements": [
    "balance",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17156,7 +17514,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17182,7 +17541,8 @@ const TC_CHALLENGES = [
    "puzzle",
    "running",
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17223,7 +17583,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17266,7 +17628,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "blindfold"
+   "blindfold",
+   "local"
   ],
   "airings": [
    {
@@ -17287,7 +17650,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17308,7 +17673,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17330,7 +17696,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -17353,7 +17720,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "running",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17374,7 +17742,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17395,7 +17765,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17416,7 +17787,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17436,7 +17809,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17456,7 +17831,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17476,7 +17853,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17497,7 +17876,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17518,7 +17898,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17539,7 +17921,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17561,7 +17944,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "airings": [
    {
@@ -17582,7 +17966,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17603,7 +17989,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "eating"
+   "eating",
+   "local"
   ],
   "airings": [
    {
@@ -17625,7 +18012,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17647,7 +18035,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17668,7 +18057,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -17689,7 +18080,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -17710,7 +18102,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/fb/AS2Promo.png/revision/latest?cb=20211109231919",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17731,7 +18125,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17753,7 +18148,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "running"
+   "running",
+   "local"
   ],
   "airings": [
    {
@@ -17775,7 +18171,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17797,7 +18194,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -17820,7 +18218,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "strength",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -17841,7 +18240,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17862,7 +18263,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "maze"
+   "maze",
+   "local"
   ],
   "airings": [
    {
@@ -17884,7 +18286,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -17905,7 +18308,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17925,7 +18330,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17945,7 +18352,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17965,7 +18374,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -17985,7 +18396,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -18006,7 +18419,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -18050,7 +18464,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -18072,7 +18487,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "airings": [
    {
@@ -18094,7 +18510,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18117,7 +18534,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -18138,7 +18556,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -18159,7 +18579,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18181,7 +18602,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "balance"
+   "balance",
+   "local"
   ],
   "airings": [
    {
@@ -18203,7 +18625,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18225,7 +18648,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18246,7 +18670,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -18267,7 +18693,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "airings": [
    {
@@ -18289,7 +18716,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "memory"
+   "memory",
+   "local"
   ],
   "airings": [
    {
@@ -18310,7 +18738,9 @@ const TC_CHALLENGES = [
   "image": "",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -18331,7 +18761,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18353,7 +18784,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18383,7 +18815,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -18413,7 +18846,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "airings": [
    {
@@ -18450,7 +18884,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5b/ChallengeAUScast.jpg/revision/latest?cb=20220904211617",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -18479,7 +18915,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "knots"
+   "knots",
+   "local"
   ],
   "airings": [
    {
@@ -18500,7 +18937,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/2f/ChallengeARG.jpeg/revision/latest?cb=20230115204748",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "AR",
@@ -18521,7 +18960,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "maze"
+   "maze",
+   "local"
   ],
   "airings": [
    {
@@ -18543,7 +18983,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -18565,7 +19006,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "trivia"
+   "trivia",
+   "local"
   ],
   "airings": [
    {
@@ -18586,7 +19028,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/2f/ChallengeARG.jpeg/revision/latest?cb=20230115204748",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "AR",
@@ -18607,7 +19051,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18629,7 +19074,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "climbing"
+   "climbing",
+   "local"
   ],
   "airings": [
    {
@@ -18651,7 +19097,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -18672,7 +19119,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -18692,7 +19141,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -18715,7 +19166,8 @@ const TC_CHALLENGES = [
   "elements": [
    "balance",
    "puzzle",
-   "strength"
+   "strength",
+   "local"
   ],
   "airings": [
    {
@@ -18737,7 +19189,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "puzzle"
+   "puzzle",
+   "local"
   ],
   "airings": [
    {
@@ -18778,7 +19231,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18799,7 +19254,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -18820,7 +19276,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18840,7 +19298,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18863,7 +19323,8 @@ const TC_CHALLENGES = [
   "elements": [
    "balance",
    "endurance",
-   "knots"
+   "knots",
+   "local"
   ],
   "airings": [
    {
@@ -18886,7 +19347,8 @@ const TC_CHALLENGES = [
   "rulesPairs": false,
   "elements": [
    "balance",
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -18907,7 +19369,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18928,7 +19392,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
@@ -18949,7 +19414,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18969,7 +19436,9 @@ const TC_CHALLENGES = [
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/USA2LargePoster.jpg/revision/latest?cb=20230713002609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -18990,7 +19459,8 @@ const TC_CHALLENGES = [
   "show": "tc",
   "rulesPairs": false,
   "elements": [
-   "throwing"
+   "throwing",
+   "local"
   ],
   "airings": [
    {
