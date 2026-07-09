@@ -213,6 +213,13 @@ td.season { white-space: nowrap; font-weight: 600; }
 td.season small { display: block; color: var(--bone-dim); font-weight: 400; }
 td.ctype { white-space: nowrap; color: var(--bone-dim); }
 .wikilink { color: var(--ember); text-decoration: none; font-size: 14px; }
+.cd-add { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 16px; padding: 12px; border: 1px dashed var(--card-edge); border-radius: 8px; }
+.cd-add select, .cd-add button {
+  font: 600 14px var(--sans); color: var(--bone); background: var(--night);
+  border: 1px solid var(--card-edge); border-radius: 8px; padding: 8px 12px; cursor: pointer;
+}
+.cd-add button { background: var(--ember-deep); border-color: var(--ember-deep); color: #fff; }
+.cd-add span { color: var(--pairs); font-weight: 600; font-size: 14px; }
 .wikilink:hover { text-decoration: underline; }
 
 /* ---------- footer ---------- */
@@ -527,11 +534,48 @@ function openModal(i) {
         <thead><tr><th>Season</th><th>Type</th><th>Winner(s)</th></tr></thead>
         <tbody>${rows}</tbody>
       </table></div>
+      ${cdToken() ? `<div class="cd-add">
+        <select id="cdType">
+          <option value="daily">Daily</option>
+          <option value="elimination" ${[...tagsOf(c, c.airings).kinds].join() === "elimination" ? "selected" : ""}>Elimination</option>
+          <option value="final">Final</option>
+        </select>
+        <button id="cdAdd">Add to Challenge Day schedule</button>
+        <span id="cdMsg"></span>
+      </div>` : ""}
       <p style="margin-top:14px"><a class="wikilink" target="_blank" rel="noopener"
         href="${c.url || `https://survivor.fandom.com/wiki/${encodeURIComponent(c.name.replaceAll(" ", "_"))}`}">View on the ${c.show === "tc" ? "Challenge" : "Survivor"} Wiki →</a></p>
     </div>`;
+  if (cdToken()) $("#cdAdd").onclick = () => addToChallengeDay(c);
   modal.showModal();
   modal.scrollTop = 0;
+}
+
+/* Challenge Day integration — appears if you've logged into production.html
+   in this browser (same origin, shared localStorage) */
+const CD_WORKER = "https://challenge-day.sami-prehn.workers.dev";
+const cdToken = () => localStorage.getItem("cd_token");
+async function addToChallengeDay(c) {
+  const msg = $("#cdMsg");
+  msg.textContent = "…";
+  try {
+    const headers = { "Content-Type": "application/json", "X-Token": cdToken() };
+    const st = await fetch(CD_WORKER + "/state", { headers }).then(r => r.json());
+    if (st.error) throw new Error(st.error);
+    (st.schedule = st.schedule || []).push({
+      id: Date.now() + "-" + Math.floor(Math.random() * 1e6),
+      name: displayName(c.name),
+      type: $("#cdType").value,
+      note: "from the archive",
+      done: false,
+    });
+    const r = await fetch(CD_WORKER + "/update", { method: "POST", headers, body: JSON.stringify({ state: st }) })
+      .then(r => r.json());
+    if (r.error) throw new Error(r.error);
+    msg.textContent = "Added ✓";
+  } catch (e) {
+    msg.textContent = "Failed: " + e.message;
+  }
 }
 
 render();
