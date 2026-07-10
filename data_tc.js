@@ -1,12 +1,14 @@
 const TC_CHALLENGES = [
  {
   "name": "Roller Derby",
-  "description": "",
+  "description": "Players compete in an oval \"roller derby\" rink, and each player has to race 10 laps around the rink, using roller skates. The challenge is played in separate rounds for each gender — two 4-player rounds for the men, and three 3-player rounds for the women. When host T. J. Lavin sounds the horn, each player races on their own, competing against opposing players, and can eliminate an opponent out of the action zones by launching their opponents over the crash pads outside the railings. If a player is knocked off the track on the inside of the course, that player has three seconds to get back on the action zone, or he/she will be disqualified. A player is also disqualified if he/she clings onto the railing. The winners of each round advance to the final round, in which the last player standing wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/42/S2_Logo.jpg/revision/latest?cb=20260616163104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -605,12 +607,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Race to the Finish",
-  "description": "",
+  "description": "Teams must cycle to the end of a trail, then follow several arrows on foot to the next checkpoint.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/33/Challenge04Logo.jpg/revision/latest?cb=20150820174600",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -625,12 +630,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hang Man",
-  "description": "",
+  "description": "Teams must hang on a pole as long as they can. The contraption is made so after one team member falls, the other team member will fall immediately.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -645,12 +653,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Musical Inner-Tube Tango",
-  "description": "",
+  "description": "In a game similar to musical chairs, teams will dance around a pool. Once the music stops, they must get an inner tube around their head. After each round, there will be two less inner-tubes. If one person from a team does not get an inner-tube, the whole team is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -665,12 +675,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Vertical Limit",
-  "description": "",
+  "description": "Each member of the team will climb as high as they can on a rope with buoys on it in three minutes. They will gain a point for every buoy they pass. If they fall off the rope, they cannot get back on, and the number they ended on will be their final number.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -685,12 +698,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Slam Dunk",
-  "description": "",
+  "description": "- Teams will bungee jump together back to back and try to score into hoops valued at 5, 10, and 15 points.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -705,12 +721,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ladder of Doom",
-  "description": "",
+  "description": "A relay race where each member needs to climb down a ladder over a 50-foot basin and retrieve a flag and bring it back to the top of the ladder.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "running"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -725,12 +744,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Round 'Em Up",
-  "description": "",
+  "description": "Teams will enter a ring on horses and have a maximum of 15 minutes to round up at least one cow and get it into the pen.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -745,12 +766,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rush Hour",
-  "description": "",
+  "description": "Teams will have to move one car out of the puzzle by moving other cars within the puzzle forward and backwards. The cars are not allowed to make any turns. Cars are also not allowed to hit any other cars; if this does happen, the team will be disqualified, and receive a score of 0. Teams will be sequestered for fairness.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -785,12 +809,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sidekick Showdown",
-  "description": "",
+  "description": "Similar to the game show, The Newlywed Game, team members must match answers to their team member's responses to personal questions.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -836,12 +863,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Siamese Wrestling",
-  "description": "",
+  "description": "Team members will be bound together back to back wrestling another team. The teams need to pin down (a shoulder touching the mat) the other team for three seconds. It will be broken into two rounds: the first round will be two minutes and the second round will be a sudden death.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/Season5Logo.png/revision/latest?cb=20151124192338",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2176,12 +2205,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "X Marks the Spot",
-  "description": "",
+  "description": "Players divide themselves into male-female pairs and compete in an obstacle course that lead them to puzzle pieces. Once the pairs retrieve their puzzle pieces, they split off as individuals to complete their puzzles. The first two males and the first two females to complete their puzzles earn their spot in the final challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/ea/Challenge10Logo.jpg/revision/latest?cb=20150523180609",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2444,12 +2477,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Royal Rumble",
-  "description": "",
+  "description": "Players, divided by gender and team, are placed on a raft. The last male and female standing for each team are named the captains. Some chose to use rock-paper-scissors to decide who should be the last one standing.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2464,12 +2500,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Chock Full o' Coconuts",
-  "description": "",
+  "description": "Players must work in pairs to transfer a total of 200 coconuts using bamboo sticks. If they lose coconuts long the way, a player has to pick-up the coconuts. The first team to transfer all of their coconuts in the designated area wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2484,12 +2522,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Team Builders",
-  "description": "",
+  "description": "Teams compete in a series of tasks to complete in order. The first team to advance all of their players through the obstacle course wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2504,12 +2545,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Moving Pyramid",
-  "description": "",
+  "description": "Both teams must form human pyramids with three people on the bottom, two in the middle and one on top. In pyramid formation, they must crawl through a course and retrieve a total on 16 flags on top of poles, every team member must be on top at some point during the challenge. The team with the most flags after 1 hour wins. In the event of a tie, the teams must race through the course in pyramid formation and the fastest team wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2524,12 +2567,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sponge Worthy",
-  "description": "",
+  "description": "Players divide themselves in three categories: Soakers, Transferers, and Collectors. Spongers collect water directly from the ocean with a sponge on their body, they then pass it on the Transferers with the help of a second sponge. Collectors must then squeeze the sponge on the Transferers without using their hands. The first team to collect a certain amount of water wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2544,12 +2590,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Body Painters",
-  "description": "",
+  "description": "Wearing a speedo, the players must use their body to completely cover six canvases in different colors. The fastest team wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2564,12 +2612,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rickshaw Races",
-  "description": "",
+  "description": "Teams must complete a total of six laps and transfer all of their players in a rickshaw using only six drivers (three males and three females. The fastest team wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2584,12 +2634,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Team Strength",
-  "description": "",
+  "description": "Teams selects two Pushers and one Driver to move a truck through a course. The back of the truck is then filled with cinder blocks and pushed back to the starting point. The fastest team wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2604,12 +2656,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Balancing Act",
-  "description": "",
+  "description": "Played one team at a time. Team members swim and climb a ladder up separate shipping containers suspended above water. They must then use a rope to swing to a slanted platform at the center, then distribute their weight to pivot and level out the platform. Teams are disqualified if a team member falls into the water. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "strength",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2632,12 +2688,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Buck-A-Neer",
-  "description": "",
+  "description": "Alternating in both positions, one team must balance on barrells connected to ropes without using hands while the other team tries to make them fall pulling the ropes. The team with the most players standing at the end of the challenge wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c1/Challenge11Logo.jpg/revision/latest?cb=20150509194557",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2792,12 +2851,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Stuck on Me",
-  "description": "",
+  "description": "Players are connected to their partners, back-to-back, by a harness, on a 25-foot narrow balance beam that is hanging from the top of the Q1 building. Each team has to walk toward a white line at the end of the beam, then do a full 360° turn, and walk back to the beginning of the beam. The team that walks to the end of the beam and back in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2832,12 +2894,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hang On",
-  "description": "",
+  "description": "The male players from each team are hanging upside down from leg harnesses, and have to \"hang on\" to their female partners, while being hoisted 20 feet above water. A team's time stops once a player falls into the water. The team that hangs on the longest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2852,12 +2916,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Jail Break",
-  "description": "",
+  "description": "Players from each team have to escape from a jail cell, by finding three keys that are located inside six bowls of \"prison slop.\" Each player is suited up in \"jailbird\" jumpsuits, with their hands behind their backs in handcuffs and their legs in shackles. Each player has to search through each bowl of slop using only their faces and mouths. Once a team has found the three keys that are needed to unlock each other's handcuffs and the jail cell, each player will sprint down a 50-yard dash (with their legs still in shackles) to a finish line. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2872,12 +2939,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Climber's Paradise",
-  "description": "",
+  "description": "Each team has to ascend up a 25-foot climbing wall, by using pegs of different shapes and colors. Each player has to carry the pegs up, and communicate with each other in order to determine the peg shapes necessary to ascend the wall. A team is disqualified if they do not make it to the top of the wall within a 10-minute time limit, or if one or both players falls off the climbing wall. The team that makes it to the top of the wall and retrieves a flag in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "strength"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2892,12 +2962,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rollin' in Oats",
-  "description": "",
+  "description": "Two tubs of rolled oats are located across a grass field from corresponding deposit tubs. Players from each team have to smother their bodies with oatmeal, then sprint toward their designated deposit tubs, and scrape off the oatmeal from their bodies into the tubs. Each team goes back and forth for a two-minute period, trying to deposit as much oatmeal into their tubs as possible. The team that distributes the heaviest weight of oatmeal into their designated tub wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2912,7 +2986,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Crossed Paths",
-  "description": "",
+  "description": "A rope that is suspended 25 feet above water connects two platforms, and the goal for each team is for each player to make their way from one platform to the other. Players will meet their teammate midway through, in which they will \"cross paths,\" and make their way toward the opposite platforms. A team is disqualified if one player falls into the water. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
@@ -2932,12 +3006,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Incredible Deflating Kayak",
-  "description": "",
+  "description": "Teams have to inflate a kayak using either their mouths or foot pedals, then paddle their way across to an opposite side of a river, grab their team flag, then paddle their way back to the original launching area. A team has to start over if one or both players sticks their hands or legs outside of the kayak while in the paddling process. Once each team had paddled back to the original launching area, they have to deflate their kayak, and stuff it back in the bags that contained the kayaks. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2952,12 +3029,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Swimming with Sharks",
-  "description": "",
+  "description": "Teams have to solve a puzzle that is floating on a frame within a shark lagoon. Players from each team have to swim down into the lagoon, relay style, and retrieve the pieces needed to solve the puzzle. A team has ten minutes to assemble the puzzle pieces together, or they will be disqualified. Only one team competes at a time, and all other teams are quarantined in order to avoid getting an advantage prior to their turn. The team that solves a puzzle in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2972,12 +3054,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Human Ox Pull",
-  "description": "",
+  "description": "Teams have to pull and drag a heavy sled across a dirt field. The challenge is played in multiple rounds, with eight teams split up into two separate teams of four. In the first round, each teams has to drag an 850-pound sled with a bale of hay from one side of a dirt field to another. The first team to drag their sled to the finish line wins the first round. The four winning teams from the first round are then split up into two teams of two, and have to drag a 350-pound sled to the finish line. The team that makes it to the finish line first wins. In the final round, the same process continues, with the final two 2-player teams competing to win the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -2992,12 +3077,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Batten Down the Hatches",
-  "description": "",
+  "description": "Teams have to make their way up and down a dive boat that is hanging 25 feet above a lake, with rope ladders hanging from both sides. First, each player has to climb down to the bottom of the hanging ladder, with both feet on the bottom rung, then each player has to swing toward their partner and trade ladders, then climb back to the top of the ladder, and into the boat. The team time stops when both partners have made their way back into the boat. The team that climbs back into the boat in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "paddling",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3012,12 +3102,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Jump Down Under",
-  "description": "",
+  "description": "Teams have to jump from a platform down into a lake, swim 20 feet toward an oversize super launch, then climb atop the launch in the middle of the lake that is supported by a rope ladder, grab their team flag, then swim toward a pair of floating flag poles located 30 feet from the super launch. The team that completes the challenge in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3032,12 +3125,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Deep Blue",
-  "description": "",
+  "description": "On a boat traveling along Australia's Gold Coast, teams have to drop 30 feet into the water, from a free-diving sled attached to a boat, retrieve their team flag attached to the bottom of the rope, then hold their breath under water for as long as possible. A team's time stops once a player's head pokes above the water's surface. The team that can hold their breath under water for the longest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "paddling",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3052,12 +3149,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Target Training",
-  "description": "",
+  "description": "Two teams at a time have to race through dual obstacle courses, grab a pair of paintball guns at the end of the course, knock down four targets, retrieve a 70-pound Aboriginal artifact, then make their way back to the start of the course with the artifact. The team that makes it through the obstacle course, with their artifact, in the fastest time wins $1,500.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3072,12 +3173,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "What a Croc",
-  "description": "",
+  "description": "Teams are placed on a \"crocodile wheel,\" and are spun around until at least one body part touches the end of the wheel, or if one player falls off the wheel, in which a team's time will be stopped. Each team is spun around three times. The team with the longest combined time not only wins an automatic bid in the final challenge, but also chooses two of the final three remaining teams for the last Exile.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3092,12 +3195,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Miles of Exile",
-  "description": "",
+  "description": "The three remaining teams compete in a 10-mile sprint along the beach, with teammates roped to each other, and have to encounter several checkpoints and solve two puzzles. At the first checkpoint, each team has to run outside of buoys, through the water, to the second checkpoint, which is a \"peg-jumping\" puzzle station. There are four sandbags that weigh 25 pounds each next to an empty duffle bag. Each team will be given three attempts to correctly solve a puzzle. If a team solves the puzzle on the first attempt, they will be allowed to continue to the next checkpoint without having to carry any sandbags into their designated duffle bag. After the second unsuccessful attempt, a team will be required to add 50 pounds to their designated duffle bag. If a team does not correctly solve a puzzle after the third attempt, that team will be required to add all four sandbags to their duffle bag, and carry it to the next checkpoint. Darrell & Aviv solved the puzzle after the third attempt, in which they were required to add 50 pounds to their duffle bag, while Tina & Kenny and Wes Casey each failed to solve the puzzles after three attempts. The third checkpoint is \"Military Crawl,\" in which each team has to crawl under military-style posts, but have to drag their duffle bags under the posts, and are not allowed to throw their duffle bags over the posts. After the military crawl, each team must still carry the weight of their designated duffle bags to the fourth checkpoint, \"Carry Your Partner,\" in which the male partners carry their female partners to the next checkpoint while continuing to carry their duffle bags until they reach a sign that says \"continue to your next checkpoint.\" The fifth checkpoint is \"Stick Squares\" puzzle station, in which teams must make two equal squares by moving four sticks. This puzzle station is the reverse of the first puzzle station, in which teams can remove all 100 pounds from their duffle bags if they correctly solve a puzzle on their first attempt, 50 pounds if they solve a puzzle on a second attempt, but will be required to carry the weight of all sandbags if they do not correctly solve a puzzle after the third attempt. Darrell & Aviv correctly solved the puzzle after the first attempt, in which they removed all weight from their duffle bags. Neither Tina & Kenny nor Wes & Casey solved the second puzzle after three attempts, and were forced to carry all of the weight of their duffle bags up a mountain side to the finish line.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge12Logo.jpg/revision/latest?cb=20150509190126",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "running",
+   "strength",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3132,12 +3241,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ring Toss",
-  "description": "",
+  "description": "Twenty poles are located at the ends of a waist-deep mud pit — ten different-colored poles on each side. On one side, each pole contains six rings of a particular color. Played in separate male and female rounds, each player races from one end of the mud pit to another, and grabs a ring of an opponent's color, and places the ring around an opponent's pole. The goal is to eliminate an opponent by placing six rings round an opponent's pole. The last player standing from each heat time trial test wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3152,7 +3263,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Pass with Care",
-  "description": "",
+  "description": "A pair of platforms are suspended 20 feet above water, connected by an unstable rope bridge with crooked planks. Unlike the previous two challenge games, this challenge is played with guys and girls partnered together. Each partner starts on opposite sides of the ropes, and have to meet each other halfway through the bridge on a red plank. The catch: A team is disqualified if one player sits, kneels on, or touches any part of the bridge with their hands, or falls off the unstable bridge. Since nobody made it across the bridge on the first go-around, the challenge was repeated in a second round, in which teams were allowed to make it across the bridge by any means possible, including sitting on, crawling and kneeling on the bridge planks. The team that makes it across the bridge in the fastest time wins, with the male partner safe from Duel selection and the female partner winning a prize.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
@@ -3202,12 +3313,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Flying Leap",
-  "description": "",
+  "description": "Two players at a time jump back and forth from one end of a platform to another that is suspended from a crane 20 feet above water, and grab as many flags as possible with a three-minute time limit, with numerous flags hanging from poles located on both sides of the platform. A player is disqualified if he/she falls into the water. The player that grabs the most flags within three minutes wins. (Note: Casey was disqualified for refusing to compete, due to her fear of heights.)",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3222,12 +3335,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Throwback",
-  "description": "",
+  "description": "Played in male/female teams on a Russian swing, each player has to \"swing\" their partner from a platform into water, then swim 50 feet toward a buoy, retrieve a soccer ball from a ring, then swim with the soccer ball to the other side of the course, and slam dunk the soccer ball into a ring on the opposite side. A pair is disqualified if the soccer ball lands outside of the course boundary. Both partners have to swing each other into the water, and the team with the fastest combined time wins, with the male partner safe from the Duel, and the female partner winning a prize.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3242,12 +3357,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rafty Race",
-  "description": "",
+  "description": "This game consists of multiple checkpoints along the beach. To start, each player must race to put on large swim fins, then run to the first checkpoint. There are a total of 16 swim fins, and three players — one male and two female — will be left without any fins, eliminating them from the remainder of the race. Once each player has put their swim fins on, they race to the first checkpoint, in which they have to pull a tag that is needed to inflate rafts with air pumps and grab color-coded tags at the second checkpoint, which are green for the men and red for the women. There are a total of 10 air pumps, five for each gender, and one player of each gender will be left without an air pump, and eliminated from the race. If a player does not pull a tag, he/she is eliminated. Once the remaining players have inflated their rafts, they will race through the water toward the third checkpoint — a buoy, which contains six oars — three for each gender. For each gender, there is one fewer raft than there are players, so the players that are left without a paddle are eliminated. After grabbing the oars, each player will paddle their way to the fourth checkpoint, which contains one of four keys needed to grab a key that will unlock a treasure chest at the final checkpoint. Only two players per gender will compete for grabbing a flag from the treasure chest, with the first player of each gender racing to the end of the beach, and winning the race.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3262,12 +3382,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Pole Dance",
-  "description": "",
+  "description": "First, players are paired together in two teams of six players — three of each gender. The male winners of the previous challenge and duel — CT and Eric — are chosen as team captains, and alternate between choosing guys and girls for their teams. After the two teams are set, each team has to hoist players up a slippery wooden pole in order to retrieve a flag at the top. The team that grabs their flag first wins the first phase of the challenge. The winners of the first phase are split up into separate genders — three guys and three girls — each player for themselves, and the second phase is a race through a sand dune course. The remaining players have to race down a slippery tarp into water, then back up a sand dune. Near the top of the dune, there are two slippery tarps that will be difficult for each player to climb. The first players to race to the top and retrieve a designated flag win the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3282,12 +3405,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Stacking Stairs",
-  "description": "",
+  "description": "Played in male/female teams, each team has to create an ascending (albeit unstable) staircase by transferring wooden crates toward the base of their designated flags that are hanging from a ceiling. The challenge is played in two different rounds, with three teams competing in the first round, and two teams in the second round. (Aneesa chose which teams would compete in the first round, since she won the duel in the previous episode.) Each team debates amongst themselves as to which player will be harnessed in order to climb to the top of their \"staircase,\" and jump up in an attempt to retrieve their flag. The team from the first round that retrieves their team flag in the fastest time wins the first phase of the challenge, and the two remaining teams in the second round have to beat the time of the winner of the first round. The male partner of the winning team is safe from the duel, while the female partner wins a prize.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3302,12 +3429,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ice Breakers",
-  "description": "",
+  "description": "Played in separate male and female rounds, each player has to race toward a pile of oversize ice blocks, retrieve one ice block at a time, then race toward their designated tables, and use a sledge hammer to smash as much ice as possible through the grates (while wearing protective goggles and gloves), in which the containers below will be filled with the smashed ice. The process continues for five minutes, after which each container is weighed at a weigh station. The player whose container weighs the most after five minutes wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3322,12 +3451,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sunken Treasure",
-  "description": "",
+  "description": "Played in male/female teams, and one team at a time, each partner must swim down into a deep water tank, inside an oxygen cage, where players can catch their breath. Only one partner at a time is allowed to swim further down toward an anchor that has three 4-digit codes that a player must relay back to his/her partner, and memorize the numbers that are needed to unlock three locks to a treasure chest at the bottom of the tank. Like the anchor, only one partner at a time is allowed to swim toward the treasure chest. Once all three locks to the treasure chest are unlocked, a soccer ball attached to a flag will float to the water's surface. A team is disqualified if both partners swim down toward the anchor.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3342,12 +3476,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Around the Block",
-  "description": "",
+  "description": "Played in separate male/female rounds, and two players at a time, each player has to climb up a 40-foot, rectangular-shaped truss that is suspended from a crane, and collect as many flags as possible. Sixteen flags are hanging from the vertical section of the truss, which are worth one point each, and there is one flag hanging in the middle of the horizontal truss, which is worth three and a half points. Since there is one more female player than male players, the game is played in two female rounds and a championship, and one male round and a championship. (Note: Since CT won the previous duel, he chose to have a bye in the first heat, and automatically competed in the championship.) The players that earn the most points in the initial rounds advance to their respective championships, and the players that earn the most points win the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3370,12 +3507,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Paddle Me",
-  "description": "",
+  "description": "Played in three male/female teams, each partner has to swim together on three 9-foot surfboards toward an island in the middle of a large harbor. When each player reaches the island, three additional surfboards are awaiting each player. Once each player has reached the island with their own surfboard, it's every man and woman for themselves, and the first man and woman to race back to the shore on their surfboard not only wins the challenge, but also an automatic bid in the final challenge, while the remaining players are automatically sent to the last duel. The second-place male and female get to choose which game will be played in the last duel elimination.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3390,12 +3530,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "The Rio Deal",
-  "description": "",
+  "description": "The final challenge begins with each player attempting to kick five penalty-shot soccer balls into a soccer net, past their opponent. The male and female player that kicks the most penalty shots past their opponent earns a two-minute headstart on their opponents at the trailhead. Each player ascends up a mountainside, to the first checkpoint, \"Brazilian Blocks,\" in which each player must carry four large cubes to their designated puzzle piece stations, and correctly solve their puzzles within 30 minutes. The next checkpoint is \"Teeter Totter,\" in which each player must use rocks to counterbalance their weight on a \"teeter totter\" for five seconds, after which, the final section is a footrace to grab a designated flag at the top of the mountain, and win $150,000.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/7d/Challenge13Logo.jpg/revision/latest?cb=20150425181655",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3410,12 +3555,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ladder Race",
-  "description": "",
+  "description": "Players from each team have to race a ladder up and down a two-story, 40-foot tower as fast as possible. First, each player will race 20 yards to the base of the tower, then use the ladder to climb to the second story, and raise their ladder to the stop of their designated towers in order to climb to the top. Next, each player will use their ladder as a \"bridge\" to advance from one tower to another, then race back down an adjacent tower by using their ladder to downclimb to the second story, and finally back to ground level, then race back 20 yards to the beginning of the course. One player at a time races against a player from the opposite team – guys vs. guys and girls vs. girls, with a 15-minute time limit. If a player drops a ladder, or falls off the ladder, a 2-minute penalty is added to the team's slowest time. The team with the fastest combined time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3430,12 +3577,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Battering Ram",
-  "description": "",
+  "description": "Each team must \"ram\" an oversize log through a pair of 2-ton doors at the Castle of Good Hope that are locked with wooden planks on the other side. The logs have ropes attached to them, and players have to position themselves to where they can swing their log through the doors with the ropes, but without touching the logs. After \"ramming\" through the doors, the first team to retrieve their team flag wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3450,7 +3599,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wrap and Roll",
-  "description": "",
+  "description": "A 50-foot platform is suspended 1,000 feet above the ground. Played in male/female pairs, the girls from each team have to advance from one of the platform to the middle, where their male partner will be standing. A 20-foot rope is attached to each partner, and the girls have to wrap themselves in the rope in order to advance toward their male partner, then the guys have to twirl around to the other end of the platform, and the process will repeat until each partner has advanced to the opposite end. Players are disqualified if they touch the rope with their hands, their rope makes contact with the platform or they exceed a 10-minute time limit. The team that completes the challenge in the fastest average time wins. Note: Since the Bad Asses team was short one male player, Derrick had to compete twice.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
@@ -3500,12 +3649,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Reversible Climbing Wall",
-  "description": "",
+  "description": "Played in male/female pairs, each team must scale up a 40-foot climbing wall, retrieve their team flag, then climb back down the wall to ground level. One player will be positioned on both sides of the wall, and will have to communicate with their partner by inserting pegs through holes in the wall in order for their partner to climb to the top and retrieve a flag. After the flag is retrieved, that player will pass the flag over the wall to their partner, who will have to scale down the wall, with their partner inserting pegs through the holes. A pair is disqualified if they fall off the wall, or drop their team flag. The team with the fastest accumulated time wins. Note: One girl from the Bad Asses team (Aneesa) sat out this challenge, while one girl from the Good Guys team (Colie) had to compete twice.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3520,12 +3671,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Grape Smash",
-  "description": "",
+  "description": "Players from each team have to fill up a series of team-designated glass bottles with grape juice on one side of a course, by transferring handfuls of grapes from the bed of a classic truck to a wine tub, then smashing the grapes, which will send juice through a spigot, where players have to transfer the juice with their mouths to the glass bottles. The team that transfers the most juice into their designated bottles within 30 minutes wins. Note: Host T. J. Lavin explained to each team that each player was required to wear speedos and bikinis, resulting in Ace, Alton and Timmy refusing to participate.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3540,7 +3693,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Steady as You Go",
-  "description": "",
+  "description": "Teams have to build walkways, by using three 8-foot logs for the girls on each team to advance from one platform to another that is separated by 60 feet. If a player falls off the logs, or uses their safety harness to catch their fall, a 15-minute disqualification will be added to their team time. The team that advances their girls from one platform to the other in the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
@@ -3560,12 +3713,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Leaps and Bounds",
-  "description": "",
+  "description": "Players have to advance on a series of five platforms, with trampolines located in between. Each platform decreases in size as each team tries to advance to the end. To start, one player at a time will jump from a trampoline to a platform, without their hands or arms coming in contact with the platform, which would result in a player having to start over. Once players from a team have made their way to the final platform, their team time will stop when they hold their pose for three seconds. The team that advances o the last platform in the fastest time wins. Note: Aneesa was prohibited from participating in this challenge due to a knee injury. As a result, the Good Guys were forced to sit out one player (Paula) in order to even out the teams.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3580,12 +3735,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dog Day Afternoon",
-  "description": "",
+  "description": "Teams compete in a 50-yard dash, using dog sleds. The challenge is played in male/female pairs, with each pair dragging sleds with a male/female pair from the opposite team sitting on the sleds. The team that completes the challenge in the fastest average time wins. Note: Two girls from the Good Guys team (Paula and Susie) were required to compete twice, while two girls from the Bad Asses team (Aneesa and Jenn) were forced to sit out the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3600,12 +3758,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hand Car",
-  "description": "",
+  "description": "Teams have to race on a 300-yard railroad track on a \"hand car.\" To start, two players per team will pump their hand car from one end of the track to the other and pick one teammate, then race back to the opposite end of the tracks and pick up another teammate, and the process will continue, until each team picks up all of their teammates, and reaches the stop zone. A hand car must come to a complete stop within the stopping zone before a teammate can climb into the hand car, and each player is required to pump the hand car least once throughout the challenge. The first team to pick up all of their teammates and reach the stop zone wins. Note: Since the Bad Asses had one more player than the Good Guys, one player from the Bad Asses team (Jenn) sat out this challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3620,12 +3781,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Giraffic Park",
-  "description": "",
+  "description": "Players from each team have to transfer hand-carved wooden giraffes across a lake, to one of 15 cages that contains an identical twin giraffe. There are numerous giraffes on the shore across the lake that are in different shapes and sizes, and before advancing across the lake, each player has to randomly uncover one of 15 cages at the start of the course that are covered with white tarps, then memorize the details of the caged wood-carved giraffe inside, then swim across the lake to find the identical matching twin, with a key that will unlock a player's designated cage at the start of the course. Each player will have a 30-minute time limit, and the team that completes the challenge in the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3640,12 +3805,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Captain's Chair",
-  "description": "",
+  "description": "Players from each team are asked a series of ten trivia questions regarding information related to the Inferno 3 challenge. One girl from each team is designated by the opposing team as the \"Captain,\" and will be strapped into an African throne, and be connected to designated electric shock boxes. T. J. Lavin will ask the remaining players from each team trivia questions. Each player will write down an answer on an oversize card, and if a player is correct, he/she accumulates points for their team, but if an answer is wrong, the captain will get \"zapped.\" The team that accumulates the most points wins, and a team wins if the captain from the opposing team decide that she can no longer handle the shocks.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3660,12 +3828,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hook Me",
-  "description": "",
+  "description": "The male players on each team are positioned on opposite fishing boats, with each boat containing a deep-sea fishing pole. One girl per team will be in the water, attached to the ends of the fishing poles. Each girl will have 30 seconds to swim as far away as possible from the boats, then T. J. Lavin will signal one guy from each team to pick up the fishing poles, and try to reel in their female teammate out of the water. The process continues, until the team whose male players reel in all of their female teammates out of the water in the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3680,12 +3852,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Nothin' but Net",
-  "description": "",
+  "description": "Players from each team have to climb up a cargo net that is hanging from a platform above water, retrieve one team flag, then unhook a rope in order to swing themselves toward another cargo net and retrieve another flag. The process continues until a player retrieves four flags. If a player falls off the rope or the net into water, he/she will be imposed a time of 15 minutes. Each player will have a 15-minute time limit to retrieve four flags, and the team that completes the challenge in the fastest average time wins. Note: Tonya received a medical exemption from this challenge due to dehydration, and did not participate.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/03/Challenge14Logo.jpg/revision/latest?cb=20190810124311",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3740,12 +3916,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Screw You",
-  "description": "",
+  "description": "Played in two-player pairs, teams have to advance each player through a pair of obstacle courses and unscrew an oversize wing nut at the end of the first two obstacles. Once each pair advances to a stairway at the third obstacle, the next pair repeats the process, and the process continues until each pair crosses the finish line. (Note: Since the Rookies were short one male player, one guy has to go through the obstacle course twice.) The first team to advance all of their players through the obstacle course wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3760,12 +3939,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wring Out",
-  "description": "",
+  "description": "A pair of clothes lines are hanging on a beach with designated colored buckets and white clothing. Teams must designate which players will put on the clothing, run into the ocean, and soak themselves with as much water as possible, as well as which players will load the soaked clothing (after the \"soakers\" undress), transfer to their teammates, and wring out the water in their designated colored bucket on the other side of the clothes line. The process continues until the first team to fill up their water bucket to a fill line wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3780,7 +3964,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Assembly Required",
-  "description": "",
+  "description": "Each team will disassemble a 20-foot tall, 900-square foot pyramid, which is a replica of El Castillo, Chichen Itza, and transport the pieces to another location and reassemble the pieces again on their designated loading zone. The team that completes their pyramid wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
@@ -3800,12 +3984,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Pole Push",
-  "description": "",
+  "description": "A pole is situated in the middle of a large circle in the sand, and players from each team must grab onto the pole on both sides, and push the opposing team out of the circle until each player from the opposing team is out of the circle. The challenge is played in separate male and female heats, and if a tie occurs with each team winning one heat, a tiebreaker would be held with one girl per team trying to push each other out of the circle. The team that pushes their opponent out of the circle twice wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -3820,12 +4006,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Over the Edge",
-  "description": "",
+  "description": "A pair of planks are hanging from the top of a 25-story building. A 10-foot cable ladder, with a flag at the bottom, is attached to the end of each plank. When T. J. Lavin sounds the horn, players from each team have to make their way onto the planks and down the ladder, retrieve their team flag, then make their way back up the ladder and touch a truss at the start of the plank, which will stop a team time. If a player falls off the ladder or refuses to compete (due to a fear of heights), a 15-minute penalty will be added to the slowest time. The team with the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/81/Challenge15Logo.jpg/revision/latest?cb=20190810123852",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4103,12 +4292,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Freezing as Puck",
-  "description": "",
+  "description": "Players are teamed up into male/female pairs, in two teams of six pairs, with the challenge played in three rounds. The female player sits \"Indian style\" on an oversize block of ice, or \"puck,\" inside an ice rink, while their male partner has to push them from one end of the rink toward one of two numbered targets on the ice, and accumulate five or ten points for their team, depending on how far the \"puck\" travels. The catch: Each player is wearing speedos and bikinis. A pair is disqualified if the female player sitting on the puck makes any contact with the ice, or falls off the puck prior to reaching a numbered target on the other side. The team that accumulates the most points wins the first round, while the losing team is eliminated. The winning team from the first round then splits up into two teams of three pairs, where the aforementioned process continues until a team of three pairs wins the second phase. In the third phase, the three pairs who win phase two will compete for themselves. If a tie occurs between two teams in the third phase, a tiebreaker is held in which distance, not points, will be the determining factor as to which pair wins the entire challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4123,12 +4315,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "All Shook Up",
-  "description": "",
+  "description": "Players have to hang on to a pair of parallel ropes that are stretched out over a muddy pit, and have to shake their opponents off the ropes. The challenge is played in multiple rounds — guys vs. guys and girls vs. girls — with the winners of the first three rounds advancing to the final round. The last player standing on the ropes wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4143,12 +4338,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Luging My Mind",
-  "description": "",
+  "description": "Played in male/female pairs, each pair has to race up and down a luge course to solve a puzzle, while wearing oversize replica bobbleheads of themselves that resemble lamp shades. To start, the guys race up the course to the top, and have to ride back down in a luge car to the bottom of the course, where their female partners will repeat the process. Once the girls meet their male partners at the bottom, each pair will team up, and race to solve a puzzle. The first team to solve their puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4163,12 +4361,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Let Go",
-  "description": "",
+  "description": "A swing is suspended 360 feet in a canyon over the Shotover River. Players are teamed up into male/female pairs, with the girls harnessed from a swing and their male partners harnessed from a platform hanging from the edge of a cliff. Once the swing mechanisms are released, the guys have to hang on to their female partners with their hands for as long as possible, before the girls are eventually swung 200 feet downward in the form of a bungee jumping contest. The team that hangs on for the longest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4183,12 +4383,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dangle Duo",
-  "description": "",
+  "description": "Played in male/female pairs, each pair has to climb up a 100-foot ladder suspended from a platform hanging above the Kowhai River, and raise a flag to the top with a rope. A team is disqualified is one or both players fall off the ladder or do not raise a flag within a 20-minute time limit. The team that raises a flag in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4203,12 +4405,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Burnt",
-  "description": "",
+  "description": "The challenge is played in separate rounds — male and female. A structure is suspended from a platform hanging 30 feet above a lake, with a pulley system and seven flags attached to barrels on the lake's shore. Each player is hanging from the top of the structure, and has to pull on their designated rope as fast as possible, which will send their flag toward their own barrel. Once six out of seven flags have reached the barrel, the one remaining barrel will explode, dropping the player attached to the barrel into the water. The process continues until the last player hanging wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4223,7 +4427,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Upside Downer",
-  "description": "",
+  "description": "A rope platform is suspended from a structure high above the Kowhai River, and players have to swing upside down from ropes from one side of the platform to the other, and collect as many Māori carvings as possible within a 10-minute limit. A player is disqualified if he/she does not make it to the end of the platform within 10 minutes. The player that collects each carving in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
@@ -4243,7 +4447,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Spelling Air",
-  "description": "",
+  "description": "A platform is suspended from a structure above Lake Johnson, and players are hanging 100 feet above the water from the top of the platform. Each player is asked to spell a word. A player is dropped into the water and disqualified if he/she misspells a word. The process continues until the last player hanging wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d9/Challenge17Logo.jpg/revision/latest?cb=20190810123633",
   "show": "tc",
@@ -4623,12 +4827,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dirty Mouth",
-  "description": "",
+  "description": "Players have to transfer oversize balls out of a mud pit while blindfolded. The challenge is played in multiple rounds, alternating between male and female. There are fewer balls than players, and the blindfolded players are guided by their partners on the sidelines as to where a ball is located, as well as if they can steal a ball from an opposing player. If a player fails to get out of the pit with a ball before the end of a round, that player, along with their partner, is eliminated from the remainder of the challenge. The last player remaining who transfers a ball out of the mud pit wins the challenge for their team.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "blindfold",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4643,12 +4850,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "I'll Be There for You",
-  "description": "",
+  "description": "Teams have to pick up a weighted chest that is chained to a platform submerged 15 feet below water. Once a player swims down to pick up the chest, the chest cannot touch the platform, and their teammate can swim down to relieve their partner if he/she needs to take a breath above the water. If the chest drops down to the platform, or if the heads of both team members go above the water, the team's time is stopped. The two teams that hold the chest above the platform for the longest time without both players going above the water battle it out in a final round, and the team that wins the final round wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4663,12 +4873,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Water Logged",
-  "description": "",
+  "description": "Teams have to advance from one end of a platform to another that is suspended high above water. Each player has to swing on a series of logs that is hanging from the base of the platform. Each log is of a different length. A team is disqualified if one or both players falls into the water. The team that advances to the end of the platform in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4683,12 +4895,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "King of the Wall",
-  "description": "",
+  "description": "Teams have to swim 30 yards from a floating dock to a slippery climbing wall that is positioned at a 45° angle. The team that climbs to the top of the wall and rings a bell in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4703,12 +4919,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Drop Out",
-  "description": "",
+  "description": "Teams have to climb up a swivel rope ladder that leads to a platform that is suspended 30 feet above water. After reaching the platform, players have to run, jump and hang onto a large canvas bag that is hanging from above. Both players from each team must hang onto the bag simultaneously for five seconds to stop the team time. If one or both players falls into the water, they must start over, but the timer does not stop. A team is disqualified if they do not complete the challenge within a 15-minute time limit. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "running"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4723,12 +4943,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Turn Style",
-  "description": "",
+  "description": "Two giant logs are perpendicularly placed in the center of a \"turnstyle,\" in the shape of a \"X,\" and teams have to push the logs 180° from start to finish. However, other teams try to do the same — with the other log in the opposite direction, making it difficult for any team to push the logs. The challenge is played in multiple rounds — tournament-style, with two teams per log on opposite sides. The team that wins the final round wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4743,12 +4965,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Airheads",
-  "description": "",
+  "description": "Teams have to slide down a 200-foot ramp that launches players into a lake. Each team has to swim to the middle of the lake, where there is a floating log holding up a sign containing a diagram of a puzzle. Each team has to memorize the diagram, then swim back to shore to solve a giant puzzle (resembling a Tetris board) that duplicates the diagram of the sign in the middle of the lake. Each team can swim to and from the diagram and the shore as many times as they need to solve the puzzle. The team that solves the puzzle in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4763,12 +4989,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wrecking Ball",
-  "description": "",
+  "description": "Teams have to build an Inukshuk puzzle within a large circular area. The female team member is hanging by a rope, upside down from a platform, thus interfering with the building of the puzzle. The male team member has to swing their female partner around and away from the center in order to collect the puzzle pieces, and keep the female partner from knocking over the pieces. The puzzle pieces have to stand for at least five seconds before the team time is stopped. The team that builds the Inukshuk puzzle in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4791,12 +5020,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Obstacle",
-  "description": "",
+  "description": "Teams have to race through an obstacle course that is spread out over half a mile within a field. The course contains ten various obstacles, in which teams have to race through, over and around them as fast as possible. The tenth and final obstacle is \"Defender,\" in which opposing players have to prevent players of the same gender from advancing from one end of a mud pit to another, where the finish line is located. The team that advances through the entire course in the fastest time wins and advances to the final challenge, while the two teams (out of five) that finish in the bottom two automatically go to Exile.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/27/Challenge19Logo.jpg/revision/latest?cb=20150305212201",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4811,12 +5043,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Gas Problems",
-  "description": "",
+  "description": "Teams have to assemble a five-layered puzzle, and each puzzle has different diagrams that are locked in five separate boxes. In order to unlock the boxes, players have to enter a gas chamber in pairs, and memorize combinations of codes and letters that will unlock the boxes containing the diagrams. The first team to correctly assemble their puzzle together wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4831,12 +5067,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Brain Buster",
-  "description": "",
+  "description": "Players from each team are suspended upside down from ropes in front of the Průmyslový palác in Prague, and have to transfer color-coded beer steins from one end of a course to another by swinging toward their team members, and having their teammates place the steins on color-coded pedestals. The team that transfers the most beer steins within a 15-minute time limit wins. (Note: Since there were eight ropes present and ten players from the Red and Grey teams, those teams had to sit out two players each.)",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4851,7 +5089,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bed Head",
-  "description": "",
+  "description": "A series of five beds is suspended from a platform 40 feet above the water, and players from each team have to jump one-by-one from bed to bed, with each bed decreasing in size from start to finish. Once an entire team has landed on the same bed, the process continues until each team member has landed on the last bed at the end of the platform. Players are disqualified if they fall into the water, or if one player is touching their bed with their hands when a teammate jumps to join that player on the bed. The team that makes it to the last bed with the fewest disqualifications and in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
@@ -4871,12 +5109,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bottleneck Stampede",
-  "description": "",
+  "description": "Players from each team have to push their way simultaneously through a giant obstacle course, with each obstacle creating its own \"bottleneck.\" The first team to get all their players across a finish line wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4891,12 +5132,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Surf's Up",
-  "description": "",
+  "description": "Teams jump onto a platform that is hanging from a side of a cliff, 40 feet above water. Teams jump onto a \"flying surfboard\" in pairs, and players have to \"surf\" as far as possible before falling into water, then swim around two buoys, and ring a bell once they reach the other side of the lagoon. The team with the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4911,7 +5155,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Gimme a Hand",
-  "description": "",
+  "description": "Teams have to walk on a tightrope suspended high above ground, from one nine-story building to another at Prosek Point in Prague. Players try to advance on the tightropes in pairs, with their hips and ankles attached to their partner, and have to use overhead ropes to guide them on the tightropes. The team with the most players advancing from building to building in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
@@ -4931,12 +5175,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "High Ball",
-  "description": "",
+  "description": "Teams have to transfer and balance balls uphill in pairs, on a ball carrier that resembles an oversize martini glass with a flat lid. Two players have to hold the ball carrier while one player loads a ball to the top of the ball carrier, and each pair of players has to deposit balls into a high basket at the top of the hill, using the ball carrier. The team that transfers the most balls into their basket within a 90-minute time limit wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4951,12 +5199,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Riot Act",
-  "description": "",
+  "description": "Players have to knock players from opposing teams off a square dirt platform and into a mud pit, using glass riot shields. The challenge is played in two rounds: guys vs. guys and girls vs. girls. A team is still in the game as long as one teammate is still in the platform. If there are two different winners after each gender has been knocked out of the platform in each round, one player from each winning team will face off in a head-to-head match, in which the last player standing wins the challenge for their team and well as an automatic bid to the final challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/Challenge20Logo.jpg/revision/latest?cb=20150305202147",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -4991,12 +5242,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "High Dive",
-  "description": "",
+  "description": "Players run and jump off a platform that is suspended 150 feet above a waterfall. Players have to hold their partner's hands, then run together, and jump off the platform before a white line and clear as many hash marks as possible. A team is disqualified if one or both players step on the white line that is located inches from the end of the platform. The team that clears the most hash marks in the shortest amount of time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5011,12 +5264,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Car Crusher",
-  "description": "",
+  "description": "Teams smash cars using a Caterpillar, and have to flatten a car to where the team can push the car with the bucket to their goal. One player has to sit on their partner's lap to steer, while the other operates the heavy machinery. A team is disqualified if they pick up their car with the bucket, maneuver outside of the course boundary or knock over the crossbar at their goal with the bucket or any piece of a smashed car. The team that slides their smashed car through their goal in the fastest time without disqualifying wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5031,12 +5287,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sync or Swim",
-  "description": "",
+  "description": "Teams start inside of a large container filled with 1,000 pounds of sand that is hanging from a platform. When players from each team begin shoveling out the sand, their container rises to a platform, where each player then has to jump to a zip line and ride it to the water, where the team that swims fastest to the finish line wins. A team is disqualified is any player pulls the zip line toward them at the top of the platform instead of jumping from the platform toward the zip line.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5051,12 +5310,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hammock Crawl",
-  "description": "",
+  "description": "Teams have to move from one end of a platform to the other within a 15-minute time limit, only using hammocks that are hanging from the bottom of the platform. Teams are only allowed to touch two hammocks at any time, and must be in the same hammock before advancing to the next hammock. A team is disqualified if more than two hammocks are being touched at any time, or if one or both partners falls into the water. The team that makes it from one end of the platform to the other in the fastest time without disqualifying wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5071,12 +5333,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Against the Current",
-  "description": "",
+  "description": "Teams have to paddle upstream in a kayak until the current pushes them out of the zone, after which teams have to paddle the opposite direction to the finish line. If one player falls out of a kayak, that team has 30 seconds to push the kayak past the finish line in order to avoid disqualification. The team with the lowest time differential of paddling upstream and subsequent paddling in the reverse direction to the finish line wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5091,7 +5356,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Catch & Release",
-  "description": "",
+  "description": "A pair of structures are suspended 30 feet above water. The girls are positioned at the top of one structure, while their male partners are positioned below them. The girls start swinging a bag attached to a rope, and have to gain enough momentum in order for their male partners to jump on the bags, and swing from one platform to another, where a series of yellow flags are hanging. The process continues for ten minutes, and the guy who grabs the most flags wins for their team, while the last-place team is automatically sent to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
@@ -5119,12 +5384,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sawed Off",
-  "description": "",
+  "description": "One player from each team is hanging from ropes, from a platform 30 feet above water. Their partners have to use a high-powered fire hose to spray at the ropes, and with the force of the water, push the ropes toward an arrowhead blade until each rope slices on the blades, dropping their teammates into the water. A team is disqualified if their partner doesn't drop into the water within 20 minutes. The team with the fastest time wins, as well as automatic bid to the final challenge for the girls.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1c/Challenge21Logo.jpg/revision/latest?cb=20190810122420",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5139,12 +5406,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Give Me Some Honey",
-  "description": "",
+  "description": "Players walk on a beam, from a platform that is suspended above water, from one side to the other, and have to soak themselves in a bathtub filled with honey. The players have to transfer honey to their partners only using their bodies. Once a player has soaked himself/herself with honey, that player has to walk back on the beam to their partner and have their partner scrub off the honey into a bucket. The other partner does the same, and the process repeats for ten minutes or until the bucket is completely filled with honey before the ten-minute time limit expires. The two teams with the most honey then face off in a five-minute competition to determine the winner, while the team with the least honey is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5159,12 +5428,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rolling in the Deep",
-  "description": "",
+  "description": "Teams have to hold onto a log that is suspended above water, and will be spun around in circles until players fall into water. Once players fall into the water, they have to swim toward the opposite side of a lagoon, and both players have to ring a bell. The two teams with the fastest time will compete against each other to become the power couple, while the team with the slowest time is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5179,12 +5450,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Rock the Boat",
-  "description": "",
+  "description": "Teams have to climb rigging onto ascending masts to the top of a shipwrecked boat, and ring a bell at the crow's nest. Connected to safety harnesses, the teams must jump from mast to mast but can only do so after both partners are standing or sitting on each. The two teams with the fastest times will compete against each other to become the power couple, while the team with the slowest time is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "paddling",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5199,12 +5474,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Lube Me Up",
-  "description": "",
+  "description": "Players run and slide down a slippery course, and have to advance oversize balls up the slope, while using ropes to guide them, and break a plane halfway toward the top of the course. The challenge is played in multiple rounds, alternating between male and female. In each round, there is one fewer ball than there are players. If a player does not advance a ball toward the goal at the end of the round, that player, along with their partner, is eliminated from remainder of the challenge. The process continues until the player who advances the last ball up the slope wins the challenge for their team earning the Power Couple title and a special prize of $2,500. The team who's eliminated first is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5219,12 +5497,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Race to the Altar",
-  "description": "",
+  "description": "Teams have to race through an obstacle course on the beach, containing check points which includes putting on wedding attire, climbing over a wall, eating the top two layers of a three-tiered wedding cake, changing a flat tire and the male players carrying their female partner to the end of the course. The team that finishes in last place at the end of each check point is eliminated, while the team that makes it to the end of the course wins, while the first team eliminated is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "eating",
+   "obstacle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5239,12 +5523,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Feel the Burn",
-  "description": "",
+  "description": "Teams have to transfer items from a picnic setup on one side of an airfield to another, while batting 80&nbsp;mph winds generated from a private jet. The items include chairs, tables, beach balls, an umbrella and a couple of mannequins on another side of the airfield. Teams can make as many trips back and forth as possible to transfer each picnic item, but if any items fly away, they must be retrieved as quickly as possible. After teams have built their picnic area, they must race down wind 50 yards, retrieve a parachute, and race against the jet stream to the finish line before a 20-minute time limit expires. The team with the fastest time not only wins the Power Couple, but is also guaranteed a spot in the final challenge, while the team with the slowest time is automatically sent to \"The Dome.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/Challenge22Logo.jpg/revision/latest?cb=20190810122241",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5279,12 +5565,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Cross Me",
-  "description": "",
+  "description": "There are four giant beams shaped like two crosses suspended 25 feet above the water, with ladders coming down from the edges. The object is to cross the beams, meet at the center, then climb back down the ladders until all team members reach the markers. If one player falls off the ladder or the beams, that player, along with their teammate on the other side, has to start over at the bottom of the ladder. The team that crosses the beams and climbs down the ladders in the fastest time becomes the power team, while the team with the slowest time is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5299,12 +5587,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Oil Change",
-  "description": "",
+  "description": "Players from two opposing teams have to wrestle each other out of a square pit filled with olive oil, alternating between male and female. A team wins if one player from the opposing team makes contact with a boundary surrounding the pit. The player that wins the wrestling match collects one of four puzzle pieces needed to complete their team icon, and gets to choose the match for the next round. If nobody wins a match within a 10-minute time limit, the match ends in a draw with no puzzle pieces earned. The first team to collect four puzzle pieces becomes the power team; however, the challenge continues until the last team that fails to collect all of their puzzle pieces is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5319,7 +5610,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hook, Line & Sinker",
-  "description": "",
+  "description": "A platform is suspended from a structure 30 feet above water, and teams have to advance from one side of the platform to the other using metal hooks and foot holds. A team is disqualified if one player falls into the water or does not make it to the end within a 10-minute time limit. The team that makes it to the end of the platform in the fastest time becomes the new power team, while the team with the slowest time is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
@@ -5339,12 +5630,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Weigh Me Down",
-  "description": "",
+  "description": "Teams have to hold up a large basket attached to a rope from a platform. Each team is split in half — one half of the team is standing atop their designated platform holding up their basket, while the other half runs to a rockpile, and deposits heavy rocks in their opponents' baskets. The players atop the platform have to keep their baskets from touching the ground for as long as possible, while opposing players try to \"weigh down\" their opponents' baskets with the heavy rocks. The team whose basket touches the ground first is automatically sent to the Arena, while the last team to keep their basket full of rocks from touching ground level wins Power Team.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "running",
+   "strength",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5359,12 +5656,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Chairman of the Board",
-  "description": "",
+  "description": "One member of each team sits on a chair on a platform suspended 30 feet above water. Contestants are asked trivia questions on categories like sports, U.S. currency, previous Challenges, The Real World seasons, and spelling. At the end of each round, if a player has fallen and still has teammates left, another team member may take their place on the platform. The first team to lose all members is automatically sent to the Arena, while the last team with a player on the platform wins power team. (Note: Trishelle did not participate in this challenge due to dehydration, leaving Team Las Vegas with one less team member.)",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5379,12 +5678,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Insane Games",
-  "description": "",
+  "description": "This challenge consists of a series of games: \"Chariot Race,\" \"Egg Drop,\" \"Ear Pull,\" a Winner's Playoff and \"Fish Head.\" The team that finishes last in the first two games will compete in a loser's bracket at the end in order to avoid the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5399,12 +5700,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Logged Out",
-  "description": "",
+  "description": "Each team has to solve a simple memory game while hiking up a tall mountain. Each team starts at the foot of the mountain, where the first station shows the 9 pieces that solve the puzzle. They then must hike up to the second station, where there are 13 logs with pictures of the pieces; each team must carry the logs to the top of the mountain and reassemble them in the right position. Everyone must stay together at all times. The first team to get the puzzle right wins Power Team, while the team that fails to complete their puzzle is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5419,12 +5725,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hunger Games",
-  "description": "",
+  "description": "Food items are presented to the contestants. Each team writes an estimation of how much of that food item they can eat; the team with the highest estimation is then required to eat said item. If the team fails to reach the quantity they declared, they move onto the losers' round. If the team wins, they choose another team to enter the losers' round, and their team advances to the winners' round. A team is disqualified if even one team member vomits. The two losing teams compete head-to-head to each as much food as possible within two minutes to decide the losing team. The two winning teams compete head-to-head to each as much food as possible within two minutes to decide the new Power Team, while the team who loses the losers' round is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "eating",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5439,12 +5748,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Abandon Ship",
-  "description": "",
+  "description": "Teams have to race a life raft from a ship to the shore. First, at least one player has to pull off three buoys from a line resting 25, 20 and 15 feet below the surface of the life raft buoy, which is five feet below the water. After the last buoy is pulled, the life raft immediately inflates above the water, and each team races in their life raft to the shore. A team is given a five-minute penalty is a player does not pull off a buoy before a teammate jumps off the ship into the water. The team that advances their life raft to the shore in the fastest time wins Power Team, while the team with the slowest time is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5490,12 +5802,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sling Shot",
-  "description": "",
+  "description": "One player from each team is towed on a launch ramp from a four-wheeler that is driven by their teammate. Once that player is launched into the water, he/she has to swim to a dock in the middle of a lake, ring a bell, then swim back to the shore. Teams with four players will have two timings merged into one. The team with the fastest average time not only becomes the new Power Team, but is also guaranteed a spot in the finals, while the team with the slowest time is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3b/Challenge23Logo.jpg/revision/latest?cb=20190810122200",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5510,12 +5825,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "XXX Games",
-  "description": "",
+  "description": "This game is played on an obstacle course along the beach, with two sections. In the first section, each team must saw off a log, with the saw placed in between the legs of each partner, and use a \"thrusting\" motion in order to saw the log. The first team to saw off their designated log will earn a five-second headstart for the next section, while each successive team earns a one-second headstart. The second section is \"Ball Gag,\" in which partners are attached at their torsos, and with one player upside down, each team must advance through a pile of tires and under a log, then one player has to retrieve a red ball perched atop a wooden pole with their mouths, then drop the ball on the sand, and have their partner deposit the ball into a trap door. The first teams to deposit the ball into their designated trap door win the challenge, while the last-place female team goes straight to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5530,12 +5848,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Stumped",
-  "description": "",
+  "description": "Each team has to advance through a maze in the sand consisting of numerous bamboo poles, with each partner tied together by their wrists to a 25-foot bamboo pole. A team is disqualified if they do not make it to the other side of the course within a 20-minute time limit. The teams that make it to the end of the obstacle course in the fastest time wins, while the last-place female team goes straight to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "maze",
+   "obstacle"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5550,12 +5871,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Frog Smash",
-  "description": "",
+  "description": "Each team has to advance from one end of a narrow 60-foot beam to the other that is suspended 30 feet above water. Eight swings are attached from a nearby platform with the opposing teams sitting on them, where they try to knock each partner off the beam and into the water. If one partner falls into the water, the other partner can still advance to the other side of the beam. Teammates advancing on the beam have to stay within two swings of each other in order to avoid a penalty. The team whose partners advance to the end of the beam in the fastest time wins, while the last-place male team goes straight to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5570,12 +5893,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Frenemies",
-  "description": "",
+  "description": "One partner is hanging from a platform suspended 30 feet above water, who had already been privately asked a series of questions about their partner prior to the start of the challenge. The other partners get asked the same series of questions. If the answers do not coincide, the pair is accessed one strike against them, the teammate hanging from the platform is dropped into the water on the second strike. For the women, the team whose partner is the first to hit the water is automatically sent to the Jungle. The last player hanging wins the challenge for their team, with the last female team standing winning immunity from the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5590,12 +5916,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Blind Leading the Blind",
-  "description": "",
+  "description": "Each team has to advance through a maze consisting of bamboo poles, with each partner having their wrists tied together, blindfolded and wearing electrical-shock dog collars. Each team member has to endure electrical shocks throughout the maze, and a team is disqualified if they do not make it to the end of the maze within a 30-minute time limit. The team that makes it to the end of the maze in the fastest time wins, with the fastest male team winning immunity from the Jungle and the last-place male team automatically sent to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "blindfold",
+   "maze",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5610,12 +5940,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Swingers",
-  "description": "",
+  "description": "Each team has to swing from a trapeze suspended 40 feet above water toward a catch bar, drop into the water, then each partner has to swim toward and around a midway buoy, and back toward another buoy at the finish line. The team that makes it to the finish line in the fastest time wins, with the fastest female team winning immunity from the Jungle and the last-place female team automatically sent to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5660,12 +5992,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Color Correction",
-  "description": "",
+  "description": "Teams have to race on a trail along the beach, and memorize a sequence of colors (red, yellow, green and blue) from a blinking light panel that is located one mile from the starting line. Partners are chained to each other, and after memorizing the color sequence, each team races back to the starting line, and stacks circular plates on a pole that are of different colors. Each team has to stack colored plates in the order of which they flashed on the light panel. The challenge is played in two rounds, and the two teams that correctly stack their plates in the fastest time advance to the winner's round, while the two slowest teams are out, with the slowest team automatically sent to the Jungle. In the winners' round, the team that wins the second round wins immunity from the Jungle and a guaranteed girls spot in the final challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e2/Challenge24Logo.jpg/revision/latest?cb=20190810122125",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5700,12 +6035,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Out on a Ledge",
-  "description": "",
+  "description": "Played in two teams of 14 players, each team participates in a multi-stage race to the top of Montevideo's World Trade Center. The teams are then split up into three teams — two of four players and one of six players. The three teams are positioned at three different locations — one four-player team is chained together at the rooftop next to a locked box at a puzzle station, another four-player team is chained together at a plank hanging from the edge of the rooftop, while the six-player team is chained together at the base of the building.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5720,12 +6059,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Auto Body Rally",
-  "description": "",
+  "description": "Played in male/female pairs, each pair has to race in a sports car on a drag strip, then run around a series of hay bales, and ride together on an oversize bicycle within an obstacle course consisting of bales of hay, toward a finish line. When each pair rides the bicycle, one player has to backwards-steer the front of the bicycle while the other pedals in order to navigate through the obstacle course. The team with the fastest time wins the challenge, while the teams with the four slowest times are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "running",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5740,12 +6084,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bounce Out",
-  "description": "",
+  "description": "First, players are separated into two teams of 11 players. Then, the two teams are split into two groups — of six and five players. Each player wears oversize plastic bumper suits with pictures of their faces on them, and the groups have to designate one player to serve as \"the ball\", in which that player try to advance from one side of a beach to another, toward a soccer goal. The remaining players either try to defend their own goal or help escort the designated \"ball\" toward their opponent's goal. After one group scores a goal, the other group takes the field and try to do the same. The first team to score three goals wins the challenge, while all members of the losing team are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5760,7 +6106,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Piggy Back",
-  "description": "",
+  "description": "First, players are separated into two teams of ten — five of each gender. Then, each team has to advance on ten hanging ropes from one platform to another that is suspended above water. After one player advances onto one rope, the next teammate has to use the first player as a \"human bridge\" in order to advance to the next rope. Subsequent players continue the process, until each player is hanging into their own rope, at which point, players continue to use their teammates as \"human bridges\" in order to reach the opposite platform. Players are disqualified if they don't grab each rope. The team that advances the most players from one platform to the other in the fastest time wins, while all members of the losing team are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
@@ -5780,12 +6126,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Smarty Pants",
-  "description": "",
+  "description": "Played as an individual challenge, host T. J. Lavin asks each player a series of trivia questions, which includes spelling, sports, geography, pop culture, and U.S. history. The challenge is played in multiple rounds — separated by gender. Each player is hanging by a rope from a platform suspended above water, and if they correctly answer a question, they will stay in the game, but will get a red X for each wrong answer. If a player gets two red X's, he/she is dropped into the water. The first four players of each gender to be dropped into the water are automatically sent to \"The Draw\", while the last player of each gender standing wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5800,12 +6148,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sausage Party",
-  "description": "",
+  "description": "Played as an individual challenge, players have to roll themselves along a \"barbecue-style\" obstacle course on the beach, while covered in shrink wrap. The challenge is played in two separate heats — one for each gender. Player wiggle and roll through a variety of \"condiments\" and on oversize metal bars that resemble a grill grate, towards a series of oversize circular discs at the end of the course that resemble bread buns. The first player that makes his/her way through the course and onto the oversize \"bread buns\" wins, while the three players in each heat that do not make it to the buns are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5820,12 +6171,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hold That Pose",
-  "description": "",
+  "description": "Played in two teams of seven, all members of each team have to grab hold of a certain color of rope with their feet and hands. There are two ropes with 28 straps — four straps for each player, and once the hands and feet of each player are strapped in, all team members have to hold a pose above the sand for one minute. The first team to hold a pose for one minute without any players touching the ground wins, while all members of the losing team are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5840,12 +6193,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dug Out",
-  "description": "",
+  "description": "Much like the \"T-Bone\" elimination from Rivals, players run up and down, through intersecting half-pipes that are dug several feet deep, and have to transfer five colored balls to their partner's ball rack from one side to the other. The challenge is played in same-gender pairs — one round for each gender, and the pair that transfers all of their colored balls — 10 total — to each other's racks wins, while the remaining players are sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5860,12 +6216,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Crossover",
-  "description": "",
+  "description": "Played in male/female pairs, each pair has to advance through a lagoon toward a sandbar, where two designated treasure chests are buried. Inside the treasure chests are oversize puzzle pieces that pairs need to assemble their puzzles. One partner digs through the sand to retrieve the pieces from one chest, then each pair advances back across the lagoon to the sandbar, where the other partner has to digs through the sand in order to retrieve the pieces from the second chest, the players finally advance back across the lagoon to reach their designated puzzle station. The first pair to solve the puzzle wins, while the two last-place pairs are automatically sent to \"The Draw.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/59/Challenge25Logo.jpg/revision/latest?cb=20190810122104",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5888,7 +6249,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "I Got You Babe",
-  "description": "",
+  "description": "Teams have to advance from one tall building to another, on a tightrope that is suspended above ground. The female partners advance on the tightrope, while their male partners are suspended on an overhead tightrope in a \"Superman\" position, and have to drop a rope toward their partners in order to advance on the tightrope. Teams are disqualified if the female partner falls off the tightrope. The team that advances from one building to another in the fastest time wins the Power Couple, while the team whose female partner falls off the rope in the fastest time is automatically sent to the Dome.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
@@ -5908,12 +6269,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rounding the Bases",
-  "description": "",
+  "description": "This challenge consists of a series of four tasks on a baseball diamond.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5928,12 +6291,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "The Brush Off",
-  "description": "",
+  "description": "First, the girls have to run and jump into a large square pool of red paint, and cover themselves with as much paint as possible, then race up a cargo net, where their male partners will be positioned on a platform, next to a series of hanging canvasses that have 12 white squares. The girls will then transfer the paint with their bodies to their male partners, who will jump onto their designated canvas, and try to cover 12 white squares within a three-minute time limit. The challenge is played in two separate heats — of five and four teams — and the team whose male partner covers the most squares within a three-minute time limit wins, while the team whose male partner covers the fewest squares is automatically sent to the Dome.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5948,12 +6314,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Open Arms",
-  "description": "",
+  "description": "Teams have to advance on a zip line above a pond, swim around a buoy at the opposite side of the pond, then return to the shore and ring a bell. First, the female partner is positioned on a heavy bag, while the male partner is positioned on a sled, and after each zip line is released, the guys will attempt to jump toward their female partners, then each teammate will swim together. Unlike the aforementioned \"On Again, Off Again,\" only one team competes at a time. The team with the fastest time wins the Power Couple, while the team with the slowest time is automatically sent to the Dome.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5968,12 +6337,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Forget About Me",
-  "description": "",
+  "description": "Teams have to solve a memory puzzle while hiking up and down a mountain. First, the guys will lift up a 300-pound steel door out of the sand that is connected to a rope for as long as they can. Under the steel door is an answer key that contains various colors of squares and rectangles, which the female partners will have to memorize. Whenever the girls feel that they have memorized the answer key enough, or their male partners are unable to keep the steel doors from shutting, each partner will be required to hike up a mountain with a bag containing their puzzle pieces, to their designated puzzle station, which the girls will have to solve. The process continues back and forth, and the first team to correctly solve their puzzle wins the Power Couple. Initially, the last team to correctly solve their puzzle would be automatically sent to the Dome; however, due to time constraints and the reduced amount of daylight, the team with the fewest correctly solved puzzle pieces was sent to the Dome instead.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "memory",
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -5988,12 +6363,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Are You the One?",
-  "description": "",
+  "description": "Teams are asked each team a series of trivia questions, which includes spelling, sports, geography, pop culture, and U.S. history. The challenge is played in multiple rounds, and each player is wrapped in a blanket that is hanging from a platform suspended above water. If teams correctly answers a question, they will stay in the game, but will get an \"X\" for each wrong answer. If a team gets two X's, both teammates are dropped into the water. The first team to be eliminated is automatically sent to the Dome, while the last team standing wins the Power Couple.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6008,12 +6386,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Speed Dating",
-  "description": "",
+  "description": "Teams have to jump back and forth from one tractor trailer to another, while each trailer is moving side by side at a speed of 30&nbsp;mph on a runway. Each team is positioned on one trailer, with an empty wall that has an arrow slot, while attached to a safety harness that is hanging from a platform on one trailer. Each partner alternates retrieving several colored balls from the opposite trailer. The goal is to deposit as many balls into the arrow slot on the wall as possible, before the trailers reach the end of the runway. The guys must stay on the outside of their female partners in order to avoid having their safety harness tangled up, and midway through the runway, the trailers will separate when they reach smoke signals, making it impossible for any partner to jump. A player must wait for their partner to return to the wall on one trailer before jumping onto the opposite trailer. The team that deposits the most balls into the wall wins the Power Couple, while the team that deposits the fewest balls is automatically sent to the Dome.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c5/Challenge26Logo.png/revision/latest?cb=20201003193711",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6059,12 +6441,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Water Battle",
-  "description": "",
+  "description": "Played in separate male and female heats, each player runs back and forth with a bucket up a steep pile of dirt, where a water hose is hanging above. Each player tries to accumulate as much water in their bucket as possible, then run back down toward their designated team barrel, and deposit the water in their barrel. Each heat runs for ten minutes, and for the co-ed teams, each player competes against players of their respective gender. The team with the most water in their barrel wins, while the team (with at least one female player) that has the least water is automatically sent to \"The Pit.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6079,12 +6464,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Family Dinner",
-  "description": "",
+  "description": "Within a glass case, players have to devour, then spit a variety of insects through a plastic tube into a measuring cup, while their bloodline has their head in a separate glass case, with a snake crawling down. One player from each team draws either a red or a blue rock out of a bag to determine which glass case they will be in. The team with the highest amount of dead insects within their measuring cup wins, while the team (with at least one male player) that has the lowest amount is automatically sent to \"The Pit.\"",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6139,12 +6526,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Family Connection",
-  "description": "",
+  "description": "Teams have to transfer up to 20 balls from one side of the beach to another, into their team basket. Each player is wearing a helmet with a square panel that resembles a graduation tassel, and after a ball is dispensed, players from each have to transfer the balls by using their heads and not their hands. If a ball hits the ground, it is out of play. The team that transfers the most balls into their basket within a 10-minute limit wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6159,12 +6549,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hand Me Down",
-  "description": "",
+  "description": "Players from each team traverse a series of five ropes that are hanging from a platform at the top of the Folkart Towers. A player is disqualified if he/she falls from the rope or refuses to compete. The team to advance the most players from one end of the platform to the other wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6179,12 +6572,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Too Clingy",
-  "description": "",
+  "description": "A large cargo net is placed above a pond. Players from each team have to race up a ladder and from one end of the net to another, then advance on the underside of the net to the other side. A player is disqualified if he/she falls into the water before reaching the finish line. The team that advances the most players to the finish line or in the least time wins. Note: This challenge was played in honor of the late Diem Brown - for the notable moment in which she (having just completed a cancer treatment) took off her wig before swimming through a muddy pit in \"Ring Toss\" challenge (The Duel) and winning the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6199,12 +6596,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Air Pockets",
-  "description": "",
+  "description": "Players from each team have to swim 150 feet downward from a yacht to a buoy that is holding a flag, where there are six cages with limited air supply for two players. If one player makes it to the enclosed cage, where they can catch their breath, they have to wait until another teammate joins them before advancing to the next \"air pocket.\" A player is disqualified if he/she makes their way above water before reaching the final \"air pocket.\" After submerging into the sixth \"air pocket,\" where the flag is located, players have to swim back to the yacht. The team to complete the challenge in the fastest time, or have the most players complete the challenge wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6219,12 +6618,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Weight for Me",
-  "description": "",
+  "description": "Each team hikes up a mountain in an endurance race, with checkpoints reminiscent of the season's missions. The checkpoints include crawling under a cargo net, pulling chains into a designated circle, using a rope to advance on a balance beam and advancing from one end of a set of monkey bars to another. Players from each team have to alternate between carrying up a heavy bag to each checkpoint (75&nbsp;lbs. for the guys and 40&nbsp;lbs. for the girls) and having their teammate complete the checkpoints. The final checkpoint at the top of the mountain is a puzzle, in which each partner is required to participate in. The first team to complete each checkpoint and solve their puzzle in the fastest time wins, while the last-place team is automatically sent to The Pit.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "endurance",
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6239,12 +6644,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Truck Crossing",
-  "description": "",
+  "description": "Each team has to advance from one tractor trailer to another, with five cars in between, while moving at a speed of 40&nbsp;mph on a runway. Similar in style to the \"Speed Dating\" challenge from Battle of the Exes II, each player is attached to a safety harness that is hanging from a platform on one moving trailer. At the end of the first tractor trailer, players have to climb down a cargo net before reaching the first of five cars. The team that advances to the second tractor trailer in the fastest time wins and automatically punches their ticket to the final challenge, while the last-place team is automatically sent to The Pit.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9b/Season27Logo.png/revision/latest?cb=20190810121755",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6259,12 +6668,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dirty Laundry",
-  "description": "",
+  "description": "Teams are positioned on a pole within a giant tub. The pole is coated with a bar of soap. Each team must use friction with their bodies (in a suggestive manner) in order to erode the soap and reveal four numbers on the wheel. Each team then runs toward a \"clothesline\" and a bucket full of T-shirts with numbers on them, and must dig through the bucket, then find the four T-shirts with the correct numbers, then hang the T-shirts on a clothesline.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6279,12 +6692,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Laps of Judgement",
-  "description": "",
+  "description": "Just like a game of \"Would You Rather...\", teams have two options at five checkpoints. After each checkpoint is completed, each team grabs a token and runs up a hill and has to scale up a wall. After they put their token on their designated team rack, they have to race down the hill and repeat the process. The first team to obtain all five tokens wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6299,12 +6715,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Road to Nowhere",
-  "description": "",
+  "description": "A platform, with a runway, is suspended 400 feet above the ocean. Each team rides a cart toward the end of the runway, where a series of green, yellow and red flags are standing. Teammates try to collect as many flags as possible, before riding off the platform. Each flag is worth a series of points — 5 points for green, 10 points for yellow and 15 points for red; the latter two colored flags are more difficult for each team to retrieve. The team to collect the most points in the fastest time wins, while the last-place finisher is automatically sent to The Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6319,12 +6737,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Take It to the Grave",
-  "description": "",
+  "description": "Prior to this challenge, all of the girls were separated from their male partners, and secretly asked a series of questions regarding fellow contestants, and were \"buried alive\" in the sand in coffins. When all of their male partners arrive at the challenge, the guys are asked a series of trivia questions with the goal of matching the answers of their female partners. A correct answer allows a guy to move forward and closer to digging their female partner out from her grave. If the answer is wrong, that guy stays put. Once a guy has dug his female partner out from her grave, they race to ring a bell. The first team to ring the bell wins, while the last-place team is automatically sent to the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6339,12 +6761,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bridging The Gap",
-  "description": "",
+  "description": "Teams have to build a bridge by using planks with cutouts of various shapes. Before gaining access to the planks, each partner must complete a series of tasks — braiding/unbraiding a rope and completing 30 consecutive jumps using a jump rope — while having to move in unison and banded together in a poncho. After completing a task, there are three different sets of planks that are puzzle pieces in which teams have to determine where to place them on their designated bridge. The first team to complete their bridge wins, while the last-place team is automatically going into the Jungle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/55/Challenge28Logo.png/revision/latest?cb=20160506190350",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6479,12 +6904,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fallout",
-  "description": "",
+  "description": "Played one team at a time, competitors must race to touch a floating buoy across an elevated obstacle. Each team must select one person to build momentum on a pendulous rod and one to jump. The fastest three teams to reach the buoy form the tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e3/Challenge29Logo.png/revision/latest?cb=20190810121646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6519,12 +6947,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Battle Royale",
-  "description": "",
+  "description": "Players are divided into two teams of ten and the challenge is played in male and female heats. Teams start from opposing poles in the arena with a narrow hallway in the middle. At the sound of a horn, players must run through the hallway to the opposing team's pole to retrieve five rings hanging from their pole. Upon retrieving these rings, teams must run back to their starting pole and place their opponents rings on them. Each player is responsible for grabbing a ring. The first team to win two heats wins while the losing team is eligible for The Double Cross. The two players not selected for a team sit out from the challenge and are also eligible for The Double Cross.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6539,12 +6971,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Pirates' Treasure",
-  "description": "",
+  "description": "Played in male-female pairs and in two heats. Pairs must carry a 100 lb chest through a series of obstacles in order to reach the finish line. Once reaching the finish line, players must smash open their chests with a hammer in order to a retrieve a Jolly Roger flag which they must hoist up a flagpole to complete. The first pair to hoist their flag in each heat wins while the bottom two pairs in each heat are declared the losers and are eligible for The Double Cross.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6559,12 +6995,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ups and Downs",
-  "description": "",
+  "description": "Players must divide themselves into teams of four with two males and two females on each team. Teams have to place the thirty Challenge logos in chronological order using placards on a tall beam. One player is in charge of placing the placards in order while the remaining three teammates hoist them up and down the beam using a rope. The first team to place all of their logos in order is declared the winning team. The two last-place teams are eligible for The Double Cross.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6579,12 +7018,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Talk Thirty to Me",
-  "description": "",
+  "description": "Players are suspended 30 feet in the air above water and are asked a series of trivia questions related to their cast-mates. If a player gets a question wrong, they receive an 'X' to their score, but if they answer correctly they are able to add an 'X' to an opposing player's score. Once a player has three 'X's they are out of the challenge. The game is played in a male heat and a female heat. The first four players to hit the water in each heat are the losers and eligible for The Double Cross. The last male and female players standing are the winners of the challenge and also receive a getaway for themselves and a friend.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6599,12 +7040,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Blackout",
-  "description": "",
+  "description": "Players are placed into three teams of five. Teams are placed inside a blacked-out 8x8 box where they are unable to see anything. They must scratch and claw the paint away from their window to unveil numbers that unlock a combination to a pickaxe and use the pickaxe to escape the box and then solve a three-dimensional puzzle. The first team to solve the puzzle wins, while the two losing teams are eligible for the Double Cross. The winning team is also able to select one male and one female to send straight to the Redemption House.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6619,12 +7063,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Backstabber",
-  "description": "",
+  "description": "On the top of a building, players must walk across a balance beam. There are three 'X's at the end of every beam, representing the other players. The first player to reach their X's may knock whoever they'd like off of a beam. The fastest male and fastest female players to complete the challenge win while all losing players are eligible for The Double Cross. The challenge is played in two heats (for male and female players). The first player knocked off in each heat is eligible to be sent straight to the Redemption House by the winners.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/b2/Challenge30Logo2.png/revision/latest?cb=20171009151038",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6639,12 +7086,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Get Off the Rock",
-  "description": "",
+  "description": "This purge challenge is an overnight endurance race up the 1400-foot Rock of Gibraltar. For the first phase, contestants race through the streets of Gibraltar to a checkpoint in tunnels at the base of the rock, where they then must stand in a subway car overnight holding weighted boxes. The following day, players continue the race up the Rock of Gibraltar with staggered starts based on how they finished the first phase. The first-place finisher wins $25,000, while the slowest male and female contestants are immediately eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6659,12 +7109,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "#Vendettas",
-  "description": "",
+  "description": "Played on a giant hashtag structure lifted above water, this challenge is played in heats separated by gender. Contestants must take their 4 \"hashtag\" figures, and place them onto 4 separate opponents' poles. The fastest male and female to place their hashtags on their opponents' poles and make it back to their own pole win the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6679,12 +7132,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Food Wars",
-  "description": "",
+  "description": "Contestants are divided into 7 teams of 3 and 1 team of 2. At the beginning of each round, they are asked a question, and the first team to buzz in is allowed to answer. If they get it right, they win that question and will then be able to select one other team to be safe from eating while every other team has to select a member to consume a food of the winning choosing team's choosing. If the members of the eating team are unable to finish their dish in the allotted time, their team is eliminated. The final round between the final two teams is an eating competition, with the first team to finish the dish winning.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "eating",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6699,12 +7156,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Gasping for Air",
-  "description": "",
+  "description": "Played at night, contestants are divided into 4 teams. Each contestant takes a turn diving underwater down 15 feet, and then moving a metal ring along a rope stretched 150 feet underwater. There are three checkpoint stations for the contestants to stop and breathe out of oxygen tanks while underwater. The team that moves their rings the overall longest distance wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6719,12 +7178,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Car Crash",
-  "description": "",
+  "description": "This challenge entails five cars that are lifting into the air over water and are being sprayed with water. Contestants are separated into 4 teams. Each member of the team must jump from car to car, going through the backseat once completing the jump. The team with the fastest contestant to complete the jumps wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6739,12 +7201,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "This Land Is My Land",
-  "description": "",
+  "description": "Competitors are split into three teams. Each team has to stack up forty-five palates in order to raise their flag. Each team is split into three groups: Fabricators, who stack the palates; Suppliers, in charge of supplying the palates by running the palates that roamers supply them to the Fabricators; and Roamers, who must run across the beach and are in charge of supplying the Suppliers through a reservoir or stealing from other teams. The first team to stack their palates and raise their flag wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6759,12 +7224,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Spanish Treasure",
-  "description": "",
+  "description": "Contestants are divided into two teams. Each competitor on the team has to go one at a time to swim over to retrieve a ball. The competitor then has to dive down underwater and place the ball into a net attached to a treasure chest, elevating it slightly. They then swim back and touch a checkpoint before the next competitor on their team can go. Once the chest is brought up to the surface, the team is allowed to bring it back to shore, ending the mission. The team who does this the fastest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6779,12 +7247,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Help Me, Rhonda",
-  "description": "",
+  "description": "This is an individual endurance competition. Competitors each have to race one mile up a hill towards Puente Nuevo bridge, where they then have to zipline across a chasm. They then have to run through the streets of Ronda back towards the bridge, before rappelling down the side of the bridge and then running to the finish line. The fastest male and female contestants win, while the slowest male and female contestants are eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "running"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6799,12 +7270,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Outside the Box",
-  "description": "",
+  "description": "Played individually, players are hooked to a moving semi-truck and forced to traverse from the truck to a dangling pillar with stacked boxes in-between. Players push themselves, alternating between the truck and pillars, weaving between the stacks of boxes. The boxes have varying point values, and if the player knocks over the stack of boxes, those points are added to their overall score. In addition, if a player fails to make the transfer, they receive a transfer penalty. Those with the fewest points wins and gets an automatic ticket into the final challenge. The last place male is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f3/VendettasLogo.png/revision/latest?cb=20180114011628",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6819,7 +7292,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wreck Yourself",
-  "description": "",
+  "description": "The competitors' teams are split into two roles: one being a Pusher, and one being the Swinger. The contestants are harnessed on top of a circular platform suspended in midair. The Pusher must push the Swinger off the platform for them to collect rings hanging in the middle of the platform, which they then must hand back to the Pusher. The team that collects the most rings in the shortest amount of time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
@@ -6839,12 +7312,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Shark Bait",
-  "description": "",
+  "description": "This is a purge challenge where large replicas of steaks with climbing holds, and ropes, are hung over water about 40 feet. Teams must jump from the platform onto the steaks, and from the steaks to ropes, alternating until they get to the other side of the platform. If one of the teammates falls, they are both disqualified and their score only counts how far they made it. The team that gets both members to the other side the fastest wins, and the team that falls soonest is sent to Redemption.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6859,12 +7334,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Off the Rails",
-  "description": "",
+  "description": "Teams must go in rounds finishing an obstacle course on top of a moving train. First, they must cross the balance beam, by using each other to balance and walk across the single beam. Next, they must walk across a tightrope each while balancing on each other, using lifelines to grab onto as well. If one teammate falls, they both lose. The team to successfully complete the obstacle course the fastest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6879,12 +7358,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dig Deep",
-  "description": "",
+  "description": "The paired teams are separated into two large groups randomly. The two groups are then put into mine shafts, and must solve 3 puzzles before being able to dig themselves out and race to the finish line. The first paired team to finish within the large team that finishes first, wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6899,12 +7382,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Don't Push Me Around",
-  "description": "",
+  "description": "The paired teams are separated into two large teams and must play a game of rugby. The girls may only take girls and guys may only tackle guys on the opposing team. Players must retrieve the ball from their opponents end zone, and fight through an obstacle course in order to return it to their own end zone and score a point. The first team to score two points wins, and they then select the pair within the team that was the MVP.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6919,12 +7405,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dunking for Dinner",
-  "description": "",
+  "description": "This challenge is played in two phases. The first phase, one member of the team must be dunked into water by a crane with their arms tied, while the other player controls the crane. Players must move disks from one circle to the other in an allotted amount of time. The number of disks transferred corresponds to the number of dishes the team is allowed to eat. In the second phase, the player that controlled the crane now must eat as many dishes as possible. The team that eats the most dishes in 15 minutes wins, while the team that eats the least is purged straight to Redemption.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "eating"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -6939,12 +7427,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sky Bridge",
-  "description": "",
+  "description": "Teams are lifted into the sky via a giant crane. There is a partially completed bridge that they must complete and crawl over by passing rope from side to side and tying knots. The team to complete their bridge and make it to the other side fastest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "knots",
+   "strength"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7010,12 +7501,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Heads Will Roll",
-  "description": "",
+  "description": "Teams begin on opposite platforms above ground. In between the two platforms is a rotating log which players must run over while carrying a flag to transfer the flag to their teammate. The team with the most flags transferred wins, while the team that transfers the least flags is purged straight to Redemption. In the event that multiple teams are unable to collect flags, the losing team is determined based on distance travelled across the log.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7030,12 +7525,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rolling Thunder",
-  "description": "",
+  "description": "Each team has a giant boulder which they must roll to the finish line. Halfway through the course, there is a ditch where teams have two routes they can choose from. The first team to reach the finish line wins, while the last team to reach the finish line is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7050,12 +7547,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Painfully Wrong",
-  "description": "",
+  "description": "All teams begin at the start of five zones, in between each zone is a 7000-volt copper curtain. One at a time, teams are asked a trivia question. If they answer correctly, they can force another team to advance through the copper curtain to the next zone. Once a team reaches the fifth and final zone, they are out of the challenge. The last team remaining wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/28/FRLogo.png/revision/latest?cb=20190810121352",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7070,12 +7570,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Impending Dune",
-  "description": "",
+  "description": "Played in separate male/female rounds, players must race down a sand dune and retrieve a ball that has rolled down from the top of the dune. Players must then race back to the top of the dune with a ball to retrieve puzzle pieces, then race back down with their puzzle pieces to the bottom of the dune to a puzzle station. The last-place finishers of each round are eliminated from the competition.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7090,12 +7593,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Arms-a-geddon Tired",
-  "description": "",
+  "description": "Played in two rounds of 5 minutes each, each team competes against another team in a tug-of-war. Each rope is 400&nbsp;ft. long, after the 5 minutes is over, each competitor's length of rope is combined with their partner's which forms their team's total length. The three teams with the longest combined length of rope form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7130,12 +7635,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Tired Out",
-  "description": "",
+  "description": "Chained together, each team must race 200 yards across the desert to their stack of color-coded tires. They must then climb up a sand dune to an answer key of a tire pyramid they have to assemble. After they have memorized the answer key, they have to pick out a tire and race back to the starting line with that tire in order to build the pyramid. 14 tires are needed to complete the pyramid. The first three teams to complete the pyramid correctly form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7150,12 +7659,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Doom Buggy",
-  "description": "",
+  "description": "Played two people at a time, each contestant must climb across ten tires and unhook them while being dragged across the desert at 30 kilometers per hour. The three teams to unhook the most tires form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7170,12 +7683,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Eye in the Sky",
-  "description": "",
+  "description": "Played two teams at a time, each team has one member blindfolded and another wearing a VR device that shows footage from the blindfolded teammate's perspective. The blindfolded partner must guide their partner across an elevated platform. The three teams with the fastest time form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "blindfold",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7190,12 +7706,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Brain Freeze",
-  "description": "",
+  "description": "Each team member alternates running 100 yards into the freezing ocean water to retrieve a puzzle piece, and bringing it back to their puzzle station. They are a total of eight puzzle pieces that need to be retrieved. Once they have retrieved all eight pieces, the teams can then begin to solve their puzzle tower. The first three teams to solve their puzzle tower correctly form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7210,12 +7731,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Road Warrior",
-  "description": "",
+  "description": "Played one team at a time, competitors must swing back and forth on top of two semi-trucks moving at 50&nbsp;mph transferring rings over to their partner. There are sixteen rings total and the three teams who transfer the most rings the fastest form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7230,7 +7753,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fandemonium",
-  "description": "",
+  "description": "There is a giant 150-foot hallway that has balls at one end of it while 3 giant hurricane fans blast wind at the players. The three fastest players that deposit their balls in 5 minutes form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
@@ -7250,12 +7773,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Highway to Hell",
-  "description": "",
+  "description": "Players are placed on the roof of a car that is on a track, drifting. On top of the car is a puzzle. The 3 fastest players who finish the puzzle within a 3-minute time limit form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7270,12 +7796,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Day of Wreckoning",
-  "description": "",
+  "description": "In teams of two, each duo run to the nearby junkyard to collect trash and run back to their dumpster to deposit it. The three teams who transfer the heaviest junk in one hour form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7290,12 +7819,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Crash Landing",
-  "description": "",
+  "description": "Players are placed on a rotating airplane and attempt to solve a puzzle the fastest. Once they are done, they jump off the plane and into the water. The first male and female to do so earn their spot in the final and the first three players form the Tribunal.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7310,12 +7842,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Judgement Day",
-  "description": "",
+  "description": "Players must start on one of three containers. Once the challenge starts, players must run and jump off the first container into the water and swim around a buoy and then climbing up the second container. Once on the second container, players must rope swing to the third container. On the third container, which is at a severe angle, players must grab a ring and slide down the container, back into the water and swim back to the second. They must climb up the second container and place a ring around a pole. The last placing guy and girl are eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/WOTWPoster.jpg/revision/latest?cb=20250720194535",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7350,12 +7887,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Trench Warfare",
-  "description": "",
+  "description": "Teams must race through a hallway, grab their national flag at the opposite end, reach the other side of their sandbag walls and plant the flags. Each player is responsible for two flags, and can only carry one at a time. The first team to plant all 28 flags wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7370,12 +7910,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Paddlewheel Puzzle",
-  "description": "",
+  "description": "After memorizing four-digit codes, players enter a rotating paddlewheel to collect 16 separate puzzle pieces which can be unlocked by entering one of the codes. Challengers then assemble those puzzle pieces into either an American or British flag. The fastest team to correctly build their puzzle wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "paddling",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7390,12 +7935,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Relic Runner",
-  "description": "",
+  "description": "Played in two rounds. Giant, heavy relics must be transferred from the bottom of the hill to the very top by one team, while the other team is situated at the top with giant balls, a slingshot, water cannon, and a human hamster wheel to bomb the team that's running the relics up. Each player is responsible for two relics, and can only carry one at a time, guaranteeing two trips up the hill for everyone. If a player drops their relic, they have to start from the very beginning. Whichever team finishes in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "strength",
+   "throwing"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7410,12 +7959,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hooked",
-  "description": "",
+  "description": "Each player has to jump to a zip line and ride it to the water, then swim around a buoy and reach a boat. The team with the fastest average time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7450,12 +8002,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Resilient River Run",
-  "description": "",
+  "description": "Each team has to assemble a pyramid, transport it down a river and use it to transfer two relics (carrying one at a time). Whichever team finishes in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7470,12 +8025,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Crate Expectations",
-  "description": "",
+  "description": "Both teams are given 125 crates which they must use to build towers to climb and retrieve 12 hanging relics. Once all relics have been collected, they must transport all their crates past the finish line. The first team to pass the finish line with all their crates and relics wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7490,12 +8048,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Under Siege",
-  "description": "",
+  "description": "Played in gender divided rounds. Both teams are placed inside of a swinging container and must solve a hexagonal puzzle. The team that completes the puzzle in the fastest time (in whichever round) wins. In the event of a tie, a sudden death round is played with some of the pieces already set in place.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7510,12 +8071,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Temple Wall Traverse",
-  "description": "",
+  "description": "Teams are divided in half and start on opposite sides of a climbing wall above water. Competitors must match as many tiles labelled with Roman numerals to their position on the wall, while members of the opposite team use a series of hand cranks to separate the walls to make them more difficult to climb. The team with the most tiles matched after fifteen minutes wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7530,12 +8094,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Escape to Freedom",
-  "description": "",
+  "description": "Played in gender divided rounds. One at a time, competitors attempt to complete an obstacle course dragged by a boat and ring a bell at the end without falling in the water. At a section of the course, there is a defender from the opposing team attempting to stop them from finishing. The team with the most players to finish the course within the time limit wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "paddling",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7550,12 +8119,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Puzzling Swim",
-  "description": "",
+  "description": "Teams start on a platform in the water and swim in pairs to retrieve a total of four keys that unlock a riddle and letter tiles. The first team to identify the answer to the riddle wins. Additionally, the slowest swimming pair from either team would be eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7570,12 +8142,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Mine the Cart",
-  "description": "",
+  "description": "One male and one female from each team are suspended in a cart above the water. They must wheel the cart to collect as many medallions as possible, while a member from the opposing team swims and collect a saw to cut through the ropes connected to their cart. Once the rope is cut, players inside the cart will be tipped out and cannot collect medallions anymore. The team with the most medallions after three rounds wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/76/WOTW2Promo.jpeg/revision/latest?cb=20211016110220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7590,12 +8164,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Battle Lines",
-  "description": "",
+  "description": "Played in male and female rounds, contestants must pull a barrel of medical supplies across a field, solving a math problem and puzzle along the way. At intervals, players who fall behind are eliminated from the challenge by having their barrel run over by a tank. The first player in each heat to reach the end of the field wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7610,7 +8188,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Airdrop Extraction",
-  "description": "",
+  "description": "Played in nine teams of three, teams must transfer 15 military crates from one missile launch platform to another, one mile apart. The first three teams to finish advance to Round Two. In Round Two, teams board a helicopter and must drop nine military crates from the helicopter, aiming to hit the missile launch platform. The team with the most hits wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
@@ -7630,12 +8208,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Decode and Detonate",
-  "description": "",
+  "description": "Each player begins at a puzzle board with a code. They must race to two separate puzzle keys to obtain the key to their code before returning to solve the code. Once the puzzle is solved, players race to a detonator and blow up a truck. The first two players to detonate a truck win.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7650,12 +8231,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Cold War",
-  "description": "",
+  "description": "Played in five teams of five, three players from each team must collect puzzle pieces from the bottom of a pool before solving the puzzle. Meanwhile, two players from an opposing team break an ice block to send ice into the pool, making the water colder for those collecting pieces. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7670,12 +8254,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bomb Squad",
-  "description": "",
+  "description": "Played in six teams of four, each team member has a specific role. The first player must ride in a stunt car and look for hidden numbers to form a math equation, communicating this to a second player via radio. The second player solves the equation and runs the answer to the third player, who decodes the puzzle and selects three corresponding rods. The third player run the rods to the fourth player, who places the rods in a detonator. If the rods are correct, the bomb detonates. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7690,12 +8278,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fast & Furious",
-  "description": "",
+  "description": "Inspired by scenes from the film F9. Played in male/female pairs, each pair is hooked to a moving semi-truck and tethered together. Two pairs play at a time, on opposite sides of the truck. They must collect ten magnetic puzzle pieces from the side of the truck, before returning to their puzzle board at the top and solving the puzzle. The pair with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7710,12 +8301,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Decontamination",
-  "description": "",
+  "description": "Each player races through a room of foam towards a window, while wearing PPE, where a series of flashing lights are shown. They must memorize the series before returning to the entrance and replicating the sequence by placing colored discs around a pole. The male and female player with the fastest times win.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7730,12 +8324,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Throne Off",
-  "description": "",
+  "description": "Played in male and female rounds, players begin holding onto a missile above water. One at a time, they are asked a multiple-choice trivia question. If they answer correctly, they can assign a strike to another player while answering incorrectly self-incurs a strike. Players are eliminated if they receive two strikes, or fall after letting go of the missile. The last male and female player standing win. Additionally, both winners received a $5,000 cash prize, announced at the conclusion of the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7750,12 +8347,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Flag Down",
-  "description": "",
+  "description": "Two players of the same gender begin strapped on each side of a tank, with four players competing at once. As the tank drives through a course, they must collect as many flags as possible. Red flags are worth one point and white flags are worth ten points. The male and female with the most points win. At the conclusion of the challenge, it was announced that players who had worked together during the challenge were disqualified.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7790,12 +8389,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bloc'd In",
-  "description": "",
+  "description": "Played in two teams of seven. Similar to a slide puzzle, teams push a series of black cars forwards or backwards in order to release a red car. Once released, teams must push the red car past the finish line. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7810,12 +8412,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Running Out of Time",
-  "description": "",
+  "description": "Players must run to collect heavy material before returning to place it into an opponent's drum. After an extended time, a horn sounds, indicating that players have five minutes to return and pick up their drum. Players who do not return in time are disqualified. Afterwards, the male and female player to hold their drum up the longest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7830,12 +8436,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Crash Course",
-  "description": "",
+  "description": "Similar to bowling, one player begins in a stunt car and must crash the car into piles of barrels which other contestants are standing on. The male and female player who knock down the most barrels win. In the event of a tie, the winner is determined by how far their barrels travelled.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/77/TMPoster.jpg/revision/latest?cb=20250720191932",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7850,12 +8459,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Decryption",
-  "description": "",
+  "description": "Played in male and female heats, contestants race up a volcanic mound to reach a capsule with a color code encrypted on it. They must memorize the code before returning to their station and duplicating the sequence, by connecting colored wires. The first player in each heat to correctly duplicate the sequence and detonate their station wins their heat, however, the heat winner with the fastest overall time earns the ability to select their partner and become the Double Agents.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7870,12 +8482,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ice Spy",
-  "description": "",
+  "description": "Teams swim through glacial water towards a boat to retrieve a block of ice with a \"kill\" capsule frozen inside, before returning to shore. They must remove the kill from the ice using an ice pick, and can place the kill in another team's station. Once a team receives three kills, they are eliminated from the challenge, however, they can still place the kill they currently possess. The last team standing wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7890,12 +8506,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Road Kill",
-  "description": "",
+  "description": "Played two teams at a time, teams begin on the back of a moving truck. They must push their opponent of the same gender off the truck and onto the surrounding safety nets without timing out. The last player with any body part still on the platform wins the matchup for their team. The team that pushes both opponents off the truck the fastest wins the mission.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7910,12 +8528,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Drone Control",
-  "description": "",
+  "description": "Played two teams at a time, one teammate wears a VR headset connected to the camera of a drone. They must direct their partner, who flies the drone using a controller, towards a number code at the opposite end of the tunnel. Once they obtain the sequence, the player wearing the headset must solve a binary puzzle before entering the code into a tablet. There is a ten-minute time limit before teams time out. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7930,12 +8551,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Agent Down",
-  "description": "",
+  "description": "Played in two heats of six teams, the female partners begin harnessed on a ledge on the side of a platform while their male partner begins on top of the platform. The male players must pull 200 metres of rope out of the platform before they can hold onto their partner. The ledge drops after an undisclosed period, however, the females can still hold the platform to avoid falling if their partner has not finished pulling the rope. The team that holds on the longest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7950,12 +8573,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Smuggle Run",
-  "description": "",
+  "description": "Teams carry a heavy cylindrical capsule on their shoulders and complete a five-mile race. Along the way, they must use their capsule to climb over a wall and solve a magic hexagon puzzle before reaching the finish line. The first team to cross the finish line wins. In addition to becoming the Double Agents, the winners also receive a cash prize of $6,000 each and a P3 Portable Protein reward.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7970,12 +8598,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Aerial Takedown",
-  "description": "",
+  "description": "Played in male and female heats of five players. Players begin on a cargo net being dragged by a helicopter, and must push their opponents off the net into the water below without timing out. The player who pushes all their opponents off the cargo net first wins the heat, however, the player who achieves this the fastest wins for their team and becomes the Double Agents.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -7990,12 +8620,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "All Brawl",
-  "description": "",
+  "description": "Played in three phases, each phase requires players to enter a mud-pit and obtain an X-shaped relic. The winners of each phase advance to the next phase. The team that wins the third phase wins and becomes the Double Agents.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8010,12 +8642,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Interrogation",
-  "description": "",
+  "description": "Played in two heats, with each heat containing one member of each team. Players begin standing on a platform above water, holding onto an overhead bar. One at a time, they are asked a true-or-false trivia question. If they answer correctly, they must select another player to have their bar tilt forward, making it more difficult to hold on. However, if they answer incorrectly, their own bar tilts forward. Players are eliminated if they fall in the water or hold onto the side of the apparatus. The last player standing wins their heat, while the player who answers the most questions correctly, or holds on the longest, wins for their team. In addition to becoming the Double Agents, the winners also receive a cash prize of $5,000 each.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8030,12 +8666,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Black Sand Ops",
-  "description": "",
+  "description": "Teams search through a field of one hundred torches to find their colored puzzle pieces buried underneath ten of the torches. If they dig up another team's puzzle piece, they can either leave it unburied, or rebury the piece. Once they find all ten pieces, they must use the pieces to assemble an Icelandic totem by replicating a provided answer key. The first team to correctly assemble their totem wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8050,12 +8690,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Air Lift",
-  "description": "",
+  "description": "Played one team at a time, teams begin on the bow of a moving speedboat and grab onto ropes attached to a flying helicopter. They must hold onto the ropes until the helicopter reaches a drop-zone, before dropping into the water. Once in the water, teams swim towards a platform and press the button on top. Teams are disqualified if they are unable to grab a rope, or fall into the water prior to reaching the drop-zone. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8070,12 +8712,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Survive the Night",
-  "description": "",
+  "description": "Teams begin handcuffed together and locked in a cell. They must complete a series of tasks to unlock their handcuffs and escape. The first team to escape their cell wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8090,12 +8734,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Undercover",
-  "description": "",
+  "description": "Teams must dive underwater, in between two tectonic plates, until they reach a line which stretches across the water. They must pull themselves along the line to collect six coded rings at the end before returning to the coding station at the start. Teams are disqualified if either player returns to the surface for air prior to collecting all six rings. Once teams return to the coding station, they must use the rings to decipher a six-letter code. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8110,12 +8757,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Spy Dive",
-  "description": "",
+  "description": "Played three teams at a time, each player must complete a tandem skydive from a plane and memorise a puzzle key that can be seen as they fall. Once all teams land, they must run half a mile across a field to their puzzle station, before assembling the puzzle by replicating the key they viewed. Teams may only begin assembling the puzzle once both team members reach the puzzle station. The first team to finish wins their heat, however the team with the fastest overall time wins and becomes the Double Agents.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8130,12 +8782,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Global Domination",
-  "description": "",
+  "description": "Played in two rounds, with each three teams playing offense and two teams playing defense each round. Teams must enter a giant metal sphere; blue spheres represent defensive teams and silver spheres represent offensive teams. During their round as offense, teams roll down a ramp, onto a battleground and over as many targets as possible while the defense teams try to prevent them from doing so. Once the time limit expires, teams switch positions and the second round commences. The team that rolls over the most targets wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8150,12 +8805,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Escape the Volcano",
-  "description": "",
+  "description": "In the morning, each team elects one member to leave the house and, unbeknownst to them, be transported to the crater of a volcano for the challenge. They are chained to the ground and given a briefcase. Their teammate must later undergo a five-mile race to the entrance of the volcano, solving two math problems along the way. At the volcano entrance, they must descend to their partner and unlock them before both team members return to the start. Once teams return to the start, they must use the pieces in the briefcase to solve a puzzle. The first team to solve the puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/23/DAPromo.jpeg/revision/latest?cb=20211016105908",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8198,12 +8856,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sea Cave Recon",
-  "description": "",
+  "description": "Played two teams at a time, teams dive off a 30-foot cliff to collect their first \"bomb\" capsule in the water below. They must then swim through a sea cave to collect a second bomb, proceed to a WaveRunner, and hold onto the attached bodyboard until they are pulled to a buoy. From the buoy, they must swim to shore and place the bombs on a podium. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8218,12 +8878,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Undercover Comms",
-  "description": "",
+  "description": "Played in two heats of seven teams, one team member begins suspended underneath a platform. They must pull themselves to three codes and describe them to their partner via walkie-talkie. Their partner must search through rubble for the matching codes and use the corresponding numbers to unlock a box containing a detonator, which they may use to eliminate another team from the challenge. The first team to collect three detonators, or the last team standing, wins their heat. However, the team to achieve this the fastest wins and becomes the Agency.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8238,12 +8900,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Mindfield",
-  "description": "",
+  "description": "Each team member must complete three cumulative obstacles to acquire puzzle pieces, and return to deposit their puzzle piece after each obstacle. At the first obstacle, players must crawl under a net to reach their first puzzle piece. At the second obstacle, players must scale a climbing wall to reach their second puzzle piece. At the third obstacle, players must pull a tyre past a marked line and solve the attached math problem to unlock a safe containing their third puzzle piece. After collecting all six puzzle pieces, the first team to solve the puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "obstacle",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8258,12 +8925,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Turning Agents",
-  "description": "",
+  "description": "Played two teams at a time, teams begin strapped to the roof of a car. As the cars perform doughnuts, they must find their colored symbols printed on a nearby tank and use the corresponding numbers to unlock a lockbox before detonating a smoke bomb. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8278,12 +8947,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dive Bomb",
-  "description": "",
+  "description": "Played in three heats, teams ride a sea scooter to collect two underwater ropes with puzzle pieces attached. They must then grab a key tied to a nearby yacht and use it to open a chest with their remaining puzzle pieces. Once they collect all 16 puzzle pieces, teams must solve the puzzle and detonate their station. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8298,12 +8971,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bombshell Battle",
-  "description": "",
+  "description": "Played in three rounds, teams must retrieve four of their colored \"bombs\" from the center of a mud pit and return them to their station, alternating team members each time. Once they collect all four bombs, they must retrieve a silver bomb to advance to the next round while the number of silver bombs decrease each round. The team that retrieves the sole silver bomb in the final round wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8318,12 +8993,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Diamond Dash",
-  "description": "",
+  "description": "For the first stage, players race to collect a sledgehammer before proceeding to the end of the trail. Upon arrival, they can select one of three assignments to complete: (1) using binoculars to view their code on a sign, (2) finding a box that fits into slots of a wall and scaling the wall to reach their code, or (3) scratching paint off a board to reveal their code. Players must then use the code to unlock a safe, collect a diamond, and place it in either the Emerald, Ruby or Sapphire station – each of which holds six players. It was then revealed that this would be the teams (or \"cells\") that players would compete in. For the second stage, newly-formed teams must use their sledgehammers to break cinder blocks and place the rubble in one end of a structure. Once they place enough rubble, the structure would balance out to release a diamond. The first team to cross the finish line with their diamond wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8338,7 +9016,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Satellite Sabotage",
-  "description": "",
+  "description": "Teams begin on a \"satellite\" suspended above water. One team member at a time must jump across the satellite's spokes before leaping off the final spoke to unplug a plug. Meanwhile, the remaining teams attempt to stop them by spraying them with a fire hose. Players are disqualified if they fall off the spokes, or fail to jump when pulling out the plugs. The team that gets the most players the furthest, the fastest, wins. In addition to becoming the Agency, each member of the winning team also received a cash prize of $3,000 each.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
@@ -8358,12 +9036,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Brush Contact",
-  "description": "",
+  "description": "Played in three rounds, with one team playing offense and one team playing defense each round. The male team members of the offense team begin at one end of a field and must transfer as many bags, worth varying denominations, to a safe zone in the middle of the field. The female team members must then transfer the bags from the safe zone to the end zone at the end of the field. Meanwhile, the team playing defense attempt to stop them by stealing the bags and bringing them out of bounds. The team that transfers the most money to the end zone wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8378,12 +9058,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sunken Intelligence",
-  "description": "",
+  "description": "Teams must untie a 150-foot rope tied around a sunken shipwreck. They must then attach the rope to a chest, pull the chest to shore and place the diamond inside on a podium. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "knots"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8398,12 +9080,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Submerged",
-  "description": "",
+  "description": "Inspired by scenes from the then-upcoming film Top Gun: Maverick. Teams begin in an aircraft suspended above water. As the aircraft drops into the water and begins to submerge, teams must exit the aircraft and collect 25 tiles attached to the outside. They must then dive under the wing of the aircraft to view an answer key, swim to shore and replicate the key by placing the tiles on an answer board. There is a 45-minute time limit before teams time-out. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8418,12 +9102,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Boom Raiders",
-  "description": "",
+  "description": "Each team begins at their bunker at different ends of a narrow intersecting trench - each bunker has 10 sticks of dynamite in their detonator. One team member at a time must run through the trench to an opposing team's bunker, collect one stick of their dynamite and return it to their detonator before the next team member goes. The first team to accumulate 20 sticks of dynamite and detonate their opponent's bunkers wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8438,12 +9125,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Million Dollar Heist",
-  "description": "",
+  "description": "Each team is given two duffel bags to transfer $1 million worth of banknotes, weighing over 2,000 pounds in total, from their team vault to an SUV at the end of a path. The first team to transfer all of their banknotes wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8458,12 +9147,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dead Drop",
-  "description": "",
+  "description": "Teams begin on a platform suspended above water. One team member at a time must cross a beam and collect one of their team's ten capsules at the opposite end before returning it to their team's chest. Meanwhile, members from both opposing teams attempt to knock them off by swinging \"bombs\" at them from a nearby platform. If a player gets knocked off the beam while holding a capsule, the capsule is considered out of play. The team that collects the most capsules the fastest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5a/SLAPoster.jpg/revision/latest?cb=20250720192510",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8478,12 +9169,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bolas for Blood",
-  "description": "",
+  "description": "Teams must solve three math equations, search a mud pit for six balls to form the answers and clip them onto strings to form three bolas. Teams must then throw their bolas into their post from behind a line. The first team to land all three bolas wins while the last team to finish is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8506,12 +9200,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Build Me Up",
-  "description": "",
+  "description": "Teams must transfer four 45-kilogram wine barrels across a field, stacking them to reach and set off flares atop three stations along the way. The team that sets off all three flares and transfers all four barrels to the finish line first wins while the last team to finish is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8534,12 +9230,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hold On for Me",
-  "description": "",
+  "description": "Played in five heats. One team member begins suspended off the side of a building and must hang onto a bar for as long as possible. When they are about to drop, their partner must leap off a ledge and launch them towards a flag hanging behind them. Teams are disqualified if they are unable to grab the flag. The team that hangs on the longest, and is able to grab their flag, wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8554,12 +9253,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Royal Relay",
-  "description": "",
+  "description": "Played in two heats. Team members alternate turns swimming and rowing a boat to collect four crown pieces floating in a lake, then use them to assemble a crown. The team with the fastest time wins and also receives a cash prize of $5,000 each.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8574,12 +9277,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Down the Line",
-  "description": "",
+  "description": "Played in two heats, teams must dig in their marked zone for two bags of puzzle pieces. Once teams find the first bag, one team member races to the end of a lake and spins a crank to extend the distance their partner can later zip line. After finding the second bag, the second team member must zip line into a lake and swim the remaining distance to reunite with their partner. Teams must then use the puzzle pieces to solve a word puzzle. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "puzzle",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8594,12 +9301,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Peaking Blinders",
-  "description": "",
+  "description": "Teams race down a path to a pattern covered by blinds. There, one team member must balance one-footed on a narrow pole to open the blinds and reveal the pattern for their partner to memorise. After the team member balancing falls off, teams must return to their board at the start and attempt to replicate their pattern, repeating this process until they correctly recreate the entire pattern. The first team to finish wins while the last team to finish is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8614,12 +9325,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Double Trouble",
-  "description": "",
+  "description": "One team member begins harnessed to the side of a speeding truck. They must traverse four cars speeding alongside the truck and collect a key from their partner in the last car before returning the key to their station, repeating this process for all four keys. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8634,12 +9347,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Haul or Nothing",
-  "description": "",
+  "description": "Teams carry a heavy plank and undergo a six-mile race, completing three checkpoints along the way. At the first checkpoint, teams use their plank and three barrels to cross a field without touching the ground before transferring sandbags to the second checkpoint. At the second checkpoint, teams can place their sandbags on a trailing team's sled to sabotage them, before pulling their own sled across a field and stacking four cubes on top so each side shows four unique symbols. Once complete, teams transfer six tyres with cities labelled on them to the third checkpoint. At the third checkpoint, teams must transfer the tyres over a wall and arrange the cities from north to south before proceeding to the finish line. The first team to cross the finish line wins and becomes team captains as part of a format change for the season.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8654,12 +9370,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Last Life",
-  "description": "",
+  "description": "Inspired by the film Puss in Boots: The Last Wish, each team begins with eight lives. One player at a time from each team face off on a balance beam and attempts to push their opponent into the water below. Each time a team member loses their matchup, they are eliminated from the challenge and their team loses a life. The team that diminishes all their opponent's lives wins and also receive invitations to the world premiere of Puss in Boots: The Last Wish.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8674,12 +9393,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Spin Class",
-  "description": "",
+  "description": "All teams begin strapped to a giant wheel. After each spin, the team that the wheel lands on must answer a trivia question; if they are incorrect, they incur a strike. Teams are eliminated from the challenge once they incur three strikes. The last team standing wins while the first team eliminated is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8702,12 +9423,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Chopper Drop",
-  "description": "",
+  "description": "Six team members begin hanging onto a bar attached to a helicopter flying over a lake. As the helicopter flies over six targets, they must drop into a target to earn score points before swimming the remaining distance to a platform in the middle of the lake. Smaller targets are worth more points and only two team members may drop through each target. Additionally, teams with greater than six members must have their remaining players swim to the platform from a designated point. The team that scores the most points wins, with ties broken based on swim time.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "throwing",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8722,12 +9447,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Blind Faith",
-  "description": "",
+  "description": "Each team must select one or two members to compete in four unrevealed challenges, based on cryptic symbols representing each challenge (target, puzzle, memory and bungee). The team with the fastest cumulative time for all four challenges wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8742,12 +9472,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Takes Two to Tango",
-  "description": "",
+  "description": "Two team members at a time begin harnessed on the side of a building and must cross a balance beam containing several obstacles before returning to the start. At each circular obstacle on the beam, they must also spin around before continuing. There is a ten-minute time limit before pairs time out and are dropped from the beam. The intra-team pair with the fastest time wins the challenge for their team.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "obstacle"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8762,12 +9495,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Runaway Ride",
-  "description": "",
+  "description": "Played one team at a time, teams begin in a bus filled with dozens of coloured balls. As the bus loops around a racetrack, teams must study a pattern printed on a board along the track, then recreate it by finding and arranging the required balls in the bus. The team with the most correctly-slotted balls in the fastest time wins while the team with the fewest correct balls or the slowest time is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8790,12 +9525,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Frozen Senseless",
-  "description": "",
+  "description": "One team member must feel through a covered box at one end of a course for three cubes with shapes on each face. They must then meet their partner at the middle of the course and describe the pattern to them so they can assemble the cubes using puzzle pieces at the other end of the course. However, teams must immerse themselves in an ice bath at the middle of the course while communicating the descriptions. The first team to correctly assemble their cubes wins while the last team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/4b/RoDPromo.jpeg/revision/latest?cb=20220916192622",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8826,12 +9564,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Hole Control",
-  "description": "",
+  "description": "The group must enter a deep mud pit, scale a wall to get out with 24 large poles and arrange them to depict a Challenge logo within 10 minutes. If they are successful, $50,000 is added to the prize pot.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8846,12 +9586,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ball Control",
-  "description": "",
+  "description": "The group has 23 minutes to collect 23 balls in the water, with the names of each remaining contestant on them, and drop them into a chute at the top of a tall platform. To reach the chute, they must climb and clip their life jackets to hanging ropes to form two human ladders. Additionally, each ball can only be placed in the chute by the player assigned to it. Each deposited ball is worth $2,000, and a bonus $4,000 awarded if all 23 balls are in the chute at the end of the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8866,12 +9609,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Control Tower",
-  "description": "",
+  "description": "Sixteen group members divide themselves among eight numbered buggies, each with one driver and one passenger. The remaining six group members must solve a math equation, then, from a control tower, direct the buggy drivers to their correct positions to replicate the equation. To fully replicate the equation, the passengers must also arrange large plus and minus signs into their correct position. The group then repeat this process, attempting to solve and replicate as many of the four equations as possible within 30 minutes. For each equation solved and replicated within 30 minutes, $10,000 is added to the pot, and a bonus $10,000 is awarded if all four equations are completed.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8886,12 +9631,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Under Control",
-  "description": "",
+  "description": "The group must swim to 25 buoys in the water, collect puzzle pieces submerged below, and use them to solve five puzzles located on floating pontoons. Each contestant must collect at least one puzzle piece, or wait for help from someone who has collected their first piece, before they can help solve the puzzles. They must then swim each completed puzzle to a final platform. For each puzzle brought to the platform within 15 minutes, $5,000 is added to the pot, and a bonus $25,000 is awarded if all five puzzles are at the final platform.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8906,12 +9655,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Upside Down Whirled",
-  "description": "",
+  "description": "Played in male-female teams of two. Teams begin strapped to a propeller which is mounted to the side of a truck. As the truck speeds down a runway, thereby spinning the propeller, team members attempt to collect rings at the top of the truck and land them on targets and poles along the runway. Landing a ring on a target is worth 5 points while landing one on a pole is worth 10 points. The team with the most points wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8926,12 +9678,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bingo Bango",
-  "description": "",
+  "description": "Played in two teams of six and one team of seven. Each team begins with a five-by-five bingo board. One at a time, host T.J. Lavin drops numbered balls into a mud pit and one member of the assigned gender from each team enters the mud pit attempting to collect the balls and slot them in their board. The first team to line up five balls either vertically, horizontally or diagonally wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8946,12 +9700,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Working the Angles",
-  "description": "",
+  "description": "Played in five teams of three and one team of four. Teams begin on a large pyramid suspended over water which has a puzzle key on one of the faces. They must work together to recreate the key using puzzle pieces at a second pyramid, swinging on a rope to get there. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8966,12 +9722,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Tower of Power",
-  "description": "",
+  "description": "Played in two teams of nine. Each team has a tower surrounded by two gates, and have 30 minutes to use provided items to barricade the gates as much as they can. After the 30 minutes are up, teams switch positions and attempt to break into their opponent's tower. The first team to break into their opponent's tower and lower the flag at the top wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -8986,12 +9744,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Doom Sticks",
-  "description": "",
+  "description": "Played in male-female pairs and one team of three, teams compete in up to three events. For the first two events, the last place team is eliminated from the challenge while the winners must then eliminate another two teams. Afterwards, the team that wins the third event wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9006,12 +9766,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sky Ball",
-  "description": "",
+  "description": "Played in two teams of eight. Four team members begin inside a suspended sphere filled with 130 balls, while the remaining four members remain on the ground. The team members on the ground solve a puzzle to reveal a code which the team members in the sphere use to unlock two small openings before dropping all the balls through the openings. The team members on the ground must then collect the dropped balls and place them in their team's pyramid structure. The first team to place all 130 balls in their pyramid wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9026,12 +9789,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Banquet of Champions",
-  "description": "",
+  "description": "Played in four teams of four. Teams must transfer three numbered boxes from a field to their team's table to form a code which unlocks four dishes: brain soup, skin and colon stew, boar snout and ear, and a \"spicy surprise\" drink. Before picking up a box, teams answer a trivia question; if they answer correctly, they can take the lighter box, however, if they answer incorrectly, they must carry a heavier box instead. Afterwards, the first team to consume their four dishes wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "eating",
+   "strength",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9046,12 +9814,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "We All Fall Down",
-  "description": "",
+  "description": "Played in four teams of four in a tournament format where the two teams that win their first matchup compete against each other in a final round. For each matchup, two teams begin on a platform above water with a hanging wall between them, and attempt to push the wall into their opponents to make them fall into the water. The team that pushes all members of the opposing team into the water wins the matchup. The team that wins the final round wins the challenge.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9066,12 +9836,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Getting Tanked",
-  "description": "",
+  "description": "Played in four teams of four. Three team members enter a water tank on the back of a tank truck, which is filled with dozens of floating letter tiles, while the fourth team member remains on top of the tank. As the truck swerves down a runway, the team members in the tank must search for letter tiles needed to spell the phrase \"Challenge Champion\" and hand them to the team member on top of the trailer, who slots the letters into a board to form the phrase. The team with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9086,12 +9858,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Off in the Distance",
-  "description": "",
+  "description": "Played in four teams of four. Teams carry a pole and race down a trail to three checkpoints, and complete each checkpoint to obtain bags of puzzle pieces. After completing a checkpoint, teams must bring the puzzle pieces back to the starting point (using the pole) before continuing to the next checkpoint. The first team to complete all three checkpoints, collect all their puzzle pieces and solve the puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9106,12 +9882,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dark Tide",
-  "description": "",
+  "description": "Five players at a time begin strapped to a speeding boat and are dropped into the water once the boat reaches a certain point. Players must swim to a paddleboard and paddle to collect three floating rings and return them to shore. Once onshore, players must then throw one of their rings around a pole from behind a line. The player with the fastest time wins while the player with the slowest time is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "throwing",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9126,12 +9907,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "End of the Line",
-  "description": "",
+  "description": "Played in five heats, players begin on a platform above water and harnessed to a rope. They must descend down the rope and use the stopping device on their harness to stop as close to the bottom of the rope as possible. Players are disqualified from the challenge if they fall into the water after failing to stop in time. The player who stops closest to the end of the rope in the fastest time wins and also receives a $15,000 cash prize. If multiple players are disqualified, the player who falls into the water the slowest is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9146,12 +9929,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Drum Roll",
-  "description": "",
+  "description": "Players begin on a rolling drum above water, holding onto a rope, and attempt to stay on the drum as long as possible. The last five players standing then compete in a winner's round while the first five players to fall into the water compete in a loser's round. The last player standing in the winner's round wins the challenge while the first player to fall into the water in the loser's round is eliminated.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1d/BNCPoster.jpg/revision/latest?cb=20230912164251",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9166,12 +9952,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Light It Up",
-  "description": "",
+  "description": "Players must assemble a three-dimensional puzzle, paddle a coracle to collect ten lights of their Era's color from buoys in a lake, then place them on their board onshore. The first male and female players from each Era to finish win, while the last-place male and female players from each Era are automatically sent to the elimination round.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9186,12 +9976,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Gladieater",
-  "description": "",
+  "description": "Teams must paddle a dragon boat around an island. Once complete, each team member must consume one of eight delicacy dishes. Afterwards, teams must hang shields with logos of all 40 seasons of The Challenge to date in chronological order. The first team to finish wins while the last team to finish has their representatives automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9206,12 +10000,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Cradled Cranium",
-  "description": "",
+  "description": "Teams begin harnessed 30-feet above water. Each round, one member from each team selects an unrevealed trivia question from among various categories to answer, which also vary in points based on their difficulty. If they answer correctly, their team earns the points assigned to that question. However, if they answer incorrectly, two members of their team are dropped into the water and eliminated from the challenge. The team with the most points by the time all their team members are eliminated wins while the team with the fewest points have their targets automatically sent to the Arena. In the event of a tie, a sudden death round involving one member from each tied team is held.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "trivia"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9226,12 +10023,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fast Pass",
-  "description": "",
+  "description": "Teams must carry and maneuver a large Y-shaped beam around various trees to reach eight sandbags, and return them to the start four at a time. Afterwards, two team members must distribute the sandbags on a balance beam so that the weight balances out. The first team to finish wins while the last team to finish has their targets automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "strength",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9246,12 +10048,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Cloud Catcher",
-  "description": "",
+  "description": "Three team members at a time race to collect large helium balloons attached to their team's poles and attempt to return them to their team's station intact. While returning the balloons, players must take them through a pergola covered in spikes. Once teams collect all their balloons, either intact or popped, they must solve a riddle and use the answer to unlock a chest to stop their time. The team with the most intact balloons collected wins, with ties broken based on time, while the team with the fewest intact balloons (or slowest time) has their targets automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9266,12 +10071,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Leap of Faith",
-  "description": "",
+  "description": "Four team members are selected to be harnessed and jump off the helipad of the Bitexco Financial Tower to grab one of four hanging flags. After one team member jumps, the three other members must pull them back up before the next player can jump. Teams are imposed varying time penalties for dropping or missing a flag or collecting two flags at once. There is also a bonus flag which deducts three minutes from teams' overall time if collected. After all four flags are collected, the non-jumping team members must solve a puzzle to have their team's time stopped. For teams with only four members, one team member who jumped must also solve the puzzle on their team's behalf. The team with the fastest time wins while the team with the slowest time has their targets automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9286,12 +10095,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Battle for Honor",
-  "description": "",
+  "description": "Inspired by the film Gladiator II, the challenge is played in 20-minute male and female rounds. Players begin on a muddy platform and attempt to push their opponents into the surrounding water using a shield while avoiding being pushed off themselves. Players are eliminated from the challenge if they are pushed into the water or get held down for an extended time. The team with the most players still standing by the end of both rounds wins while the team with the fewest players has their targets automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9306,12 +10118,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bottoms Out",
-  "description": "",
+  "description": "Teams attempt to answer 27 math questions, with each equation only displayed briefly before the next one is shown. For each equation teams answer correctly, they receive one climbing hold for the next part of the challenge. Afterwards, teams enter a shipping container above water, where the walls are mounted with the climbing holds they earned. Once the bottom of the container opens, teams attempt to hold themselves up for as long as possible from the climbing holds. The team that holds on for the longest time wins while the team with the shortest time has their targets automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "endurance",
+   "throwing",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9326,12 +10144,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fire Away",
-  "description": "",
+  "description": "A trebuchet launches balls into a field which players must collect and place in a tube at their station two at a time. After collecting enough balls to fill the tube, players must then solve a puzzle. The first male and female player to solve their puzzle wins while the last-place female player receives a disadvantage at the next challenge and the last-place male player is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9346,12 +10167,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Building Bridges",
-  "description": "",
+  "description": "Players climb up a tower then slide down a pole onto a wall with platforms on it (or the ground if they miss). They must ascend the wall, collect three coins along the way, and deposit the coins in a slot at the top. Afterwards, players must solve a puzzle, cross a bridge, then collect and deposit three coins from a second wall. Lastly, they must swing from a rope into a stack of boxes below. Players are disqualified from the challenge if they fall off the course. The male and female player with the fastest time wins while the male player with the slowest time receives a disadvantage at the next challenge and the female player with the slowest time is automatically sent to the Arena. If multiple players are disqualified, last-place is determined by distance progressed along the course. As a disadvantage for placing last in the previous challenge, Michele is imposed a 30-second time penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "puzzle"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9366,12 +10190,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Duned",
-  "description": "",
+  "description": "Players race to complete a three-checkpoint \"mini-final\" across a series of sand dunes. The first male and female player to finish wins while the last-place male and female player are eliminated from the competition. The second-last female player receives a disadvantage at the next challenge and the second-last male player is automatically sent to the Arena. As a disadvantage for placing last in the previous challenge, Theo is imposed a two-minute time penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9386,12 +10212,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "40 Yard Dash",
-  "description": "",
+  "description": "Players race through various obstacles in a trench to collect six puzzle pieces and return them their station one at a time, before using the pieces to assemble a puzzle. The first male and female player to solve the puzzle wins. The last-place male player receives a disadvantage at the next challenge while the last-place female player is automatically sent to the Arena. As a disadvantage for placing second-last in the previous challenge, Michele is imposed a one-minute time penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9406,12 +10236,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "'Nother Trucker",
-  "description": "",
+  "description": "Two players at a time are harnessed on top of a truck. As the truck speeds down a road, they must swing from a rope and try to hit 12 roadside targets. The male and female player with the most targets hit wins. In the event of a tie for first, a sudden-death round is held. The female player with the fewest targets hit receives a disadvantage at the next challenge while the male player with the fewest targets hit is automatically sent to the Arena. As a disadvantage for placing last in the previous challenge, Cory is imposed a one-target penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9457,12 +10290,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fire Plunge",
-  "description": "",
+  "description": "One at a time, players are harnessed inside a convertible which they must \"hot-wire\" by connecting four cables to illuminate four lights. Once complete, the convertible drives off a cliff, leaving players harnessed above the water. Players must then unclip into the water and swim to shore. The male and female player with the fastest time wins and receive a cash prize of $5,000 each. The female player with the slowest time receives a disadvantage at the next challenge while the male player with the slowest time is automatically sent to the Arena. As a disadvantage for placing last in the previous challenge, Bananas is imposed a 30-second time penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9477,12 +10313,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fortress Bricks",
-  "description": "",
+  "description": "Players must carry 40 cinder blocks, two at a time, from their puzzle station within Fort Santa Isabel and deposit them outside. After depositing four cinder blocks, players can take one of ten planks to their puzzle station, repeating this process until they collect all ten planks. Afterwards, players must use the planks to assemble a puzzle. The first male and female player to assemble the puzzle wins. The last-place male player receives a disadvantage for the Final Challenge while the last-place female player is automatically sent to the Arena. As a disadvantage for placing last in the previous challenge, Cara Maria is imposed a three-minute time penalty.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/bd/ErasPoster.jpg/revision/latest?cb=20240625143631",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9497,7 +10337,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Mud Ball Madness",
-  "description": "",
+  "description": "Twice during the challenge, a helicopter drops hundreds of colored balls into a mud pit. With both team members tethered together, teams must retrieve as many balls as they can and place them in their container outside the pit to score points. Different colored balls are worth different point values. The team that scores the most points wins while the team that scores the fewest points is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
@@ -9517,12 +10357,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Side by Side",
-  "description": "",
+  "description": "Teams enter a giant pit which has side-by-side vehicles repeatedly speeding over the gap above. They must memorize a series of colored symbols located on the underside of the vehicles, which are only visible while the vehicles are mid-air, and replicate it using pieces at their station outside the pit. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9537,12 +10380,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Water Tower",
-  "description": "",
+  "description": "One team member swims to a platform where they must solve a slide puzzle. Meanwhile, their partner must swim to a tall container with climbing holds on the outside, climb up to retrieve a flag, jump into the container and dive out the bottom before bringing the flag to the slide puzzle. Teams are disqualified from the challenge if the team member at the container falls off, or is unable to dive out. The team with the fastest time wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9557,12 +10405,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Amazed",
-  "description": "",
+  "description": "Held across two heats, teams must search a shipping container maze for a Sudoku puzzle, solve it, and return to the entrance. The further in a puzzle is, the easier it is to solve, and there is a 45-minute limit before teams time-out. The team with the fastest time wins while the last-place team is automatically sent to the Arena. If multiple teams time-out, last-place is determined by how many correct numbers teams placed on their puzzle.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "maze",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9577,12 +10429,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dirtballer",
-  "description": "",
+  "description": "Inspired by the film Him, teams must dig up three goalposts, transport them across a field and replant them in the ground to assemble a goal. Afterwards, one team member must kick a football and score a field goal. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "digging",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9597,12 +10452,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Runes My Life",
-  "description": "",
+  "description": "Teams must swim to a rope ladder, climb up to a structure and then climb down five connected pillars or nets to collect rune tiles. After collecting all five tiles, teams must solve a puzzle before swimming back to the start. Both team members must complete the challenge's components for a team's attempt to count, and teams time-out if they are unable to complete the challenge after a certain time. The team with the fastest time wins while the last-place team is automatically sent to the Arena. If multiple teams are unable to finish, last-place is determined by progress in the challenge made by both team members.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9617,12 +10477,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Drive Me Crazy",
-  "description": "",
+  "description": "To begin, one team member drives a go-kart five laps around a racetrack. Once complete, their partner has five minutes to solve a puzzle. If they cannot solve the puzzle in this time, the driver must complete another five laps before they can continue solving for another five minutes. After solving a puzzle or timing out after 15 minutes, team members switch roles and repeat this process until they complete or time out all four puzzles. Afterwards, one team member must drive a final lap. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9637,12 +10500,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Cyclone",
-  "description": "",
+  "description": "Held across three heats, teams begin on a spinning container suspended above water, which has climbing holds mounted to the outside. Each team has five blocks which they attempt to transfer to a ledge at the top of the container. Once teams transfer all five blocks or have both team members fall into the water, they must swim to a platform to have their time stopped. The team with the most blocks transferred wins, with ties broken based on time to determine placements, while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "water"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9657,12 +10523,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Broken Dreams",
-  "description": "",
+  "description": "In a special challenge worth 1.5 times the usual Performance Points, contestants individually complete a \"mini-final\" up a trail, which has five checkpoints along the way.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9677,12 +10545,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Fast Thinking",
-  "description": "",
+  "description": "Held across three heats, each team member begins on a stair climber machine over water, set to the lowest speed. In each heat, contestants are asked up to 18 multiple-choice trivia questions. If they answer a question incorrectly, the speed of their machine increases. Contestants are eliminated from the challenge and can no longer answer questions if they fall into the water or hold the machine to balance themselves. The team with the most correct answers wins, with ties broken based on time lasted on the machine, while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "climbing",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9697,12 +10570,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Band Together",
-  "description": "",
+  "description": "Each team has a large pipe on a wooden structure. Teams race to a hill to collect items (such as barrels, tree stumps, and sandbags) with resistance bands attached to them, and use the bands to secure their pipe to the structure. Heavier items have bands with greater resistance. Once secured to support enough weight, one team member must walk across the pipe without falling to retrieve a flag at the other end. The first team to finish wins, while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9717,12 +10593,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Running Man",
-  "description": "",
+  "description": "Inspired by the film The Running Man. Teams collect a key and use it to unlock a shipping container wrapped in chains and ropes. They must then remove the chains and ropes to open the container and access a manual transmission car inside, before driving or pushing the car to a repair station. There, teams must use power tools to remove the hood of the car, collect a tracking device inside and deliver it to the finish line. The first team to finish wins while the last-place team is automatically sent the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9737,12 +10616,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Haystack Heist",
-  "description": "",
+  "description": "With both team members tethered together, teams must collect hay bales and stack them to reach keys hanging from two poles at opposite ends of a field. After collecting both keys, teams must use them to unlock a chest located under a pile of hay bales. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9757,12 +10639,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rune Race",
-  "description": "",
+  "description": "Teams must memorize a math equation written with rune symbols, run to a rune key and match the symbols with corresponding numbers in order to solve the equation. Teams then use their answer to unlock a cage of puzzle pieces submerged in a lake, return the pieces to their station and solve the puzzle. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9777,12 +10664,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dirty Drifter",
-  "description": "",
+  "description": "One team member must unravel chains wrapped around a van and attach the van to a tow truck to stop their team's time. Teams are disqualified from the challenge if their partner helps. The tow truck then drives down a course and their partner attempts to steer the van around several obstacles. For each obstacle cleared, 30 seconds are deducted from team's time. The team with the fastest overall time wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "obstacle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9797,12 +10687,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Dark Mine",
-  "description": "",
+  "description": "Teams follow a trail through a dark mine to their board listing thousands of numbers. There, teams must cross out numbers being announced from a speaker, using matches as their only light source. Teams can only take six matches at a time, but matches can be replenished at the entrance once depleted. Once teams believe they have finished, they must submit their board at the entrance. The team with the most correct numbers crossed out wins, with ties broken by submission order, while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9817,12 +10709,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Global Exchange",
-  "description": "",
+  "description": "Each team has two halves of a world map located at opposite ends of a road. At each half are country names which teams attempt to label on the map. However, some of the countries must be transferred to the other half to correctly place. During each transfer, teams must ride BMX bikes while chained together, and teams can only take two countries at once. The team with the most correctly labelled countries wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/cf/VNTPoster.jpg/revision/latest?cb=20250701184646",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TC",
@@ -9837,12 +10731,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Deep Blue Dive",
-  "description": "",
+  "description": "Played in two teams of eleven, teams solve a series of math equations one at a time. After solving an equation, one player must swim and dive to collect a cubic puzzle piece with the answer printed on it. Teams continue this process until they collect all eleven puzzle pieces, and each team player must enter the water at least once. If a player is unable to collect a puzzle piece, or collects an incorrect puzzle piece, their team is assigned a five-minute penalty and another player must collect the puzzle piece instead. The first team to collect all eleven puzzle pieces and solve the final equation wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9857,12 +10755,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ancient Challenge History",
-  "description": "",
+  "description": "Played in male and female heats, players begin on a structure above water with three platforms in front of them. One at a time, players are asked a question about previous seasons of The Challenge. If they answer incorrectly, they must step onto the next platform. Each subsequent platform is able to withstand less weight than the previous one. Players are eliminated from the challenge if they fall through a platform that cannot withstand their weight or reach the third and final platform. The last player of each gender standing wins, while the first female to fall into the water is automatically sent into elimination.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9877,12 +10779,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Melt Away",
-  "description": "",
+  "description": "Played in five teams of four, teams must use their bodies to melt through two giant blocks of ice and collect four shields frozen inside. After an extended period of time, teams are given two hammers to assist them. Teams are issued a five-minute penalty for any shields they break. Once teams collect all four shields, they return to their station to find six additional shields, each with a previous season of The Challenge printed on it. The first team to place all ten seasons in chronological order wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9897,12 +10801,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "On the Ropes",
-  "description": "",
+  "description": "Played in four teams of five, with two teams playing at a time. Teams begin on opposite platforms above water. Each team has a set of five ropes that connect the two platforms. One team member at a time must cross their ropes to reach the opposite platform before returning to their platform. Once back, they may unclip one of their opponent's ropes. Players are eliminated from the challenge if they fall in the water. The process continues until one team has unclipped all of their opponent's ropes. The team that unclips the most ropes the fastest wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9917,12 +10823,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Connect Em All",
-  "description": "",
+  "description": "Beginning in three teams of six, teams complete their first checkpoint which involves solving a series of math equations, where the solutions correspond to letters that form a phrase. Once complete, teams must then carry a heavy log uphill to the second checkpoint and disband into male-female pairs. The second checkpoint requires pairs to replicate a memory board using colored tiles. Once complete, pairs disband to compete as individuals and must carry a smaller log downhill to the finish line. The first male and female player to cross the finish line wins while the last male and female player to cross the finish line are automatically sent into elimination.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9937,12 +10847,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Escape the Room",
-  "description": "",
+  "description": "Played in four teams of four, with two teams playing at once. Teams begin in a container above water with each team member standing on a trapdoor in front of their puzzle. Each member must solve their puzzle before their trapdoor opens. At pre-determined intervals, the trapdoors open, dropping one team member into the water each time. The team with the most puzzles solved wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -9957,12 +10870,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rib Cage Pass",
-  "description": "",
+  "description": "Two players at a time begin harnessed on opposite sides of a speeding truck. They must cross a series of beams attached to the truck and collect a ball at the opposite end, before returning across the beams to deposit the ball. Players continue this process until they collect all four balls or reach the time-limit. The male and female player with the most balls collected win while the male and female player with the least balls collected are automatically sent into elimination. In the event that multiple players are unable to collect a ball, the losing player is determined by the number of beams traversed.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/37/ASPromo.png/revision/latest?cb=20211016105741",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10155,12 +11070,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Out of Reach",
-  "description": "",
+  "description": "Played in male and female heats, players begin on a swing suspended above water. They must generate momentum and swing high enough to kick a key off a ledge into the water below. They must then retrieve the key, return to shore, and unlock a box of puzzle pieces before solving the puzzle. Players are automatically dropped and assigned a 20-minute penalty if they are unable to kick their key off after an extended period or are disqualified if they fall off the swing. The male and female player with the fastest time wins, with the next two players with the fastest times joining them in the Authority. The male and female with the slowest times are automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10175,12 +11092,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Playing Dirty",
-  "description": "",
+  "description": "Played in male and female heats over three rounds. Each round, players must collect a ball from a mud-pit and bring it outside of the mud-pit to advance to the next round while the number of balls decrease each round. The first male and female player to exit the mud-pit with a ball in the third round wins, with the other two players in each heat able to collect a ball during the same round joining them in the Authority. The male and female player without a ball after the first round are automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10195,12 +11114,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Side Tracked",
-  "description": "",
+  "description": "Played in male and female heats, players begin with five pegs on their board. Throughout the challenge, they must run across a dirt track, collect a ring, and throw it onto an opponent's peg from behind a line. Players are eliminated from the challenge once they have one ring thrown on each of their pegs. The last player standing in each heat wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10215,12 +11138,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Stacked",
-  "description": "",
+  "description": "Played in male and female heats of seven. Players must scrape paint off a board to reveal a four-digit code and use the code to unlock one of five available stand-up paddleboards. They must then paddle to a platform, collect a set of puzzle pieces, and assemble the vertical puzzle at one of three available puzzle stations. Players are eliminated from the challenge if they cannot claim a paddle board or puzzle station in time. The first player in each heat to assemble their puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "paddling",
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10235,12 +11162,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Shooting Stars",
-  "description": "",
+  "description": "Played in male and female heats, players begin harnessed on a platform above water and are asked trivia questions one at a time. If they answer correctly, they can assign another player a strike, however answering incorrectly self-incurs a strike. Players are launched into the water and eliminated from the challenge once they receive three strikes. The last player standing in each heat wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10255,12 +11185,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Flight Pattern",
-  "description": "",
+  "description": "Played two players at a time, players begin harnessed out the side of a helicopter as it flies over a lagoon. They must memorize a nine-square pattern seen from above, release themselves into the water and swim to their puzzle station before replicating the pattern. The male and female player who correctly replicate the pattern, with the correct orientation, in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "puzzle",
+   "water"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10275,12 +11209,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wall of Fame",
-  "description": "",
+  "description": "Throughout the season, the house contained a wall decorated with photos of this season’s contestants during a previous finale of The Challenge. Players must match the names of 24 contestants from this season to one of 24 questions about the photos. The order that players finish determines the teams for the first leg of the Final Challenge and the order they begin the leg.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/1a/AS3Poster.jpeg/revision/latest?cb=20220425214753",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10295,12 +11232,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Reach for the Stars",
-  "description": "",
+  "description": "Each player has eight boxes with varying star-shaped pegs on them. They must collect star-shaped puzzle pieces from the bottom of a hill, one at a time, and fit them onto the corresponding pegs. The first male and female player to fit all eight puzzle pieces and raise their flag at the top of the hill wins, with the top three players of each genders receiving Stars. The last four players of each gender to finish form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10315,12 +11255,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Car Sick",
-  "description": "",
+  "description": "Played in five teams of four and one team of three. One team at a time begins inside a van suspended above ground, which spins as it descends. Teams must listen to the van's radio for ads mentioning certain numbers and locations. Once the van reaches the ground, teams must find suitcases on the van marked with the locations mentioned and use the corresponding numbers to solve math equations to reveal the codes to unlock the suitcases. Once teams unlock all their suitcases, they must use the puzzle pieces inside to solve a puzzle. The team with the fastest time wins while the two teams with the slowest times form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10355,12 +11297,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Unbraided: Reloaded",
-  "description": "",
+  "description": "Played in four teams of five, with two teams competing at a time. Teams begin suspended off the side of a speeding truck, with each team member hanging from one of five ropes that form a braid. Teams must unravel the ropes then work together to maneuver a peg through a maze on the side of the truck. The team with the fastest time wins while the two teams with the slowest times form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "endurance",
+   "maze",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10375,12 +11321,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Bobblehead Bobsled",
-  "description": "",
+  "description": "Played in three teams of five and one team of four, with one team competing at a time. At the start of the challenge, host T.J. Lavin opens a valve connected to a cylinder so that the water inside slowly drains. While wearing \"bobbleheads\", teams must run uphill to the bobsled track, ride down and shut the valve to retain as much water as possible and stop their time. Hanging along the track are also bags of water which teams can collect to replenish their cylinder. The team with the most water in their cylinder relative to their overall time wins, while the two teams with the least water relative to their time form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10395,12 +11344,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Take a Seat",
-  "description": "",
+  "description": "Played in male/female pairs, the challenge contains two phases. In Phase One, played across five rounds, host T.J. Lavin announces a series of seat numbers within the Athlone Stadium, and teams race to sit themselves in those seats. With one less seat available than players remaining for each round, the team that is unable to seat both members are eliminated from the phase. The last four teams standing receive a 30-second advantage in Phase Two. In Phase Two, teams must search the stands for a token, exchange the token for a bag of hooks, then use the hooks to connect weighted blocks into two sections of equal weight. The first team to finish wins while the last five teams form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10415,12 +11367,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Face the Facts",
-  "description": "",
+  "description": "Played in male/female pairs, with four teams competing at a time. Each round, teams begin on a platform above water and are asked trivia questions one at a time. Each time a team answers incorrectly, a ball is added to their team cylinder, and teams are pulled into the water and eliminated from the challenge once they incur three balls. The last two teams standing in each round advance to the winner's round where this process is repeated to determine the winners of the challenge. The first two teams eliminated in each round form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10435,7 +11390,7 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Balls Up",
-  "description": "",
+  "description": "In the first round, played in two heats, players enter a mudpit below a net containing five colored balls for each player. They must use a plunger to push their opponent's balls out of the net while their opponents try to do the same. Players are eliminated from the challenge once all their balls are out of the net, although they can continue pushing out other player's balls. The first two male and female players eliminated from each heat form the losing group, while the remaining players advance to the final round. In the final round, players repeat this process, where the last male and female player standing wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
@@ -10455,12 +11410,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Run the Plank",
-  "description": "",
+  "description": "Played in male/female pairs across two heats. Team members alternate turns making their way up a plank, jumping off the end and attempting to pull down a hanging ball as they fall into the water. Each time teams pull the ball down, their team's maze lowers slightly, and teams continue this process until their maze fully descends to the water below. Once complete, teams must then maneuver two stars out of the maze and place them at a board onshore. The team with the fastest time wins while the four teams with the slowest times, including teams that are disqualified if a team member refuses to jump, form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "maze",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10475,12 +11433,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Roll with It",
-  "description": "",
+  "description": "Each player begins in a shopping cart at one end of a track and must cross the track in the cart to collect a star at the other end. Players can cross by lassoing a series of poles to pull themselves along, or by pushing themselves off the poles directly. The first male and female player to collect a star wins while the last three male and female players form the losing group.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/AS4Poster.jpg/revision/latest?cb=20240227234409",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCAS",
@@ -10655,12 +11615,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Collect Four",
-  "description": "",
+  "description": "Each team begins with a six-by-five board. Throughout the challenge, they must search the Estadio Juan Domingo Perón for their coloured tokens, and can either place the tokens on their board to try and line up four tokens in a row or place them on another team's board to block them. The team to line up four tokens on their board wins. Afterwards, to determine the last-place team, the remaining teams must continue searching the stadium for their tokens and place them on another team's board. The first team to have their board completely blocked is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/46/USA109.jpeg/revision/latest?cb=20220902225906",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10723,12 +11685,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Storm the Castle",
-  "description": "",
+  "description": "Teams must transport two heavy statues uphill to the ruins of a castle, memorizing rune symbols and completing two checkpoints along the way. Both checkpoints require teams to identify three symbols which were not displayed to obtain the codes to unlock a wagon to use, and offload each statue's base, respectively. The first team to bring both statues to the castle ruins wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/3/3e/USA201.jpeg/revision/latest?cb=20230814172220",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10743,12 +11709,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Working the Poles",
-  "description": "",
+  "description": "Played in two heats of four members from each team. Team members begin on a platform above water and must traverse several hanging poles to reach their team platform at the opposite end, with all three team's paths intersecting. Team members are eliminated from the challenge if they fall into the water. The team with the most players to reach their platform in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/7/72/USA202.jpeg/revision/latest?cb=20230814172344",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10763,12 +11731,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Capsized",
-  "description": "",
+  "description": "Teams must swim to a boat and overturn it to view and memorize an answer key of 20 flags on the underside. Team members then swim to eight buoys to collect flags submerged underneath before hanging them to recreate the answer key on the boat's topside, and each team member must swim to at least one buoy. Once complete, teams swim back to the starting dock to have their time stopped. The team with the most correctly hung flags in the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/ed/USA203.jpeg/revision/latest?cb=20230818183746",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "memory",
+   "paddling",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10783,12 +11756,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Sideswiped",
-  "description": "",
+  "description": "Played in six heats. Each heat, two team members from two teams begin harnessed between two trucks – one assigned to each team. As the trucks speed down a runway, team members have five minutes to swing past their opponents and stick as many of their eight disks as possible on specified areas of their team's truck while their opponents try to block them and do the same. The team with the most total disks attached to their truck and the end of the challenge wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/d/d6/USA204.jpeg/revision/latest?cb=20230824174100",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10803,12 +11778,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Unboxed",
-  "description": "",
+  "description": "Each team member must carry a box proportional to their bodyweight to the end of a trail. Along the way are five puzzle stations where teams may choose to spend time using the puzzle pieces in one team member's box to solve a puzzle, which allows them to leave the box behind for the remainder of the challenge. Except for the first station, only one team may solve the puzzle at each station. The first team to reach the end of the trail wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/f8/USA205.jpeg/revision/latest?cb=20230825160959",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10823,12 +11802,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "High-Q",
-  "description": "",
+  "description": "Teams begin on a platform above water. Each round, teams are asked a trivia question and their platform inclines slightly if they answer incorrectly, making it more difficult to stay on. Team members are eliminated from the challenge if they fall into the water. The last team standing wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c0/USA206.jpeg/revision/latest?cb=20230828175249",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10843,12 +11825,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Wreck & Roll",
-  "description": "",
+  "description": "Two team members begin inside a giant sphere. They must roll around a course and knock down eight of their team's columns to release lettered tyres placed on top of each column. The remaining team members must collect the tyres and arrange them on a grid to solve a word puzzle. The first team to solve the puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/2c/USA207.jpeg/revision/latest?cb=20230831181606",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10863,12 +11848,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Spell-Lunkers",
-  "description": "",
+  "description": "Played in four heats. Players swim to a buoy and dive to view a word puzzle submerged underneath. They must find the theme of the words hidden in the puzzle and use it to open a lockbox containing a flashlight. With the flashlight, players must then swim through a dark cave to a second word puzzle, solve the theme of the words and use it to unlock a second lockbox. The male and female player with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/6/68/USA208.jpeg/revision/latest?cb=20230911173958",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10883,12 +11872,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Speed Jumps",
-  "description": "",
+  "description": "Played in two stages. In Stage One, players jump on a trampoline adjusted for their height to view a board of numbers behind a tall wall. They must sum the numbers together and present their answer to host T.J. Lavin. The first three male and female players to answer correctly progress to Stage Two. In Stage Two, players jump on a trampoline located on the back of a semi-trailer as it speeds down a runway. They must collect overhead flags along the runway, with green, yellow, and red flags worth one, two, and three points, respectively. The male and female player with the most points wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/4/44/USA209.jpeg/revision/latest?cb=20230919175747",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10903,12 +11894,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Go the Distance",
-  "description": "",
+  "description": "Played in male and female heats. Each round, players jump off a platform into the water of the Punta Christo Quarry and attempt to grab a hanging baton (adjusted for their armspan and height) to advance to the next round. After each round, the batons are moved further away, and players are eliminated from the challenge if they are unable to grab their baton. The last male and female player standing wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/8/89/USA210.jpeg/revision/latest?cb=20230922085436",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10923,12 +11916,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Slippery Business",
-  "description": "",
+  "description": "Played in male and female rounds. Players begin in a ring, covered in oil, and attempt to push their opponents out of the ring. The last player standing in each round wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/f/fc/USA211.jpeg/revision/latest?cb=20230929233017",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10943,12 +11938,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Brain Squeeze",
-  "description": "",
+  "description": "Players must search the Punta Christo Fort for all their assigned bags of puzzle pieces, without being told that there are eight bags, and bring them to their puzzle station outside the fort. After collecting all their puzzle pieces, the first male and female player to assemble the puzzle wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/2/25/USA212.jpeg/revision/latest?cb=20231006171010",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "local"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10963,12 +11961,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Burst Your Bubble",
-  "description": "",
+  "description": "Played two players at a time, players must climb up a 40-foot rope ladder to the basket of a hot air balloon then cross a narrow balance beam to reach a second hot air balloon. The male and female player with the fastest time wins.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/b/be/USA213.jpeg/revision/latest?cb=20231014115909",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "climbing",
+   "throwing"
+  ],
   "airings": [
    {
     "country": "TCUSA",
@@ -10983,12 +11985,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Truck It",
-  "description": "",
+  "description": "Played two teams at a time, team members begin harnessed on opposite ends of a speeding truck. They must place pegs into slots of the truck to move to the middle, where the team member with the baton must pass it to their partner, who must then return to the end of the truck and smash a hanging pot before the truck reaches the end of the runway. The team with the fastest time wins while the team with the slowest time is automatically sent to the Arena. If multiple teams are unable to finish within the time limit, the last-place team is determined by distance covered.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/1/17/AUS102.jpg/revision/latest?cb=20221115224123",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "AU",
@@ -11003,12 +12007,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Buddy Blinders",
-  "description": "",
+  "description": "Teams race 500 metres down a path to a pattern covered by blinds. There, one team member must balance one-footed on a narrow pole to open the blinds and reveal the pattern for their partner to memorise. After the team member balancing falls off, teams must return to their board at the start and attempt to replicate their pattern, repeating this process until they correctly recreate the entire pattern. The first team to finish wins while the last team to finish is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/9/9a/AUS105.jpeg/revision/latest?cb=20221129060803",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "balance",
+   "memory",
+   "local"
+  ],
   "airings": [
    {
     "country": "AU",
@@ -11023,12 +12031,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Getting Tyred",
-  "description": "",
+  "description": "Teams swim 300 metres across a lake before running to an abandoned town. There, they collect tyres or tokens and bring them to their station one kilometre away to earn points. Tokens are worth 1 point while tyres are worth 5, 10, 15 or 20 points. However, teams must complete a task to obtain tyres; the more points a tyre is worth, the harder the task is. Teams continue this process for two hours. The team with the most points at the end of two hours wins while the team fewest points is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c6/AUS106.jpeg/revision/latest?cb=20221129060832",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "running",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "AU",
@@ -11191,12 +12203,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Qualifier",
-  "description": "",
+  "description": "In a special challenge, each MVP individually undergoes a race around the Cape Town Stadium, completing five checkpoints along the way. The first male and female MVPs to finish wins while the last-place male and female MVPs are automatically sent to the Arena. Additionally, the order MVPs finish determine the order they draft their partner for the season after the first elimination.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11211,12 +12225,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Chain Game",
-  "description": "",
+  "description": "Teams race across several sand dunes to a shipwreck. From the shipwreck, teams must drag a chain to one of several puzzles, which they must solve by looping the chain around poles to match the diagram. The further the puzzle is from the shipwreck, the easier it is to solve. After solving a puzzle, teams race back to the shipwreck to ring a bell. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "strength",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11231,12 +12249,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Gates of Hell",
-  "description": "",
+  "description": "Each round, teams race to the end of a corridor before a gate closes to progress to the next round, and are eliminated from the challenge if one or both team members do not reach the end in time. The last team standing wins. In the event of a stalemate after multiple rounds, a tiebreaker round is held where the first team member to reach the gate wins the challenge for their team. To determine last-place if multiple teams are eliminated in the same round, the last contestant to reach the gate loses the challenge and their team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11251,12 +12271,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Flying Around",
-  "description": "",
+  "description": "To begin, each team member must drink a foul-tasting smoothie in two minutes; teams receive a five-point penalty for the challenge if they cannot finish the smoothie in time and/or a two-point penalty if they regurgitate any of the smoothie. Afterwards, one team member is harnessed on the arm of a spinning excavator. They must catch rings their partner throws to them and attempt to land them in a container in the middle of the field. The team with the most rings scored wins while the while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "eating",
+   "throwing",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11271,12 +12295,16 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Rocketman",
-  "description": "",
+  "description": "One team member begins on one end of a giant inflatable airbag. Their partner must jump from a platform onto the other side of the airbag, attempting to launch them over three crossbars at varying heights. The more crossbars teams clear, the more seconds are deducted from their overall time. After landing in the water, each team member swims to collect one puzzle piece at separate platforms before combining them to solve a puzzle onshore and stop their time. The team with the fastest overall time wins while the twhile the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11291,12 +12319,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Tunnel Time",
-  "description": "",
+  "description": "Each Challenge Legend begins chained to a pole. Their Global MVP partner must grab a glowstick, enter a dark tunnel under the Castle of Good Hope and count the flags of Argentina, Australia, the UK and the United States on the walls. Afterwards, they must return to their board, multiply each flag's count by the provided number, then sum the four products to determine the code to unlock their partner. Teams then ring a nearby bell to stop their time, and there is a 45-minute time limit before teams time out. The team with the fastest time wins while the while the last-place team is automatically sent to the Arena. If multiple teams time out, last place is determined by how many correct numbers they have on their board.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11311,12 +12341,15 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Ripcord Roulette",
-  "description": "",
+  "description": "Played in three heats, teams begin suspended off the side of a building with five ripcords in front of them, and are asked trivia questions one at a time. If they answer correctly, they can a force another team to pull one of their ripcords. However, teams must pull one of their own ripcords if they answer incorrectly. Four of the ripcords are \"dummies\" while the fifth one drops teams if pulled, eliminating them from the heat. The last team standing in each heat advance to the winner's round while the first team to drop in each heat must participate in an additional loser's round. The last team standing in the winner's round wins while the first team dropped in the loser's round is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "trivia",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11331,12 +12364,14 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Highway Hijacking",
-  "description": "",
+  "description": "Inspired by the upcoming film Transformers: Rise of the Beasts. One team member begins harnessed on top of a speeding truck while their partner begins in a super buggy inside the truck's trailer. The team member harnessed on the truck must jump onto an adjacent truck, collect a key and use it to unlock a detonator which opens the back of the truck's trailer when hit. After the detonator is hit, the team member in the super buggy must drive through the back of the trailer and to the finish line. The team with the fastest time wins while the last-place team is automatically sent to the Arena. Additionally, the winners also receive tickets to the world premiere of Transformers: Rise of the Beasts.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11351,12 +12386,17 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Points Break",
-  "description": "",
+  "description": "While tethered together, teams swim to six platforms in a lake to collect six of their puzzle pieces and return them to shore, one at a time. After collecting all six pieces, teams use them to solve a triangular puzzle, and must then correctly answer a question about the puzzle asking how many triangles it contains. Teams have three attempts to answer before they are disqualified from the challenge. The first team to finish wins while the last-place team is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "puzzle",
+   "trivia",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",
@@ -11371,12 +12411,18 @@ const TC_CHALLENGES = [
  },
  {
   "name": "Downfall",
-  "description": "",
+  "description": "Teams must swim to a pair of rope ladders in the middle of a lake, climb to the middle and untie a large Challenge symbol tied to the rungs. After untying the symbol, teams can select another team to have their ladder dropped, eliminating them from the challenge. After all teams finish untying their symbol or are eliminated, surviving teams can continue climbing to the top of the ladder and solve a math puzzle. The first team to solve the puzzle wins while the first team eliminated from the challenge is automatically sent to the Arena.",
   "rules": "",
   "image": "https://static.wikia.nocookie.net/thechallenge9148/images/e/e1/WorldChampionship.jpeg/revision/latest?cb=20230215165025",
   "show": "tc",
   "rulesPairs": false,
-  "elements": [],
+  "elements": [
+   "climbing",
+   "knots",
+   "puzzle",
+   "water",
+   "local"
+  ],
   "airings": [
    {
     "country": "WC",

@@ -278,6 +278,63 @@ def parse_eliminations():
     return games
 
 
+def wikipedia_wikitext(page):
+    url = ("https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(
+        {"action": "parse", "page": page, "prop": "wikitext",
+         "format": "json", "formatversion": "2", "redirects": "1"}))
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "challenge-archive-scraper (samiprehn.github.io/challenge_archive)"})
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req) as resp:
+                return json.load(resp).get("parse", {}).get("wikitext", "")
+        except Exception:
+            time.sleep(3 * (attempt + 1))  # ride out rate limiting
+    return ""
+
+
+# seasons whose Wikipedia article title differs from the fandom title
+WP_ALTS = {
+    101: ["The Challenge: All Stars (season 1)", "The Challenge: All Stars"],
+    102: ["The Challenge: All Stars (season 2)"],
+    103: ["The Challenge: All Stars (season 3)"],
+    104: ["The Challenge: All Stars (season 4)"],
+    105: ["The Challenge: All Stars (season 5)"],
+    113: ["Champs vs. Stars (2018)", "Champs vs. Stars"],
+    121: ["The Challenge: USA", "The Challenge: USA (season 1)"],
+    122: ["The Challenge: USA (season 2)", "The Challenge: USA season 2"],
+    133: ["The Challenge UK"],
+    41: ["The Challenge 41: Vets & New Threats"],
+}
+
+
+def wikipedia_descriptions():
+    """name (lowercase) -> description, from Wikipedia's per-season Games/Challenges bullets."""
+    descs = {}
+    hits = 0
+    for idx in sorted(SEASONS):
+        text = ""
+        for title in [SEASONS[idx]] + WP_ALTS.get(idx, []):
+            text = wikipedia_wikitext(title)
+            if text:
+                break
+        if not text:
+            print(f"  no Wikipedia article: {SEASONS[idx]}")
+            continue
+        hits += 1
+        for m in re.finditer(r"^\*\s*'''(.+?):?'''\s*:?\s*(.+)$", text, re.M):
+            name = strip_markup(m.group(1)).strip().rstrip(":").lower()
+            desc = clean_description(strip_markup(m.group(2)))
+            # skip winners/notes bullets and junk
+            if not name or name in ("winners", "winner", "note", "notes") or len(desc) < 40:
+                continue
+            if name not in descs or len(desc) > len(descs[name]):
+                descs[name] = desc
+        time.sleep(1)
+    print(f"Wikipedia: {hits} season articles, {len(descs)} game descriptions")
+    return descs
+
+
 def main():
     entries = {}  # name -> challenge entry
 
@@ -314,6 +371,16 @@ def main():
         e["url"] = WIKI + "Eliminations"
 
     challenges = list(entries.values())
+
+    # fill missing descriptions (mostly dailies) from Wikipedia's season articles
+    wp = wikipedia_descriptions()
+    filled = 0
+    for c in challenges:
+        if not c["description"] and c["name"].lower() in wp:
+            c["description"] = wp[c["name"].lower()]
+            filled += 1
+    print(f"{filled} descriptions filled from Wikipedia")
+
     for c in challenges:
         c["elements"] = element_tags(c["description"], stageable_check=True)
 
