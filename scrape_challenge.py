@@ -383,7 +383,7 @@ def main():
 
     for c in challenges:
         c["elements"] = element_tags(c["description"], stageable_check=True)
-    apply_blurbs(challenges)
+    apply_blurbs(challenges, show="tc")
 
     # images: episode still of earliest airing if one exists, else that season's key art
     stills = episode_stills()

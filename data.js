@@ -40,7 +40,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/65/S32_press_images_ep13_0014.jpg/revision/latest?cb=20160512130139",
-  "blurb": ""
+  "blurb": "Untie bags of sandbags from a ladder, then throw them to land one in each of five holes"
  },
  {
   "name": "A Bit Dinghy",
@@ -81,7 +81,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6c/S38E05_Kama_IC.jpg/revision/latest?cb=20190315203434",
-  "blurb": ""
+  "blurb": "Swim out, dive for buoy pieces, pull a pontoon to a platform, and build a buoy pyramid puzzle"
  },
  {
   "name": "A Bit Tipsy",
@@ -614,7 +614,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/S32_press_images_ep12_0010.jpg/revision/latest?cb=20160505122120",
-  "blurb": ""
+  "blurb": "Steady a wobbly table by rope while fetching blocks one at a time and stacking them upright"
  },
  {
   "name": "A Crate Idea",
@@ -834,7 +834,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c1/Sierra-at-challenge-resized.jpg/revision/latest?cb=20130326231221",
-  "blurb": ""
+  "blurb": "Roll giant crates back in pairs, stack them to spell a phrase, then climb atop the stack"
  },
  {
   "name": "A Leg Up",
@@ -1014,7 +1014,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Vc_s27_ep14_12_11_0011.jpg/revision/latest?cb=20131212121113",
-  "blurb": ""
+  "blurb": "Balance a ceramic vase on a beam with one leg raised; last person whose vase hasn't shattered wins"
  },
  {
   "name": "A Numbers Game",
@@ -1082,7 +1082,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9c/Natalie_a_numbers_game.jpg/revision/latest?cb=20131017011848",
-  "blurb": ""
+  "blurb": "Cross a balance beam untying bags of numbered tiles, then arrange the numbers 1 to 100 in order"
  },
  {
   "name": "Air Raid",
@@ -1163,7 +1163,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/S31_press_images_ep5_0007.jpg/revision/latest?cb=20151016122737",
-  "blurb": ""
+  "blurb": "Race up a tower through obstacles, then slingshot sandbags at targets in a field"
  },
  {
   "name": "Angry Chair",
@@ -1209,7 +1209,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/S33_press_photos_ep4_0048.jpg/revision/latest?cb=20161014135502",
-  "blurb": ""
+  "blurb": "Teammates hoist one player in a chair to grab numbered bags, then all solve a word puzzle"
  },
  {
   "name": "Arch Madness",
@@ -1282,7 +1282,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/35/S46e02_siga_arch_madness.jpg/revision/latest?cb=20240308172551",
-  "blurb": ""
+  "blurb": "Complete tasks to earn lettered pieces, then build an arch spelling a word on both sides"
  },
  {
   "name": "Around the Bend",
@@ -1808,7 +1808,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/David_tangled_up_in_blue.jpg/revision/latest?cb=20181018061306",
-  "blurb": ""
+  "blurb": "Untangle a rope tied to your body by jumping fences and weaving through poles to the finish"
  },
  {
   "name": "Austin's Elemental Obstacle Course",
@@ -1872,7 +1872,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d2/108343_D03065b.jpg/revision/latest?cb=20170317162729",
-  "blurb": ""
+  "blurb": "Race tethered together through obstacles themed on the four elements to a final task"
  },
  {
   "name": "Baba Buoys",
@@ -1914,7 +1914,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/S32_press_images_ep6_106308_D17483b.jpg/revision/latest?cb=20160324124825",
-  "blurb": ""
+  "blurb": "Dive to release buoys, corral them to shore, then shoot ten of them into a basket"
  },
  {
   "name": "Back in Slack",
@@ -2007,7 +2007,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1c/Back_in_slack_dvg.jpg/revision/latest?cb=20181129143509",
-  "blurb": "Cross an obstacle course, then land a set number of items on a target"
+  "blurb": "Cross an obstacle course, then land a series of thrown items onto a target"
  },
  {
   "name": "Bags Challenge",
@@ -2265,7 +2265,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d2/Kls26.ep11.jpg/revision/latest?cb=20210522123300",
-  "blurb": ""
+  "blurb": "Race an obstacle course lugging weighted bags, with losers piling their load onto rivals each round"
  },
  {
   "name": "Balance on Water",
@@ -2513,7 +2513,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/KLS29_Ep11.jpg/revision/latest?cb=20230503161101",
-  "blurb": ""
+  "blurb": "Race across a series of balance beams, with the slowest player eliminated each stage"
  },
  {
   "name": "Balancing Point",
@@ -2555,7 +2555,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bb/Katie_balancing.jpg/revision/latest?cb=20131116010625",
-  "blurb": ""
+  "blurb": "Balance a sword on a shield with one hand while stacking uneven coins on its handle with the other"
  },
  {
   "name": "Ballin' A Jack",
@@ -2625,7 +2625,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c7/S39E11_IC.jpg/revision/latest?cb=20191203234423",
-  "blurb": ""
+  "blurb": "Stand one-footed on a tiny block while pinning a ball against an overhead board"
  },
  {
   "name": "Bamboo Challenge",
@@ -2795,7 +2795,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f7/KLS25_Ep4_Reward_Challenge.jpg/revision/latest?cb=20230513150657",
-  "blurb": ""
+  "blurb": "Hold a piece of bamboo balanced upright on your head longer than anyone else"
  },
  {
   "name": "Barrel Bridge",
@@ -2928,7 +2928,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/09/Barrel_bridge_nicaragua.jpg/revision/latest?cb=20150428120918",
-  "blurb": ""
+  "blurb": "Leapfrog four barrels, two planks, and rope down the beach without anyone touching the ground"
  },
  {
   "name": "Barrel Hold",
@@ -2994,7 +2994,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/27/AuAsEp4.jpg/revision/latest?cb=20210818014837",
-  "blurb": ""
+  "blurb": "Grip ropes holding heavy barrels aloft, passing to tribemates before your grip gives out"
  },
  {
   "name": "Barrel of Monkeys",
@@ -3050,7 +3050,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/43/In_the_barrel_Blood_vs._Water.jpg/revision/latest?cb=20131128030552",
-  "blurb": ""
+  "blurb": "Push tribemates sealed inside a barrel along a course, collecting items along the way"
  },
  {
   "name": "Barreling Along",
@@ -3100,7 +3100,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/S45e12_dee_julie_barreling_along.jpg/revision/latest?cb=20250511132928",
-  "blurb": ""
+  "blurb": "Roll a barrel along a course with precise control to complete the task first"
  },
  {
   "name": "Basket Brawl",
@@ -3270,7 +3270,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/Survivor_sierra_candace_sydney_02.jpg/revision/latest?cb=20111227005735",
-  "blurb": "Fight to score a medicine ball into an elevated barrel while fending off the opponent"
+  "blurb": "Wrestle for a ball in shallow water and hurl it into your tribe's net to score three points"
  },
  {
   "name": "Batman Wall",
@@ -3303,7 +3303,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bd/Te_Tuna_Batman_Wall.jpg/revision/latest?cb=20220422155912",
-  "blurb": "Climb a wall by rope to grab puzzle bags, then solve for a lockbox combo and raise a flag"
+  "blurb": "Climb a wall by rope for five bags of pieces, solve a matching puzzle, and crack a lockbox combo"
  },
  {
   "name": "Beam Me Up",
@@ -3354,7 +3354,7 @@ const CHALLENGES = [
    "puzzle"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3d/S39E03_IC_Lairo2.jpg/revision/latest?cb=20191005001719",
-  "blurb": ""
+  "blurb": "Teeter on a seesaw to grab items dangling overhead, then use them to solve a puzzle"
  },
  {
   "name": "Better Homes and Island Living",
@@ -3398,7 +3398,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/Sabogashelter.jpg/revision/latest?cb=20070115035733",
-  "blurb": "Build a home or bathroom at camp in 24 hours using provided supplies, judged on quality"
+  "blurb": "Build a home or bathroom at camp in 24 hours from Home Depot supplies for a judge's score"
  },
  {
   "name": "Beyond the Wheel",
@@ -3474,7 +3474,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a9/S38E03_IC.jpg/revision/latest?cb=20190301191215",
-  "blurb": ""
+  "blurb": "Swimmers tow a boat of tribemates to collect keys, unlock puzzle pieces, and solve the puzzle"
  },
  {
   "name": "Blade Runner",
@@ -3521,7 +3521,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d3/Courtney_3rd_imm.jpg/revision/latest?cb=20120720030311",
-  "blurb": "Chop through wood with swords to free puzzle bundles, then solve a rotating coin puzzle"
+  "blurb": "Chop through wood with a sword to free puzzle bundles, then solve a rotating coin puzzle"
  },
  {
   "name": "Blind Leading the Blind",
@@ -4319,7 +4319,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Cant_find_my_way_home.jpg/revision/latest?cb=20230821003131",
-  "blurb": "A caller directs blindfolded teammates to collect items scattered around a field"
+  "blurb": "One caller shouts directions as blindfolded tribemates grope for scattered items in a field"
  },
  {
   "name": "Blue Lagoon Bustle",
@@ -4422,7 +4422,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/ba/S46e03_blue_lagoon_bustle_setup.jpg/revision/latest?cb=20240315201514",
-  "blurb": ""
+  "blurb": "Swim through a net crawl, barrel roll, and crate stairs, paddle back, then finish a task on shore"
  },
  {
   "name": "Blue Plate Special",
@@ -4541,7 +4541,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/S4e12.jpg/revision/latest?cb=20120530213857",
-  "blurb": ""
+  "blurb": "Fire a slingshot to shatter everyone else's hanging plates before yours are all broken"
  },
  {
   "name": "Boats, Brains & Brawn",
@@ -4691,7 +4691,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/A_crate_idea_galang.jpg/revision/latest?cb=20131214165648",
-  "blurb": ""
+  "blurb": "Paddle a boat around a flag, zigzag back collecting crates and oars, then solve a puzzle"
  },
  {
   "name": "Bob-Bob Buoy",
@@ -4723,7 +4723,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/91/PalauFinalImmunity.jpg/revision/latest?cb=20220605175941",
-  "blurb": ""
+  "blurb": "Cling to a swaying navigational buoy in the water longer than anyone else"
  },
  {
   "name": "Bone to Pick",
@@ -4756,7 +4756,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/Safe_image.jpg/revision/latest?cb=20130327144200",
-  "blurb": ""
+  "blurb": "With one hand tied back, hook bags of pieces and assemble a fish skeleton puzzle piece by piece"
  },
  {
   "name": "Boulder Smash",
@@ -4877,7 +4877,7 @@ const CHALLENGES = [
   "rulesPairs": false,
   "elements": [],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c8/Boulder-smash-philippines.jpg/revision/latest?cb=20211123182846",
-  "blurb": "Push a giant ball against the other tribe and score three goals past your line"
+  "blurb": "Shove a giant ball against the rival tribe, muscling it across your goal line three times"
  },
  {
   "name": "Bow Diddley",
@@ -5027,7 +5027,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b6/Maryanne_romeo_lindsay_bow_diddley.jpg/revision/latest?cb=20220506112502",
-  "blurb": ""
+  "blurb": "Balance a ball on a bow while inching down an ever-narrower angled beam without dropping it"
  },
  {
   "name": "Box Your Mind",
@@ -5265,7 +5265,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/56/S32_press_images_ep11_0010.jpg/revision/latest?cb=20160428133055",
-  "blurb": ""
+  "blurb": "Memorize a sequence of symbols, then race to replicate the arrangement at your station"
  },
  {
   "name": "Braille Maze",
@@ -5326,7 +5326,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9d/Amazonfinale.jpg/revision/latest?cb=20120410021645",
-  "blurb": ""
+  "blurb": "Feel your way blindfolded through a maze, reading raised Braille signposts to find medallions"
  },
  {
   "name": "Broken China",
@@ -5385,7 +5385,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6a/Offer_it_up_duel.jpg/revision/latest?cb=20131222174458",
-  "blurb": ""
+  "blurb": "Stack dishes on the end of a hand-held beam without letting any crash to the ground"
  },
  {
   "name": "Buggin' Out",
@@ -5936,7 +5936,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a6/S1e02_buggin_out.jpg/revision/latest?cb=20231014015011",
-  "blurb": ""
+  "blurb": "Choke down plates of gross native delicacies faster than your rivals"
  },
  {
   "name": "Build It Up, Break It Down",
@@ -5996,7 +5996,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/Survivor_16_biubid.jpg/revision/latest?cb=20230908015833",
-  "blurb": ""
+  "blurb": "Barricade a locked footlocker with sticks, then swap and smash into the other tribe's to grab a flag"
  },
  {
   "name": "Buoy Oh Buoy",
@@ -6041,7 +6041,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/47/Survivor.S27E06.HDTV.x264-LMAO_318.jpg/revision/latest?cb=20131024151418",
-  "blurb": ""
+  "blurb": "Pairs dive to untie underwater gates and haul up fish traps of pieces for a vertical puzzle"
  },
  {
   "name": "Buried Alive",
@@ -6088,7 +6088,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/67/Australian-Survivor-S3-Episode-6---Buried-Alive-Immunity-Challenge9.jpg/revision/latest?cb=20180813020154",
-  "blurb": ""
+  "blurb": "Steer tribemates locked inside cages through an obstacle course, free them, then finish a task"
  },
  {
   "name": "Butch Cassidy",
@@ -6167,7 +6167,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/Free_fallin_jonas.jpg/revision/latest?cb=20131229021812",
-  "blurb": "Jump off a platform, regroup at a meeting point, then race together to the finish"
+  "blurb": "Leap one by one from a raised platform, regroup at a meeting point, and sprint to the finish"
  },
  {
   "name": "By Any Means Necessary",
@@ -6558,7 +6558,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/S33_press_photos_ep4_0024.jpg/revision/latest?cb=20161013165944",
-  "blurb": ""
+  "blurb": "Race into the water for a ring and wrestle it from rivals to your tribe's station to score"
  },
  {
   "name": "By the Numbers",
@@ -6761,7 +6761,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6c/Survivor-fiji43.jpg/revision/latest?cb=20130203051018",
-  "blurb": ""
+  "blurb": "Shuffle past teammates one at a time along a narrow beam without two people touching at once"
  },
  {
   "name": "Cage Against the Machine",
@@ -6869,7 +6869,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6b/S39E06_IC_Lairo.jpg/revision/latest?cb=20191026091814",
-  "blurb": ""
+  "blurb": "Carry a cage from inside it to stations, collecting items before a final task"
  },
  {
   "name": "Can't Buoy Me Love",
@@ -6910,7 +6910,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f6/S34_Ep12_SG_004.jpg/revision/latest?cb=20171016192214",
-  "blurb": ""
+  "blurb": "Perch on a small stand while gripping a two-handled buoy longer than everyone else"
  },
  {
   "name": "Cannon Carry",
@@ -6957,7 +6957,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b4/S7e01_cannon_carry.jpg/revision/latest?cb=20230329224221",
-  "blurb": ""
+  "blurb": "Haul a makeshift cannon over jungle obstacles to the finish line"
  },
  {
   "name": "Cannon Ski-Ball",
@@ -7002,7 +7002,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/2Survivor-2107.jpg/revision/latest?cb=20120114104017",
-  "blurb": ""
+  "blurb": "Roll cannonballs down a chute that teammates aim with ropes to smash five tiles"
  },
  {
   "name": "Cannonball Run",
@@ -7046,7 +7046,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ed/Cannonball_run_cook_islands.jpg/revision/latest?cb=20140118180748",
-  "blurb": ""
+  "blurb": "Cross a beam or rope bridge for maze pieces, then roll a ball through the trap-filled table maze"
  },
  {
   "name": "Carry On",
@@ -7193,7 +7193,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d7/Jabeni_carry_on_2.jpg/revision/latest?cb=20181105040124",
-  "blurb": "Carry a teammate's coconut bag through obstacles, collect rings, and land them on a post"
+  "blurb": "Carry a tribemate's heavy coconut bag through obstacles, grab rings off a beam, then ring a post"
  },
  {
   "name": "Cat and Mouse",
@@ -7236,7 +7236,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/Survivor.s16e05.pdtv.xvid-gnarly_186.jpg/revision/latest?cb=20140930131134",
-  "blurb": ""
+  "blurb": "Harnessed pairs chase rival pairs through a forest obstacle course, trying to catch them for points"
  },
  {
   "name": "Caught in the Web",
@@ -7328,7 +7328,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/22/Caught_in_the_web_danni.png/revision/latest?cb=20131215204906",
-  "blurb": ""
+  "blurb": "Climb a giant rope web one at a time to pluck off bags and race them back to the finish"
  },
  {
   "name": "Cell Block Sea",
@@ -7655,7 +7655,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/Cell_block_sea_bikal.jpg/revision/latest?cb=20140226213705",
-  "blurb": ""
+  "blurb": "Swim to a bamboo cage, climb over its wall, haul a large item to shore, and finish a final task"
  },
  {
   "name": "Challenge Pitch",
@@ -7851,7 +7851,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2f/S28_press_images_ep11_0012.JPG/revision/latest?cb=20140503000021",
-  "blurb": ""
+  "blurb": "Knock down a wall with sandbags, then race to rebuild it before the other tribe"
  },
  {
   "name": "Chariots of Mire",
@@ -7951,7 +7951,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/10399290_13426034927_6738_n.jpg/revision/latest?cb=20220912161432",
-  "blurb": ""
+  "blurb": "Strapped-in tribemates drag a chariot of riders through obstacles to grab pieces and solve puzzles"
  },
  {
   "name": "Chief's Choice",
@@ -8002,7 +8002,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cf/Images_%28JR3%29.jpg/revision/latest?cb=20130224174912",
-  "blurb": ""
+  "blurb": "Tribe leaders assign members to challenge legs by description, ending in a race to solve a puzzle"
  },
  {
   "name": "Chimney Sweep",
@@ -8303,7 +8303,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/S20ChimneySweep.png/revision/latest?cb=20130120003404",
-  "blurb": ""
+  "blurb": "Brace between two walls on shrinking foot pegs, hanging on as the pegs get smaller"
  },
  {
   "name": "Chinese Zodiac Symbols",
@@ -8445,7 +8445,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/0031-s29_press_images_ep8_0031.jpg/revision/latest?cb=20141106233418",
-  "blurb": ""
+  "blurb": "Watch the host flash symbols, then repeat the sequence exactly or be eliminated"
  },
  {
   "name": "Choose Your Weapon",
@@ -8533,7 +8533,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cf/Choose_your_weapon_michelle.jpg/revision/latest?cb=20140118181817",
-  "blurb": ""
+  "blurb": "Hurl tribal weapons at a target across rounds, with the closest shots advancing until one remains"
  },
  {
   "name": "Clear the Deck",
@@ -8580,7 +8580,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e4/Clear_the_Deck_China.jpg/revision/latest?cb=20170205152205",
-  "blurb": ""
+  "blurb": "Shove three opposing tribe members off a pontoon into the water to score points"
  },
  {
   "name": "Cling Ons",
@@ -8693,7 +8693,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c5/AU4EP18.jpg/revision/latest?cb=20210818140049",
-  "blurb": ""
+  "blurb": "Cling to a vertical pegboard, pulling out numbered pegs that make holding on ever harder"
  },
  {
   "name": "Club Challenge",
@@ -8842,7 +8842,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d7/KLS29_Ep2_Reward_Challenge.jpg/revision/latest?cb=20230517185718",
-  "blurb": ""
+  "blurb": "Throw clubs to smash clay targets from a distance"
  },
  {
   "name": "Coco Connection",
@@ -8920,7 +8920,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9a/Salani_Coco_Connection.jpg/revision/latest?cb=20220410183805",
-  "blurb": ""
+  "blurb": "Slingshot coconuts to smash boards on a giant grid, racing to complete a full row or diagonal"
  },
  {
   "name": "Coconut Juice",
@@ -9024,7 +9024,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3a/Whitney_get_crackin.jpg/revision/latest?cb=20131126211423",
-  "blurb": "Crack coconuts, carry the juice through obstacles, and fill a tube first"
+  "blurb": "Crack coconuts, then carry the juice through obstacles to be first to fill a tube"
  },
  {
   "name": "Coconut Throwing Challenge",
@@ -9085,7 +9085,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/KLS27_Ep2_Immunity_Challenge_Men%27s_Tribe.jpg/revision/latest?cb=20230515163347",
-  "blurb": ""
+  "blurb": "Toss coconuts into your net from a beam, hunting more from a reserve as you go"
  },
  {
   "name": "Crate Escape",
@@ -9183,7 +9183,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S38E01_Immunity_Course.jpeg/revision/latest?cb=20190214225451",
-  "blurb": ""
+  "blurb": "Race through obstacles, solve a puzzle, and heave a large crate onto the finish platform"
  },
  {
   "name": "Crate Wide Open",
@@ -9284,7 +9284,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a6/S44e01_crate_wide_open.jpg/revision/latest?cb=20230304103938",
-  "blurb": ""
+  "blurb": "Retrieve heavy crates, stack them into a platform, and climb up to complete a final task"
  },
  {
   "name": "Crocodile Rock",
@@ -9432,7 +9432,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/5b/S48e09_niu_nai_crocodile_rock.jpg/revision/latest?cb=20250420190333",
-  "blurb": ""
+  "blurb": "Push up on a bar to keep a ball clamped in a set of jaws; relax and the ball drops you out"
  },
  {
   "name": "Crosswalk",
@@ -9501,7 +9501,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/Crosswalk_fiji.png/revision/latest?cb=20151221222255",
-  "blurb": ""
+  "blurb": "Slide along a rope course while harnessed into a six-point hub, maneuvering to the finish"
  },
  {
   "name": "Cube Crisis",
@@ -9587,7 +9587,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/29/220502.jpg/revision/latest?cb=20130621124020",
-  "blurb": ""
+  "blurb": "Race to gather puzzle pieces and be the first to assemble them into a cube"
  },
  {
   "name": "Dear Liza",
@@ -9736,7 +9736,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/36/S30_press_images_ep3_0065.jpg/revision/latest?cb=20150305222754",
-  "blurb": ""
+  "blurb": "Fill a leaky bucket with water and rush it through obstacles to fill a trough before it drains"
  },
  {
   "name": "Dive Masters",
@@ -10180,7 +10180,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/S25_E3_PI.jpg/revision/latest?cb=20120928203032",
-  "blurb": ""
+  "blurb": "Dive along an underwater rope for items anchored at increasing depths, then finish a final task"
  },
  {
   "name": "Dizziness as Usual",
@@ -10251,7 +10251,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/62/Sierras_face.png/revision/latest?cb=20140807031855",
-  "blurb": ""
+  "blurb": "Ride a spinning platform yanked by a tribemate's rope, then stagger dizzy through obstacles"
  },
  {
   "name": "Dizzy Gillespie",
@@ -10322,7 +10322,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/S31ep12RewardChallenge.jpg/revision/latest?cb=20151204010540",
-  "blurb": ""
+  "blurb": "Spin around a rod to unscrew objects loose, then wobble across a balance obstacle to a final task"
  },
  {
   "name": "Dizzy Miss Lizzy",
@@ -10384,7 +10384,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/S42_dizzy_miss_lizzy.jpg/revision/latest?cb=20220519130648",
-  "blurb": ""
+  "blurb": "Spin to unravel a coiled rope, cross obstacles for a piece, then solve a word puzzle"
  },
  {
   "name": "Do-It-Yourself Challenge",
@@ -10753,7 +10753,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a9/Domino_effect_truel.jpg/revision/latest?cb=20140118175137",
-  "blurb": ""
+  "blurb": "Stack blocks like dominoes along a beam laced with tripwires, then topple the chain to win"
  },
  {
   "name": "Don't Let Your Balls Drop",
@@ -10837,7 +10837,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/17/Vinaka_pinball_wizard.jpg/revision/latest?cb=20220515095218",
-  "blurb": ""
+  "blurb": "Roll a ball up into a plinko board and solve a puzzle before it drops, catching it each cycle"
  },
  {
   "name": "Down the Line",
@@ -10894,7 +10894,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/Aus08e11_hayley_baden_chelsea_immunity_challenge.jpg/revision/latest?cb=20230407053320",
-  "blurb": "Dig up puzzle bags, crank out a zip line for your partner, and solve a word puzzle"
+  "blurb": "Unbraid ropes for a key, haul bags through mud and nets, then roll balls down a beam into a target"
  },
  {
   "name": "Dragged Through Mud",
@@ -11007,7 +11007,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b0/S11e02_dragged_through_mud.jpg/revision/latest?cb=20120530120200",
-  "blurb": ""
+  "blurb": "Two tribes tug opposite ends of one rope through mud, straining to reach their flag first"
  },
  {
   "name": "Draggin' the Dragon",
@@ -11116,7 +11116,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/S40E02_IC.jpg/revision/latest?cb=20200215182900",
-  "blurb": "Push a cart through obstacles collecting chests, then assemble a giant dragon puzzle"
+  "blurb": "Push a cart through obstacles collecting chests, dismantle and rebuild it, then solve a dragon puzzle"
  },
  {
   "name": "Dragging the River",
@@ -11157,7 +11157,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f3/110130_19105b.jpg/revision/latest?cb=20171102091339",
-  "blurb": "Haul an item over land and sea obstacles, then knock down targets with a slingshot"
+  "blurb": "Haul an item over land and sea obstacles, then slingshot ammo to topple two targets"
  },
  {
   "name": "Driving Wheel",
@@ -11191,7 +11191,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/11/S48e11_mary_driving_wheel.jpg/revision/latest?cb=20250508052417",
-  "blurb": ""
+  "blurb": "Wheel an urn on a one-wheeled barrow through obstacles, then unlock blocks to solve a word puzzle"
  },
  {
   "name": "Drop a Log",
@@ -11257,7 +11257,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2d/Drop_a_Log.jpg/revision/latest?cb=20130421185454",
-  "blurb": ""
+  "blurb": "Hang one-handed onto a rope tied to a heavy pivoting log, moving down knots as the weight grows"
  },
  {
   "name": "Drum Roll",
@@ -11299,7 +11299,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/14/99280_D08339.display.jpg/revision/latest?cb=20110427193222",
-  "blurb": "Cling to a rope atop a rolling drum over water and outlast everyone else"
+  "blurb": "Bounce a ball between teammates' shields or drums down the course and into a bin"
  },
  {
   "name": "Dulcimer Stomp",
@@ -11341,7 +11341,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/108343_D16954b.jpg/revision/latest?cb=20170413150317",
-  "blurb": "Unspool ribbons for a key, build a ladder, then stomp to launch balls into five targets"
+  "blurb": "Unspool ribbons for a key, build a ladder, then stomp launchers to land balls in five targets"
  },
  {
   "name": "End of the Line",
@@ -11373,7 +11373,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e8/End_line_australia.jpg/revision/latest?cb=20140104142313",
-  "blurb": "Descend a rope over water and brake as close to its end as possible without falling"
+  "blurb": "Clip carabiners along a rope trail through junctions and dead ends to reach the final checkpoint"
  },
  {
   "name": "Escape the Cage",
@@ -11424,7 +11424,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/02/Aus11e03_sarah_viola_reward_challenge.jpg/revision/latest?cb=20240206160229",
-  "blurb": "Climb out of a rope cage before your opponent while they try to hold you back"
+  "blurb": "Battle opponents inside a rope cage while scrambling up the ladder to escape out the top"
  },
  {
   "name": "Eve 6",
@@ -11567,7 +11567,7 @@ const CHALLENGES = [
    "endurance"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/63/S43E07_Cassidy_Eve_6.jpg/revision/latest?cb=20221115020653",
-  "blurb": ""
+  "blurb": "Pairs crawl rope tunnels, dig up planks, and cross a rope bridge before a final endurance showdown"
  },
  {
   "name": "Fallen Comrades",
@@ -11664,7 +11664,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f6/S1final4immunity.jpg/revision/latest?cb=20220412004846",
-  "blurb": ""
+  "blurb": "Answer trivia questions about the eliminated castaways, racing to ten correct answers"
  },
  {
   "name": "Fast Fire",
@@ -11973,7 +11973,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/53/Fast_fire_sugar.jpg/revision/latest?cb=20131207221947",
-  "blurb": ""
+  "blurb": "Build a fire fast enough to burn through a rope and raise your flag first"
  },
  {
   "name": "Faulty Towers",
@@ -12037,7 +12037,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4f/S39E07_IC.jpg/revision/latest?cb=20191101223554",
-  "blurb": ""
+  "blurb": "Toss coconuts into a basket until it collapses a tower of 20 giant pieces, then solve the puzzle"
  },
  {
   "name": "Fauxconut Bowling",
@@ -12073,7 +12073,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S19e13.jpg/revision/latest?cb=20241211131800",
-  "blurb": ""
+  "blurb": "Face off in head-to-head bowling rounds, knocking down pins to advance until one champion remains"
  },
  {
   "name": "Feel the Earn",
@@ -12115,7 +12115,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/S47e06_blue_team_feel_the_earn.jpg/revision/latest?cb=20241026173055",
-  "blurb": ""
+  "blurb": "Crawl through mud and wood shavings, clear debris with poles, and snag a bag by grappling hook"
  },
  {
   "name": "Ferryman",
@@ -12198,7 +12198,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/S33_Ep10_SG_101.jpg/revision/latest?cb=20161203165545",
-  "blurb": "Pull a raft between platforms, retrieve keys, and unlock blocks to solve a puzzle"
+  "blurb": "Pull a raft between platforms, slide down a pole with keys, then unlock blocks for a puzzle"
  },
  {
   "name": "Final Immunity Challenge/Australian Survivor",
@@ -12302,7 +12302,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e6/Australian-Survivor-Episode-26-Hand-On-An-Idol-Immunity-Challenge---Lee-and-Kristie.jpg/revision/latest?cb=20170511085516",
-  "blurb": ""
+  "blurb": "Outlast every rival in the season's climactic endurance duel for the last immunity necklace"
  },
  {
   "name": "Fire Fighter",
@@ -12442,7 +12442,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/S28_press_images_ep2_0019.jpg/revision/latest?cb=20140303154634",
-  "blurb": ""
+  "blurb": "Bucket-brigade sea water from castaway to castaway to fill a jar heavy enough to raise a flame"
  },
  {
   "name": "Fire Starter",
@@ -12565,7 +12565,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/Survivor.Vanuatu.s09e01.They.Came.at.Us.With.Spears.DVDrip_381.jpg/revision/latest?cb=20140809005840",
-  "blurb": ""
+  "blurb": "Race through an obstacle course as a tribe, then be the first to build a roaring fire at the finish"
  },
  {
   "name": "Fire and Water",
@@ -12655,7 +12655,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/S2FireandWater.jpg/revision/latest?cb=20130531011800",
-  "blurb": ""
+  "blurb": "Start a fire on one end of a seesaw, then haul water to the other side to lift the flame to a fuse"
  },
  {
   "name": "Flips, Flops, & Flags",
@@ -12795,7 +12795,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a0/0007-s29_press_images_ep6_0007.jpg/revision/latest?cb=20141023182903",
-  "blurb": ""
+  "blurb": "Flip a large wooden cube end over end between posts, grabbing bags and keys for a final task"
  },
  {
   "name": "Float Your Boat",
@@ -12868,7 +12868,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ad/Float_your_boat.jpg/revision/latest?cb=20130620214850",
-  "blurb": ""
+  "blurb": "Dive to unload rocks from a sunken boat, bail it out, and paddle it back to shore"
  },
  {
   "name": "Floating Puzzle",
@@ -12983,7 +12983,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/93/Jed_water.jpg/revision/latest?cb=20120416211530",
-  "blurb": ""
+  "blurb": "Swim out and dive to unhook puzzle pieces, then bring them back and solve the puzzle on shore"
  },
  {
   "name": "Footbrawl",
@@ -13067,7 +13067,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c4/Aus10e04_flick_footbrawl.jpg/revision/latest?cb=20230326121724",
-  "blurb": ""
+  "blurb": "Brawl for a ball in waist-deep water and feed it to your kicker to punt through a goalpost"
  },
  {
   "name": "For Cod's Sake (challenge)",
@@ -13114,7 +13114,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a2/S12ep5RewardChallenge.jpg/revision/latest?cb=20140512234739",
-  "blurb": ""
+  "blurb": "Relay-throw rice, beans, and fish down a line, cleaving off heads and tails before binning them"
  },
  {
   "name": "Fugitive Challenge",
@@ -13191,7 +13191,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0e/KLS26_Ep3_Reward_Challenge.png/revision/latest?cb=20230515184016",
-  "blurb": ""
+  "blurb": "A designated fugitive races through an obstacle course while the linked rival team hunts them down"
  },
  {
   "name": "Full Tilt Boogey",
@@ -13227,7 +13227,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d9/S34_Ep12_SG_054.jpg/revision/latest?cb=20171016193958",
-  "blurb": ""
+  "blurb": "Negotiate an obstacle course tethered to teammates, then land sandbags on targets"
  },
  {
   "name": "Game of Bridge",
@@ -13297,7 +13297,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/33/Playing_bridge.jpg/revision/latest?cb=20131012155714",
-  "blurb": "Build a plank bridge, cross it, then reuse puzzle planks to solve a puzzle"
+  "blurb": "Slot planks into a one-way-fit bridge, cross it, then reuse the marked planks to solve a puzzle"
  },
  {
   "name": "Game of Throw-Ins",
@@ -13361,7 +13361,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/13/S29_press_images_ep3_0012.jpg/revision/latest?cb=20141002205702",
-  "blurb": ""
+  "blurb": "Tethered pairs weave through field obstacles for a ball, then shoot it into a basket for points"
  },
  {
   "name": "Gatecrasher",
@@ -13539,7 +13539,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/Aparri_GC.png/revision/latest?cb=20140322155243",
-  "blurb": ""
+  "blurb": "Ram a puzzle log through gates, then twist and thread it through a carved maze to reach a gong"
  },
  {
   "name": "Get Barreled",
@@ -13767,7 +13767,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/Chrsyigs4.png/revision/latest?cb=20131215040735",
-  "blurb": ""
+  "blurb": "Roll ten barrels back to a platform, stand them up, then land a sandbag atop each one"
  },
  {
   "name": "Get Hooked",
@@ -13870,7 +13870,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/S19e10_purple_team_get_hooked.jpg/revision/latest?cb=20230817204214",
-  "blurb": ""
+  "blurb": "Teammates pull a player on a bungee cradle around a course to grab and place 15 numbered flags"
  },
  {
   "name": "Get Your Goat",
@@ -13924,7 +13924,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/44/Rory_Catch.jpg/revision/latest?cb=20120507013101",
-  "blurb": ""
+  "blurb": "Herd a group of animals across the course and into an enclosure before the other tribe"
  },
  {
   "name": "Get a Grip",
@@ -14287,7 +14287,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fb/Immunitychallengecookis.jpg/revision/latest?cb=20220204205722",
-  "blurb": ""
+  "blurb": "Cling to a pole using only footholds; the last castaway who hasn't slid to the ground wins"
  },
  {
   "name": "Getting Tanked",
@@ -14380,7 +14380,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9e/99280_D04472bEW.jpg/revision/latest?cb=20120113175221",
-  "blurb": "Fish letter tiles from a swerving tank truck to spell out 'Challenge Champion'"
+  "blurb": "Arrange gutters to channel water from a tower into a barrel until it triggers the finish"
  },
  {
   "name": "Gimme Three Steps",
@@ -14447,7 +14447,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d0/S32_press_images_ep14_0005.jpg/revision/latest?cb=20160519174011",
-  "blurb": "Race to a giant tower, release stairs to reach the top, and finish a final task"
+  "blurb": "Race to a giant tower, release two sets of stairs to climb it, and finish a task at the top"
  },
  {
   "name": "Gone Fishin'",
@@ -14485,7 +14485,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/Tambaqui_Gone_Fishin.png/revision/latest?cb=20230413145141",
-  "blurb": ""
+  "blurb": "Catch as many fish as possible before time runs out; heaviest haul wins"
  },
  {
   "name": "Got to Choose",
@@ -14534,7 +14534,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/75/108089_D07590b.jpg/revision/latest?cb=20160925045228",
-  "blurb": ""
+  "blurb": "Race an obstacle course choosing shortcuts, each of which adds pieces to your final puzzle"
  },
  {
   "name": "Grapple Challenge",
@@ -14745,7 +14745,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ac/KLS29_Ep9_.jpg/revision/latest?cb=20230419161524",
-  "blurb": ""
+  "blurb": "Cast a grappling hook to snag distant objects and reel them back in"
  },
  {
   "name": "Great Escape Run",
@@ -14917,7 +14917,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Caramoan_fun_climb_erik.jpg/revision/latest?cb=20131116154054",
-  "blurb": "Dig up or unlock ladder rungs, build the ladder, and climb to the top first"
+  "blurb": "Dig ladder rungs from the sand, assemble your ladder, and be the first to climb to the top"
  },
  {
   "name": "Hands on a Hard Idol",
@@ -15051,7 +15051,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1e/1_hoah_final_immunity.jpg/revision/latest?cb=20220209022151",
-  "blurb": ""
+  "blurb": "Balance on a small log with one hand glued to the immunity idol; last one touching it wins"
  },
  {
   "name": "Hanging by a Thread",
@@ -15120,7 +15120,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/15/AU4EP19.jpg/revision/latest?cb=20210818140305",
-  "blurb": "Hang upside down and saw through the rope holding your rivals' swing to dunk them"
+  "blurb": "Lie on an inclined platform gripping a bar, hanging on longer than everyone else"
  },
  {
   "name": "Hear About It Ladder",
@@ -15205,7 +15205,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/S35_Ep9_SG_072b.jpg/revision/latest?cb=20171127044006",
-  "blurb": ""
+  "blurb": "Climb a giant ladder over the sea, leap off, dive for buoys, then shoot them into baskets"
  },
  {
   "name": "High and Mighty",
@@ -15273,7 +15273,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/04/UK3EP05Immunity4.jpg/revision/latest?cb=20240127231341",
-  "blurb": ""
+  "blurb": "Scale walls and an A-frame, flip a deck onto a tower, then hurl clubs to smash five tiles"
  },
  {
   "name": "Hip to Be Square",
@@ -15310,7 +15310,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": "Move a tile through a series of slide puzzles, then use it to finish a final one"
+  "blurb": "Slide a tile through a chain of slide puzzles, then use it to crack one final slide puzzle"
  },
  {
   "name": "Hipsters",
@@ -15357,7 +15357,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/AU4EP9.jpg/revision/latest?cb=20210818133659",
-  "blurb": ""
+  "blurb": "Tethered to an idol on a pedestal, yank and dodge to knock your opponent's idol off first"
  },
  {
   "name": "Hold Your Own",
@@ -15411,7 +15411,7 @@ const CHALLENGES = [
    "strength"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b2/S12CourtneyLastChallenge.jpg/revision/latest?cb=20140611173834",
-  "blurb": ""
+  "blurb": "Hold ropes bearing your own body weight above a pool until your grip fails and you plunge in"
  },
  {
   "name": "Holy Hell",
@@ -15507,7 +15507,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d3/AU4EP24.jpg/revision/latest?cb=20220915203848",
-  "blurb": ""
+  "blurb": "Stand on narrow pegs while holding sandbags of your body weight without dropping them"
  },
  {
   "name": "Hot Pursuit",
@@ -15973,7 +15973,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/S10e3.jpg/revision/latest?cb=20230519182950",
-  "blurb": ""
+  "blurb": "Lug twenty-pound packs around an oval course, chasing the rival tribe until you catch them"
  },
  {
   "name": "House of Cards",
@@ -16162,7 +16162,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7e/4606011580_84109c063f.jpg/revision/latest?cb=20130219082418",
-  "blurb": ""
+  "blurb": "Stack 150-plus wooden tiles into a house of cards tall enough to hit the target height first"
  },
  {
   "name": "House of the Holey",
@@ -16385,7 +16385,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/S30_press_images_ep4_0072.jpg/revision/latest?cb=20150314140926",
-  "blurb": ""
+  "blurb": "Race obstacles for balls, then balance on a beam guiding a ball up through a wall of holes"
  },
  {
   "name": "Idol Hands",
@@ -16519,7 +16519,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/88/Idol_hands_tasha.jpg/revision/latest?cb=20140328000018",
-  "blurb": ""
+  "blurb": "Hold an idol aloft on a hand platform while swatting your opponent's idol to the ground"
  },
  {
   "name": "Invertigo",
@@ -16551,7 +16551,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/74/S48e12_niu_nai_invertigo.jpg/revision/latest?cb=20250515081754",
-  "blurb": ""
+  "blurb": "Lie on an inclined plank gripping handholds, sliding lower at intervals with legs outstretched"
  },
  {
   "name": "It's a Long Way to the Top",
@@ -16601,7 +16601,7 @@ const CHALLENGES = [
    "throwing"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/29C.jpg/revision/latest?cb=20130517130833",
-  "blurb": "Throw crates down a four-story tower to release ammo, then hit targets with it"
+  "blurb": "Hurl crates down a four-story tower to break out ammo, then throw it to hit all your targets"
  },
  {
   "name": "Jail Break",
@@ -16901,7 +16901,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/43/Jail_break_bvw.jpg/revision/latest?cb=20131210183439",
-  "blurb": "Fish keys from bowls of slop with your face, unlock your cuffs, and sprint shackled"
+  "blurb": "Build a long pole to fish keys into your jail cell, unlock your shackles, and dig your way out"
  },
  {
   "name": "Jump Shot",
@@ -16943,7 +16943,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/42/S26_E9_PI.jpg/revision/latest?cb=20130404192008",
-  "blurb": ""
+  "blurb": "Leap off a ramp over the water and fire the ball past the rival goalkeeper into the net"
  },
  {
   "name": "Jungle Relay",
@@ -17097,7 +17097,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/Hai_drea_marooning.jpg/revision/latest?cb=20220310073352",
-  "blurb": ""
+  "blurb": "Dash into the jungle completing a relay of tasks with partners before one final tribe task"
  },
  {
   "name": "Kamikaze",
@@ -17184,7 +17184,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6a/S10e11_kamikaze.jpg/revision/latest?cb=20230803233850",
-  "blurb": ""
+  "blurb": "Hurl metal balls or coconuts to smash a series of tiles before anyone else"
  },
  {
   "name": "Keel Hauling",
@@ -17236,7 +17236,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/26_caramoan_andrea_keelhauling.jpg/revision/latest?cb=20130424135130",
-  "blurb": ""
+  "blurb": "Pull yourself underwater along a rope beneath a pontoon, lap after lap, ferrying keys across"
  },
  {
   "name": "Keep It Up",
@@ -17302,7 +17302,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/Keep_It_Up_Gabon.png/revision/latest?cb=20130426002359",
-  "blurb": "Balance two poles against an overhead board longer than anyone else"
+  "blurb": "Pin two poles against an overhead board using only the tops of your hands"
  },
  {
   "name": "Keep on Your Toes",
@@ -17402,7 +17402,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Jeremiahwootrish.jpg/revision/latest?cb=20140408161000",
-  "blurb": ""
+  "blurb": "Stand on tiptoe on a tiny perch, bracing a wooden block between your head and a board above"
  },
  {
   "name": "Kenny Log-Ins",
@@ -17469,7 +17469,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Xander_pushing_kenny_log-ins.jpg/revision/latest?cb=20220426150259",
-  "blurb": ""
+  "blurb": "Ferry bags of logs from ocean platforms to shore, then ram pieces out of a chute for a final task"
  },
  {
   "name": "Kicking and Screaming",
@@ -17576,7 +17576,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/75/S13e06_kicking_and_screaming.jpg/revision/latest?cb=20250417053836",
-  "blurb": ""
+  "blurb": "Cling to a pole while two rival tribe members pry you off and drag you to a mat"
  },
  {
   "name": "Kitty Litter",
@@ -17636,7 +17636,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e8/Survivor-nic-e6recap.jpg/revision/latest?cb=20120114104017",
-  "blurb": "Collect three rings and throw them onto a target so they hook"
+  "blurb": "Collect three rings, then throw them to hook onto a target"
  },
  {
   "name": "Knot Your Fault",
@@ -17720,7 +17720,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ab/110130_10614b.jpg/revision/latest?cb=20171019102912",
-  "blurb": ""
+  "blurb": "Work as a team to unravel a giant braided rope, then race through a final task"
  },
  {
   "name": "Know Your Loved One",
@@ -17752,7 +17752,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d1/Know_your_loved_one_jon_and_lill.png/revision/latest?cb=20140129221002",
-  "blurb": "Match answers to questions with your loved one to prove how well you know each other"
+  "blurb": "Match answers with your loved one to the same set of questions, scoring for every pair that agrees"
  },
  {
   "name": "Know Your Ropes",
@@ -17864,7 +17864,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ec/AuAsEp11.jpg/revision/latest?cb=20210818023226",
-  "blurb": ""
+  "blurb": "Face a rival in one-on-one tug of war, yanking them into the water to score"
  },
  {
   "name": "Ladder Daze",
@@ -17930,7 +17930,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": "Free a ladder from a crate, haul it through obstacles, and climb it to finish"
+  "blurb": "Free a ladder from a locked crate, thread it through obstacles, and climb it for a final task"
  },
  {
   "name": "Ladder Tree Golf",
@@ -18053,7 +18053,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/247522_10151429535255922_972486048_n.jpg/revision/latest?cb=20130509133540",
-  "blurb": ""
+  "blurb": "Toss bolas at a rung pole, wrapping the required number around it before the other tribe"
  },
  {
   "name": "Last Gasp",
@@ -18297,7 +18297,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f7/S10e10_last_gasp.jpg/revision/latest?cb=20230803004713",
-  "blurb": ""
+  "blurb": "Float trapped under a steel grate as the tide rises, stealing breaths until only one remains"
  },
  {
   "name": "Legs Eleven",
@@ -18406,7 +18406,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Aus10e08_liz_shonee_legs_eleven.jpg/revision/latest?cb=20230305165016",
-  "blurb": ""
+  "blurb": "Pairs lie back and pinch an object aloft between their raised feet longer than every other pair"
  },
  {
   "name": "Letter Hunt",
@@ -18466,7 +18466,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/23/Survivor.S11E06.Big.Ball.Big.Mouth.Big.Trouble.DVBS.XviD.CZ-LBD_045.jpg/revision/latest?cb=20140708180535",
-  "blurb": ""
+  "blurb": "Race through a field collecting three bags of letter tiles, then spell out a short phrase"
  },
  {
   "name": "Lock Step",
@@ -18693,7 +18693,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/20/Lock_step_fang.jpg/revision/latest?cb=20140426214242",
-  "blurb": ""
+  "blurb": "Race roped together through an obstacle course, getting every member across the finish line"
  },
  {
   "name": "Lock, Load and Light",
@@ -18742,7 +18742,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/85/S13e1.jpg/revision/latest?cb=20120530220651",
-  "blurb": ""
+  "blurb": "Row out to light a torch, then build compass-block puzzles into a climbing wall and scale it"
  },
  {
   "name": "Log Handler",
@@ -18807,7 +18807,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b2/Aus03e10_saanapu_log_handler.png/revision/latest?cb=20230406145145",
-  "blurb": ""
+  "blurb": "Haul logs through an obstacle course, build them into monkey bars, and swing across"
  },
  {
   "name": "Log Jam",
@@ -18937,7 +18937,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8c/Log_jam_andrea_ashley.jpg/revision/latest?cb=20140726211838",
-  "blurb": ""
+  "blurb": "Duel an opponent on a revolving log over mud or water and stay on longer than they do"
  },
  {
   "name": "Long Road to Ruins",
@@ -18984,7 +18984,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ec/0018-s29_press_images_ep8_0018.jpg/revision/latest?cb=20141106232437",
-  "blurb": ""
+  "blurb": "Haul pieces to build a temple, push it down a rail, then hoist a statue up a post by rope"
  },
  {
   "name": "Losing Face",
@@ -19433,7 +19433,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/108343_D09803b.jpg/revision/latest?cb=20170330164730",
-  "blurb": "Race through obstacles to a slingshot and knock down all your targets"
+  "blurb": "Race over obstacles to a slingshot and fire ammo to knock down a set of targets"
  },
  {
   "name": "Magic Boot",
@@ -19485,7 +19485,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2d/Ep3RewardHeathBrian900x506.jpg/revision/latest?cb=20180903125837",
-  "blurb": ""
+  "blurb": "Kick penalty shots past a goalkeeper from the rival tribe to score goals"
  },
  {
   "name": "Mask Match",
@@ -19542,7 +19542,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/0006-s29_press_images_ep6_0006.jpg/revision/latest?cb=20141023182849",
-  "blurb": "While blindfolded, carry bags of pieces and duplicate a mask by feel"
+  "blurb": "While blindfolded, carry bags of pieces along a course and rebuild a mask to match the original"
  },
  {
   "name": "Matchmaker",
@@ -19584,7 +19584,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9b/S8MatchMaker1.jpg/revision/latest?cb=20130729022852",
-  "blurb": ""
+  "blurb": "Take turns asking rivals for items from a box, scoring a point for every match you find"
  },
  {
   "name": "Matt Finish",
@@ -19676,7 +19676,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/221007.jpg/revision/latest?cb=20130629141556",
-  "blurb": ""
+  "blurb": "Spin dizzily unscrewing disks from a stand, then stagger through a multi-stage puzzle"
  },
  {
   "name": "Memory",
@@ -19832,7 +19832,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/ae/Concentration_setup.png/revision/latest?cb=20130510094003",
-  "blurb": ""
+  "blurb": "Flip covers two at a time in an arena, hunting for matching pairs of hidden objects"
  },
  {
   "name": "Might as Well Jump",
@@ -19867,7 +19867,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/02/Zas08e14_kiran_might_as_well_jump.jpg/revision/latest?cb=20230602195748",
-  "blurb": ""
+  "blurb": "Jump off crates and cross a beam for keys, then roll colored balls into a turnstile puzzle"
  },
  {
   "name": "Mind Field",
@@ -19941,7 +19941,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/18/Australian-Survivor-S3-Episode-16---Flags-Reward-Challenge5-900x506.jpg/revision/latest?cb=20180912165553",
-  "blurb": ""
+  "blurb": "Play musical chairs Survivor-style: dash for an item each round, one fewer than the players"
  },
  {
   "name": "Mud Bungee",
@@ -20217,7 +20217,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/59/Mud_Bungee.jpg/revision/latest?cb=20211122234335",
-  "blurb": ""
+  "blurb": "Strain against a bungee cord to lunge out and grab items before snapping back"
  },
  {
   "name": "Mud Pack",
@@ -20580,7 +20580,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4c/Surv07.jpg/revision/latest?cb=20130625160049",
-  "blurb": ""
+  "blurb": "Dive into a mud pit, coat your body in muck, and scrape it into a bucket to be weighed"
  },
  {
   "name": "Mud Slide",
@@ -20633,7 +20633,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/Guatemala_mud_slide.jpg/revision/latest?cb=20130608125759",
-  "blurb": ""
+  "blurb": "Roped in pairs, scramble through obstacles and a deep mud pit hauling objects to your pot"
  },
  {
   "name": "Mud Slinging",
@@ -20692,7 +20692,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/44/S25e12_lisa_justice_mud_slinging.png/revision/latest?cb=20230518162027",
-  "blurb": ""
+  "blurb": "Throw mud-caked balls to your loved one, who hurls them at five bamboo targets"
  },
  {
   "name": "Muddy Waters",
@@ -20777,7 +20777,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1f/26_caramoan_malcolmmuddywater.jpg/revision/latest?cb=20130424133819",
-  "blurb": ""
+  "blurb": "Crawl under cages, slide into mud to dig up balls, then sink them all into a high tube"
  },
  {
   "name": "New School",
@@ -20835,7 +20835,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Tai_and_andrea_new_school.png/revision/latest?cb=20170422143316",
-  "blurb": ""
+  "blurb": "Swim out to untie a net of fish puzzle pieces, haul them ashore, and solve the fish puzzle"
  },
  {
   "name": "New Tribe Member",
@@ -20892,7 +20892,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/aa/S5E04_New_Tribe_Member.jpg/revision/latest?cb=20230519185506",
-  "blurb": ""
+  "blurb": "Untie a giant dummy and lug your new 'tribemate' through an obstacle course to the finish"
  },
  {
   "name": "Nut Bucket",
@@ -21164,7 +21164,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/26_caramoan_nutbucket.jpg/revision/latest?cb=20130428064822",
-  "blurb": ""
+  "blurb": "Hold up a net while rivals shoot coconuts into it, piling on weight until someone drops"
  },
  {
   "name": "Nut Cracker",
@@ -21197,7 +21197,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c8/Eriklastchallenge.jpg/revision/latest?cb=20220528011808",
-  "blurb": "Take one Tee-ball swing and score by where the ball lands on a point-zoned field"
+  "blurb": "Swing at a tee-ball and score points based on where the ball rolls to a stop"
  },
  {
   "name": "O-Black Water",
@@ -21323,7 +21323,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": "Cross water obstacles, then use a grappling hook to secure five rings"
+  "blurb": "Swim a ramp, net, and beam course, then throw a grappling hook to reel in five rings"
  },
  {
   "name": "Odd Shaped Bottoms",
@@ -21365,7 +21365,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/89/S27_press_images_ep4_0021.jpg/revision/latest?cb=20131005033456",
-  "blurb": ""
+  "blurb": "Cross a ladder hauling a bag of blocks, then stack them into a perfectly flat-topped puzzle"
  },
  {
   "name": "On the Pull",
@@ -21507,7 +21507,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/19/Aus08e07_brawn_on_the_pull.jpg/revision/latest?cb=20230401181644",
-  "blurb": ""
+  "blurb": "Grip a rope holding a barrel loaded with your body weight and hold on longest"
  },
  {
   "name": "Operation Balance Build",
@@ -21619,7 +21619,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/S33e13.jpg/revision/latest?cb=20241215181919",
-  "blurb": ""
+  "blurb": "Thread wooden bowls through a springy metal frame on a pole and stack them into a tower"
  },
  {
   "name": "Out on a Limb (challenge)",
@@ -21751,7 +21751,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c0/Survivor_obstacle_course_cambodia.png/revision/latest?cb=20151217125308",
-  "blurb": ""
+  "blurb": "Race down branching course limbs to gather puzzle bags, then solve the puzzle back at base"
  },
  {
   "name": "Over-Extended",
@@ -22031,7 +22031,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/S19final.jpg/revision/latest?cb=20130216022444",
-  "blurb": ""
+  "blurb": "Balance a statue atop a pole that grows longer every round; last one still standing wins"
  },
  {
   "name": "Paddle Battle",
@@ -22076,7 +22076,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/Chan_loh_kaoh_rong_wooden_ships.jpg/revision/latest?cb=20160213132951",
-  "blurb": "Race boats to shore, haul them uphill, and complete a final task"
+  "blurb": "Race boats to shore, then push and pull them uphill across the finish for a final task"
  },
  {
   "name": "Paddle Out",
@@ -22309,7 +22309,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/12/Paddle_out_skupin.png/revision/latest?cb=20140430215441",
-  "blurb": ""
+  "blurb": "Roll balls down a wooden lane, trying to park one in every slot at the same time"
  },
  {
   "name": "Perch",
@@ -22722,7 +22722,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/S6Perch.jpg/revision/latest?cb=20130128210158",
-  "blurb": ""
+  "blurb": "Stand atop a pillar in the water while Jeff dangles food bribes; outlast everyone else"
  },
  {
   "name": "Pilfering Pirates",
@@ -22777,7 +22777,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e1/Pilfering_Pirates-0.png/revision/latest?cb=20200809132924",
-  "blurb": ""
+  "blurb": "Race across bamboo walkways to raid the rival tribe's boats, shoving foes off in the attack zone"
  },
  {
   "name": "Piranha Feast",
@@ -22831,7 +22831,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/37/Pig_out_savaii.jpg/revision/latest?cb=20131227015938",
-  "blurb": "Rip meat off a roast using only your mouth and pile the most weight in a basket"
+  "blurb": "Tear meat off a giant roast using only your mouth and drop it into a basket to be weighed"
  },
  {
   "name": "Planks a Lot",
@@ -22897,7 +22897,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c5/Aus06e17_solibula_planks_a_lot.jpg/revision/latest?cb=20230612032556",
-  "blurb": ""
+  "blurb": "Hold a plank position balanced between two rails and outlast every other player"
  },
  {
   "name": "Pole Dancing",
@@ -22992,7 +22992,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/cb/S31_press_images_ep13_0011.jpg/revision/latest?cb=20151210123429",
-  "blurb": ""
+  "blurb": "Untangle ropes tied to your waist, then sprint the slack to the finish for a final task"
  },
  {
   "name": "Pot Head",
@@ -23078,7 +23078,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/84/Pot_head_danni.png/revision/latest?cb=20140427002127",
-  "blurb": ""
+  "blurb": "Balance a pot on your head while walking beams or climbing temple steps without dropping it"
  },
  {
   "name": "Pull Your Weight",
@@ -23299,7 +23299,7 @@ const CHALLENGES = [
    "endurance"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bf/Aus03e07_pull_your_weight.png/revision/latest?cb=20230406142554",
-  "blurb": ""
+  "blurb": "Hold a rope suspending a tribemate over water as helpers drop off one by one"
  },
  {
   "name": "Push Comes to Shove",
@@ -23427,7 +23427,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7d/Aus10e02_liz_shonee_push_comes_to_shove.jpg/revision/latest?cb=20230305163708",
-  "blurb": ""
+  "blurb": "Shove a turnstile against an opposing player, driving it across the line to score"
  },
  {
   "name": "Push Me, Pull You",
@@ -23535,7 +23535,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/76/Jane1stImmunityChallenge.jpg/revision/latest?cb=20131127211509",
-  "blurb": ""
+  "blurb": "Pull two metal bars in tension to keep a heavy bar from slipping and smashing your tile"
  },
  {
   "name": "Puzzle Dig",
@@ -23602,7 +23602,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/05/Puzzle_dig_micronesia.jpg/revision/latest?cb=20220221160700",
-  "blurb": "Follow rope coordinates to dig up puzzle bags, solving each puzzle for the next spot"
+  "blurb": "Follow rope intersections to dig up buried puzzle bags, solving each puzzle for new coordinates"
  },
  {
   "name": "Pyramid Scheme",
@@ -23638,7 +23638,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/50/Domenick_wendell_pyramid_scheme.png/revision/latest?cb=20180527153122",
-  "blurb": ""
+  "blurb": "Splash out of the water to grab pieces and be first to build a four-piece pyramid puzzle"
  },
  {
   "name": "Q and A (challenge)",
@@ -23786,7 +23786,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a5/All_Stars_Q_and_A.jpg/revision/latest?cb=20220407154122",
-  "blurb": ""
+  "blurb": "Guess how tribemates answered survey questions, chopping ropes to smash rivals' effigies"
  },
  {
   "name": "Quest for Fire",
@@ -24450,7 +24450,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3b/QuestForFireCambodia.jpg/revision/latest?cb=20170426062527",
-  "blurb": ""
+  "blurb": "Race the other tribe to light a series of torches"
  },
  {
   "name": "Race to Shore",
@@ -24859,7 +24859,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a2/S41e01_marooning.jpg/revision/latest?cb=20230131223334",
-  "blurb": "Race across the water to shore to claim immunity or a reward first"
+  "blurb": "Sprint to a marked spot to snatch an immunity necklace before anyone else grabs it"
  },
  {
   "name": "Raft Challenge",
@@ -25217,7 +25217,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/KLS26_Ep2_Reward_Challenge2.png/revision/latest?cb=20230514130439",
-  "blurb": ""
+  "blurb": "Lash bamboo into a raft at camp, then paddle it on a mission chasing or recovering items at sea"
  },
  {
   "name": "Raft and the Furious",
@@ -25281,7 +25281,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": "Paddle a raft between buoys, dive for objects, then return to shore for a final task"
+  "blurb": "Paddle a raft between buoys, diving down at each one to free an object, then race ashore"
  },
  {
   "name": "Ram-Ball On",
@@ -25444,7 +25444,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c2/108343_D04730b.jpg/revision/latest?cb=20170323010154",
-  "blurb": ""
+  "blurb": "Balance a ball on an ever-growing pole through obstacles, then slingshot sandbags at targets"
  },
  {
   "name": "Reinventing the Wheel",
@@ -25493,7 +25493,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8a/SurvivorMicronesia-Episode1-6.jpg/revision/latest?cb=20130728142559",
-  "blurb": ""
+  "blurb": "Build puzzle wheels onto a cart, push riders through obstacles, then crank up fire to a cauldron"
  },
  {
   "name": "Rescue Mission",
@@ -25553,7 +25553,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4e/Survivor_Triage.jpg/revision/latest?cb=20230519220522",
-  "blurb": ""
+  "blurb": "Build a stretcher, find tribemates stranded in the wilderness, and carry them back on it"
  },
  {
   "name": "Rice Race",
@@ -25649,7 +25649,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6b/110130_17320b.jpg/revision/latest?cb=20171026030353",
-  "blurb": "Swim rice bags through obstacles, then maneuver balls across a maze into slots"
+  "blurb": "Swim rice bags through an obstacle course, then steer the balls inside across a holey wall"
  },
  {
   "name": "Ring Leader",
@@ -25680,7 +25680,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e5/Ring_leader_dvg.jpg/revision/latest?cb=20181112065933",
-  "blurb": ""
+  "blurb": "Swing a long pendulum through a frame around a bottle without tipping it over"
  },
  {
   "name": "Rise and Shrine",
@@ -25854,7 +25854,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/3f/Tossjds.png/revision/latest?cb=20141004002936",
-  "blurb": ""
+  "blurb": "Charge through obstacles and scale huge walls to a tower top, then solve a puzzle up there"
  },
  {
   "name": "Rock Bottom",
@@ -25905,7 +25905,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Marquesas_Rock_Bottom_challenge.jpg/revision/latest?cb=20190610003734",
-  "blurb": ""
+  "blurb": "Dive for shells each round, avoiding last place, then race a rock back to shore in the final"
  },
  {
   "name": "Rock n' Roll",
@@ -26105,7 +26105,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/51/Boran_Rock_n%27_Roll.jpg/revision/latest?cb=20220407153509",
-  "blurb": ""
+  "blurb": "Roll a giant boulder through checkpoints, climbing it for keys and tackling tasks en route"
  },
  {
   "name": "Rock the Boat",
@@ -26141,7 +26141,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c3/0003-s29_press_images_ep9_0003.jpg/revision/latest?cb=20141114212326",
-  "blurb": ""
+  "blurb": "Face off on a wobbly beam and shake, bounce, or shove your opponent off first"
  },
  {
   "name": "Rocks Under Water",
@@ -26404,7 +26404,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e0/KLS27_Ep4_Immunity_Challenge.jpg/revision/latest?cb=20230513123016",
-  "blurb": ""
+  "blurb": "Take turns lugging heavy stones along the seafloor back to the starting pontoon"
  },
  {
   "name": "Rod Screw-It",
@@ -26460,7 +26460,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/97/110483_19398b.jpg/revision/latest?cb=20180315190224",
-  "blurb": "Hop over tables, release sixty sandbags, and hit spinning targets to raise flags"
+  "blurb": "Hop over tables, release sixty sandbags with a lever, then hit spinning targets to raise flags"
  },
  {
   "name": "Roll with It",
@@ -26580,7 +26580,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b0/Cassidy_roll_with_it.jpg/revision/latest?cb=20221208174001",
-  "blurb": "Pull a shopping cart along a track using poles and a lasso to grab a star"
+  "blurb": "Ride inside a rolling cage, shouting directions to blindfolded tribemates pushing you to a maze"
  },
  {
   "name": "Roller Ball",
@@ -26739,7 +26739,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0f/Davie_rollerball_dvg.jpg/revision/latest?cb=20181213232947",
-  "blurb": ""
+  "blurb": "Balance on a log while steadying up to three balls on a handheld wooden disc"
  },
  {
   "name": "Rung O Star",
@@ -26783,7 +26783,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b6/Jonathan_ladder_spiral_architect.jpg/revision/latest?cb=20220423153729",
-  "blurb": ""
+  "blurb": "Swim a ladder up from the seabed, climb it to snag bags off a high pole, then race ashore"
  },
  {
   "name": "Running Down a Dream",
@@ -26901,7 +26901,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/16/4013_IC2.png/revision/latest?cb=20200508222642",
-  "blurb": "Toss balls into an overhead track, catch them past tripwires, and dig under a log"
+  "blurb": "Toss balls onto an overhead track, dodge tripwires to catch them, then dig under a log"
  },
  {
   "name": "Rusty Gates",
@@ -27028,7 +27028,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/12/Vinaka_rusty_gates.png/revision/latest?cb=20220515095038",
-  "blurb": ""
+  "blurb": "Work a handle through a maze on a gate to unlock it, then race to finish a slide puzzle"
  },
  {
   "name": "SOS Signal",
@@ -27112,7 +27112,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/Palau_sos.jpg/revision/latest?cb=20130520080733",
-  "blurb": ""
+  "blurb": "Build the most eye-catching distress signal from camp materials for a pilot to judge overhead"
  },
  {
   "name": "Sacrificial Lamb",
@@ -27193,7 +27193,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0f/Survivor.Vanuatu.s09e10.Culture.Shock.and.Violent.Storms.DVDrip_109.jpg/revision/latest?cb=20140803193942",
-  "blurb": ""
+  "blurb": "Guide roped-up teammates through a course of obstacles as the whole tribe pulls them along"
  },
  {
   "name": "Scale Challenge",
@@ -27269,7 +27269,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/49/KLS23_Ep4_Reward_Challenge.jpg/revision/latest?cb=20230521161535",
-  "blurb": ""
+  "blurb": "Balance on a rocking board, either outlasting rivals or stacking wooden pieces on it"
  },
  {
   "name": "Schmergen Brawl",
@@ -27333,7 +27333,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/ba/Schmergen_Brawl.jpg/revision/latest?cb=20211124180852",
-  "blurb": ""
+  "blurb": "Brawl for balls in a walled arena, then pass to platform shooters aiming at the rival basket"
  },
  {
   "name": "Sea Crates",
@@ -27424,7 +27424,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Survivor.s27e11.hdtv.x264-2hd_032.jpg/revision/latest?cb=20131202121949",
-  "blurb": ""
+  "blurb": "Retrieve four colored crates, then stack them so no color repeats in any column"
  },
  {
   "name": "Sea Legs",
@@ -27666,7 +27666,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/20/S42_bermuda_triangles.jpg/revision/latest?cb=20220426181022",
-  "blurb": ""
+  "blurb": "Balance on a floating platform at sea, edging up narrower footholds until only one remains"
  },
  {
   "name": "Sea Salvage",
@@ -27760,7 +27760,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/Plunge_pull_pop_caramoan_2.png/revision/latest?cb=20140101201712",
-  "blurb": ""
+  "blurb": "Swim to a platform, dive into a cage to pull bamboo poles, and free the gear needed to finish"
  },
  {
   "name": "Shipwrecked",
@@ -27831,7 +27831,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/72/Sabogalastchallenge.jpg/revision/latest?cb=20110502051207",
-  "blurb": ""
+  "blurb": "Paddle out to haul crates or stranded tribemates aboard and race the boat back first"
  },
  {
   "name": "Shoot 'n' Shuffle",
@@ -27932,7 +27932,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/f4/221102.jpg/revision/latest?cb=20130630124824",
-  "blurb": ""
+  "blurb": "Slide shuffleboard pucks toward a target, knocking rivals' pucks out of the way"
  },
  {
   "name": "Shooting Gallery",
@@ -27985,7 +27985,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0a/Shooting_gallery_tom.jpg/revision/latest?cb=20131205233747",
-  "blurb": "Shoot and destroy a field of targets with a firearm or crossbow before anyone else"
+  "blurb": "Fire a gun or crossbow to shatter a spread of targets before the other side clears theirs"
  },
  {
   "name": "Simmotion",
@@ -28164,7 +28164,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7b/JT_Simmotion.jpg/revision/latest?cb=20230115232707",
-  "blurb": ""
+  "blurb": "Feed balls into a spiraling chute one-handed, catching each at the bottom as more join in"
  },
  {
   "name": "Sliders",
@@ -28215,7 +28215,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/5f/Australian-Survivor-S3-Episode-5---Sliders10.jpg/revision/latest?cb=20180813020152",
-  "blurb": "Race an opponent to solve an identical 16-space slide puzzle"
+  "blurb": "Slide down into the ocean to gather rings, then toss them onto posts at a ring station"
  },
  {
   "name": "Slip, Slide & Score",
@@ -28450,7 +28450,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/95/Episode-4-reward-4-480x347.jpg/revision/latest?cb=20130326230259",
-  "blurb": "Race down a slippery track to grab a ball and sink it in a basket before your rival"
+  "blurb": "Dive down a slippery track to grab a ball or ring, then sink it in a basket to score"
  },
  {
   "name": "Slither Me Timbers",
@@ -28560,7 +28560,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/09/110130_15299b.jpg/revision/latest?cb=20171026024804",
-  "blurb": ""
+  "blurb": "With arms and legs bound, wriggle through sand and obstacles like a worm to the finish"
  },
  {
   "name": "Smash and Grab",
@@ -28993,7 +28993,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/Andrea_smash_and_grab_caramoan.jpg/revision/latest?cb=20131126000757",
-  "blurb": ""
+  "blurb": "Leap from a high platform to smash tiles for keys, then unlock a box for the final puzzle"
  },
  {
   "name": "Snag, Drag and Bag",
@@ -29203,7 +29203,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/40/220603.jpg/revision/latest?cb=20130622163410",
-  "blurb": ""
+  "blurb": "Cast a grappling hook to reel in bags of balls, then tilt one ball through a table maze"
  },
  {
   "name": "Snake Island Relay",
@@ -29285,7 +29285,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/8d/WTEB.jpg/revision/latest?cb=20130619182010",
-  "blurb": ""
+  "blurb": "Hold your breath underwater longer than rivals, then win a final swimming race"
  },
  {
   "name": "Snake in the Grass",
@@ -29357,7 +29357,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ed/250811.jpg/revision/latest?cb=20130721132646",
-  "blurb": "Go over and under hurdles to grab piece bags, then solve a snake-shaped puzzle"
+  "blurb": "Hurdle over and under barriers to grab puzzle bags, then assemble a snake-shaped puzzle"
  },
  {
   "name": "Snare the Drum",
@@ -29392,7 +29392,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/28/251008.jpg/revision/latest?cb=20130719170129",
-  "blurb": ""
+  "blurb": "Flip your three drums symbol-up while your opponent keeps flipping them back over"
  },
  {
   "name": "Spear-it Hunt",
@@ -29452,7 +29452,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9a/Christa_at_an_Individual_Immunity_Challenge.jpg/revision/latest?cb=20131208193645",
-  "blurb": ""
+  "blurb": "Hurl flaming weapons to set a series of targets ablaze before your rivals light theirs"
  },
  {
   "name": "Spiral Architect",
@@ -29494,7 +29494,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/69/Vati_ika_spiral_architect.jpg/revision/latest?cb=20220528170459",
-  "blurb": ""
+  "blurb": "Swim out for a ladder, climb it to grab a key, then throw sandbags onto five high targets"
  },
  {
   "name": "Spit It Out",
@@ -29540,7 +29540,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/Spin_cycle_eve.jpg/revision/latest?cb=20131125234807",
-  "blurb": ""
+  "blurb": "Spin tribemates through a water tub on a wheel so they can spit mouthfuls to fill a tube"
  },
  {
   "name": "Splash Back",
@@ -29896,7 +29896,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/Survivor.s27e10.hdtv.x264-2hd_333.jpg/revision/latest?cb=20131125115234",
-  "blurb": ""
+  "blurb": "Lean out over the water gripping a rope as the angle steepens; last one holding on wins"
  },
  {
   "name": "Spoon Man",
@@ -29994,7 +29994,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fc/0007-s29_press_images_ep14_0007.jpg/revision/latest?cb=20141215233302",
-  "blurb": ""
+  "blurb": "Shepherd a ball through obstacles using tiny paddles, restarting whenever it drops"
  },
  {
   "name": "Sprung a Leak",
@@ -30036,7 +30036,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/87/Amanda_james_jean-robert_sink_courtney.jpg/revision/latest?cb=20140909185759",
-  "blurb": ""
+  "blurb": "Attack the other tribe's boats and sink every one of them before yours go under"
  },
  {
   "name": "Squared Off",
@@ -30104,7 +30104,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/bb/Survivor_borneo_board.png/revision/latest?cb=20140303030438",
-  "blurb": ""
+  "blurb": "Step tile to tile across a gameboard, never reusing a space, until rivals run out of moves"
  },
  {
   "name": "Squatty Probst",
@@ -30172,7 +30172,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S35_Ep9_SG_009b.jpg/revision/latest?cb=20171127043159",
-  "blurb": ""
+  "blurb": "Hold a squat propping up an urn of water over fire; rise and it spills, sink and you're out"
  },
  {
   "name": "Stairway to Heaven",
@@ -30295,7 +30295,7 @@ const CHALLENGES = [
    "water"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/16/S28_press_images_ep5_0005.jpg/revision/latest?cb=20140324183256",
-  "blurb": "Build a pole staircase, zipline to grab puzzle bags, and solve the puzzle on top"
+  "blurb": "Slot poles into a staircase, zipline to a pontoon for puzzle bags, then solve at the top"
  },
  {
   "name": "Stairway to the Stars",
@@ -30338,7 +30338,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/18/Stairway_to_the_stars_africa_samburu_wins.jpg/revision/latest?cb=20140716121319",
-  "blurb": "Haul five logs through obstacles to a tower and build a staircase to the top"
+  "blurb": "Haul five logs through obstacles to a tower, build a staircase, and sprint to the top"
  },
  {
   "name": "Station by Station",
@@ -30397,7 +30397,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7f/Station_to_station_samoa.jpg/revision/latest?cb=20131214163327",
-  "blurb": ""
+  "blurb": "Count objects at scattered stations, then use those numbers to crack combination locks"
  },
  {
   "name": "Step on Up",
@@ -30483,7 +30483,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/48/Kulakula_step_on_up.jpg/revision/latest?cb=20220518110357",
-  "blurb": ""
+  "blurb": "Collect puzzle steps and build your own staircase one stair at a time to reach the top"
  },
  {
   "name": "Stomp-ede",
@@ -30636,7 +30636,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/Frank_stomp-ed_africa.jpg/revision/latest?cb=20140719015930",
-  "blurb": ""
+  "blurb": "Stomp a plank to catapult items one by one into a basket atop a tower"
  },
  {
   "name": "Strung Out",
@@ -30860,7 +30860,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b8/SOHVV.jpg/revision/latest?cb=20130625131519",
-  "blurb": "Shimmy suspended under a pole to a bell and back, relaying with your partner"
+  "blurb": "Thread an object along a rope through a gauntlet of obstacles, then finish with a final task"
  },
  {
   "name": "Sumo at Sea (challenge)",
@@ -31133,7 +31133,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/4/4a/Survivorsumojaclynkelley.jpg/revision/latest?cb=20141005223330",
-  "blurb": ""
+  "blurb": "Duel with padded bags on a platform, knocking your opponent into the water or mud below"
  },
  {
   "name": "Sunset Grill",
@@ -31381,7 +31381,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6e/S32_press_images_ep14_0041.jpg/revision/latest?cb=20160519180924",
-  "blurb": ""
+  "blurb": "Teeter on a wobbly beam while stacking balls between stands using only a fork"
  },
  {
   "name": "Super Golf",
@@ -31422,7 +31422,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/98/Super_Golf.jpg/revision/latest?cb=20211124174714",
-  "blurb": ""
+  "blurb": "Launch an oversized golf ball from a three-person slingshot, sinking the hole in fewer shots"
  },
  {
   "name": "Super Ramp",
@@ -31465,7 +31465,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/c7/S46e06_orange_super_ramp.jpg/revision/latest?cb=20240404175845",
-  "blurb": ""
+  "blurb": "Crawl under muddy nets, push a cart collecting sandbags, scale a boulder, then solve a puzzle"
  },
  {
   "name": "Supertramp",
@@ -31501,7 +31501,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": "Release sandbags with a rope toss, then bounce them off a trampoline into net baskets"
+  "blurb": "Snag sandbags with a rope, relay them through a net tube, then trampoline-bounce them into baskets"
  },
  {
   "name": "Survivor Archery",
@@ -31748,7 +31748,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Greg_reward.jpg/revision/latest?cb=20140531062010",
-  "blurb": ""
+  "blurb": "Shoot arrows at a target; each round's worst shot lets the winner snap a rival's arrow"
  },
  {
   "name": "Survivor History (challenge)",
@@ -31784,7 +31784,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/89/Survivor_roots_micronesia_erik.jpg/revision/latest?cb=20220221163157",
-  "blurb": ""
+  "blurb": "Answer trivia about past Survivor seasons, racing to a set number of correct answers"
  },
  {
   "name": "Survivor Pentathlon",
@@ -31979,7 +31979,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/05/Cindy_car.jpg/revision/latest?cb=20120517210648",
-  "blurb": "Replay a gauntlet of earlier season challenges and finish the final task first"
+  "blurb": "Replay a gauntlet of the season's earlier challenges back to back and finish the last one first"
  },
  {
   "name": "Survivor Quiz Show",
@@ -32158,7 +32158,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/da/S01e11_richard_sean_survivor_quiz_show.jpg/revision/latest?cb=20230519043532",
-  "blurb": ""
+  "blurb": "Answer local-culture trivia, earning the right to smash rivals' idols with each correct answer"
  },
  {
   "name": "Swahili Scramble",
@@ -32234,7 +32234,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/dc/PIchallenge.png/revision/latest?cb=20150610114313",
-  "blurb": ""
+  "blurb": "Unscramble a set of themed words, then use the intersecting letters to solve a final word"
  },
  {
   "name": "Swing Break",
@@ -32391,7 +32391,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/10/Swing_break_artis.png/revision/latest?cb=20150319022416",
-  "blurb": ""
+  "blurb": "Lug heavy pots of grain through obstacles onto stands, then smash them all with a wrecking ball"
  },
  {
   "name": "TLP O-Course",
@@ -32471,7 +32471,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d8/CRASH-RI.jpg/revision/latest?cb=20140119030158",
-  "blurb": ""
+  "blurb": "Charge through hay stacks, brick walls, and net crawls, grabbing keys or balls at checkpoints"
  },
  {
   "name": "Tan-dy Gram",
@@ -32509,7 +32509,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fb/S05e04_chuay_gahn_tan-dy_gram.jpg/revision/latest?cb=20140608124615",
-  "blurb": ""
+  "blurb": "Race to fit geometric tangram pieces together and solve the puzzles first"
  },
  {
   "name": "Temple Transfer",
@@ -32586,7 +32586,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/2c/Temple_transfer_thailand.jpg/revision/latest?cb=20130910011625",
-  "blurb": ""
+  "blurb": "Move a stacked temple between stations one level at a time, never putting big atop small"
  },
  {
   "name": "The Ball Drop",
@@ -32672,7 +32672,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/88/Erika-theballdrop.jpg/revision/latest?cb=20211218135201",
-  "blurb": ""
+  "blurb": "Balance a metal ball on a wooden cylinder as extra rod sections make it ever more wobbly"
  },
  {
   "name": "The Cruel Sea",
@@ -32742,7 +32742,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/95/0019-s29_press_images_ep4_0019.jpg/revision/latest?cb=20141009150314",
-  "blurb": ""
+  "blurb": "Swim and dive relay-style for rings, then hook every ring onto posts from shore"
  },
  {
   "name": "The Game is Afoot",
@@ -32803,7 +32803,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/58/0017-s29_press_images_ep9_0017.jpg/revision/latest?cb=20141114212755",
-  "blurb": ""
+  "blurb": "Using only your feet, unwind a rope, free blocks, and build a three-tiered tower with a flag"
  },
  {
   "name": "The Gauntlet",
@@ -32878,7 +32878,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/2/26/S16e8.jpg/revision/latest?cb=20121218183113",
-  "blurb": ""
+  "blurb": "Traverse a wobbly obstacle course while rivals swing canvas bags to knock you off"
  },
  {
   "name": "The Home Stretch",
@@ -32932,7 +32932,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/eb/S32_press_images_ep14_0037.jpg/revision/latest?cb=20160519180744",
-  "blurb": ""
+  "blurb": "Slide tiles through a target, carry them on a machete over beams, then crack the tile code"
  },
  {
   "name": "The Maze",
@@ -33074,7 +33074,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/ff/S34_Ep14_012.jpg/revision/latest?cb=20171016182927",
-  "blurb": ""
+  "blurb": "Navigate a labyrinth of corridors, collecting items at checkpoints before finding the exit"
  },
  {
   "name": "The Obstacle Course",
@@ -33661,7 +33661,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/d5/Obstacle_course_all-stars.jpg/revision/latest?cb=20140108160836",
-  "blurb": ""
+  "blurb": "Race through a gauntlet of physical and mental obstacles to the finish line"
  },
  {
   "name": "The Octopus Puzzle",
@@ -33706,7 +33706,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1a/KLS29_Ep3_Immunity_Challenge.png/revision/latest?cb=20230515185733",
-  "blurb": ""
+  "blurb": "Dive 2.4m for a sunken table and rope bags, then lay 11 ropes into an octopus outline"
  },
  {
   "name": "The Stick",
@@ -33740,7 +33740,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "",
-  "blurb": ""
+  "blurb": "Face off at a table and be quickest to snatch a stick as it shoots up through a hole"
  },
  {
   "name": "The Traps",
@@ -33811,7 +33811,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/65/KLS26_Ep6_Reward_Challenge2.png/revision/latest?cb=20230610162955",
-  "blurb": ""
+  "blurb": "Pull eight roped buoys from the water, then heave a net weighing up to 150 kg off the bottom"
  },
  {
   "name": "This Much",
@@ -34016,7 +34016,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/S32_press_images_ep10_0014.jpg/revision/latest?cb=20160421125040",
-  "blurb": ""
+  "blurb": "Pin two discs against posts with just your outstretched fingertips and outlast everyone"
  },
  {
   "name": "Thrash, Splash & Bash",
@@ -34057,7 +34057,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ce/250519.jpg/revision/latest?cb=20130724154805",
-  "blurb": "Race obstacles to a drawbridge, chop free lettered blocks, and spell out a phrase"
+  "blurb": "Race obstacles to a drawbridge, chop a rope to free lettered blocks, then spell the phrase"
  },
  {
   "name": "Tomb Raider",
@@ -34131,7 +34131,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/S11e7.jpg/revision/latest?cb=20120530121444",
-  "blurb": "Run to retrieve giant puzzle pieces, then fit them together on a solving platform"
+  "blurb": "Run out to haul back giant puzzle pieces, then fit them together on the solving platform"
  },
  {
   "name": "Torched",
@@ -34168,7 +34168,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/7c/Zas04e05_battleships.png/revision/latest?cb=20230424153245",
-  "blurb": "Hide ships on a grid and call coordinates to sink opponents, Battleship-style"
+  "blurb": "Play Survivor battleship: hide your ship on a grid and call shots to sink your rivals' first"
  },
  {
   "name": "Total Recall",
@@ -34235,7 +34235,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Survivor.Vanuatu.s09e11.Surprise.and.Surprise.Again.DVDrip_156.jpg/revision/latest?cb=20140806154508",
-  "blurb": ""
+  "blurb": "Study an event or location closely, then answer the host's rapid-fire questions about it"
  },
  {
   "name": "Tracks of My Tears",
@@ -34283,7 +34283,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/110128_06147bb.jpg/revision/latest?cb=20170929133514",
-  "blurb": "Pull a cart up a tower, ride it down, then solve a puzzle first"
+  "blurb": "Haul a cart up a tower, careen back down inside it, then race to solve a puzzle"
  },
  {
   "name": "Tribal Tiles",
@@ -34332,7 +34332,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/9e/Survivor.Vanuatu.s09e04.Now.That%27s.a.Reward%21.DVDrip_387.jpg/revision/latest?cb=20140811204258",
-  "blurb": ""
+  "blurb": "Follow your caller's directions to arrange a 4x4 grid with no repeating symbols or colors"
  },
  {
   "name": "Tricky Transfer",
@@ -34390,7 +34390,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/1b/AU2017-Ep8-RewardChallenge.jpg/revision/latest?cb=20171002144707",
-  "blurb": ""
+  "blurb": "Steer a ball balanced on a rope-held disc across the course as a team without dropping it"
  },
  {
   "name": "Troubled Water",
@@ -34434,7 +34434,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/7/70/Troubled_water_vanuatu.jpg/revision/latest?cb=20131207183824",
-  "blurb": "Bail water from a tank with your body, then hammer through its bottom to escape"
+  "blurb": "Cross floating obstacles to grab an item at the end, restarting any obstacle you fall from"
  },
  {
   "name": "Trunk Challenge",
@@ -34515,7 +34515,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/50/KLS29_Ep6_Reward_Challenge.jpg/revision/latest?cb=20230516191338",
-  "blurb": ""
+  "blurb": "Knot a trunk shut as fiendishly as you can, then race to untie and open the rivals' trunk"
  },
  {
   "name": "Unchained Medley",
@@ -34553,7 +34553,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/108343_D08847b.jpg/revision/latest?cb=20170330163052",
-  "blurb": ""
+  "blurb": "Carry a ball balanced on a handled disc across obstacles, then tackle a final task"
  },
  {
   "name": "Uncomfortably Numb",
@@ -34682,7 +34682,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/03/0007-s29_press_images_ep10_0007.JPG/revision/latest?cb=20141121212604",
-  "blurb": ""
+  "blurb": "Perch your toes on a tiny ledge while gripping a handle overhead, outlasting all rivals"
  },
  {
   "name": "United We Stand",
@@ -34910,7 +34910,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/f/fa/6b.jpg/revision/latest?cb=20130515161604",
-  "blurb": ""
+  "blurb": "Ferry tribemates between high platforms on a pole-mounted lift, then cram everyone up top"
  },
  {
   "name": "Vampire Bats",
@@ -35235,7 +35235,7 @@ const CHALLENGES = [
    "endurance"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0c/Gang_hang.jpg/revision/latest?cb=20130620232949",
-  "blurb": ""
+  "blurb": "Hang from a bar over the water for as long as your grip (and later just your legs) holds"
  },
  {
   "name": "Vertically Challenged",
@@ -35299,7 +35299,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/c/ca/20.jpg/revision/latest?cb=20130513155324",
-  "blurb": ""
+  "blurb": "Sprint up tower steps for puzzle bags, slide down, and build a vertical puzzle below"
  },
  {
   "name": "Vertigo",
@@ -35398,7 +35398,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/ef/Survivor-cagayan-spencer-immunity-challenge-455x270.jpg/revision/latest?cb=20140522151112",
-  "blurb": "From a high perch, haul up ocean water by bucket to raise a flag or key"
+  "blurb": "Toss a bucket from a high perch to scoop seawater, filling a chute to raise your flag or key"
  },
  {
   "name": "Walk the Plank",
@@ -35983,7 +35983,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/68/Colleen_last.png/revision/latest?cb=20120318043000",
-  "blurb": ""
+  "blurb": "Stand on a bundle of planks that get pulled away one by one until you're balancing on a single board"
  },
  {
   "name": "Wall to Wall",
@@ -36026,7 +36026,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/8/80/Pegatory_Knockout_Panama.png/revision/latest?cb=20130425225631",
-  "blurb": "Guide a wooden peg through a maze table and complete the final objective first"
+  "blurb": "Guide a wooden peg through a tabletop maze, then race to complete the final objective"
  },
  {
   "name": "Water Torture",
@@ -36223,7 +36223,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/38/Savaii_shoulder_the_load.jpg/revision/latest?cb=20211123190231",
-  "blurb": ""
+  "blurb": "Shoulder a pole while rivals pile on 20-pound weights each round; buckle last to win"
  },
  {
   "name": "Wear My Ring",
@@ -36265,7 +36265,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/a/a3/S46e04_yanu_wear_my_ring.jpg/revision/latest?cb=20240321150107",
-  "blurb": ""
+  "blurb": "Paddle ashore with a key, fling rings off a tall pole, dig under a log, then toss them back on"
  },
  {
   "name": "Well Stacked",
@@ -36451,7 +36451,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/36/Well_stacked_samoa.jpg/revision/latest?cb=20160324012729",
-  "blurb": ""
+  "blurb": "Cross an obstacle course gathering wooden blocks, then stack them into a tower"
  },
  {
   "name": "What-er Drag",
@@ -36716,7 +36716,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/b/b5/110483_20221b.jpg/revision/latest?cb=20180315191519",
-  "blurb": ""
+  "blurb": "Cross a floating bridge trailing a winch rope, grab puzzle pieces, and get cranked back to solve"
  },
  {
   "name": "When It Rains, It Pours",
@@ -36999,7 +36999,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/db/S24_ep9_press_images_00003.jpg/revision/latest?cb=20120410204038",
-  "blurb": ""
+  "blurb": "Stand with a wrist tethered overhead to a water bucket that dumps on you if you budge"
  },
  {
   "name": "Wicker Flicker",
@@ -37180,7 +37180,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/1/17/Sierra_catch.JPG/revision/latest?cb=20121010002002",
-  "blurb": ""
+  "blurb": "Slingshot balls across a field while teammates sprint to catch them in wicker baskets"
  },
  {
   "name": "Wild Water Wheel",
@@ -37241,7 +37241,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/5/56/ESS17_noria_infernal.png/revision/latest?cb=20240428011017",
-  "blurb": ""
+  "blurb": "Cling arms-and-legs-crossed to a giant spinning wheel that speeds up until someone flies off"
  },
  {
   "name": "Will It Go Round",
@@ -37323,7 +37323,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/Ie_32152.jpeg/revision/latest?cb=20191120171305",
-  "blurb": ""
+  "blurb": "Keep a ball whirling inside a wheel by centrifugal force while inching along a balance beam"
  },
  {
   "name": "Will Power",
@@ -37371,7 +37371,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/61/AmazonFinalImmunity.jpg/revision/latest?cb=20151222154539",
-  "blurb": ""
+  "blurb": "Stand atop a wooden perch holding an object overhead, outlasting everyone without dropping it"
  },
  {
   "name": "Witch Hunt",
@@ -37509,7 +37509,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/3/30/WHSB.jpg/revision/latest?cb=20130807125413",
-  "blurb": ""
+  "blurb": "Listen to a folklore tale, then race between stations answering questions about it for items"
  },
  {
   "name": "Wizard's Staff",
@@ -37543,7 +37543,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/de/S33_Ep13_SG_037.jpg/revision/latest?cb=20171016214011",
-  "blurb": ""
+  "blurb": "Carry an object on a pole across a beam, then thread the long pole through a wire maze"
  },
  {
   "name": "Wobbly Boots",
@@ -37580,7 +37580,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/d/da/Survivor.s11e14.pdtv.xvid-xor_561.jpg/revision/latest?cb=20140718191816",
-  "blurb": "Balance on a wobbly platform, gradually letting go of ropes, longer than anyone else"
+  "blurb": "Balance on a platform atop a loose ball joint, letting go of your steadying ropes in stages"
  },
  {
   "name": "Wrist Assured",
@@ -37703,7 +37703,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/6/6d/250719.jpg/revision/latest?cb=20130722160845",
-  "blurb": ""
+  "blurb": "Grip a handle roped to a bucket loaded with your own body weight and hold out the longest"
  },
  {
   "name": "Yank Your Hank",
@@ -37804,7 +37804,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/0/0a/S31_press_images_ep2_0018.jpg/revision/latest?cb=20150925135507",
-  "blurb": ""
+  "blurb": "Cross A-frames with rope coils, winch a heavy crate up a ramp, then solve the puzzle inside it"
  },
  {
   "name": "You Shook Me",
@@ -37854,7 +37854,7 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/9/92/S35e13_ben_you_shook_me.jpg/revision/latest?cb=20250509093517",
-  "blurb": ""
+  "blurb": "Spell words by stacking letter blocks on a wobbly platform, starting over if any topple"
  },
  {
   "name": "Your Time Is Up",
@@ -37886,6 +37886,6 @@ const CHALLENGES = [
    "local"
   ],
   "image": "https://static.wikia.nocookie.net/survivor/images/e/e7/Aurora_Final_Immunity_Challenge.jpg/revision/latest?cb=20230416014658",
-  "blurb": ""
+  "blurb": "Guess when a set amount of time has elapsed more accurately than anyone else"
  }
 ];

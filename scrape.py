@@ -294,15 +294,15 @@ def resolve_images(filenames):
     return urls
 
 
-def apply_blurbs(challenges):
-    """One-sentence card blurbs, generated once and kept in blurbs.json."""
+def apply_blurbs(challenges, show="survivor"):
+    """One-sentence card blurbs, generated once and kept in blurbs.json (keyed show::name)."""
     try:
         with open("blurbs.json") as f:
             blurbs = json.load(f)
     except FileNotFoundError:
         blurbs = {}
     for c in challenges:
-        c["blurb"] = blurbs.get(c["name"], "")
+        c["blurb"] = blurbs.get(f"{show}::{c['name']}", "")
 
 
 def main():
