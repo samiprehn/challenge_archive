@@ -27,7 +27,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": "Skate ten laps around a rink while knocking rivals over the crash pads"
  },
  {
   "name": "Bed Race",
@@ -47,7 +48,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": ""
  },
  {
   "name": "Bungee Jump",
@@ -67,7 +69,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": ""
  },
  {
   "name": "Las Vegas Talent Show",
@@ -87,7 +90,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": ""
  },
  {
   "name": "Boot Camp",
@@ -107,7 +111,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": ""
  },
  {
   "name": "Handsome Reward",
@@ -143,7 +148,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge",
+  "blurb": ""
  },
  {
   "name": "Stratos-Fear",
@@ -163,7 +169,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Demolition Derby",
@@ -183,7 +190,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Wheel of Wrestling",
@@ -203,7 +211,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Snake Wrangling",
@@ -223,7 +232,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Redneck Games",
@@ -243,7 +253,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Mud Football",
@@ -263,7 +274,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Swamp Buggy Racing",
@@ -283,7 +295,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Homemade Swimsuit Contest",
@@ -303,7 +316,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Stir Crazy",
@@ -323,7 +337,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge_2000",
+  "blurb": ""
  },
  {
   "name": "Blimp Water Skiing",
@@ -343,7 +358,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Fisherman's Wharf",
@@ -363,7 +379,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "No Laughing Matter",
@@ -383,7 +400,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Rollerball Resurrection",
@@ -403,7 +421,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Wrestling with the Past",
@@ -423,7 +442,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Sub-Standard",
@@ -443,7 +463,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Bring It On",
@@ -463,7 +484,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Breath-Taking",
@@ -483,7 +505,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Tough Guy",
@@ -503,7 +526,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Defying Gravity",
@@ -523,7 +547,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Famous Couples Fashion Show",
@@ -543,7 +568,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Medi-Evil",
@@ -563,7 +589,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Operation Human Shield",
@@ -583,7 +610,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Toyota Motosports",
@@ -603,7 +631,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": ""
  },
  {
   "name": "Race to the Finish",
@@ -626,7 +655,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Extreme_Challenge",
+  "blurb": "Cycle to the end of a trail, then follow arrows on foot to the checkpoint"
  },
  {
   "name": "Hang Man",
@@ -649,7 +679,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Hang from a pole with your partner longer than the other teams"
  },
  {
   "name": "Musical Inner-Tube Tango",
@@ -671,7 +702,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Dance around a pool and grab an inner tube when the music stops, musical-chairs style"
  },
  {
   "name": "Vertical Limit",
@@ -694,7 +726,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Climb a buoy-lined rope as high as possible in three minutes, scoring per buoy"
  },
  {
   "name": "Slam Dunk",
@@ -717,7 +750,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Bungee jump back-to-back with a partner and dunk balls into point-valued hoops"
  },
  {
   "name": "Ladder of Doom",
@@ -740,7 +774,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Climb down a ladder over a 50-foot drop, grab a flag, and bring it back up in relay"
  },
  {
   "name": "Round 'Em Up",
@@ -762,7 +797,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Ride horses to herd a cow into a pen within fifteen minutes"
  },
  {
   "name": "Rush Hour",
@@ -785,7 +821,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Slide cars back and forth in a traffic puzzle to free one car without collisions"
  },
  {
   "name": "Hands on Saturn",
@@ -805,7 +842,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": ""
  },
  {
   "name": "Sidekick Showdown",
@@ -828,7 +866,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Match your answers to your partner's on personal questions, Newlywed Game style"
  },
  {
   "name": "Block Head",
@@ -859,7 +898,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Gather nine giant cubes around the arena and arrange them into a puzzle pattern"
  },
  {
   "name": "Siamese Wrestling",
@@ -881,7 +921,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Wrestle bound back-to-back with a partner and pin the other team for three seconds"
  },
  {
   "name": "Sergeant Says",
@@ -901,7 +942,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Dead Man's Drop",
@@ -932,7 +974,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang upside down from a high pole by your legs longer than your opponent"
  },
  {
   "name": "Tree House",
@@ -952,7 +995,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Breath-Hold Bungee",
@@ -972,7 +1016,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Seven Rings of Saturn",
@@ -992,7 +1037,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Freeze Your Butt Off",
@@ -1012,7 +1058,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "People Mover",
@@ -1032,7 +1079,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Battle of the Opposite Sexes",
@@ -1052,7 +1100,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Leaky River",
@@ -1072,7 +1121,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Stairway to Heaven",
@@ -1092,7 +1142,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": "Build a pole staircase, zipline to grab puzzle bags, and solve the puzzle on top"
  },
  {
   "name": "Collision Course",
@@ -1112,7 +1163,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Spider Mon",
@@ -1132,7 +1184,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Human Aquarium",
@@ -1152,7 +1205,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Razor's Edge",
@@ -1172,7 +1226,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Maximum Velocity",
@@ -1192,7 +1247,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "It Takes Three",
@@ -1212,7 +1268,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes",
+  "blurb": ""
  },
  {
   "name": "Snake Soup",
@@ -1232,7 +1289,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Masquerade",
@@ -1252,7 +1310,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Mud Bath",
@@ -1272,7 +1331,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "I Scream",
@@ -1292,7 +1352,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Holey Canoe",
@@ -1312,7 +1373,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Heavyweight Hustle",
@@ -1332,7 +1394,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Sink My Ship",
@@ -1352,7 +1415,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Red Barron",
@@ -1372,7 +1436,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Inferno",
@@ -1392,7 +1457,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Rolling on a River",
@@ -1412,7 +1478,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Turntable",
@@ -1432,7 +1499,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "All or Nothing",
@@ -1452,7 +1520,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Vertical Sweep",
@@ -1472,7 +1541,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Dukes of Saturn",
@@ -1492,7 +1562,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet",
+  "blurb": ""
  },
  {
   "name": "Grope the Rope",
@@ -1512,7 +1583,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Bird Feeder",
@@ -1532,7 +1604,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Wreck N' Roll",
@@ -1552,7 +1625,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Climbing Wall",
@@ -1572,7 +1646,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Disco Domino Derby",
@@ -1592,7 +1667,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Balls Out",
@@ -1612,7 +1688,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Ultimate Saturn Road Trip",
@@ -1632,7 +1709,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Don't Yank My Chain",
@@ -1652,7 +1730,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Come Sail Away",
@@ -1672,7 +1751,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Bungee Bound",
@@ -1692,7 +1772,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Twist and Shoot",
@@ -1712,7 +1793,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Balcony Swing",
@@ -1732,7 +1814,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Fallen Angels",
@@ -1752,7 +1835,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Saturn Valet Ballet",
@@ -1772,7 +1856,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Window Washing",
@@ -1792,7 +1877,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Seven Deadly Sins",
@@ -1812,7 +1898,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno",
+  "blurb": ""
  },
  {
   "name": "Dangle Drop",
@@ -1832,7 +1919,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Snake Pit Poker",
@@ -1852,7 +1940,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Melt with You",
@@ -1872,7 +1961,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Bombs Away",
@@ -1921,7 +2011,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Heave medicine balls out of a barrel, then race to ignite a smoke bomb first"
  },
  {
   "name": "Junk Boat",
@@ -1941,7 +2032,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "High Noon",
@@ -1961,7 +2053,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Fill 'Er Up",
@@ -1981,7 +2074,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Sa Wing",
@@ -2001,7 +2095,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Electro Shock",
@@ -2021,7 +2116,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Pop Culture Bike Jump",
@@ -2041,7 +2137,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "The Shredder",
@@ -2061,7 +2158,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Cast a Spell",
@@ -2081,7 +2179,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Semi-Cross",
@@ -2101,7 +2200,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Car-Go",
@@ -2121,7 +2221,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Vertigo",
@@ -2141,7 +2242,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": "From a high perch, haul up ocean water by bucket to raise a flag or key"
  },
  {
   "name": "Escape from Santa Fe",
@@ -2161,7 +2263,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Battle_of_the_Sexes_2",
+  "blurb": ""
  },
  {
   "name": "Surf Torture",
@@ -2181,7 +2284,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Juice It Up",
@@ -2201,7 +2305,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "X Marks the Spot",
@@ -2233,7 +2338,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": "Run an obstacle course in pairs to grab puzzle pieces, then solve puzzles solo"
  },
  {
   "name": "Run for Your Money",
@@ -2253,7 +2359,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Dodge Yer Balls",
@@ -2273,7 +2380,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Fill in the Gaps",
@@ -2293,7 +2401,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Zip Up",
@@ -2313,7 +2422,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Never Ending Climb",
@@ -2333,7 +2443,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "What a Drag",
@@ -2353,7 +2464,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Riddle Me This",
@@ -2373,7 +2485,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Time to Ride",
@@ -2393,7 +2506,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "If Memory Serves",
@@ -2413,7 +2527,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Crab Grab",
@@ -2433,7 +2548,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Heart Rate Bungee",
@@ -2453,7 +2569,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Montezuma's Revenge",
@@ -2473,7 +2590,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_II",
+  "blurb": ""
  },
  {
   "name": "Royal Rumble",
@@ -2496,7 +2614,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Battle to be the last person standing on a raft"
  },
  {
   "name": "Chock Full o' Coconuts",
@@ -2518,7 +2637,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Ferry 200 coconuts across on bamboo sticks with a partner without dropping them"
  },
  {
   "name": "Team Builders",
@@ -2541,7 +2661,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Race through a series of ordered tasks to get every teammate through the course"
  },
  {
   "name": "Moving Pyramid",
@@ -2563,7 +2684,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Crawl a course as a human pyramid, snagging flags off poles along the way"
  },
  {
   "name": "Sponge Worthy",
@@ -2586,7 +2708,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Pass ocean water down a line of teammates using only sponges and bodies"
  },
  {
   "name": "Body Painters",
@@ -2608,7 +2731,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Cover six canvases in paint using only your speedo-clad body"
  },
  {
   "name": "Rickshaw Races",
@@ -2630,7 +2754,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Ferry every teammate around six laps in a rickshaw faster than the other team"
  },
  {
   "name": "Team Strength",
@@ -2652,7 +2777,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Push a truck through a course, then push it back loaded with cinder blocks"
  },
  {
   "name": "Balancing Act",
@@ -2684,7 +2810,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Swing onto a tilted platform over water and shift weight to level it out"
  },
  {
   "name": "Buck-A-Neer",
@@ -2707,7 +2834,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": "Balance on rope-rigged barrels while the other team yanks the ropes to topple you"
  },
  {
   "name": "Pull Me",
@@ -2727,7 +2855,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Spare Tires",
@@ -2747,7 +2876,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Easy Does It",
@@ -2767,7 +2897,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "The Pit",
@@ -2787,7 +2918,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Blind Trust",
@@ -2807,7 +2939,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Piece by Piece",
@@ -2827,7 +2960,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Bet Your Booty",
@@ -2847,7 +2981,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_2",
+  "blurb": ""
  },
  {
   "name": "Stuck on Me",
@@ -2870,7 +3005,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Walk a high narrow beam harnessed back-to-back, turn 360 degrees, and walk back"
  },
  {
   "name": "Bushwhacked",
@@ -2890,7 +3026,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": ""
  },
  {
   "name": "Hang On",
@@ -2912,7 +3049,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Hang upside down and grip your partner over water longer than the other pairs"
  },
  {
   "name": "Jail Break",
@@ -2935,7 +3073,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Fish keys from bowls of slop with your face, unlock your cuffs, and sprint shackled"
  },
  {
   "name": "Climber's Paradise",
@@ -2958,7 +3097,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Scale a climbing wall by placing pegs, communicating shapes with your partner"
  },
  {
   "name": "Rollin' in Oats",
@@ -2982,7 +3122,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Coat your body in oatmeal, sprint across a field, and scrape it into a tub"
  },
  {
   "name": "Crossed Paths",
@@ -3002,7 +3143,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Traverse a high rope over water, crossing past your teammate midway"
  },
  {
   "name": "Incredible Deflating Kayak",
@@ -3025,7 +3167,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Inflate a kayak, paddle across a river and back, then deflate and repack it"
  },
  {
   "name": "Swimming with Sharks",
@@ -3050,7 +3193,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Dive into a shark lagoon relay-style to retrieve and assemble puzzle pieces"
  },
  {
   "name": "Human Ox Pull",
@@ -3073,7 +3217,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Drag a massive weighted sled across a dirt field faster than the other team"
  },
  {
   "name": "Batten Down the Hatches",
@@ -3098,7 +3243,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Climb down hanging rope ladders from a suspended boat, swap sides, and climb back in"
  },
  {
   "name": "Jump Down Under",
@@ -3121,7 +3267,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Leap into a lake, climb a floating launch for a flag, then swim to the flag poles"
  },
  {
   "name": "Deep Blue",
@@ -3145,7 +3292,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Dive 30 feet for a flag, then hold your breath underwater longer than the other teams"
  },
  {
   "name": "Target Training",
@@ -3169,7 +3317,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Race an obstacle course, shoot four targets with paintball guns, and haul back an artifact"
  },
  {
   "name": "What a Croc",
@@ -3191,7 +3340,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Cling to a spinning wheel as long as possible without touching the edge or falling"
  },
  {
   "name": "Miles of Exile",
@@ -3217,7 +3367,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_Fresh_Meat",
+  "blurb": "Sprint ten miles of beach roped to your partner, hitting checkpoints and puzzles"
  },
  {
   "name": "Reachin' Out",
@@ -3237,7 +3388,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": ""
  },
  {
   "name": "Ring Toss",
@@ -3259,7 +3411,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Race across a mud pit to stack rings on opponents' poles and knock them out"
  },
  {
   "name": "Pass with Care",
@@ -3279,7 +3432,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Cross an unstable high rope bridge and pass your partner midway without hands"
  },
  {
   "name": "Push Over",
@@ -3309,7 +3463,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Knock your opponent off a wooden plank twice"
  },
  {
   "name": "Flying Leap",
@@ -3331,7 +3486,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Jump back and forth on a suspended platform grabbing flags in three minutes"
  },
  {
   "name": "Throwback",
@@ -3353,7 +3509,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Swing your partner into water, then swim to retrieve and dunk a soccer ball"
  },
  {
   "name": "Rafty Race",
@@ -3378,7 +3535,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Race in swim fins through checkpoints, inflating rafts before rivals claim the gear"
  },
  {
   "name": "Pole Dance",
@@ -3401,7 +3559,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Hoist teammates up a slippery pole to grab a flag, then race the dunes solo"
  },
  {
   "name": "Stacking Stairs",
@@ -3425,7 +3584,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Stack crates into a wobbly staircase and climb it to snatch a hanging flag"
  },
  {
   "name": "Ice Breakers",
@@ -3447,7 +3607,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Sledgehammer giant ice blocks through grates and smash the heaviest pile in five minutes"
  },
  {
   "name": "Sunken Treasure",
@@ -3472,7 +3633,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Dive a deep tank to memorize codes and unlock a treasure chest with your partner"
  },
  {
   "name": "Around the Block",
@@ -3503,7 +3665,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Climb a crane-suspended truss and grab as many hanging flags as possible"
  },
  {
   "name": "Paddle Me",
@@ -3526,7 +3689,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Paddle surfboards with your partner to an island, then race back solo"
  },
  {
   "name": "The Rio Deal",
@@ -3551,7 +3715,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel",
+  "blurb": "Kick penalty shots, then race up a mountain through puzzle and teeter-totter checkpoints"
  },
  {
   "name": "Ladder Race",
@@ -3573,7 +3738,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Race a ladder up, across, and down a 40-foot tower faster than your rival"
  },
  {
   "name": "Battering Ram",
@@ -3595,7 +3761,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Swing a suspended log by ropes to smash through two-ton castle doors"
  },
  {
   "name": "Wrap and Roll",
@@ -3615,7 +3782,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Wrap and unwrap a rope with your partner to cross a platform 1,000 feet up"
  },
  {
   "name": "Rope Burn",
@@ -3645,7 +3813,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tug and swing on a shared rope to pull your opponent off their dome"
  },
  {
   "name": "Reversible Climbing Wall",
@@ -3667,7 +3836,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Scale a 40-foot wall as your partner inserts pegs from the other side"
  },
  {
   "name": "Grape Smash",
@@ -3689,7 +3859,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Stomp grapes and transfer the juice by mouth into bottles within thirty minutes"
  },
  {
   "name": "Steady as You Go",
@@ -3709,7 +3880,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Build a log walkway so teammates can cross between platforms without falling"
  },
  {
   "name": "Leaps and Bounds",
@@ -3731,7 +3903,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Bounce from trampolines onto ever-smaller platforms without using your hands"
  },
  {
   "name": "Dog Day Afternoon",
@@ -3754,7 +3927,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Drag opponents on a dog sled through a 50-yard dash with your partner"
  },
  {
   "name": "Hand Car",
@@ -3777,7 +3951,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Pump a railroad hand car back and forth to pick up every teammate"
  },
  {
   "name": "Giraffic Park",
@@ -3801,7 +3976,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Memorize a carved giraffe, then swim a lake to find and return its identical twin"
  },
  {
   "name": "Captain's Chair",
@@ -3824,7 +4000,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Answer trivia while wrong answers deliver electric shocks to your strapped-in captain"
  },
  {
   "name": "Hook Me",
@@ -3848,7 +4025,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Reel your swimming teammate out of the water with a deep-sea fishing pole"
  },
  {
   "name": "Nothin' but Net",
@@ -3872,7 +4050,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": "Climb cargo nets and swing on ropes over water to collect four flags"
  },
  {
   "name": "The Big Five",
@@ -3892,7 +4071,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Inferno_3",
+  "blurb": ""
  },
  {
   "name": "Tug of War",
@@ -3912,7 +4092,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": ""
  },
  {
   "name": "Screw You",
@@ -3935,7 +4116,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": "Race through obstacles in pairs, unscrewing giant wing nuts along the way"
  },
  {
   "name": "Wring Out",
@@ -3960,7 +4142,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": "Soak clothing in the ocean and wring the water into a bucket up to the fill line"
  },
  {
   "name": "Assembly Required",
@@ -3980,7 +4163,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": "Take apart a 20-foot replica pyramid, move the pieces, and rebuild it"
  },
  {
   "name": "Pole Push",
@@ -4002,7 +4186,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": "Grip a central pole and shove the opposing team out of the circle"
  },
  {
   "name": "Over the Edge",
@@ -4025,7 +4210,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": "Walk a plank off a 25-story building, climb down a ladder for a flag, and climb back"
  },
  {
   "name": "Chill Out",
@@ -4056,7 +4242,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Alternate sitting in an ice tub and stacking a plank-and-disc puzzle to height"
  },
  {
   "name": "Army Strong",
@@ -4076,7 +4263,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Gauntlet_III",
+  "blurb": ""
  },
  {
   "name": "Leaning Tower",
@@ -4108,7 +4296,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swim for twelve pegs, then use them to climb a telephone pole and ring the bell"
  },
  {
   "name": "The Rack",
@@ -4138,7 +4327,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sit suspended between two bars over water longer than everyone else"
  },
  {
   "name": "Ball Buster",
@@ -4168,7 +4358,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Bridge It",
@@ -4206,7 +4397,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Ascend a rope bridge up a tower using three movable rungs without dropping them"
  },
  {
   "name": "Rat in a Cage",
@@ -4237,7 +4429,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Untie knotted ropes to reach keys and unlock your way out of a cage first"
  },
  {
   "name": "Timber",
@@ -4257,7 +4450,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Island"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Island",
+  "blurb": ""
  },
  {
   "name": "Water Bound",
@@ -4288,7 +4482,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bounce in a water tank while shackled to a weight and outlast everyone"
  },
  {
   "name": "Freezing as Puck",
@@ -4311,7 +4506,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Push your partner across an ice rink on a giant ice block to hit scoring targets"
  },
  {
   "name": "All Shook Up",
@@ -4334,7 +4530,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Shake opponents off parallel ropes over a mud pit and be the last one hanging"
  },
  {
   "name": "Luging My Mind",
@@ -4357,7 +4554,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Ride a luge down a course in bobbleheads, then solve a puzzle with your partner"
  },
  {
   "name": "Don't Let Go",
@@ -4379,7 +4577,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Grip your partner's hands over a canyon swing for as long as possible"
  },
  {
   "name": "Dangle Duo",
@@ -4401,7 +4600,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Climb a 100-foot suspended ladder with your partner and raise a flag to the top"
  },
  {
   "name": "Burnt",
@@ -4423,7 +4623,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Hang from a structure and pull your rope to send a flag to a barrel before yours explodes"
  },
  {
   "name": "Upside Downer",
@@ -4443,7 +4644,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Swing upside down across a suspended rope platform collecting carvings"
  },
  {
   "name": "Spelling Air",
@@ -4463,7 +4665,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Duel_II",
+  "blurb": "Spell words correctly while hanging 100 feet above water or get dropped in"
  },
  {
   "name": "Chain Gang",
@@ -4483,7 +4686,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Swing on By",
@@ -4503,7 +4707,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Repo Race",
@@ -4523,7 +4728,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Burning Bridge",
@@ -4543,7 +4749,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Block Party",
@@ -4563,7 +4770,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Fruits of Your Labor",
@@ -4583,7 +4791,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Rotary Club",
@@ -4603,7 +4812,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Final Challenge",
@@ -4823,7 +5033,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins"
+  "url": "https://thechallenge.fandom.com/wiki/Real_World/Road_Rules_Challenge%3A_The_Ruins",
+  "blurb": ""
  },
  {
   "name": "Dirty Mouth",
@@ -4846,7 +5057,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Blindfolded, haul oversize balls out of a mud pit guided by your partner's voice"
  },
  {
   "name": "I'll Be There for You",
@@ -4869,7 +5081,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Take turns diving to hold a weighted chest off an underwater platform"
  },
  {
   "name": "Water Logged",
@@ -4891,7 +5104,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Swing across hanging logs of different lengths to cross a platform over water"
  },
  {
   "name": "King of the Wall",
@@ -4915,7 +5129,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Swim to a slanted slippery wall, climb it with your partner, and ring the bell"
  },
  {
   "name": "Drop Out",
@@ -4939,7 +5154,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Climb a swivel ladder, then leap and cling to a hanging canvas bag for five seconds"
  },
  {
   "name": "Turn Style",
@@ -4961,7 +5177,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Push a giant log turnstile 180 degrees while the other team pushes back"
  },
  {
   "name": "Airheads",
@@ -4985,7 +5202,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Slide into a lake, memorize a floating puzzle diagram, and rebuild it on shore"
  },
  {
   "name": "Wrecking Ball",
@@ -5016,7 +5234,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Build a stone puzzle while your dangling partner swings around threatening to topple it"
  },
  {
   "name": "Obstacle",
@@ -5039,7 +5258,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Fresh_Meat_II",
+  "blurb": "Race a half-mile, ten-obstacle course ending in a defended mud pit"
  },
  {
   "name": "Gas Problems",
@@ -5063,7 +5283,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Memorize codes inside a gas chamber to unlock boxes and assemble a layered puzzle"
  },
  {
   "name": "Brain Buster",
@@ -5085,7 +5306,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Swing upside down from ropes to pass beer steins onto color-coded pedestals"
  },
  {
   "name": "Bed Head",
@@ -5105,7 +5327,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Leap as a team from bed to bed on shrinking platforms suspended over water"
  },
  {
   "name": "Bottleneck Stampede",
@@ -5128,7 +5351,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Shove your whole team through narrow obstacle bottlenecks to the finish line"
  },
  {
   "name": "Surf's Up",
@@ -5151,7 +5375,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Ride a flying surfboard off a cliff platform, then swim the buoys and ring a bell"
  },
  {
   "name": "Gimme a Hand",
@@ -5171,7 +5396,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Walk a tightrope between nine-story buildings strapped to your partner"
  },
  {
   "name": "High Ball",
@@ -5195,7 +5421,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Haul balls uphill balanced on a giant martini-glass carrier and drop them in a basket"
  },
  {
   "name": "Riot Act",
@@ -5218,7 +5445,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": "Shove opponents off a dirt platform into a mud pit using riot shields"
  },
  {
   "name": "Czech Point",
@@ -5238,7 +5466,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Cutthroat",
+  "blurb": ""
  },
  {
   "name": "High Dive",
@@ -5260,7 +5489,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Sprint off a platform above a waterfall with your partner and jump for distance"
  },
  {
   "name": "Car Crusher",
@@ -5283,7 +5513,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Flatten a car with heavy machinery, then push the wreck through your goal"
  },
  {
   "name": "Sync or Swim",
@@ -5306,7 +5537,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Shovel sand to raise your container, then zipline down and swim to the finish"
  },
  {
   "name": "Hammock Crawl",
@@ -5329,7 +5561,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Cross under a platform by climbing hammock to hammock with your partner"
  },
  {
   "name": "Against the Current",
@@ -5352,7 +5585,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Paddle a kayak upstream against the current, then race back to the finish"
  },
  {
   "name": "Catch & Release",
@@ -5380,7 +5614,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Leap onto a swinging bag and ride it across to grab hanging flags"
  },
  {
   "name": "Sawed Off",
@@ -5402,7 +5637,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals",
+  "blurb": "Blast a fire hose at your partner's rope to slice it on a blade and drop them"
  },
  {
   "name": "Give Me Some Honey",
@@ -5424,7 +5660,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Walk a beam soaked in honey and let your partner scrub it off into a bucket"
  },
  {
   "name": "Rolling in the Deep",
@@ -5446,7 +5683,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Cling to a spinning log over water, then swim the lagoon and ring a bell"
  },
  {
   "name": "Don't Rock the Boat",
@@ -5470,7 +5708,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Climb a shipwreck's rigging mast to mast with your partner and ring the crow's nest bell"
  },
  {
   "name": "Lube Me Up",
@@ -5493,7 +5732,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Slide down a slick course and wrestle an oversize ball back up the slope"
  },
  {
   "name": "Race to the Altar",
@@ -5519,7 +5759,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Race a beach course of wedding tasks: dress up, eat cake, change a tire, carry the bride"
  },
  {
   "name": "Feel the Burn",
@@ -5541,7 +5782,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": "Rebuild a picnic while a jet engine blasts 80 mph winds at everything"
  },
  {
   "name": "Viking Quest",
@@ -5561,7 +5803,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes",
+  "blurb": ""
  },
  {
   "name": "Don't Cross Me",
@@ -5583,7 +5826,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Cross giant suspended cross-shaped beams, meet in the middle, and climb down"
  },
  {
   "name": "Oil Change",
@@ -5606,7 +5850,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Wrestle opponents out of a pit of olive oil to win puzzle pieces for your team"
  },
  {
   "name": "Hook, Line & Sinker",
@@ -5626,7 +5871,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Traverse a suspended platform over water using metal hooks and foot holds"
  },
  {
   "name": "Don't Weigh Me Down",
@@ -5652,7 +5898,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Hold up a basket while opponents pile rocks in it to drag it to the ground"
  },
  {
   "name": "Chairman of the Board",
@@ -5674,7 +5921,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Answer trivia from a chair 30 feet above water where wrong answers drop you in"
  },
  {
   "name": "Insane Games",
@@ -5696,7 +5944,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Compete in a gauntlet of oddball mini-games from chariot races to ear pulls"
  },
  {
   "name": "Logged Out",
@@ -5721,7 +5970,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Memorize a puzzle, haul picture logs up a mountain, and rebuild it at the top"
  },
  {
   "name": "Hunger Games",
@@ -5744,7 +5994,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Bid on how much food your team can eat, then eat it without anyone vomiting"
  },
  {
   "name": "Abandon Ship",
@@ -5767,7 +6018,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Dive to release buoys that inflate a life raft, then race the raft to shore"
  },
  {
   "name": "Force Field",
@@ -5798,7 +6050,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to cross your opponent's line while roped together through an overhead pulley"
  },
  {
   "name": "Sling Shot",
@@ -5821,7 +6074,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Seasons",
+  "blurb": "Get launched off a ramp by a four-wheeler, swim to a bell, and swim back"
  },
  {
   "name": "XXX Games",
@@ -5844,7 +6098,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Saw a log with a partner in suggestive positions, then grab a ball by mouth from a pole"
  },
  {
   "name": "Stumped",
@@ -5867,7 +6122,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Weave through a bamboo maze with wrists tied to a 25-foot pole with your partner"
  },
  {
   "name": "Frog Smash",
@@ -5889,7 +6145,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Cross a narrow high beam while swinging opponents try to knock you into the water"
  },
  {
   "name": "Frenemies",
@@ -5912,7 +6169,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Match answers about your partner or watch them drop from a platform into the water"
  },
  {
   "name": "Blind Leading the Blind",
@@ -5936,7 +6194,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "A caller directs blindfolded teammates to collect items scattered around a field"
  },
  {
   "name": "Swingers",
@@ -5958,7 +6217,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Swing from a trapeze to a catch bar, drop into the water, and swim the buoy course"
  },
  {
   "name": "Rampage",
@@ -5988,7 +6248,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Strapped back-to-back, battle to make your opponent fall onto your colored ramp"
  },
  {
   "name": "Color Correction",
@@ -6011,7 +6272,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": "Run a mile to memorize a flashing color sequence, then stack plates in that order"
  },
  {
   "name": "Dream Island",
@@ -6031,7 +6293,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_II",
+  "blurb": ""
  },
  {
   "name": "Out on a Ledge",
@@ -6055,7 +6318,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Race chained sub-teams up a skyscraper, a rooftop plank, and a puzzle station"
  },
  {
   "name": "Auto Body Rally",
@@ -6080,7 +6344,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Drag-race a sports car, then steer a giant two-person bicycle through hay bales"
  },
  {
   "name": "Bounce Out",
@@ -6102,7 +6367,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "In bumper suits, escort your human 'ball' teammate into the opposing soccer goal"
  },
  {
   "name": "Piggy Back",
@@ -6122,7 +6388,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Cross hanging ropes over water using teammates as human bridges between platforms"
  },
  {
   "name": "Smarty Pants",
@@ -6144,7 +6411,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Answer trivia while hanging from a rope over water; two wrong answers drops you in"
  },
  {
   "name": "Sausage Party",
@@ -6167,7 +6435,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Roll through a barbecue-themed obstacle course on the beach while wrapped in shrink wrap"
  },
  {
   "name": "Hold That Pose",
@@ -6189,7 +6458,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Strap into ropes by hands and feet and hold a group pose above the sand for a minute"
  },
  {
   "name": "Dug Out",
@@ -6212,7 +6482,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Run through dug-out half-pipe trenches transferring colored balls to a partner's rack"
  },
  {
   "name": "Crossover",
@@ -6245,7 +6516,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Free_Agents",
+  "blurb": "Swim a lagoon, dig up buried puzzle pieces from chests, and solve a puzzle with a partner"
  },
  {
   "name": "I Got You Babe",
@@ -6265,7 +6537,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Walk a tightrope between buildings while a suspended partner drops a support rope"
  },
  {
   "name": "Rounding the Bases",
@@ -6287,7 +6560,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": ""
  },
  {
   "name": "The Brush Off",
@@ -6310,7 +6584,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Cover yourself in red paint, transfer it to a partner, who body-paints canvas squares"
  },
  {
   "name": "Open Arms",
@@ -6333,7 +6608,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Zip line over a pond, catch your partner mid-air, then swim around a buoy to ring a bell"
  },
  {
   "name": "Don't Forget About Me",
@@ -6359,7 +6635,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Memorize a key under a heavy steel door, then hike a mountain to solve a memory puzzle"
  },
  {
   "name": "Are You the One?",
@@ -6382,7 +6659,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Answer trivia while wrapped in a hanging blanket over water; two misses drops the pair"
  },
  {
   "name": "Speed Dating",
@@ -6406,7 +6684,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Exes_II",
+  "blurb": "Jump between moving tractor trailers to shuttle colored balls into an arrow slot"
  },
  {
   "name": "Don't Let Me Down",
@@ -6437,7 +6716,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a heavy cylinder up a steep ramp and hold it at the top for a full minute"
  },
  {
   "name": "Water Battle",
@@ -6460,7 +6740,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Haul buckets of water up a dirt pile and fill your team barrel over ten minutes"
  },
  {
   "name": "Family Dinner",
@@ -6482,7 +6763,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Chew insects and spit them through a tube into a cup while a snake looms over a teammate"
  },
  {
   "name": "Meet Me Halfway",
@@ -6522,7 +6804,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crash through drywall maze walls from opposite ends to unlock a center box and ring a bell"
  },
  {
   "name": "Family Connection",
@@ -6545,7 +6828,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Move balls across the beach using only head-mounted panels, never your hands"
  },
  {
   "name": "Hand Me Down",
@@ -6568,7 +6852,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Traverse five ropes hanging from a platform atop a skyscraper without falling"
  },
  {
   "name": "Too Clingy",
@@ -6592,7 +6877,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Race across the top of a cargo net over a pond, then crawl back along its underside"
  },
  {
   "name": "Air Pockets",
@@ -6614,7 +6900,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Swim deep between underwater air-pocket cages with a teammate to reach a flag and back"
  },
  {
   "name": "Weight for Me",
@@ -6640,7 +6927,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Race up a mountain hauling heavy bags through checkpoints, then solve a summit puzzle"
  },
  {
   "name": "Truck Crossing",
@@ -6664,7 +6952,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_of_the_Bloodlines",
+  "blurb": "Climb from one speeding tractor trailer to another across five moving cars"
  },
  {
   "name": "Dirty Laundry",
@@ -6688,7 +6977,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III",
+  "blurb": "Rub soap off a pole to reveal numbers, then hang the matching numbered shirts on a line"
  },
  {
   "name": "Laps of Judgement",
@@ -6711,7 +7001,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III",
+  "blurb": "Complete would-you-rather checkpoints, then run tokens up a hill and over a wall"
  },
  {
   "name": "Road to Nowhere",
@@ -6733,7 +7024,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III",
+  "blurb": "Ride a cart off a 400-foot platform runway, grabbing point-value flags before the edge"
  },
  {
   "name": "Take It to the Grave",
@@ -6757,7 +7049,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III",
+  "blurb": "Match a buried partner's answers to trivia, then dig them out of a coffin and ring a bell"
  },
  {
   "name": "Bridging The Gap",
@@ -6780,7 +7073,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Rivals_III",
+  "blurb": "Complete rope and jump-rope tasks in a shared poncho to earn planks and build a bridge"
  },
  {
   "name": "The Over Under",
@@ -6800,7 +7094,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Shell Shocked",
@@ -6820,7 +7115,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Caged and Confused",
@@ -6840,7 +7136,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Knockout",
@@ -6860,7 +7157,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Roll with the Punches",
@@ -6880,7 +7178,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Curry Up",
@@ -6900,7 +7199,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Fallout",
@@ -6923,7 +7223,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": "Launch a partner off a pendulum rod to touch a floating buoy across an elevated obstacle"
  },
  {
   "name": "Caved In",
@@ -6943,7 +7244,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Invasion_of_the_Champions",
+  "blurb": ""
  },
  {
   "name": "Battle Royale",
@@ -6967,7 +7269,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Sprint through a narrow hallway to steal rings from the rival team's pole and race back"
  },
  {
   "name": "Pirates' Treasure",
@@ -6991,7 +7294,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Haul a 100-pound chest through obstacles, smash it open, and hoist a flag up a pole"
  },
  {
   "name": "Ups and Downs",
@@ -7014,7 +7318,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Hoist a teammate up a beam by rope to arrange all thirty Challenge logos in order"
  },
  {
   "name": "Talk Thirty to Me",
@@ -7036,7 +7341,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Answer cast-mate trivia while suspended 30 feet over water; three X's drops you in"
  },
  {
   "name": "Blackout",
@@ -7059,7 +7365,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Scratch paint from a pitch-black box's window to find codes, break out, and solve a puzzle"
  },
  {
   "name": "Backstabber",
@@ -7082,7 +7389,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_XXX%3A_Dirty_30",
+  "blurb": "Walk a rooftop balance beam and knock rivals off after reaching the X's at the end"
  },
  {
   "name": "Get Off the Rock",
@@ -7105,7 +7413,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Race overnight up the Rock of Gibraltar, holding weighted boxes in a subway car en route"
  },
  {
   "name": "#Vendettas",
@@ -7128,7 +7437,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Race across a giant hashtag over water to plant your figures on four opponents' poles"
  },
  {
   "name": "Food Wars",
@@ -7152,7 +7462,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Buzz in on trivia to force rival teams to eat gross dishes before time runs out"
  },
  {
   "name": "Gasping for Air",
@@ -7174,7 +7485,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Dive 15 feet down at night and slide a ring along a 150-foot underwater rope"
  },
  {
   "name": "Car Crash",
@@ -7197,7 +7509,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Leap from car to car suspended over water, climbing through each backseat along the way"
  },
  {
   "name": "This Land Is My Land",
@@ -7220,7 +7533,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Relay forty-five pallets across a beach and stack them to raise your team flag"
  },
  {
   "name": "Spanish Treasure",
@@ -7243,7 +7557,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Swim relay-style to net balls under a treasure chest until it floats up to shore"
  },
  {
   "name": "Help Me, Rhonda",
@@ -7266,7 +7581,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Race a mile uphill, zipline a chasm, run through town, then rappel off a bridge"
  },
  {
   "name": "Outside the Box",
@@ -7288,7 +7604,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vendettas",
+  "blurb": "Swing between a moving semi-truck and a dangling pillar, toppling point-value box stacks"
  },
  {
   "name": "Wreck Yourself",
@@ -7308,7 +7625,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Push a harnessed partner off a spinning aerial platform to swing and grab hanging rings"
  },
  {
   "name": "Shark Bait",
@@ -7330,7 +7648,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Leap between giant hanging steaks and ropes 40 feet above water to cross a platform"
  },
  {
   "name": "Off the Rails",
@@ -7354,7 +7673,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Cross a balance beam and tightrope atop a moving train while steadying a partner"
  },
  {
   "name": "Dig Deep",
@@ -7378,7 +7698,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Solve three puzzles inside a mine shaft, then dig out and race to the finish line"
  },
  {
   "name": "Don't Push Me Around",
@@ -7401,7 +7722,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Play tackle rugby through an obstacle course to carry the ball to your end zone"
  },
  {
   "name": "Dunking for Dinner",
@@ -7423,7 +7745,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Get crane-dunked to move disks, then eat as many dishes as the disks earned"
  },
  {
   "name": "Sky Bridge",
@@ -7446,7 +7769,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Finish a half-built bridge dangling from a crane by passing rope and tying knots"
  },
  {
   "name": "Caged In",
@@ -7477,7 +7801,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crawl through a mud pit under a mesh cage, nudging ten balls out with your fingers"
  },
  {
   "name": "What Goes Up Must Come Down",
@@ -7497,7 +7822,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": ""
  },
  {
   "name": "Heads Will Roll",
@@ -7521,7 +7847,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Run across a rotating log between platforms to hand flags off to a teammate"
  },
  {
   "name": "Rolling Thunder",
@@ -7543,7 +7870,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Push a giant boulder along a course with a route choice at a halfway ditch"
  },
  {
   "name": "Painfully Wrong",
@@ -7566,7 +7894,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Final_Reckoning",
+  "blurb": "Answer trivia to force rival teams through 7000-volt copper curtains until one remains"
  },
  {
   "name": "Impending Dune",
@@ -7589,7 +7918,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Chase a ball down a sand dune, haul puzzle pieces back up, and solve at the bottom"
  },
  {
   "name": "Arms-a-geddon Tired",
@@ -7611,7 +7941,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Battle in a five-minute tug-of-war to pull in the longest length of 400-foot rope"
  },
  {
   "name": "Search and Destroy",
@@ -7631,7 +7962,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": ""
  },
  {
   "name": "Tired Out",
@@ -7655,7 +7987,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Race chained across the desert hauling tires to rebuild a memorized tire pyramid"
  },
  {
   "name": "Doom Buggy",
@@ -7679,7 +8012,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Unhook ten tires while being dragged across the desert behind a speeding buggy"
  },
  {
   "name": "Eye in the Sky",
@@ -7702,7 +8036,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Guide a blindfolded partner across an elevated platform using a VR feed of their view"
  },
  {
   "name": "Brain Freeze",
@@ -7727,7 +8062,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Relay puzzle pieces from freezing ocean water, then assemble a puzzle tower"
  },
  {
   "name": "Road Warrior",
@@ -7749,7 +8085,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Swing between two semi-trucks moving at 50 mph to pass sixteen rings to your partner"
  },
  {
   "name": "Fandemonium",
@@ -7769,7 +8106,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Carry balls down a 150-foot hallway against the blast of three giant hurricane fans"
  },
  {
   "name": "Highway to Hell",
@@ -7792,7 +8130,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Solve a puzzle strapped to the roof of a drifting car within three minutes"
  },
  {
   "name": "Day of Wreckoning",
@@ -7815,7 +8154,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Scavenge a junkyard for an hour, hauling the heaviest trash back to your dumpster"
  },
  {
   "name": "Crash Landing",
@@ -7838,7 +8178,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Solve a puzzle atop a rotating airplane, then leap off into the water below"
  },
  {
   "name": "Judgement Day",
@@ -7863,7 +8204,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": "Leap, swim, and rope-swing between three containers to slide a ring onto a pole"
  },
  {
   "name": "The Death Path",
@@ -7883,7 +8225,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds",
+  "blurb": ""
  },
  {
   "name": "Trench Warfare",
@@ -7906,7 +8249,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Race through a hallway to grab national flags and plant all 28 behind sandbag walls"
  },
  {
   "name": "Paddlewheel Puzzle",
@@ -7931,7 +8275,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Memorize codes to unlock 16 pieces inside a rotating paddlewheel and build a flag puzzle"
  },
  {
   "name": "Relic Runner",
@@ -7955,7 +8300,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Haul heavy relics uphill while the rival team bombards you with balls and water cannons"
  },
  {
   "name": "Hooked",
@@ -7978,7 +8324,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Jump onto a zip line into the water, then swim around a buoy to reach a boat"
  },
  {
   "name": "Explosive Decision",
@@ -7998,7 +8345,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": ""
  },
  {
   "name": "Resilient River Run",
@@ -8021,7 +8369,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Build a pyramid, float it down a river, and use it to ferry two relics across"
  },
  {
   "name": "Crate Expectations",
@@ -8044,7 +8393,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Stack 125 crates into towers to grab 12 hanging relics, then haul everything to the finish"
  },
  {
   "name": "Under Siege",
@@ -8067,7 +8417,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Solve a hexagonal puzzle while locked inside a swinging shipping container"
  },
  {
   "name": "Temple Wall Traverse",
@@ -8090,7 +8441,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Match Roman numeral tiles on a climbing wall while rivals crank the walls apart"
  },
  {
   "name": "Escape to Freedom",
@@ -8115,7 +8467,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Ride an obstacle course dragged by a boat and ring the bell past a rival defender"
  },
  {
   "name": "Puzzling Swim",
@@ -8138,7 +8491,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Swim in pairs to collect four keys that unlock letter tiles and the answer to a riddle"
  },
  {
   "name": "Mine the Cart",
@@ -8160,7 +8514,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_War_of_the_Worlds_2",
+  "blurb": "Wheel a suspended cart to grab medallions before rivals saw through its support ropes"
  },
  {
   "name": "Battle Lines",
@@ -8184,7 +8539,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Drag a barrel of supplies across a field, solving a math problem and puzzle en route"
  },
  {
   "name": "Airdrop Extraction",
@@ -8204,7 +8560,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Haul military crates a mile, then bomb a launch platform with crates from a helicopter"
  },
  {
   "name": "Decode and Detonate",
@@ -8227,7 +8584,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Race to puzzle keys, crack your code, and hit a detonator to blow up a truck"
  },
  {
   "name": "Cold War",
@@ -8250,7 +8608,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Dive for puzzle pieces in a pool while rivals dump ice in to freeze the water"
  },
  {
   "name": "Bomb Squad",
@@ -8274,7 +8633,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Relay a math code from a stunt car through decoders to detonate a bomb"
  },
  {
   "name": "Fast & Furious",
@@ -8297,7 +8657,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Collect magnetic puzzle pieces from a moving semi-truck and solve on its roof"
  },
  {
   "name": "Decontamination",
@@ -8320,7 +8681,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Race through foam in PPE to memorize flashing lights and replicate the color sequence"
  },
  {
   "name": "Throne Off",
@@ -8343,7 +8705,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Cling to a missile over water while answering trivia to hand strikes to rivals"
  },
  {
   "name": "Flag Down",
@@ -8365,7 +8728,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Grab point-value flags while strapped to the side of a tank driving through a course"
  },
  {
   "name": "Tanks A Lot",
@@ -8385,7 +8749,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": ""
  },
  {
   "name": "Bloc'd In",
@@ -8408,7 +8773,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Slide black cars around like a giant slide puzzle to free and push a red car to the finish"
  },
  {
   "name": "Running Out of Time",
@@ -8432,7 +8798,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Load heavy material into rivals' drums, then hold your own drum up the longest"
  },
  {
   "name": "Crash Course",
@@ -8455,7 +8822,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Total_Madness",
+  "blurb": "Crash a stunt car into barrel piles to knock down more barrels than anyone else"
  },
  {
   "name": "Decryption",
@@ -8478,7 +8846,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Sprint up a volcanic mound, memorize a color code, and replicate it with colored wires"
  },
  {
   "name": "Ice Spy",
@@ -8502,7 +8871,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Swim glacial water to fetch ice blocks, chip out a 'kill' capsule, and dish out strikes"
  },
  {
   "name": "Road Kill",
@@ -8524,7 +8894,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Shove your same-gender rival off the back of a moving truck onto the safety nets"
  },
  {
   "name": "Drone Control",
@@ -8547,7 +8918,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Fly a drone through a tunnel via a partner's VR calls to fetch a code and crack a puzzle"
  },
  {
   "name": "Agent Down",
@@ -8569,7 +8941,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Pull 200 meters of rope, then hold your partner as they dangle off a platform ledge"
  },
  {
   "name": "Smuggle Run",
@@ -8594,7 +8967,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Race five miles shouldering a heavy capsule, scaling a wall and solving a hexagon puzzle"
  },
  {
   "name": "Aerial Takedown",
@@ -8616,7 +8990,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Shove rivals off a cargo net dragged by a helicopter into the water below"
  },
  {
   "name": "All Brawl",
@@ -8638,7 +9013,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Wrestle through a mud pit across three rounds to seize an X-shaped relic"
  },
  {
   "name": "Interrogation",
@@ -8662,7 +9038,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Hold an overhead bar over water while trivia answers tilt bars until players drop"
  },
  {
   "name": "Black Sand Ops",
@@ -8686,7 +9063,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Dig under torches for buried puzzle pieces, then assemble an Icelandic totem from a key"
  },
  {
   "name": "Air Lift",
@@ -8708,7 +9086,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Grab helicopter ropes from a speeding boat, hang to the drop zone, and swim to a button"
  },
  {
   "name": "Survive the Night",
@@ -8730,7 +9109,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Escape a locked cell while handcuffed together by completing a series of tasks"
  },
  {
   "name": "Undercover",
@@ -8753,7 +9133,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Pull along an underwater line on one breath to collect rings that decipher a code"
  },
  {
   "name": "Spy Dive",
@@ -8778,7 +9159,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Skydive while memorizing a puzzle key, then run to a station and rebuild it from memory"
  },
  {
   "name": "Global Domination",
@@ -8801,7 +9183,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Roll giant metal spheres over targets while defensive spheres try to block you"
  },
  {
   "name": "Escape the Volcano",
@@ -8824,7 +9207,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": "Race five miles to a volcano crater, free your chained partner, and solve a puzzle"
  },
  {
   "name": "Final Mission",
@@ -8852,7 +9236,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Double_Agents",
+  "blurb": ""
  },
  {
   "name": "Sea Cave Recon",
@@ -8874,7 +9259,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Cliff-dive 30 feet, swim a sea cave collecting bombs, and ride a bodyboard to a buoy"
  },
  {
   "name": "Undercover Comms",
@@ -8896,7 +9282,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Relay codes from under a platform so a partner can unlock detonators and knock out rivals"
  },
  {
   "name": "Mindfield",
@@ -8921,7 +9308,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Crawl, climb, and haul a tire to earn puzzle pieces, then solve the final puzzle"
  },
  {
   "name": "Turning Agents",
@@ -8943,7 +9331,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Spot symbols on a tank while strapped to a doughnut-spinning car to crack a lockbox"
  },
  {
   "name": "Dive Bomb",
@@ -8967,7 +9356,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Ride a sea scooter to gather underwater puzzle pieces, then solve and detonate"
  },
  {
   "name": "Bombshell Battle",
@@ -8989,7 +9379,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Wrestle colored bombs out of a mud pit, then race rivals for dwindling silver bombs"
  },
  {
   "name": "Diamond Dash",
@@ -9012,7 +9403,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Race with a sledgehammer, crack a code for a diamond, and sort into new teams"
  },
  {
   "name": "Satellite Sabotage",
@@ -9032,7 +9424,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Leap across the spokes of a suspended satellite while rivals blast you with a fire hose"
  },
  {
   "name": "Brush Contact",
@@ -9054,7 +9447,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Relay money bags down a field while the defending team tries to steal them away"
  },
  {
   "name": "Sunken Intelligence",
@@ -9076,7 +9470,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Untie a 150-foot rope from a shipwreck and haul a diamond chest to shore"
  },
  {
   "name": "Submerged",
@@ -9098,7 +9493,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Escape a sinking aircraft, grab 25 tiles, and replicate an underwater answer key onshore"
  },
  {
   "name": "Boom Raiders",
@@ -9121,7 +9517,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Sprint through trenches stealing rivals' dynamite until you can detonate their bunkers"
  },
  {
   "name": "Million Dollar Heist",
@@ -9143,7 +9540,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Haul $1 million in banknotes weighing 2,000 pounds from a vault to a getaway SUV"
  },
  {
   "name": "Dead Drop",
@@ -9165,7 +9563,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Spies%2C_Lies_%26_Allies",
+  "blurb": "Carry capsules across a beam over water while rivals swing bombs to knock you off"
  },
  {
   "name": "Bolas for Blood",
@@ -9196,7 +9595,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Solve math equations, dig mud-pit balls to build bolas, and sling them onto a post"
  },
  {
   "name": "Build Me Up",
@@ -9226,7 +9626,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Stack heavy wine barrels across a field to reach and set off three station flares"
  },
  {
   "name": "Hold On for Me",
@@ -9249,7 +9650,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Hang from a bar off a building until your partner leaps to launch you toward a flag"
  },
  {
   "name": "Royal Relay",
@@ -9273,7 +9675,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Swim and row a lake to gather four floating crown pieces and assemble a crown"
  },
  {
   "name": "Down the Line",
@@ -9297,7 +9700,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Dig up puzzle bags, crank out a zip line for your partner, and solve a word puzzle"
  },
  {
   "name": "Peaking Blinders",
@@ -9321,7 +9725,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Balance one-footed to reveal a pattern your partner memorizes and recreates in trips"
  },
  {
   "name": "Double Trouble",
@@ -9343,7 +9748,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Traverse four speeding cars beside a truck to ferry keys back from your partner"
  },
  {
   "name": "Haul or Nothing",
@@ -9366,7 +9772,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Race six miles with a heavy plank through barrel, sled, and tire-sorting checkpoints"
  },
  {
   "name": "Last Life",
@@ -9389,7 +9796,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Duel rivals one-on-one on a balance beam, shoving them into the water to drain team lives"
  },
  {
   "name": "Spin Class",
@@ -9419,7 +9827,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Answer trivia when a giant wheel you're strapped to lands on you; three strikes and out"
  },
  {
   "name": "Chopper Drop",
@@ -9443,7 +9852,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Hang from a helicopter and drop into floating targets, then swim to a platform"
  },
  {
   "name": "Blind Faith",
@@ -9468,7 +9878,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Pick teammates blind for four mystery challenges hinted only by cryptic symbols"
  },
  {
   "name": "Takes Two to Tango",
@@ -9491,7 +9902,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Cross an obstacle-laden balance beam on a building's side, spinning at each circle"
  },
  {
   "name": "Runaway Ride",
@@ -9521,7 +9933,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Recreate a trackside pattern by arranging colored balls inside a bus looping a racetrack"
  },
  {
   "name": "Frozen Senseless",
@@ -9560,7 +9973,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Ride_or_Dies",
+  "blurb": "Feel hidden shape cubes, describe them from an ice bath, and have a partner build them"
  },
  {
   "name": "Hole Control",
@@ -9582,7 +9996,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Escape a deep mud pit over a wall with 24 poles and arrange them into a logo in time"
  },
  {
   "name": "Ball Control",
@@ -9605,7 +10020,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Form human ladders in the water to drop 23 name balls into a chute atop a platform"
  },
  {
   "name": "Control Tower",
@@ -9627,7 +10043,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Direct numbered buggies from a control tower to arrange a giant math equation"
  },
  {
   "name": "Under Control",
@@ -9651,7 +10068,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Swim to buoys for sunken puzzle pieces and solve five puzzles on floating pontoons"
  },
  {
   "name": "Upside Down Whirled",
@@ -9674,7 +10092,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Spin on a truck-mounted propeller and toss rings onto targets and poles down a runway"
  },
  {
   "name": "Bingo Bango",
@@ -9696,7 +10115,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Dive into a mud pit for numbered balls to complete a five-in-a-row bingo board"
  },
  {
   "name": "Working the Angles",
@@ -9718,7 +10138,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Rope-swing between suspended pyramids to recreate a puzzle key over water"
  },
  {
   "name": "Tower of Power",
@@ -9740,7 +10161,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Barricade your tower's gates, then storm the rival tower and lower their flag"
  },
  {
   "name": "Doom Sticks",
@@ -9762,7 +10184,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Survive three elimination events in pairs until one team wins the final round"
  },
  {
   "name": "Sky Ball",
@@ -9785,7 +10208,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Solve a ground puzzle to unlock a suspended sphere and drop 130 balls into a pyramid"
  },
  {
   "name": "Banquet of Champions",
@@ -9810,7 +10234,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Haul coded boxes via trivia, then choke down brain soup and other vile dishes"
  },
  {
   "name": "We All Fall Down",
@@ -9832,7 +10257,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Shove a hanging wall into the rival team to knock them all off a platform into water"
  },
  {
   "name": "Getting Tanked",
@@ -9854,7 +10280,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Fish letter tiles from a swerving tank truck to spell out 'Challenge Champion'"
  },
  {
   "name": "Off in the Distance",
@@ -9878,7 +10305,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Carry a pole down a trail, completing checkpoints for puzzle pieces to solve at the start"
  },
  {
   "name": "Dark Tide",
@@ -9903,7 +10331,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Drop from a speeding boat, paddleboard for rings, and toss one around a pole onshore"
  },
  {
   "name": "End of the Line",
@@ -9925,7 +10354,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Descend a rope over water and brake as close to its end as possible without falling"
  },
  {
   "name": "Drum Roll",
@@ -9948,7 +10378,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Battle_for_a_New_Champion",
+  "blurb": "Cling to a rope atop a rolling drum over water and outlast everyone else"
  },
  {
   "name": "Light It Up",
@@ -9972,7 +10403,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Solve a 3D puzzle, then paddle a coracle to gather ten colored lights from lake buoys"
  },
  {
   "name": "Gladieater",
@@ -9996,7 +10428,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Paddle a dragon boat, eat delicacies, and hang 40 season shields in chronological order"
  },
  {
   "name": "Cradled Cranium",
@@ -10019,7 +10452,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Answer point-value trivia 30 feet over water; wrong answers dunk two teammates"
  },
  {
   "name": "Fast Pass",
@@ -10044,7 +10478,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Maneuver a giant Y-beam through trees to fetch sandbags, then balance them on a beam"
  },
  {
   "name": "Cloud Catcher",
@@ -10067,7 +10502,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Race helium balloons through a spiked pergola, then solve a riddle to unlock a chest"
  },
  {
   "name": "Leap of Faith",
@@ -10091,7 +10527,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Jump off a skyscraper helipad to snatch hanging flags, then solve a puzzle"
  },
  {
   "name": "Battle for Honor",
@@ -10114,7 +10551,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Shove opponents off a muddy platform into the water using gladiator shields"
  },
  {
   "name": "Bottoms Out",
@@ -10140,7 +10578,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Answer math questions to earn climbing holds, then dangle in a bottomless container"
  },
  {
   "name": "Fire Away",
@@ -10163,7 +10602,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Chase trebuchet-launched balls to fill a tube, then race to solve a puzzle"
  },
  {
   "name": "Building Bridges",
@@ -10186,7 +10626,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Scale walls collecting coins, solve a puzzle, and rope-swing into a stack of boxes"
  },
  {
   "name": "Duned",
@@ -10208,7 +10649,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Race a three-checkpoint mini-final across a series of punishing sand dunes"
  },
  {
   "name": "40 Yard Dash",
@@ -10232,7 +10674,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Run trench obstacles to fetch six puzzle pieces one at a time, then solve the puzzle"
  },
  {
   "name": "'Nother Trucker",
@@ -10255,7 +10698,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Swing from a rope atop a speeding truck to smack a dozen roadside targets"
  },
  {
   "name": "Tight Quarters",
@@ -10286,7 +10730,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Squeeze into a replica airplane bathroom together and solve two puzzles"
  },
  {
   "name": "Fire Plunge",
@@ -10309,7 +10754,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Hot-wire a convertible that drives off a cliff, then unclip into the water and swim in"
  },
  {
   "name": "Fortress Bricks",
@@ -10333,7 +10779,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge_40%3A_Battle_of_the_Eras",
+  "blurb": "Lug 40 cinder blocks out of a fort to earn planks, then assemble a plank puzzle"
  },
  {
   "name": "Mud Ball Madness",
@@ -10353,7 +10800,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Scoop helicopter-dropped colored balls from a mud pit while tethered to your partner"
  },
  {
   "name": "Side by Side",
@@ -10376,7 +10824,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Memorize symbols under vehicles jumping a pit overhead, then replicate the sequence"
  },
  {
   "name": "Water Tower",
@@ -10401,7 +10850,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Solve a slide puzzle while your partner climbs a tall container and dives out its bottom"
  },
  {
   "name": "Amazed",
@@ -10425,7 +10875,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Navigate a shipping-container maze to find and solve a Sudoku puzzle, then escape"
  },
  {
   "name": "Dirtballer",
@@ -10448,7 +10899,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Dig up goalposts, replant them into a goal across a field, and kick a field goal"
  },
  {
   "name": "Runes My Life",
@@ -10473,7 +10925,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Swim and climb pillars to collect rune tiles, solve a puzzle, and swim back"
  },
  {
   "name": "Drive Me Crazy",
@@ -10496,7 +10949,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Alternate go-kart laps and timed puzzle-solving with your partner across four puzzles"
  },
  {
   "name": "Cyclone",
@@ -10519,7 +10973,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Climb a spinning container over water to transfer five blocks to a ledge at the top"
  },
  {
   "name": "Broken Dreams",
@@ -10541,7 +10996,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Race a five-checkpoint mini-final up a trail for extra performance points"
  },
  {
   "name": "Fast Thinking",
@@ -10566,7 +11022,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Answer trivia on a stair climber over water that speeds up with every wrong answer"
  },
  {
   "name": "Band Together",
@@ -10589,7 +11046,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Anchor a pipe with resistance bands from heavy items, then walk it to grab a flag"
  },
  {
   "name": "Running Man",
@@ -10612,7 +11070,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Unchain a shipping container, extract the car inside, and deliver its tracking device"
  },
  {
   "name": "Haystack Heist",
@@ -10635,7 +11094,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Stack hay bales while tethered together to reach hanging keys and unlock a buried chest"
  },
  {
   "name": "Rune Race",
@@ -10660,7 +11120,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Decode a rune math equation to unlock sunken puzzle pieces and solve a puzzle"
  },
  {
   "name": "Dirty Drifter",
@@ -10683,7 +11144,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Unchain a van, hitch it to a tow truck, then steer it around obstacles while towed"
  },
  {
   "name": "Dark Mine",
@@ -10705,7 +11167,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Cross out announced numbers on a board deep in a dark mine using only matchlight"
  },
  {
   "name": "Global Exchange",
@@ -10727,7 +11190,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Vets_%26_New_Threats",
+  "blurb": "Bike chained together between two map halves to label countries in the right spots"
  },
  {
   "name": "Deep Blue Dive",
@@ -10751,7 +11215,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Solve math equations, then dive to retrieve the puzzle piece bearing each answer"
  },
  {
   "name": "Ancient Challenge History",
@@ -10775,7 +11240,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Answer Challenge history trivia or step onto ever-weaker platforms over water"
  },
  {
   "name": "Melt Away",
@@ -10797,7 +11263,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Melt shields out of giant ice blocks with your bodies, then order seasons chronologically"
  },
  {
   "name": "On the Ropes",
@@ -10819,7 +11286,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Cross ropes between platforms over water, unclipping a rival rope after each trip"
  },
  {
   "name": "Connect Em All",
@@ -10843,7 +11311,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Solve math, haul logs uphill, replicate a memory board, and race solo to the finish"
  },
  {
   "name": "Escape the Room",
@@ -10866,7 +11335,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Solve puzzles on trapdoors above water before the floors drop you in one by one"
  },
  {
   "name": "Rib Cage Pass",
@@ -10888,7 +11358,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_1",
+  "blurb": "Cross beams on a speeding truck to collect and deposit balls before time runs out"
  },
  {
   "name": "Boarding Party",
@@ -10908,7 +11379,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Bright Skies",
@@ -10928,7 +11400,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Bounce Back",
@@ -10948,7 +11421,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Deep Dive",
@@ -10968,7 +11442,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Steer Clear",
@@ -10988,7 +11463,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Dive & Conquer",
@@ -11008,7 +11484,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Make the Connection",
@@ -11028,7 +11505,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_2",
+  "blurb": ""
  },
  {
   "name": "Tunnel Vision",
@@ -11066,7 +11544,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crawl through a sand tunnel past an opponent and race to ring a bell"
  },
  {
   "name": "Out of Reach",
@@ -11088,7 +11567,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Swing to kick a key into water, retrieve it, and unlock puzzle pieces to solve"
  },
  {
   "name": "Playing Dirty",
@@ -11110,7 +11590,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Grab a ball from a mud pit each round and haul it out before opponents do"
  },
  {
   "name": "Side Tracked",
@@ -11134,7 +11615,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Run a dirt track collecting rings and toss them onto opponents' pegs to knock them out"
  },
  {
   "name": "Stacked",
@@ -11158,7 +11640,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Scrape off a code, paddleboard to collect pieces, and assemble a vertical puzzle"
  },
  {
   "name": "Shooting Stars",
@@ -11181,7 +11664,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Answer trivia on a platform over water, assigning strikes that launch players in"
  },
  {
   "name": "Flight Pattern",
@@ -11205,7 +11689,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Memorize a pattern from a helicopter, drop into water, and replicate it onshore"
  },
  {
   "name": "Wall of Fame",
@@ -11228,7 +11713,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_3",
+  "blurb": "Match 24 castmates' names to trivia questions about photos on the house wall"
  },
  {
   "name": "Reach for the Stars",
@@ -11251,7 +11737,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Haul star-shaped pieces uphill one at a time and fit them onto matching pegs"
  },
  {
   "name": "Car Sick",
@@ -11273,7 +11760,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Spin in a descending van memorizing radio clues, then unlock suitcases and solve a puzzle"
  },
  {
   "name": "Domino, Motherf*****!",
@@ -11293,7 +11781,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": ""
  },
  {
   "name": "Unbraided: Reloaded",
@@ -11317,7 +11806,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Unravel braided ropes off a speeding truck, then guide a peg through a maze"
  },
  {
   "name": "Bobblehead Bobsled",
@@ -11340,7 +11830,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Race a bobsled in bobbleheads to shut a draining valve and save the most water"
  },
  {
   "name": "Take a Seat",
@@ -11363,7 +11854,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Race to grab stadium seats, then hook weighted blocks into two equal-weight sections"
  },
  {
   "name": "Face the Facts",
@@ -11386,7 +11878,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Answer trivia over water; wrong answers add balls until teams get dunked"
  },
  {
   "name": "Balls Up",
@@ -11406,7 +11899,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Use a plunger in a mud pit to push opponents' balls out of an overhead net"
  },
  {
   "name": "Run the Plank",
@@ -11429,7 +11923,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Jump off a plank pulling down a ball to lower a maze, then work stars free of it"
  },
  {
   "name": "Roll with It",
@@ -11451,7 +11946,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_All_Stars_4",
+  "blurb": "Pull a shopping cart along a track using poles and a lasso to grab a star"
  },
  {
   "name": "Down to Do the Math",
@@ -11471,7 +11967,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Yeah Buoy",
@@ -11491,7 +11988,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Hang On Man",
@@ -11511,7 +12009,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Falling Off the Knowledge",
@@ -11531,7 +12030,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Barreled Treasure",
@@ -11551,7 +12051,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Containment",
@@ -11571,7 +12072,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Wreck-Reational Driving",
@@ -11591,7 +12093,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Having a Blast",
@@ -11611,7 +12114,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Collect Four",
@@ -11641,7 +12145,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": "Hunt a stadium for tokens and race to line up four in a row on your board"
  },
  {
   "name": "Code Crossing",
@@ -11661,7 +12166,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Getting Tired",
@@ -11681,7 +12187,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_1",
+  "blurb": ""
  },
  {
   "name": "Storm the Castle",
@@ -11705,7 +12212,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Haul heavy statues uphill to castle ruins, solving symbol checkpoints on the way"
  },
  {
   "name": "Working the Poles",
@@ -11727,7 +12235,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Traverse hanging poles over water along intersecting paths without falling"
  },
  {
   "name": "Capsized",
@@ -11752,7 +12261,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Flip a boat to memorize a flag key, then dive for flags and rehang them correctly"
  },
  {
   "name": "Sideswiped",
@@ -11774,7 +12284,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Swing between speeding trucks to stick disks on your truck while blocking rivals"
  },
  {
   "name": "Unboxed",
@@ -11798,7 +12309,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Carry bodyweight boxes down a trail, solving puzzles to drop them along the way"
  },
  {
   "name": "High-Q",
@@ -11821,7 +12333,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Answer trivia on a platform that tilts steeper with every wrong answer"
  },
  {
   "name": "Wreck & Roll",
@@ -11844,7 +12357,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Roll a giant sphere to knock down columns, then solve a word puzzle with the tyres"
  },
  {
   "name": "Spell-Lunkers",
@@ -11868,7 +12382,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Dive to solve underwater word puzzles and swim a dark cave with a flashlight"
  },
  {
   "name": "Speed Jumps",
@@ -11890,7 +12405,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Bounce on a trampoline to sum hidden numbers, then grab flags from a moving truck"
  },
  {
   "name": "Go the Distance",
@@ -11912,7 +12428,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Leap off a platform into water to grab a hanging baton that moves farther each round"
  },
  {
   "name": "Slippery Business",
@@ -11934,7 +12451,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Shove oil-covered opponents out of a ring and be the last one standing"
  },
  {
   "name": "Brain Squeeze",
@@ -11957,7 +12475,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Search a fort for hidden bags of puzzle pieces, then assemble the puzzle outside"
  },
  {
   "name": "Burst Your Bubble",
@@ -11981,7 +12500,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_USA_2",
+  "blurb": "Climb a 40-foot rope ladder to a hot air balloon and cross a beam to a second one"
  },
  {
   "name": "Truck It",
@@ -12003,7 +12523,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia",
+  "blurb": "Peg your way along a speeding truck to pass a baton and smash a hanging pot"
  },
  {
   "name": "Buddy Blinders",
@@ -12027,7 +12548,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia",
+  "blurb": "Balance on a pole to reveal a pattern, then run back and recreate it from memory"
  },
  {
   "name": "Getting Tyred",
@@ -12059,7 +12581,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Australia",
+  "blurb": "Swim a lake, then complete tasks to earn tyres and haul them to your station for points"
  },
  {
   "name": "El Patrón Letal",
@@ -12079,7 +12602,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "Remo y Corona",
@@ -12099,7 +12623,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "Respuesta Boleadora",
@@ -12119,7 +12644,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "Habemus Barril",
@@ -12139,7 +12665,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "La Guerra Fría",
@@ -12159,7 +12686,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "Te Cayó la Ficha",
@@ -12179,7 +12707,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_Argentina",
+  "blurb": ""
  },
  {
   "name": "Peeking Blinders",
@@ -12199,7 +12728,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_UK"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_UK",
+  "blurb": ""
  },
  {
   "name": "Qualifier",
@@ -12221,7 +12751,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Race around a stadium completing five checkpoints faster than the other MVPs"
  },
  {
   "name": "Chain Game",
@@ -12245,7 +12776,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Race over dunes to a shipwreck, then loop a chain around poles to match a diagram"
  },
  {
   "name": "Gates of Hell",
@@ -12267,7 +12799,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Sprint down a corridor and beat the closing gate each round to survive"
  },
  {
   "name": "Flying Around",
@@ -12291,7 +12824,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Chug a foul smoothie, then catch thrown rings while spinning on an excavator arm"
  },
  {
   "name": "Rocketman",
@@ -12315,7 +12849,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Launch your partner off an airbag over crossbars, then collect pieces and solve a puzzle"
  },
  {
   "name": "Tunnel Time",
@@ -12337,7 +12872,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Count flags in a dark tunnel and do the math to unlock your chained partner"
  },
  {
   "name": "Ripcord Roulette",
@@ -12360,7 +12896,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Answer trivia while suspended, forcing rivals to pull ripcords that may drop them"
  },
  {
   "name": "Highway Hijacking",
@@ -12382,7 +12919,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Leap between speeding trucks for a key, then drive a buggy out of the trailer to the finish"
  },
  {
   "name": "Points Break",
@@ -12407,7 +12945,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Swim tethered to collect puzzle pieces, then count the triangles in your solved puzzle"
  },
  {
   "name": "Downfall",
@@ -12433,7 +12972,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship"
+  "url": "https://thechallenge.fandom.com/wiki/The_Challenge%3A_World_Championship",
+  "blurb": "Climb rope ladders to untie a symbol, drop rivals' ladders, and solve a math puzzle"
  },
  {
   "name": "Ride 'Em Cowboy",
@@ -12456,7 +12996,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang onto a mechanical bull one-handed longer than your opponent"
  },
  {
   "name": "Hangman",
@@ -12479,7 +13020,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang right side up from a pole 10 feet in the air longer than your opponent"
  },
  {
   "name": "Perfect Fit",
@@ -12502,7 +13044,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dive into a pool to gather scattered puzzle pieces, then assemble the puzzle"
  },
  {
   "name": "Knock Your Block Off",
@@ -12532,7 +13075,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Use a pugil stick to knock the block off your opponent's helmet"
  },
  {
   "name": "Pole Climb",
@@ -12555,7 +13099,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race up a 10-foot pole and pull the lever that drops your opponent into the pool"
  },
  {
   "name": "Bug Helmet",
@@ -12577,7 +13122,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Keep your syrup-covered head in a box full of cockroaches longer than your rival"
  },
  {
   "name": "Chili Counter",
@@ -12600,7 +13146,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Human Candelabra",
@@ -12622,7 +13169,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold a lit candle in each outstretched arm longer than your opponent"
  },
  {
   "name": "Noise Pollution",
@@ -12644,7 +13192,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Stand on a small platform in headphones for hours and outlast your opponent"
  },
  {
   "name": "Don't Toss Your Cookies",
@@ -12667,7 +13216,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Eat cookies and milk, then ride a spinning platform without vomiting"
  },
  {
   "name": "Scratchathon",
@@ -12690,7 +13240,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Walk a treadmill for three hours while covered in itching powder"
  },
  {
   "name": "Brick by Brick",
@@ -12712,7 +13263,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry bricks one at a time across a plank without dropping or breaking any"
  },
  {
   "name": "Smell You Later",
@@ -12734,7 +13286,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Lie in a plexiglass coffin as layers of foul-smelling substances are added"
  },
  {
   "name": "Hang Tough",
@@ -12757,7 +13310,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang from monkey bars and knock your opponent off to be the last one up"
  },
  {
   "name": "Shack Attack",
@@ -12780,7 +13334,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Run across a field while shackled to a wall and grab the key to unlock yourself"
  },
  {
   "name": "That's a Wrap",
@@ -12803,7 +13358,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Mummify yourself in a spool of cloth, then run across the field to your flag"
  },
  {
   "name": "Balls In",
@@ -12881,7 +13437,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Score balls in a center goal while your opponent defends, then swap roles"
  },
  {
   "name": "Patchwork",
@@ -12904,7 +13461,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "While bungeed, rip patches off your opponent's suit and stash them in your basket"
  },
  {
   "name": "Pegged",
@@ -12927,7 +13485,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a wall using two pegs and rip your flag off at the top first"
  },
  {
   "name": "Spinner",
@@ -12947,7 +13506,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold onto your flag while strapped to a giant spinning wheel longer than your rival"
  },
  {
   "name": "Name That Coconut",
@@ -12970,7 +13530,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Find the coconut bearing the name that answers a trivia question"
  },
  {
   "name": "Beach Brawl",
@@ -12992,7 +13553,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Capture the Flag",
@@ -13014,7 +13576,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Reverse Tug-O-War",
@@ -13036,7 +13599,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Sticky Situation",
@@ -13058,7 +13622,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Knock Off",
@@ -13086,7 +13651,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push your opponent off a wall ledge 30 feet up using its pegs"
  },
  {
   "name": "Spin Again",
@@ -13108,7 +13674,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Respin the wheel when a thrice-played challenge has been retired from it"
  },
  {
   "name": "Captain's Choice",
@@ -13130,7 +13697,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "The team captain picks which elimination game to play"
  },
  {
   "name": "Challenger's Choice",
@@ -13152,7 +13720,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "The chosen challenger picks which elimination game to play"
  },
  {
   "name": "I Can",
@@ -13175,7 +13744,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bet on how many heavy items like watermelons or logs you can lift in a cart"
  },
  {
   "name": "Ascender",
@@ -13200,7 +13770,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a rope to release puzzle pieces, then descend and solve a tangram-style puzzle"
  },
  {
   "name": "Pole Wrestle",
@@ -13302,7 +13873,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a wooden pole out of your opponent's hands twice"
  },
  {
   "name": "Push Me",
@@ -13324,7 +13896,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a pivoting pole against your opponent until you can unclip the flag"
  },
  {
   "name": "Head Rush",
@@ -13347,7 +13920,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing upside down by your ankles to collect puzzle pieces, then solve the puzzle"
  },
  {
   "name": "Ejection",
@@ -13370,7 +13944,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Joust your opponent's target to tilt their platform until they fall off"
  },
  {
   "name": "Watch Your Back",
@@ -13392,7 +13967,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Play tag around a four-ladder platform, chasing until someone tags or passes"
  },
  {
   "name": "Spokesmodel",
@@ -13414,7 +13990,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Cling to a giant wheel that spins faster the longer you hold on"
  },
  {
   "name": "Smash House",
@@ -13445,7 +14022,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sledgehammer furniture into pieces small enough to fit through tiny wall holes"
  },
  {
   "name": "Zero Gravity",
@@ -13469,7 +14047,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a ladder in a weight-assist harness to retrieve four flags before your rival"
  },
  {
   "name": "Corner Ball",
@@ -13491,7 +14070,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race for a rugby ball and force it to your opponent's side of the wall three times"
  },
  {
   "name": "Shimmy",
@@ -13513,7 +14093,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb up between two walls, ripping off flags until you claim the one at the top"
  },
  {
   "name": "Ram It Home",
@@ -13535,7 +14116,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drive a hanging sled to push your opponent back into their own wall"
  },
  {
   "name": "Ball Brawl",
@@ -13557,7 +14139,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race and tackle for footballs one at a time to score points before your rival"
  },
  {
   "name": "Sliders",
@@ -13580,7 +14163,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race an opponent to solve an identical 16-space slide puzzle"
  },
  {
   "name": "Ankle Breaker",
@@ -13602,7 +14186,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag your ankle-tied opponent through sand in a tug of war to the finish line"
  },
  {
   "name": "Ring Wrestle",
@@ -13625,7 +14210,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a large ring out of your opponent's grip"
  },
  {
   "name": "Timbur",
@@ -13647,7 +14233,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Balance on a stump holding two tree trunks longer than your opponent"
  },
  {
   "name": "The Elevator",
@@ -13670,7 +14257,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a chain from inside a cage to hoist your opponent's cage to the roof first"
  },
  {
   "name": "Back Off",
@@ -13692,7 +14280,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Snatch the hook off your opponent's back and clip it to a ring at the arena's edge"
  },
  {
   "name": "Duel Pole Dancing",
@@ -13715,7 +14304,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race up a totem pole using climbing holds and ring the bell at the top"
  },
  {
   "name": "Spot On",
@@ -13738,7 +14328,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to complete a partial pattern on a rock-climbing wall with the pieces provided"
  },
  {
   "name": "Shoots and Ladders",
@@ -13760,7 +14351,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Build a bamboo ladder, then climb it and strike your gong first"
  },
  {
   "name": "Shadowfighter",
@@ -13782,7 +14374,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Yank ropes tied to your opponent's limbs to pull them off their platform"
  },
  {
   "name": "Burnout",
@@ -13804,7 +14397,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Steer water into your opponent's barrel to douse their pot of burning cigars"
  },
  {
   "name": "Oh Ring",
@@ -13824,7 +14418,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a ring away from your opponent while both hang suspended by your feet"
  },
  {
   "name": "Spool",
@@ -13847,7 +14442,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Weave a rope under and over bamboo poles through a course and ring your gong"
  },
  {
   "name": "Hog Tie",
@@ -13867,7 +14463,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shimmy along a bamboo pole hanging by your wrists and feet, grab a key, and unlock free"
  },
  {
   "name": "Crunch",
@@ -13890,7 +14487,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold a crunch upside down over a water tank with 40 pounds on your chest"
  },
  {
   "name": "Rag Doll",
@@ -13912,7 +14510,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": ""
  },
  {
   "name": "Muay Thai",
@@ -13935,7 +14534,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Karate-kick and break a row of hanging bamboo poles, then ring your gong"
  },
  {
   "name": "Lost and Found",
@@ -13960,7 +14560,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry weighted backpacks through a woodland course, solving puzzles along the way"
  },
  {
   "name": "Weight For Me",
@@ -13992,7 +14593,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hoist your partner up a wall by pulley so she can memorize and rebuild a tile puzzle"
  },
  {
   "name": "Weight For Me: Black Out",
@@ -14015,7 +14617,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hoist your partner by pulley at night while lugging 150 pounds to solve a tile puzzle"
  },
  {
   "name": "Handcuffs",
@@ -14037,7 +14640,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle rings out of your opponent's hands five times"
  },
  {
   "name": "Back Up Off Me",
@@ -14060,7 +14664,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag your back-to-back-tied opponent until you can knock over your own barrel"
  },
  {
   "name": "Die Hard",
@@ -14082,7 +14687,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a giant die into a square with the right number up, without touching the ground"
  },
  {
   "name": "Swat",
@@ -14104,7 +14710,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Slap your opponent with fly swatters while chained to a table, then while holding a bucket"
  },
  {
   "name": "Pole Me Over",
@@ -14126,7 +14733,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a shared pole to drive your opponent back and topple their barrels"
  },
  {
   "name": "Hands On",
@@ -14149,7 +14757,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Lean into your partner as your platforms slowly separate, and don't fall in the mud"
  },
  {
   "name": "Blast Off",
@@ -14171,7 +14780,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "In pads and helmets, tackle the opposing pair out of the circle three times"
  },
  {
   "name": "Door Jam",
@@ -14193,7 +14803,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin rotating wall doors so more logos face your team when time expires"
  },
  {
   "name": "Going Up",
@@ -14217,7 +14828,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Jump into a water pit and climb a rope to the top to ring a bell"
  },
  {
   "name": "Unburied",
@@ -14241,7 +14853,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dig through hay piles to free your coffin-bound partner, then solve a brain-teaser"
  },
  {
   "name": "Rail Slide",
@@ -14264,7 +14877,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang from a pipe 25 feet up and slide it together across an obstacle course"
  },
  {
   "name": "T-Bone",
@@ -14287,7 +14901,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Run through intersecting half-pipes transferring balls to your partner's rack"
  },
  {
   "name": "X Knocks the Spot",
@@ -14309,7 +14924,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Jump over and duck under swinging bars while standing on X-shaped platforms"
  },
  {
   "name": "X Battle",
@@ -14331,7 +14947,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle an X-shaped bar out of your opponent's hands in same-gender rounds"
  },
  {
   "name": "Banded Together",
@@ -14361,7 +14978,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Stretch against a rubber-band tether across a field to grab the far pole together"
  },
  {
   "name": "Hall Pass",
@@ -14383,7 +15001,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to carry five colored balls through a narrow hay-lined passage"
  },
  {
   "name": "Hall Brawl (Physical)",
@@ -14406,7 +15025,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Charge through a narrow hallway past your opponent to ring a bell"
  },
  {
   "name": "Balls Out (Endurance)",
@@ -14428,7 +15048,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Slide silver balls over a wall so your side ends with the fewest"
  },
  {
   "name": "Knot So Fast (Strategy)",
@@ -14451,7 +15072,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tie knots in a dome for ten minutes, then untie your opponents' knots first"
  },
  {
   "name": "Water Torture (Mental)",
@@ -14476,7 +15098,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold your breath underwater to hoist your partner up to solve a memory game"
  },
  {
   "name": "Last Chance",
@@ -14499,7 +15122,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bull past a defender through a narrow hallway to ring the bell first"
  },
  {
   "name": "Hanging by a Thread",
@@ -14521,7 +15145,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang upside down and saw through the rope holding your rivals' swing to dunk them"
  },
  {
   "name": "Snapper",
@@ -14544,7 +15169,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing blindfolded to break a stick on your opponent, guided by your partner's voice"
  },
  {
   "name": "Who Can Take It?",
@@ -14566,7 +15192,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Endure electric shocks on a metal gurney longer than your opponent"
  },
  {
   "name": "Breaking on Through",
@@ -14586,7 +15213,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash down through three tower floors and a steel door to ring the bell"
  },
  {
   "name": "Catch-22",
@@ -14610,7 +15238,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Toss balls over a net to your partner while running on ever-faster treadmills"
  },
  {
   "name": "Wrecking Wall",
@@ -14630,7 +15259,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Punch handholds up a 30-foot drywall panel to climb and ring your bell"
  },
  {
   "name": "Looper",
@@ -14653,7 +15283,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull against your roped opponent around two posts in a tug-of-war to reach a bell"
  },
  {
   "name": "Oppenheimer",
@@ -14676,7 +15307,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sprint through a caged circular hallway past your opponent to ring a bell twice"
  },
  {
   "name": "Puzzle Pyramid",
@@ -14699,7 +15331,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Solve three puzzles in a row, climbing a podium after each, then ring the bell"
  },
  {
   "name": "Pole Position",
@@ -14729,7 +15362,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a die and thread poles into a tube while leaving room to squeeze through"
  },
  {
   "name": "He Said, She Said",
@@ -14752,7 +15386,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bet on how much food an opposing player can eat in three minutes"
  },
  {
   "name": "Breaking Up",
@@ -14774,7 +15409,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing a wrecking ball upward to smash through two layers of cinder blocks"
  },
  {
   "name": "Strung Out",
@@ -14797,7 +15433,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shimmy suspended under a pole to a bell and back, relaying with your partner"
  },
  {
   "name": "Stacking Up",
@@ -14819,7 +15456,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Stack a tower of crates while balancing on it to reach a 20-foot-high bell"
  },
  {
   "name": "Hooking Up",
@@ -14842,7 +15480,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Clip hanging carabiners to your opponent's back to launch them to the ceiling"
  },
  {
   "name": "Hammer It Home",
@@ -14865,7 +15504,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sledgehammer a beam along a track to the bell, tagging in your partner halfway"
  },
  {
   "name": "Hall Brawl",
@@ -14951,7 +15591,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Charge through a narrow hallway past your opponent to hit the button first"
  },
  {
   "name": "X-Battle",
@@ -14973,7 +15614,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle an X out of your opponent's grip in same-gender heats to score points"
  },
  {
   "name": "End of My Rope",
@@ -14995,7 +15637,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Unravel a rope threaded over poles to create slack and clip it to a carabiner"
  },
  {
   "name": "Squaring Off",
@@ -15017,7 +15660,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fight a soccer ball through square hallways past your opponent's goal line"
  },
  {
   "name": "Door Slammer",
@@ -15039,7 +15683,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shove a door and your opponent backward into the door frame"
  },
  {
   "name": "My Way or the Highway",
@@ -15061,7 +15706,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Win a chain tug-of-war by dragging your opponent past the center line"
  },
  {
   "name": "Ring My Bell",
@@ -15084,7 +15730,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sprint back and forth slamming into a mattress to ring your bell 50 times"
  },
  {
   "name": "Home Wrecker",
@@ -15106,7 +15753,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash a room of furniture and stuff every piece through a small wall slot"
  },
  {
   "name": "Spun Out",
@@ -15145,7 +15793,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin down from a platform dizzy, then balance one-footed and stack stumps on a pole"
  },
  {
   "name": "Hand It Over",
@@ -15167,7 +15816,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tug-of-war three oversized poles through a wall against your opponent"
  },
  {
   "name": "Through Thick & Thin",
@@ -15190,7 +15840,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sledgehammer through a cinderblock wall so your partner can pass and solve a puzzle"
  },
  {
   "name": "Mine Not Yours",
@@ -15212,7 +15863,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a handle away from your opponent twice"
  },
  {
   "name": "Back It Up",
@@ -15234,7 +15886,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shimmy up a wall face-to-face, ferrying pottery on your laps to a hole at the top"
  },
  {
   "name": "Hear Me Out",
@@ -15257,7 +15910,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Play blindfolded soccer guided only by your partner's shouted directions"
  },
  {
   "name": "Shattered Dreams",
@@ -15279,7 +15933,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crank and aim a battering ram together to shatter nine windows on a wall"
  },
  {
   "name": "Don't Wine for Me, Argentina",
@@ -15302,7 +15957,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Solve a riddle, then haul six heavy wine barrels from a vineyard onto racks"
  },
  {
   "name": "In The Trenches",
@@ -15324,7 +15980,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Haul ten sandbags past your opponent from one end of a trench to the other"
  },
  {
   "name": "Who's Got Balls",
@@ -15347,7 +16004,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Jump off a cliff platform clutching five balls and hang onto as many as you can"
  },
  {
   "name": "Thai Rise",
@@ -15369,7 +16027,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race up a temple to grab a bag of rice with a bell, then race down and hang it"
  },
  {
   "name": "Tuk Tuk Bang Bang",
@@ -15392,7 +16051,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Ram a wall repeatedly to shove your tuk tuk down the driveway and topple it"
  },
  {
   "name": "Bell Ringer",
@@ -15414,7 +16074,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing a bell rope to smash 16 idols as exploding powder clouds your view"
  },
  {
   "name": "Inside Out",
@@ -15436,7 +16097,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull against a roped rival to ring a bell, then wrestle both feet out of a ring"
  },
  {
   "name": "Knot So Fast",
@@ -15498,7 +16160,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tie knots with 200 feet of rope for 20 minutes, then untangle your opponent's first"
  },
  {
   "name": "Balls to the Wall",
@@ -15520,7 +16183,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Yank a series of torches out of a wall faster than your opponent"
  },
  {
   "name": "The Great Escape",
@@ -15543,7 +16207,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Peg-climb a wall and tip a tub of mud onto your opponent's side"
  },
  {
   "name": "Strip Tease",
@@ -15566,7 +16231,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Blindfolded, snatch all five patches off your opponent's jumpsuit first"
  },
  {
   "name": "Deadweight",
@@ -15596,7 +16262,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag three 300-pound coffins across the arena and chain them to a post"
  },
  {
   "name": "Web of Lies",
@@ -15616,7 +16283,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Descend a 25-foot tower through webs to grab a flag, then climb back up to plant it"
  },
  {
   "name": "Body Check",
@@ -15639,7 +16307,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Burst through paper barriers past your opponent, loop the far bell, and ring yours"
  },
  {
   "name": "The Reel World",
@@ -15662,7 +16331,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Vault over a giant wheel repeatedly to reel a 50-pound weight across a line"
  },
  {
   "name": "Balls of Fire",
@@ -15684,7 +16354,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Kick soccer balls through a wall of fire into your opponent's goal"
  },
  {
   "name": "Chain Reaction",
@@ -15716,7 +16387,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a chain through a pyramid, memorize its color sequences, and replicate them"
  },
  {
   "name": "Oil and Water",
@@ -15739,7 +16411,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crawl through an oil pit to fetch dropped balls and score them in your basket"
  },
  {
   "name": "Troubled Water",
@@ -15761,7 +16434,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bail water from a tank with your body, then hammer through its bottom to escape"
  },
  {
   "name": "Crazy 8",
@@ -15783,7 +16457,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fight to drag a figure-eight ring to your side of the arena twice"
  },
  {
   "name": "Basket Case",
@@ -15807,7 +16482,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Break out of a giant basket, then collect pieces and solve a puzzle"
  },
  {
   "name": "Not So Bright",
@@ -15832,7 +16508,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Memorize which lights are off on a board, then flip the right switches to light it"
  },
  {
   "name": "Yankin' My Chain",
@@ -15855,7 +16532,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag your chained opponent around a circle to ring the bell on the far side"
  },
  {
   "name": "Spanish Torture",
@@ -15877,7 +16555,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shimmy along a tightrope with locked hands and feet to ring the bell first"
  },
  {
   "name": "Head Banger",
@@ -15899,7 +16578,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Blast through walls, then smash glass with oversized balls to retrieve two small ones"
  },
  {
   "name": "Think Outside the Box",
@@ -15923,7 +16603,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fetch puzzle pieces on a bungee so your boxed-in partner can build their way out"
  },
  {
   "name": "Ramp It Up",
@@ -15945,7 +16626,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race up your opponents' ramp for balls and drop them in your tube until you have seven"
  },
  {
   "name": "No Slack",
@@ -15967,7 +16649,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Punch through plaster holes in six walls while tethered to your partner to escape a box"
  },
  {
   "name": "Think Tank",
@@ -15992,7 +16675,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Lower your diver by ladder to memorize an underwater puzzle, then rebuild it onshore"
  },
  {
   "name": "Tread Lightly",
@@ -16016,7 +16700,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Balance a ball between sticks while crossing opposing treadmills to fill your bin"
  },
  {
   "name": "Shake It Off",
@@ -16038,7 +16723,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bounce on a rope from both ends to shake all nine medallions off it"
  },
  {
   "name": "Don't Trip Me Up",
@@ -16062,7 +16748,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dive to untie tiles, then build a house of cards on a floating platform"
  },
  {
   "name": "Milk & Cookies",
@@ -16086,7 +16773,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "One partner balances on a perch while the other eats cookies and sour milk"
  },
  {
   "name": "Drone Ball Drop",
@@ -16110,7 +16798,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Chase down a ball dropped by a drone and carry it to your basket to score"
  },
  {
   "name": "Map It Out",
@@ -16133,7 +16822,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a world-map rock wall placing country flags on the right nations"
  },
  {
   "name": "Ring Tossed",
@@ -16155,7 +16845,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle two of three rings away from the other competitors in your round"
  },
  {
   "name": "Lights Out",
@@ -16187,7 +16878,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Assemble a puzzle in a black box while running to restore the lights when they cut out"
  },
  {
   "name": "Sandbag Burn",
@@ -16210,7 +16902,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag sleds to transfer 40 heavy sandbags across to a teammate"
  },
  {
   "name": "Uphill Battle",
@@ -16233,7 +16926,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a widening ramp with a rung, using teammate support to reach the top"
  },
  {
   "name": "Push & Pole",
@@ -16255,7 +16949,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle an iron pole out of an opponent's hands to score points for the team"
  },
  {
   "name": "Wheel of Death",
@@ -16279,7 +16974,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin on a wheel while directing a blindfolded partner to place puzzle symbols in order"
  },
  {
   "name": "King of the World",
@@ -16302,7 +16998,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to grab the ball with the correct trivia answer and deposit it in a goal"
  },
  {
   "name": "Chair'd Remains",
@@ -16324,7 +17021,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Escape from a chair after being taped to it by an opponent's ally, then ring the bell"
  },
  {
   "name": "Tug O' War",
@@ -16346,7 +17044,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a rope to yank the opponent off their platform first"
  },
  {
   "name": "Walk Tiny",
@@ -16368,7 +17067,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold a 50-foot rope towed by a monster truck longer than anyone else"
  },
  {
   "name": "Firestarter",
@@ -16390,7 +17090,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a rock cart with a lit torch to ignite the opponent's fuse first"
  },
  {
   "name": "Firing Squad",
@@ -16413,7 +17114,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fight for a cannon-launched ball and score it into the bucket"
  },
  {
   "name": "Branched Out",
@@ -16436,7 +17138,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a tree by placing 21 branch pegs in slots and ring the bell at the top"
  },
  {
   "name": "Die for Me",
@@ -16458,7 +17161,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a cage down a path, placing numbered balls into matching landmines to detonate the end"
  },
  {
   "name": "Trapped",
@@ -16482,7 +17186,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Slide into a ball pit, memorize a hidden puzzle key, climb back up and solve the puzzle"
  },
  {
   "name": "Whalloped",
@@ -16505,7 +17210,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race around walls, battle past the opponent in the middle, and ring the bell three times"
  },
  {
   "name": "Running Riot",
@@ -16528,7 +17234,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Retrieve 25 relics and place them in exact order by weight using answer keys"
  },
  {
   "name": "Break Free",
@@ -16551,7 +17258,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing on a rope through drywall to reach and solve a 3D puzzle"
  },
  {
   "name": "Blockbuster",
@@ -16573,7 +17281,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push blocks onto the opponent's side of a structure without falling off"
  },
  {
   "name": "Under the Hammer",
@@ -16595,7 +17304,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sledgehammer 12 nails through concrete to smash the lightbulbs underneath"
  },
  {
   "name": "End of the Rope",
@@ -16617,7 +17327,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a buried rope from a small platform faster than the opponent"
  },
  {
   "name": "Run for Your Life",
@@ -16642,7 +17353,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Haul puzzle pieces two at a time up a mountain and solve the puzzle"
  },
  {
   "name": "Air Strike",
@@ -16664,7 +17376,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hang from a suspended bar and knock the opponent off before falling twice"
  },
  {
   "name": "Flip the Switch",
@@ -16686,7 +17399,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Flip ten barrels over a rail onto the opponent's side, then hit the switch"
  },
  {
   "name": "Take Shelter",
@@ -16716,7 +17430,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Barricade a bunker for 20 minutes, then break into the opponent's bunker first"
  },
  {
   "name": "Code Breaker",
@@ -16738,7 +17453,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash pots to find spun symbols, then order five past seasons chronologically"
  },
  {
   "name": "Fire Ball",
@@ -16761,7 +17477,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Score a flaming ball into a basket while the opponent defends the goal"
  },
  {
   "name": "Dust to Dust",
@@ -16783,7 +17500,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash bricks through a grate and wheelbarrow the debris to a target height"
  },
  {
   "name": "Charge the Wall",
@@ -16806,7 +17524,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Punch through a giant climbing wall to find three hidden batteries and power a light"
  },
  {
   "name": "Launch Button",
@@ -16828,7 +17547,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing while harnessed to a container to press twenty buttons and light all lights"
  },
  {
   "name": "Off with Your Heads",
@@ -16850,7 +17570,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Snatch five red skulls off the opponent's jumpsuit and place them on pedestals"
  },
  {
   "name": "Knots of War",
@@ -16873,7 +17594,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Knot a rope through a car for 15 minutes, then untie the opponent's knots first"
  },
  {
   "name": "Knock Out",
@@ -16895,7 +17617,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race the opponent to ring a hanging bell in the middle of the ring twice"
  },
  {
   "name": "Fire Escape",
@@ -16918,7 +17641,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shimmy along a beam suspended by wrists and feet, down the rail and back, fastest"
  },
  {
   "name": "Ring of Spies",
@@ -16942,7 +17666,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a ring away from the opponent and place it on a post to score twice"
  },
  {
   "name": "Snapping Point",
@@ -16965,7 +17690,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race around posts while roped to the opponent to press a button first"
  },
  {
   "name": "Asset Destruction",
@@ -16990,7 +17716,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a crate of heavy bombs, then hurl them to break 13 wall targets"
  },
  {
   "name": "Dead Ringer",
@@ -17013,7 +17740,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing between poles to place six rings, one on each pole"
  },
  {
   "name": "Back Me Up",
@@ -17036,7 +17764,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Drag or push opponents down a ramp while strapped back-to-back to them"
  },
  {
   "name": "Flipping Agents",
@@ -17059,7 +17788,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Flip a caged partner to magnet-collect 12 puzzle pieces, then solve a world map puzzle"
  },
  {
   "name": "Slipping Up",
@@ -17082,7 +17812,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Attach poles to a frame to build a ladder, climb it, and ring the bell"
  },
  {
   "name": "Down to the Wire",
@@ -17105,7 +17836,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Maneuver a handcuffed pole through an obstacle course to collect a key and return"
  },
  {
   "name": "Higher Assets",
@@ -17128,7 +17860,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a 20-foot rope to memorize an answer key and replicate it with tiles below"
  },
  {
   "name": "Rage Cage",
@@ -17152,7 +17885,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Charge past the opponent down a caged hallway and climb to ring the bell twice"
  },
  {
   "name": "Race to Escape",
@@ -17174,7 +17908,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a pole tied back-to-back with a partner, cut free with a blade, and zipline down"
  },
  {
   "name": "Hang in the Balance",
@@ -17198,7 +17933,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry puzzle pieces across an angled balance beam together and assemble a vertical puzzle"
  },
  {
   "name": "Seek and Destroy",
@@ -17222,7 +17958,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dig up nine buried colored tires and order them to match a light pattern"
  },
  {
   "name": "Vault Escape",
@@ -17244,7 +17981,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull eight locks from a 20-foot vault while climbing, then jump off to ring the bell"
  },
  {
   "name": "Burning Bridges",
@@ -17267,7 +18005,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Jump to ring a bell, grab planks, and build a 16-plank bridge one jump at a time"
  },
  {
   "name": "License to Chill",
@@ -17291,7 +18030,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swim an icy pool to ring a bell, then solve a puzzle between forced re-dips"
  },
  {
   "name": "Rocket Run",
@@ -17314,7 +18054,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sprint across the Lair, hurdle a rocket, and pull a lever within a shrinking time limit"
  },
  {
   "name": "Drone Drop",
@@ -17336,7 +18077,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to grab a drone-dropped ball and place it on a podium twice"
  },
  {
   "name": "Triple Threat",
@@ -17359,7 +18101,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to solve three puzzles before the opponent"
  },
  {
   "name": "You Move I Move",
@@ -17390,7 +18133,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tilt a giant table maze from platforms to roll five balls out"
  },
  {
   "name": "Memory Lane",
@@ -17412,7 +18156,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Flip pairs of covered tiles to match symbols and uncover all 24"
  },
  {
   "name": "Double Decker",
@@ -17434,7 +18179,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a sliding bar past the opponent in a two-level hallway brawl"
  },
  {
   "name": "Flipping Wasted",
@@ -17457,7 +18203,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull a partner strapped to a board up from a mud pit so they can solve a puzzle"
  },
  {
   "name": "Give Me Some Slack",
@@ -17480,7 +18227,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Describe a climbing wall design to a partner who recreates it while sharing one rope"
  },
  {
   "name": "In Your Face",
@@ -17511,7 +18259,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Move blocks to release balls, then throw at 10 targets while the opponent defends"
  },
  {
   "name": "Deep Web",
@@ -17533,7 +18282,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Descend a 25-foot tower through webs to retrieve eight pieces and solve a puzzle on top"
  },
  {
   "name": "Breaking Barriers",
@@ -17555,7 +18305,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash through a hallway of doors with tools to reach the middle button first"
  },
  {
   "name": "Pato Brawl",
@@ -17594,7 +18345,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a Pato ball out of the opponent's hands to win heats"
  },
  {
   "name": "Spearheaded",
@@ -17616,7 +18368,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Untangle chains and pull eight spears from the walls of a cage"
  },
  {
   "name": "I Can See",
@@ -17638,7 +18391,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hoist a board and unscramble six words, then press a button to verify"
  },
  {
   "name": "Rumble Tumble",
@@ -17660,7 +18414,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull against a back-strapped opponent to knock down three posts first"
  },
  {
   "name": "Fall Out",
@@ -17680,7 +18435,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Remove floor tiles in a suspended cube, grab a hammer, and smash through the glass bottom"
  },
  {
   "name": "Might Light",
@@ -17702,7 +18458,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Collect illuminated cylinders and slot them into a wall to line up rows of three"
  },
  {
   "name": "Dirty Deeds",
@@ -17725,7 +18482,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dig items from a dirt pile and deposit them in a basket while fighting off the opponent"
  },
  {
   "name": "How I Roll",
@@ -17748,7 +18506,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Rotate a track to roll nine balls into nine baskets"
  },
  {
   "name": "King of the Hills",
@@ -17770,7 +18529,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race up ramps to press the button under randomly illuminating lights for points"
  },
  {
   "name": "Loaded Barrel",
@@ -17793,7 +18553,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll inside a barrel to collect five bags of puzzle pieces, then solve the puzzle"
  },
  {
   "name": "Totally Mental",
@@ -17815,7 +18576,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Count the items in ten crates and arrange the crates in numerical order"
  },
  {
   "name": "Pole in the Storm",
@@ -17837,7 +18599,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a pole out of the opponent's hands two out of three times"
  },
  {
   "name": "Going Under",
@@ -17861,7 +18624,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dive in a tank to retrieve pieces and replicate a puzzle key underwater"
  },
  {
   "name": "Fire Walker",
@@ -17884,7 +18648,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Rotate a hexagonal platform to align six bowls with a flamethrower and light them all"
  },
  {
   "name": "What's Going Down",
@@ -17904,7 +18669,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Slide planks to descend a tower, then drop ten numbered balls down a chute in order"
  },
  {
   "name": "Mind Grind",
@@ -17926,7 +18692,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a 250-pound wheel around a circle, then solve a math equation with number tiles"
  },
  {
   "name": "Conquest Elimination",
@@ -17950,7 +18717,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race through three obstacle-and-puzzle stations to collect flags and return"
  },
  {
   "name": "Control Elimination",
@@ -17973,7 +18741,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Collect bags of blocks and stack them on a wobbly table balanced with one leg"
  },
  {
   "name": "Chaos Elimination",
@@ -17996,7 +18765,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fit six blocks inside a square box to solve the puzzle first"
  },
  {
   "name": "One Step at a Time",
@@ -18018,7 +18788,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Uncover directions across the Arena and order colored tiles across boxes accordingly"
  },
  {
   "name": "Pick It Up",
@@ -18041,7 +18812,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw a ball onto a track, grab jacks, and catch the ball before it drops, forty times"
  },
  {
   "name": "Getting Hammered",
@@ -18064,7 +18836,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull one hundred nails from one board and hammer them into another, then hit the button"
  },
  {
   "name": "To the Point",
@@ -18087,7 +18860,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw balls at the opponent's spiked wall and land more on the spikes"
  },
  {
   "name": "Boxster-phobia",
@@ -18110,7 +18884,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crawl through a box of doors memorizing numbers, then solve the equation to unlock a button"
  },
  {
   "name": "Fate of the Gladiators",
@@ -18134,7 +18909,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Punch targets on a dodging opponent while blindfolded, fastest hits win"
  },
  {
   "name": "Cable Connection Showdown",
@@ -18156,7 +18932,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Untangle cables and plug them into a motherboard to light up a season-logo sign"
  },
  {
   "name": "Killer Quads",
@@ -18178,7 +18955,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Chase the opponent around a track on small ATVs to grab the flag off their bike"
  },
  {
   "name": "Forty-fication",
@@ -18200,7 +18978,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Solve equations to unlock chains, then place freed boxes on designated spots"
  },
  {
   "name": "Cramping Out",
@@ -18224,7 +19003,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Squeeze through a tube crowded with poles, adding more each round until one player can't fit"
  },
  {
   "name": "Stranded",
@@ -18248,7 +19028,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a DNA-shaped structure with 40 rods, grab letters, and solve a word puzzle"
  },
  {
   "name": "Coming from Behind",
@@ -18272,7 +19053,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to ring a bell down one track while a defender on a parallel track blocks the way"
  },
  {
   "name": "Iron Triangle",
@@ -18295,7 +19077,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Grab the ball inside a triangular cage and throw it out to land within the circle"
  },
  {
   "name": "Closing Time",
@@ -18318,7 +19101,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Crank a gate open, haul cinderblocks through, and build a two-sided puzzle stack"
  },
  {
   "name": "The Final Elimination",
@@ -18342,7 +19126,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tread water in the open ocean for hours with escalating arm restrictions"
  },
  {
   "name": "Inertia",
@@ -18362,7 +19147,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a giant wheel down a three-hump track and back as fast as possible"
  },
  {
   "name": "Laser Focus",
@@ -18384,7 +19170,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Touch as many laser beams as possible with hands tied while a defender blocks"
  },
  {
   "name": "Hold 'Em Back",
@@ -18406,7 +19193,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing on ropes to place tokens in goals while the opponent pulls the rope back"
  },
  {
   "name": "Him Collider",
@@ -18430,7 +19218,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Run laps around a circular cage carrying a football and score it in the goal twice"
  },
  {
   "name": "Out of Time",
@@ -18454,7 +19243,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Run up a ramp, climb down to hit a button, and slide back for laps over five minutes"
  },
  {
   "name": "Pick It Up Again",
@@ -18477,7 +19267,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Shoot a basketball, then stack bricks on columns before the ball rolls out of play"
  },
  {
   "name": "Busting Balls",
@@ -18501,7 +19292,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Direct a blindfolded partner aiming a ball launcher to hit 50 targets"
  },
  {
   "name": "Pull It Together",
@@ -18525,7 +19317,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Climb a net for pegs, then a partner uses them to scale a wall and press the button"
  },
  {
   "name": "Bad Dreams",
@@ -18550,7 +19343,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pillow-fight the opponent off a beam over a mud pit"
  },
  {
   "name": "Think Alike",
@@ -18573,7 +19367,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Solve two tangram puzzles while riding a spinning platform"
  },
  {
   "name": "Weight Me Up",
@@ -18600,7 +19395,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Run 35 cannonballs to hoist a partner up a wall for pieces, then solve a magic triangle"
  },
  {
   "name": "Loose Ends",
@@ -18620,7 +19416,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Untangle three giant wires from a wheel and plug them into outlets across the Arena"
  },
  {
   "name": "Balls In 2.0",
@@ -18642,7 +19439,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Rush past a defender to score a ball into the goal in alternating rounds"
  },
  {
   "name": "Pull No Punches",
@@ -18664,7 +19462,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Punch through a 30-foot drywall tower and climb up to ring the bell"
  },
  {
   "name": "Blindsided",
@@ -18687,7 +19486,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Break a wooden stick on the opponent while blindfolded, guided by a partner's voice"
  },
  {
   "name": "Basket Brawl",
@@ -18709,7 +19509,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fight to score a medicine ball into an elevated barrel while fending off the opponent"
  },
  {
   "name": "Ice Bath",
@@ -18732,7 +19533,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Soak arms in ice water, then unlock and solve a slide puzzle between freezing dips"
  },
  {
   "name": "Going the Distance",
@@ -18755,7 +19557,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Untangle two hundred feet of heavy rope from a low structure"
  },
  {
   "name": "Target Practice",
@@ -18779,7 +19582,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw balls into a goal from a rotating platform without falling off"
  },
  {
   "name": "Ground Control",
@@ -18801,7 +19605,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull down a line of pegs toward a button while dragging the tethered opponent away from theirs"
  },
  {
   "name": "Lasso Me",
@@ -18824,7 +19629,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Toss a hoop to ring it around the opponent's body, best of rounds"
  },
  {
   "name": "Tic Tac Hole",
@@ -18846,7 +19652,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Sink mini-golf putts to earn Connect 4 pieces and line up four in a row"
  },
  {
   "name": "Cage Match",
@@ -18868,7 +19675,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle the rope from the center of a cage and drag it outside first"
  },
  {
   "name": "Screw Off",
@@ -18890,7 +19698,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bash a metal plate with a baseball bat to unscrew a giant screw"
  },
  {
   "name": "Rock & Roll",
@@ -18912,7 +19721,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a large handled box to your side of the platform twice"
  },
  {
   "name": "Throwing Shade",
@@ -18935,7 +19745,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Smash boxes and hurl the objects inside at targets of the opponent's face"
  },
  {
   "name": "Popping Tags",
@@ -18957,7 +19768,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle the opponent to rip three clothing tags off them while guarding your own"
  },
  {
   "name": "Free Your Mind",
@@ -18980,7 +19792,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wriggle a pipe-covered bodysuit free from an intersecting cage"
  },
  {
   "name": "Flip Cup",
@@ -19003,7 +19816,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Flip cups face down, then flip a giant cup with a partner inside across the course"
  },
  {
   "name": "Icy Hot",
@@ -19025,7 +19839,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Jump to hit buttons a thousand times, break jerseys from ice, then jump a thousand more"
  },
  {
   "name": "Going Out of Tile",
@@ -19048,7 +19863,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Eat two Carolina reaper peppers, then punch out all your colored tiles and race back"
  },
  {
   "name": "Wall Ball",
@@ -19071,7 +19887,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw a ball over each of four walls, then punch through them one by one"
  },
  {
   "name": "Over and Under",
@@ -19094,7 +19911,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw a ball over walls while a partner punches through, depositing five balls"
  },
  {
   "name": "Pull Me Over",
@@ -19116,7 +19934,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tug and wiggle a shared rope to yank the opponent off their stump twice"
  },
  {
   "name": "Ring Cling",
@@ -19139,7 +19958,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Free ten chained rings from a pole, peg them into a wall ladder, and climb to the bell"
  },
  {
   "name": "Fireball",
@@ -19161,7 +19981,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry flaming balls across the Arena to line up three in a row on a tic-tac-toe board"
  },
  {
   "name": "Weight, There's More",
@@ -19184,7 +20005,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Haul 1,000 pounds of sandbags across the Arena, then solve a skull-sorting slide puzzle"
  },
  {
   "name": "Switchback",
@@ -19207,7 +20029,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Race to flip off the opponent's three skull lights while keeping your own switched on"
  },
  {
   "name": "Like Clockwork",
@@ -19230,7 +20053,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Identify the working gear combination through glass and direct a partner to build it"
  },
  {
   "name": "Crawl Brawl",
@@ -19253,7 +20077,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry bags through a tunnel, then drag them to the bell and ring it"
  },
  {
   "name": "Weight Up",
@@ -19277,7 +20102,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw sandbags into a crate to raise a wall, then hammer through cement and ring the bell"
  },
  {
   "name": "Steamroller",
@@ -19299,7 +20125,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a steel barrel against the opponent to your end of the platform"
  },
  {
   "name": "Star Struck",
@@ -19322,7 +20149,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Free a pole from a vertical star maze, then use it to score a ball through a hole"
  },
  {
   "name": "Pull Your Own Weight",
@@ -19345,7 +20173,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hoist a weighted bag up a tower to knock down puzzle pieces, then solve the puzzle"
  },
  {
   "name": "Light My Fire",
@@ -19367,7 +20196,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a metal pole from the opponent, then set it on fire to win"
  },
  {
   "name": "Mid-Final Elimination",
@@ -19389,7 +20219,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Fill out a crossword of ten countries from past final locations on a map"
  },
  {
   "name": "Catch a Falling Star",
@@ -19411,7 +20242,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Search a huge ball pit for 12 starred balls and deposit them one at a time"
  },
  {
   "name": "Cheat Codes",
@@ -19433,7 +20265,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Replicate on-screen cheat codes by pressing buttons on a giant video game controller"
  },
  {
   "name": "Down the Tube",
@@ -19455,7 +20288,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Push a large ball out the opponent's end of a tube twice"
  },
  {
   "name": "Star Slice",
@@ -19478,7 +20312,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Throw ninja stars to hit targets of the opponent's face three times"
  },
  {
   "name": "Mission Improbable",
@@ -19500,7 +20335,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Maneuver five balls into a maze's center holes while suspended by hands and knees"
  },
  {
   "name": "Rope Rumble",
@@ -19523,7 +20359,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Muscle a long heavy rope entirely onto the opponent's half of the Arena"
  },
  {
   "name": "Ladies and the Tramp",
@@ -19546,7 +20383,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bounce on a trampoline to memorize an answer key over a wall, then recreate it with tiles"
  },
  {
   "name": "Shish Kestack",
@@ -19569,7 +20407,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Dive for colored puzzle pieces and stack them on poles from lightest to darkest"
  },
  {
   "name": "Pile It On",
@@ -19593,7 +20432,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Solve a puzzle before a spool unravels, then hold the pile aloft for five straight minutes"
  },
  {
   "name": "Downpour",
@@ -19615,7 +20455,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hose water into a tank while the opposing defender blocks the stream with a shield"
  },
  {
   "name": "Over a Barrel",
@@ -19638,7 +20479,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll barrels across on ropes without ground contact, then solve magic triangle puzzles"
  },
  {
   "name": "Stack Attack",
@@ -19661,7 +20503,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Balance atop a giant tin top while stacking seven stars in its center"
  },
  {
   "name": "Scratch Off",
@@ -19684,7 +20527,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Scratch paint off a board with a coin to reveal an image, then replicate it in a puzzle"
  },
  {
   "name": "Hold Up",
@@ -19707,7 +20551,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Assemble a puzzle on a platform held aloft by a partner pulling a lever"
  },
  {
   "name": "Pin Pop",
@@ -19729,7 +20574,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Lower a giant pin on ropes with a partner to pop seven balloons through a hole"
  },
  {
   "name": "Star Bluff",
@@ -19752,7 +20598,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Bluff about a boxed star over five rounds, then move yoga balls with giant chopsticks"
  },
  {
   "name": "Knowledge is Powered",
@@ -19775,7 +20622,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pedal bikes to light six lamps while memorizing and replicating flashed symbols"
  },
  {
   "name": "Plug and Pay",
@@ -19797,7 +20645,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pass 14 submerged blocks from a draining water tank to a partner who stacks a tower"
  },
  {
   "name": "Smash In Puzzle Out",
@@ -19820,7 +20669,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Break glass panes down a tunnel to reach puzzle pieces and solve the puzzle"
  },
  {
   "name": "A Dark Turn",
@@ -19851,7 +20701,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Feel a stack of puzzle pieces in a dark container and replicate the order outside"
  },
  {
   "name": "Spelling Eeb",
@@ -19882,7 +20733,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spell words backwards to shrink the opponent's tire stack, then restack 60 tires"
  },
  {
   "name": "Ball & Chain",
@@ -19921,7 +20773,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Answer six trivia questions by hanging chained medicine balls under the right panels"
  },
  {
   "name": "In a Roll",
@@ -19951,7 +20804,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin inside a giant steel wheel to reel in a ball on a 100-metre rope, twice"
  },
  {
   "name": "Enredo Piramidal",
@@ -19974,7 +20828,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Knot a rope all over a pyramid, then untangle the opponents' knots first"
  },
  {
   "name": "Hacete la Rata",
@@ -19996,7 +20851,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin inside a giant steel wheel to reel in a ball on a 100-metre rope, twice"
  },
  {
   "name": "Me Muevo Te Muevas",
@@ -20019,7 +20875,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Tilt a giant table maze from platforms to roll five balls out"
  },
  {
   "name": "En Tu Cara",
@@ -20042,7 +20899,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Move blocks to release balls, then throw at 10 targets while the opponent defends"
  },
  {
   "name": "Rotas Cadenas",
@@ -20065,7 +20923,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Answer six trivia questions by hanging chained medicine balls under the right panels"
  },
  {
   "name": "Tire y Empuje",
@@ -20087,7 +20946,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Pull against a back-strapped opponent to knock down three posts first"
  },
  {
   "name": "Tether Brawl",
@@ -20110,7 +20970,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing a strapped partner to grab eight hanging puzzle pieces, then stack the puzzle"
  },
  {
   "name": "Oiled Up",
@@ -20133,7 +20994,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Haul buckets of oil up a ramp to raise a ball to the line in a tube"
  },
  {
   "name": "Herculean Strength",
@@ -20156,7 +21018,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Hold 120 pounds while a partner solves math to pile more weight on the opponent's bar"
  },
  {
   "name": "Lock, Stack & Barrel",
@@ -20178,7 +21041,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Arrange symbol-topped barrels to match an answer key, then race to the button"
  },
  {
   "name": "Spin Me Round",
@@ -20200,7 +21064,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin a strapped partner to glimpse an answer key over a wall and recreate the pattern"
  },
  {
   "name": "Hands Off",
@@ -20225,7 +21090,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Carry puzzle pieces with giant chopsticks over stairs and a beam, then solve the puzzle"
  },
  {
   "name": "Breakthrough",
@@ -20248,7 +21114,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing through brick walls, rebuild them, solve an equation, and finish a second puzzle"
  },
  {
   "name": "Slam Dunked",
@@ -20268,7 +21135,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Get dunked into a water tank 15 times while splashing 1500 balls out"
  },
  {
   "name": "Drop the Ball",
@@ -20290,7 +21158,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Catch balls falling from a pinball machine and score them past a blocking opponent"
  },
  {
   "name": "Fire & Ice",
@@ -20313,7 +21182,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Stand on melting ice holding fish guts aloft while throwing beanbags to heat the rival's block"
  },
  {
   "name": "Evil Eye",
@@ -20335,7 +21205,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Wrestle a giant eye disk from the opponent and carry it out of bounds twice"
  },
  {
   "name": "Block Heads",
@@ -20357,7 +21228,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Roll a locked cage to collect four flags, then crack the code to escape and hit the button"
  },
  {
   "name": "Crank Shafted",
@@ -20382,7 +21254,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Balance on a wheel while the opponent attaches steering wheels to spin it faster"
  },
  {
   "name": "Top Heavy",
@@ -20406,7 +21279,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Swing on a harnessed beam to collect balls and sink ten baskets across the Arena"
  },
  {
   "name": "Too Cool For Spool",
@@ -20428,7 +21302,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Collect balls while tethered to a spinning spool and build a five-layer pyramid on top"
  },
  {
   "name": "Trick, Trick, Boom",
@@ -20451,7 +21326,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Line up barrels and bounce a trick-shot ball off each panel into the final barrel"
  },
  {
   "name": "Ripped Off",
@@ -20473,7 +21349,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Chase the opponent around a tower while harnessed and rip patches off their jumpsuit"
  },
  {
   "name": "Barrel Tag",
@@ -20495,7 +21372,8 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Play tag using two barrels to cross the Arena without touching the ground"
  },
  {
   "name": "Hot Wheel",
@@ -20518,6 +21396,7 @@ const TC_CHALLENGES = [
     "winners": []
    }
   ],
-  "url": "https://thechallenge.fandom.com/wiki/Eliminations"
+  "url": "https://thechallenge.fandom.com/wiki/Eliminations",
+  "blurb": "Spin steering wheels to steer a shared torch and light six assigned targets first"
  }
 ];

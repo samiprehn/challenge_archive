@@ -487,7 +487,7 @@ function cardHTML({ c, va, formats, kinds, debut, latest }, i) {
     <div class="card-body">
       <h3>${esc(displayName(c.name))}</h3>
       <div class="badges">${badges}</div>
-      <div class="desc">${esc((c.description || c.rules || "").split(/(?<=[.!?])\s/)[0])}</div>
+      <div class="desc">${esc(c.blurb || (c.description || c.rules || "").split(/(?<=[.!?])\s/)[0])}</div>
       <div class="meta"><span>${where}</span><span>run <b>${va.length}×</b></span></div>
     </div>
   </button>`;

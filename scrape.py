@@ -294,6 +294,17 @@ def resolve_images(filenames):
     return urls
 
 
+def apply_blurbs(challenges):
+    """One-sentence card blurbs, generated once and kept in blurbs.json."""
+    try:
+        with open("blurbs.json") as f:
+            blurbs = json.load(f)
+    except FileNotFoundError:
+        blurbs = {}
+    for c in challenges:
+        c["blurb"] = blurbs.get(c["name"], "")
+
+
 def main():
     titles = list_challenge_pages()
     print(f"{len(titles)} challenge pages in category")
@@ -332,6 +343,8 @@ def main():
     urls = resolve_images(image_files)
     for c in challenges:
         c["image"] = urls.get(norm_file(c.pop("imageFile")), "")
+
+    apply_blurbs(challenges)
 
     with open(OUT, "w") as f:
         f.write("const CHALLENGES = ")

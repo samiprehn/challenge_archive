@@ -13,7 +13,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from scrape import strip_markup, element_tags, extract_section, norm_file, clean_description
+from scrape import strip_markup, element_tags, extract_section, norm_file, clean_description, apply_blurbs
 
 API = "https://thechallenge.fandom.com/api.php"
 WIKI = "https://thechallenge.fandom.com/wiki/"
@@ -383,6 +383,7 @@ def main():
 
     for c in challenges:
         c["elements"] = element_tags(c["description"], stageable_check=True)
+    apply_blurbs(challenges)
 
     # images: episode still of earliest airing if one exists, else that season's key art
     stills = episode_stills()
