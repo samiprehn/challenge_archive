@@ -577,7 +577,8 @@ async function addToChallengeDay(c) {
       id: Date.now() + "-" + Math.floor(Math.random() * 1e6),
       name: displayName(c.name),
       type: $("#cdType").value,
-      note: (g => g.length ? "gear: " + g.join(", ") : "from the archive")(detectGear(c.rules || c.description)),
+      note: "from the archive",
+      gear: detectGear(c.rules || c.description).join(", "),
       rules: c.rules || c.description || "",
       done: false,
     };
