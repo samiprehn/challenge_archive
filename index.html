@@ -597,6 +597,16 @@ async function addToChallengeDay(c) {
 }
 
 render();
+
+/* deep link: ?q=Name searches, and opens the challenge on an exact match */
+const linkedQ = new URLSearchParams(location.search).get("q");
+if (linkedQ) {
+  $("#search").value = linkedQ;
+  state.q = linkedQ.trim().toLowerCase();
+  render();
+  const exact = DATA.find(c => displayName(c.name).toLowerCase() === state.q);
+  if (exact) openModal(exact._i);
+}
 </script>
 </body>
 </html>
