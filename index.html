@@ -562,13 +562,20 @@ async function addToChallengeDay(c) {
     const headers = { "Content-Type": "application/json", "X-Token": cdToken() };
     const st = await fetch(CD_WORKER + "/state", { headers }).then(r => r.json());
     if (st.error) throw new Error(st.error);
-    (st.schedule = st.schedule || []).push({
+    const sched = (st.schedule = st.schedule || []);
+    const item = {
       id: Date.now() + "-" + Math.floor(Math.random() * 1e6),
       name: displayName(c.name),
       type: $("#cdType").value,
       note: "from the archive",
+      rules: c.rules || c.description || "",
       done: false,
-    });
+    };
+    const last = sched[sched.length - 1];
+    if (item.type !== "final" && last && last.type === "final" && !last.done)
+      sched.splice(sched.length - 1, 0, item); // keep the final last
+    else
+      sched.push(item);
     const r = await fetch(CD_WORKER + "/update", { method: "POST", headers, body: JSON.stringify({ state: st }) })
       .then(r => r.json());
     if (r.error) throw new Error(r.error);
